@@ -7,10 +7,16 @@
 
 
 ## Instructors
-
+Toni Gabaldon
+Jordi Paps Montserrat
+Guy Leonard
+Scott Handley
 
 # Organisers
-
+Toni Gabaldon
+Jordi Paps Montserrat
+Guy Leonard
+Scott Handley
 
 ## Organizing committee
 
