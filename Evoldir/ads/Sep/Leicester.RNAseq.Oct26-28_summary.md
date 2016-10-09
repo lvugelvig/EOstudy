@@ -7,10 +7,15 @@
 
 
 ## Instructors
-
+Richard Badge 
+Chiara Batini 
+Matthew Blades 
+Benjamin Hunt 
 
 # Organisers
-
+Chiara Batini 
+Matthew Blades 
+Benjamin Hunt 
 
 ## Organizing committee
 
