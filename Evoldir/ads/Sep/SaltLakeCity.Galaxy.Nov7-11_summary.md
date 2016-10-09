@@ -7,10 +7,12 @@
 
 
 ## Instructors
-
+Nate Coraor
+Martin Čech
+Simon Gladman
 
 # Organisers
-
+Dave Clements
 
 ## Organizing committee
 
