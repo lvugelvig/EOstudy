@@ -1,0 +1,41 @@
+Dear Colleagues,
+
+International Plant and Animal Genome XXV (PAGXXV)
+January 14-18, 2017. San Diego, California, United States.
+http://intlpag.org/
+
+PAGXXV will bring together more than 3,000 leading researchers in plant and
+animal research, over 130 exhibits, more than 150 workshops, over 1000
+posters, and a computer demo track specifically designed to highlight
+relevant software and online resources. PAG is the largest Ag-Genomics
+meeting in the world.
+
+If you work on digital resources that enable life sciences research, please
+consider submitting an abstract to the PAG Computer Demonstration Track.
+Computer demos are 15 or 20 minutes long, and are an excellent way to get
+resources in front of the people who will benefit the most from them.
+
+The Computer Demo abstract submission deadline is Friday October 28, 2016.
+
+All computer demo presenters must be registered for the conference prior to
+submitting.  Any software which is demonstrated at the PAG Conference must
+also be available to the scientific community and non-commercial.
+
+Visit http://www.intlpag.org/2017/abstracts/computer-demos for additional
+information and follow the link to the submission form.
+
+We hope to see you in San Diego!
+
+Monica Munoz-Torres and Brian Smith-White
+PAGXXV Computer Demo Track Co-Chairs
+
+--
+Mentorship Matters!
+--
+Monica Munoz-Torres, PhD.
+Berkeley Bioinformatics Open-source Projects (BBOP)
+Environmental Genomics and Systems Biology Division
+Lawrence Berkeley National Laboratory
+
+"mcmunozt@lbl.gov" <mcmunozt@lbl.gov>
+

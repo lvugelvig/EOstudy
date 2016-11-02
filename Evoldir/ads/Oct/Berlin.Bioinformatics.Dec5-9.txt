@@ -1,0 +1,136 @@
+Dear all,
+
+We would like to inform you that there are still few places left
+(first-arrived, first-served) on our "Introduction to Python for
+biologists" workshop, from 5^th to 9^th December 2016, in Berlin:
+http://www.physalia-courses.org/courses/course2/. This course, taught
+by Dr Martin Jones, founder of Python for Biologists, is aimed at all
+researchers and technical workers with a background in biology who want
+to learn programming. The syllabus has been planned with complete
+beginners in mind!
+
+INTRODUCTION TO PYTHON FOR BIOLOGISTS
+
+WHEN: 5-9 December,
+
+WHERE: BERLIN
+
+INSTRUCTOR: Dr Martin Jones, founder Python for biologists
+
+COURSE FEE: 555 euros (VAT included) including course materials and
+refreshments. All-inclusive packages are also available at 795 euros
+(VAT included), including course, refreshments, breakfast, lunch,
+dinner, accommodation and transfer from and to the airports.
+
+ORGANISER: Physalia-courses
+(http://www.physalia-courses.org/courses/course2/)
+
+MORE INFO: http://www.physalia-courses.org/courses/course2/
+
+REGISTRATION DEADLINE: November 21^st , 2016.
+
+COVERED TOPICS:
+
+Introduction Output and text manipulation
+
+File IO and user interfaces
+
+Flow control 1 : loops
+
+Flow control 2 : conditionals
+
+Organizing and structuring code
+
+Regular expressions
+
+Dictionaries
+
+Interaction with the filesystem
+
+-----
+
+We have also 2 places left, with an all-inclusive option (first-come,
+first-served), for the course on "Introduction to Linux and workflows
+for biologists", November 14-18, 2016, in Berlin:
+http://www.physalia-courses.org/courses/course1/. This course is aimed
+at researchers and technical workers with a background in biology who
+want to learn to use the Linux operating system and the command line
+environment. No previous experience of Linux is required.
+
+INTRODUCTION TO LINUX AND WORKFLOWS FOR BIOLOGISTS
+
+WHEN: 14-18 November,
+
+WHERE: BERLIN
+
+INSTRUCTOR: Dr Martin Jones, founder Python for biologists
+
+COURSE FEE: 555 euros (VAT included) including course materials and
+refreshments. All-inclusive packages are also available at 795 euros
+(VAT included), including course, refreshments, breakfast, lunch,
+dinner, accommodation and transfer from and to the airports.
+
+ORGANISER: Physalia-courses
+(http://www.physalia-courses.org/courses/course1/)
+
+MORE INFO: http://www.physalia-courses.org/courses/course1/
+
+REGISTRATION DEADLINE: October 25^th , 2016.
+
+COVERED TOPICS:
+
+The design of Linux
+
+System management
+
+Manipulating tabular data
+
+Constructing pipelines
+
+EMBOSS
+
+Using a Linux server
+
+Combining methods
+
+Customization
+
+-----
+
+Other relevant courses offered by Physalia-courses
+
+GIS analysis with QGIS. 6-10 February 2017.
+http://www.physalia-courses.org/courses/course5/
+
+Eukaryotic-metabarcoding. 20-24 February 2017.
+http://www.physalia-courses.org/courses/course4/
+
+Scientific Writing: organization and motivation booster. 28-29 March 2017.
+http://www.physalia-courses.org/courses/course7/
+
+16S rRNA gene metabarcoding. 3-7 April 2017.
+http://www.physalia-courses.org/courses/course8/
+
+Should you have any further questions, please do not hesitate to contact us=
+.
+
+Physalia-courses team
+
+--
+
+Carlo Pecoraro, Ph.D
+
+Physalia-courses Coordinator
+
+info@physalia-courses.org
+
+http://www.physalia-courses.org/
+
+Twitter: @physacourses
+
+mobile: +49 15771084054
+
+Skype: carlo_pecoraro
+
+Carlo Pecoraro <info@physalia-courses.org>
+

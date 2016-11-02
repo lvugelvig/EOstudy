@@ -1,0 +1,75 @@
+"Phylogenetic analysis using R" October 31st - November 4th
+
+Delivered by Dr. Emmanuel Paradis
+
+http://prstatistics.com/course/introduction-to-phylogenetic-analysis-with-r-phyg/
+
+This course will run from 31st October - 4th November, Millport Field 
+Station, Ilse of Cumbrae, Scotland.
+
+The main objectives of the course are to teach the theoretical bases of 
+phylogenetic analysis, and to give the ability to initiate a 
+phylogenetic analysis starting from the files of molecular sequences 
+until the interpretation of the results and the graphics. The 
+introduction will cover a brief historical background and an overview of 
+the different methods of phylogenetic inference. Different kinds of data 
+will be considered, but with a special emphasis on DNA sequences. The 
+software used will be based on R and several specialized packages 
+(particularly ape and phangorn). Other software will be used (e.g., 
+MAFFT, MUSCLE or Clustal) called from R. Overall, the course will cover 
+almost all aspects of phylogenetic inference from reading/downloading 
+the data to plotting the results. This course is intended for PhD and 
+postgraduate students, researchers and engineers in evolutionary 
+biology, systematics, population genetics, ecology, conservation.
+
+Course content is as follows
+Day 1
+- Refresher on R: data structures, data manipulation with the indexing 
+system, scripts, using the help system.
+- Introduction to phylogenetic inference.
+- Basics on phylogenetic data (sequences, alignments, trees, networks, 
+"splits") and other data in R.
+- Reading / writing data from files or from internet.
+- Matching data. Manipulating labels. Subsetting data.
+- Main package: ape.
+Day 2
+- Plotting and annotating trees.
+- Theory of sequence alignment. Comparing alignments. Graphical analyses 
+of alignments.
+- Main packages: ape (with MAFFT, MUSCLE and Clustal).
+Day 3
+- Theory and methods of phylogeny reconstruction.
+- Parsimony methods.
+- Evolutionary distances.
+- Distance-based methods: General principles and the main methods (NJ, 
+BIONJ, FastME, MVR).
+- Methods for incomplete distances matrices (NJ*, BIONJ*, MVR*). Methods 
+for combining several matrices (SDM).
+- Main packages: ape, phangorn.
+
+Day 4
+- Theory of maximum likelihood estimation.
+- Application to phylogeny reconstruction.
+- Substitution models.
+- Tree space and topology estimation.
+- Main packages: ape, phangorn.
+
+Day 5
+- Tree comparison, consensus methods.
+- Topological space and distances.
+- Bootstrap.
+- Bayesian methods.
+
+Please email any inquiries to oliverhooker@prstatistics.com or visit our 
+website www.prstatistics.com
+
+Please feel free to distribute this material anywhere you feel is suitable
+
+--
+Emmanuel Paradis
+Institut des Scienced de l'Évolution de Montpellier
+Université de Montpellier
+France
+
+"Emmanuel.Paradis@ird.fr" <Emmanuel.Paradis@ird.fr>
+
