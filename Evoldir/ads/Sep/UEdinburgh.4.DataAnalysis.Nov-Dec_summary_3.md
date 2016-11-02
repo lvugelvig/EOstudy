@@ -8,11 +8,14 @@
 
 ## Instructors
 
+John Davey  
+Judith Risse  
 
 # Organisers
 
 
 ## Organizing committee
 
+Bert Overduin 
 
 ## Scientific committee

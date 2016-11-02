@@ -7,10 +7,14 @@
 
 
 ## Instructors
-
+Simon Ho
+Alexei Drummond
+David Bryant
+Remco Bouckaert
+Tim Vaughan
 
 # Organisers
-
+Alexei Drummond
 
 ## Organizing committee
 
