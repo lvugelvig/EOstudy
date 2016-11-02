@@ -2,6 +2,7 @@
 
 ## Keynote speakers
 
+Robert D Holt
 
 ## Invited speakers
 
@@ -11,6 +12,8 @@
 
 # Organisers
 
+Stuart McDaniel  
+Charlie Baer  
 
 ## Organizing committee
 
