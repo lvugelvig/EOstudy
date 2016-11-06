@@ -7,7 +7,7 @@
 
 
 ## Instructors
-
+Dr. Jeroen Smaers (Stony Brook University, USA).
 
 # Organisers
 
