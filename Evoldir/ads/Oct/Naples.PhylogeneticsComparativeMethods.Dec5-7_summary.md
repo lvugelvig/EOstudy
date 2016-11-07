@@ -7,7 +7,7 @@
 
 
 ## Instructors
-
+Sergio Stefanni
 
 # Organisers
 
