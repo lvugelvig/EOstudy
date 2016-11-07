@@ -7,10 +7,10 @@
 
 
 ## Instructors
-
+Bruce Walsh
 
 # Organisers
-
+Ulrike Utans-Schneitz
 
 ## Organizing committee
 

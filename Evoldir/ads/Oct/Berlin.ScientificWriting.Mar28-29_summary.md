@@ -7,10 +7,10 @@
 
 
 ## Instructors
-
+Dr Andrea Sanchini
 
 # Organisers
-
+Carlo Pecoraro
 
 ## Organizing committee
 

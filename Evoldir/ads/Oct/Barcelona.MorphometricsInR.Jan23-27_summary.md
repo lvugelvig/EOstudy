@@ -7,10 +7,10 @@
 
 
 ## Instructors
-
+Julien Claude
 
 # Organisers
-
+Soledad De Esteban-Trivigno
 
 ## Organizing committee
 

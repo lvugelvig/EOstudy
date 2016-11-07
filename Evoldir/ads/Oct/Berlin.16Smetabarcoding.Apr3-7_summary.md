@@ -7,7 +7,7 @@
 
 
 ## Instructors
-
+Dr. Alexandre Barretto de Menezes
 
 # Organisers
 
