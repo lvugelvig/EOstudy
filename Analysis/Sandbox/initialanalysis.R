@@ -1,10 +1,11 @@
 # Clean the memory
 rm(list=ls())
 
-## ALL DATA
 ## NOTE: THIS IS EXTREMELY COARSE, NEED TO DISTINGUISH BETWEEN TYPES OF EVENTS
+## AND I AM JUST PLAYING WITH THE DATA.
+
 ## Load the data
-odata <- read.csv("AllData_20161104.csv", stringsAsFactors = FALSE)
+odata <- read.csv("AllData_20161108.csv", stringsAsFactors = FALSE)
 dim(odata)
 
 # Select only the ones that we include in the study (removing duplicates etc.)
@@ -86,12 +87,13 @@ tbl <- cbind(aa, rInv = aa$New_Invited_W / aa$New_Invited_nb, #
 
 # Plots
 # Questions
-boxplot(rInv ~ Question.1, data = tbl, main="Q1: Aware?")
+par(las=1)
+boxplot(rInv ~ Question.1, data = tbl, main="Q1: Aware?", ylab="Proportion female speakers")
 text(1:2, rep(0.9, 2), paste("n=", tapply(tbl$Question.1, tbl$Question.1, length), sep="") )
 
-boxplot(rInv ~ Question.2, data = tbl, main="Q2: Took gender into account?")
+boxplot(rInv ~ Question.2, data = tbl, main="Q2: Took gender into account?", ylab="Proportion female speakers")
 text(1:2, rep(0.9, 2), paste("n=", tapply(tbl$Question.2, tbl$Question.2, length), sep="") )
 
-boxplot(rInv ~ Question.3, data = tbl, main="Q3: Prescriptions?")
+boxplot(rInv ~ Question.3, data = tbl, main="Q3: Prescriptions?", ylab="Proportion female speakers")
 text(1:3, rep(0.9, 3), paste("n=", tapply(tbl$Question.3, tbl$Question.3, length), sep="") )
 
