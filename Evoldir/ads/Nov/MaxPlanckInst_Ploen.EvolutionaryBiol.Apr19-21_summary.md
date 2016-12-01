@@ -5,6 +5,8 @@
 
 ## Invited speakers
 
+Kayla King (Oxford University)
+Sylvain Gandon (CEFE Montpellier)
 
 ## Instructors
 
@@ -14,5 +16,7 @@
 
 ## Organizing committee
 
+Tobias Lenz
+Lutz Becks
 
 ## Scientific committee
