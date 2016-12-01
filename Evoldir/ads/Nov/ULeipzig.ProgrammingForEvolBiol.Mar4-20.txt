@@ -1,0 +1,47 @@
+Course on Programming for Evolutionary Biology
+
+When: March 4th - March 20th 2017
+
+Location: Leipzig, Germany
+
+Application deadline: December 31st 2016
+
+Detailed information about the course content and how to apply:
+http://evop.bioinf.uni-leipzig.de/
+
+In this intensive 17 days course, students will learn how to survive in a
+Linux environment, get hands-on experience in two widely used programming
+languages (Python and R), and statistical data analysis. The classes will
+be given by experts in the field and consist of lectures and exercises
+with the computer. The aim of the course is to provide the students with
+the necessary background and skills to perform computational analyses
+with a focus on solving research questions related to genomics and
+evolution. The philosophy of the course will be =93learning by doing=94,
+which means that the computational skills will be taught using examples
+and real data from evolutionary biology for the exercises. During the
+course, students will also propose projects of their own interest and
+perform them as final projects in small groups under the supervision
+of a teaching assistant.  This summer school is open for students
+from all countries and targeted toward PhD students and postdocs of
+evolutionary biology or related research fields with no or little
+programming experience who want to become proficient in computational
+evolutionary biology in a couple of weeks.
+
+The course takes place at the University of Leipzig.
+
+--=20
+Dr. Katja Nowick
+
+Group Leader "TFome and Transcriptome Evolution"
+www.nowick-lab.info
+
+Universit=E4t Leipzig
+H=E4rtelstrasse 16-18
+04107 Leipzig
+Germany
+Phone 1: +49 341 97-16684
+Phone 2: +49 341 97-16653
+Fax: +49 341 97-16679
+
+Katja Nowick <nowick@bioinf.uni-leipzig.de>
+

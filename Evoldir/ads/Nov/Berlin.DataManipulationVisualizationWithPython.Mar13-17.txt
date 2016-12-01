@@ -1,0 +1,171 @@
+Data manipulation and visualization with Python
+
+13-17 March 2017, Berlin (Germany)
+
+http://www.physalia-courses.org/courses/course10/
+
+Instructor: Dr. Martin Jones
+
+http://www.physalia-courses.org/instructors/t1/
+
+Course overview:
+
+One of the strengths of the Python language is the availability of mature,
+high-quality libraries for working with scientific data. Integration
+between the most popular libraries has led to the concept of a "scientific
+Python stack": a collection of packages which are designed to work well
+together. In this workshop we will see how to leverage these libraries
+to efficiently work with and visualize large volumes of data.
+
+Workshop format:
+
+The workshop is delivered over ten half-day sessions. Each session
+consists of roughly a one hour lecture followed by two hours of practical
+exercises, with breaks at the organizer's discretion. Each session uses
+examples and exercises that build on material from the previous one,
+so it's important that students attend all sessions. The last two
+sessions will be kept free for students to work on their own datasets
+with the assistance of the instructor. A description of the sessions
+can be found at the bottom of this page.
+
+Who should attend:
+
+This workshop is aimed at researchers and technical workers with a
+background in biology and a
+
+basic knowledge of Python (if you've taken the Introductory Python course
+then you have the Python knowledge; if you're not sure whether you know
+enough Python to benefit from this course then just drop us an email).
+
+Requirements:
+
+Students should have enough biological/bioinformatics background
+to appreciate the example datasets. They should also have some basic
+Python experience (the Introduction to Python course will fulfill these
+requirements). Students should be familiar with the use of lists, loops,
+functions and conditions in Python and have written at least a few small
+programs from scratch. Students will require the scientific Python stack
+to be installed on their laptops before attending; instructions for this
+will be sent out prior to the course.
+
+Curriculum
+
+Monday 13th - Classes from 09:30 to 17:30
+
+Session 1 - Introduction and datasets
+
+Jupyter (formerly iPython) is a programming environment that is rapidly
+becoming the de facto standard for scientific data analysis. In this
+session we'll learn why Jupyter is so useful, covering its ability to mix
+notes and code, to render inline plots, charts and tables, to use custom
+styles and to create polished web pages. We'll also take a look at the
+datasets that we'll be investigating during the course and discuss the
+different types of data we encounter in bioinformatics work.
+
+Session 2 - Introduction to pandas
+
+In this session we introduce the first part of the scientific Python
+stack: the pandas data manipulation package. We'll learn about Dataframes
+  the core data structure that much of the rest of the course will
+rely on   and how they allow us to quickly select, sort, filter
+and summarize large datasets. We'll also see how to extend existing
+Dataframes by writing functions to create new columns, as well as how
+to deal with common problems like missing or inconsistent values in
+datasets. We'll get our first look at data visualization by using pandas'
+built in plotting ability to investigate basic properties of our datasets.
+
+Tuesday 14th - Classes from 09:30 to 17:30
+
+Session 3- Grouping and pivoting with pandas
+
+This session continues our look at pandas with advanced uses of Dataframes
+that allow us to answer more complicated questions. We'll look two very
+powerful tools: grouping, which allows us to aggregate information in
+datasets, and pivoting/stacking, which allows us to flexibly rearrange
+data (a key step in preparing datasets for visualization). In this
+session we'll also go into more detail about pandas indexing system.
+
+Session 4- Advanced manipulation with pandas
+
+In this final session on the pandas library we'll look at a few common
+types of data manipulation   binning data (very useful for working with
+time series), carrying out principal component analysis, and creating
+networks. We'll also cover some features of pandas designed for working
+with specific types of data like timestamps and ordered categories.
+
+Wednesday 15th - Classes from 09:30 to 17:30
+
+Session 5-Introduction to seaborn
+
+This session introduces the seaborn charting library by showing how we
+can use it to investigate relationships between different variables
+in our datasets. Initially we concentrate on showing distributions
+with histograms, scatter plots and regressions, as well as a few more
+exotic chart types like hexbins and KDE plots. We also cover heatmaps,
+in particular looking at how they lend themselves to displaying the type
+of aggregate data that we can generate with pandas.
+
+Session 6-Categories in seaborn
+
+This session is devoted to seaborn's primary use case: visualizing
+relationships across multiple categories in complex datasets. We see how
+we can use colour and shape to distinguish categories in single plots,
+and how these features work together with the pandas tools we have already
+seen to allow us to very quickly explore a dataset. We continue by using
+seaborn to build small multiple or facet plots, separating categories
+by rows and columns. Finally, we look at chart types that are designed
+to show distributions across categories: box and violin plots, and the
+more exotic swarm and strip plots.
+
+Thursday 16th - Classes from 09:30 to 17:30
+
+Session 7- Customization with seaborn
+
+For the final session on seaborn, we go over some common types of
+customization that can be tricky. To achieve very fine control over the
+style and layout of our plots, we'll learn how to work directly with
+axes and chart objects to implement things like custom heatmap labels,
+log axis scales, and sorted categories.
+
+Session 8- Matplotlib
+
+In the final teaching session, we look at the library that both
+pandas and seaborn rely on for their charting tools: matplotlib. We'll
+see how by using matplotlib directly we can do things that would be
+impossible in pandas or seaborn, such as adding custom annotations to
+our charts. We'll also look at using matplotlib to build completely new,
+custom visualization by combining primitive shapes.
+
+Friday 17th - Classes from 09:30 to 17:30
+
+Sessions 9&10-Data workshop
+
+The two sessions on the final day are set aside for a data
+workshop. Students can practice applying the tools they've learned to
+their own datasets with the help of an instructor, or continue to work
+on exercises from the previous day. There may also be time for some
+demonstrations of topics of particular interest, such as interactive
+visualization tools and animations.
+
+Further information:
+
+ The cost is 580 euros (VAT included) including refreshments and course
+ materials and lunch.
+
+Application deadline is February 24th 2017.
+
+Please feel free to contact us for any further information.
+
+--
+
+Carlo Pecoraro, Ph.D
+Physalia-courses Coordinator
+info@physalia-courses.org
+
+http://www.physalia-courses.org/
+
+Twitter: @physacourses
+
+mobile: +49 15771084054
+Skype: carlo_pecoraro
+

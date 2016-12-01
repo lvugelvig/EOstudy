@@ -1,0 +1,138 @@
+Geometric Morphometrics Using R (GMMR01)
+
+This course is being delivered by Prof. Dean Adams, Prof. Michael 
+Collyer and Dr. Antigoni Kaliontzopoulou
+
+This course will run from 5th - 9th June 2017 at Millport Field centre 
+on the Isle of Cumbre, Scotland. Please note that although the course is 
+held on an island it is extremely accessible and easy to reach using 
+public transport.
+
+The field of geometric morphometrics (GM) is concerned with the 
+quantification and analysis of patterns of shape variation, and its 
+covariation with other variables. Over the past several decades these 
+approaches have become a mainstay in the field of ecology, evolutionary 
+biology, and anthropology, and a panoply of analytical tools for 
+addressing specific biological hypotheses concerning shape have been 
+developed. The goal of this is to provide participants with a working 
+knowledge of the theory of geometric morphometrics, as well as practical 
+training in the application of these methods.
+
+The course is organized in both theoretical and practical sessions. The 
+theoretical sessions will provide a comprehensive introduction to the 
+methods of landmark-based geometric morphometrics, which aims at 
+providing the participants with a solid theoretical background for 
+understanding the procedures used in shape data analysis. Practical 
+sessions will include worked examples, giving the participants the 
+opportunity to gain hands-on experience in the treatment of shape data 
+using the R package geomorph. These sessions focus on the generation of 
+shape variables from primary landmark data, the statistical treatment of 
+shape variation with respect to biological hypotheses, and the 
+visualization of patterns of shape variation and of the shapes 
+themselves for interpretation of statistical findings, using the R 
+language for statistical programming. While practice datasets will be 
+available, it is strongly recommended that participants come with their 
+own datasets.
+
+Note: Because this is a geometric morphometrics workshop in R, it is 
+required that participants have some working knowledge in R. The 
+practical sessions of the course will focus on GM-based analyses, and 
+not basic R user-interfacing. It is therefore strongly recommended that 
+participants refresh their R skills prior to attending the workshop.
+
+Course cost is 520 for students and academic staff and 630 for 
+people working in industry.
+Accommodation package available for 275, includes all meals and 
+refreshments.
+
+Course Programme
+
+Sunday 5th Meet at Millport field centre at approximately 18:30.
+
+Monday 6th - Classes from 09:00 to 18:001:
+1: Morphometrics: History, Introduction and Data Types
+2: Review of matrix algebra and multivariate statistics
+3: Superimposition
+4: Software demonstration and lab practicum
+
+Tuesday 7th - Classes from 09:00 to 18:00
+1: Shape spaces, shape variables, PCA
+2: GPA with semi-landmarks
+3: Shape covariation
+4: Software demonstration and lab practicum
+
+Wednesday 8th - Classes from 09:00 to 18:00
+1: Phylogenetic shape variation
+2: Group Differences & Trajectory Analysis
+3: Allometry
+4: Software demonstration and lab practicum
+
+Thursday 9th - Classes from 09:00 to 18:00
+1: Assymetry
+2: Missing Data
+3: Integration and Modularity
+4: Disparity
+5: Software demonstration and lab practicum
+
+Friday 10th - Classes from 09:00 to 16:00
+1: Future Directions
+2: Lab Pacticum
+3: Student Presentations
+
+Please send inquiries to oliverhooker@prstatistics.co.uk or visit the 
+website www.prstatistics.com
+
+Please feel free to distribute this information anywhere you think 
+suitable
+
+Upcoming courses - email for details oliverhooker@prstatistics.com
+1.	ADVANCING IN STATISTICAL MODELLING USING R (December 2016, April 
+2017, December 2017
+http://www.prstatistics.com/course/advancing-statistical-modelling-using-r-advr05/
+2.	SPATIAL ANALYSIS OF ECOLOGICAL DATA USING R (November 2016, July 
+2017)
+http://www.prstatistics.com/course/spatial-analysis-ecological-data-using-r-spae04/
+3.	STABLE ISOTOPE MIXING MODELS USING SIAR, SIBER AND MIXSIAR USING R 
+(February 2017)
+http://www.prstatistics.com/course/stable-isotope-mixing-models-using-r-simm03/
+4.	GENETIC DATA ANALYSIS USING R (TBC)
+5.	BIOINFORMAITCS FOR GENETICISTS AND BIOLOGISTS (July 2017)
+6.	APPLIED BAYESIAN MODELLING FOR ECOLOGISTS AND EPIDEMIOLOGISTS 
+(November 2017)
+7.	INTRODUCTION TO R AND STATISTICS FOR BIOLOGISTS (April 2017)
+8.	INTRODUCTION TO PYTHON FOR BIOLOGISTS (TBC)
+9.	TIME SERIES MODELS FOR ECOLOGISTS AND CLIMATOLOGISTS (TBC)
+10.	ADVANCES IN MULTIVAIRAITE ANALYSIS OF SPATIAL ECOLOGICAL DATA (April 
+2017)
+11.	ADVANCES IN DNA TAXONOMY (TBC)
+12.	INTRODUCTION TO BIOINFORMATICS USING LINUX (TBC)
+13.	INTRODUCTION TO BAYESIAN HIERARCHICAL MODELLING
+http://www.prstatistics.com/course/introduction-to-bayesian-hierarchical-modelling-using-r-ibhm02/
+14.	LANDSCAPE (POPULATION) GENETIC DATA ANALYSIS USING R (TBC)
+15.	PHYLOGENETIC DATA ANALYSIS USING R (TBC)
+16.	MODEL BASED MULTIVARIATE ANALYSIS OF ECOLOGICAL DATA USING R 
+(January 2017)
+17.	ADVANCED PYTHON FOR BIOLOGISTS (February 2017)
+18.	NETWORK ANAYLSIS FOR ECOLOGISTS USING R (March)
+http://www.prstatistics.com/course/network-analysis-ecologists-ntwa01/
+19.	GEOMETRIC MORPHOMETRICS USING R (June)
+http://www.prstatistics.com/course/geometric-morphometrics-using-r-gmmr01/
+20.	INTRODUCTION TO METHODS FOR REMOTE SENSING (July 2017)
+21.	ECOLOGICAL NICHE MODELLING (TBC)
+22.	ANIMAL MOVEMENT ECOLOGY (TBC)
+
+Oliver Hooker PhD.
+PR statistics
+
+3/1
+128 Brunswick Street
+Glasgow
+G1 1TF
+
++44 (0) 7966500340
+
+www.prstatistics.com
+www.prstatistics.com/organiser/oliver-hooker/
+
+Oliver Hooker <oliverhooker@prstatistics.com>
+

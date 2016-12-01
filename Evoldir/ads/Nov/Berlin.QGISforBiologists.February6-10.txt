@@ -1,0 +1,109 @@
+GIS analysis with QGIS for biologists
+From Monday 6th to Friday 10th February 2017
+in Berlin, Germany
+http://www.physalia-courses.org/courses/course5/
+
+Instructors:
+Dr Paolo Cavallini and Matteo Ghetta
+
+Overview
+QGIS is the most popular and reliable Open Source GIS in the world. QGIS
+is currently used in Universities, Public Facilities and private offices.
+Born in 2002 as a simple layer viewer in the last 5 year more than 200
+developers all over the world contributes to the source code making QGIS
+the standard of the GIS.  The course is intended for biologists with no
+experience of GIS but also for those who want to switch from another GIS
+software to QGIS.  The course will be focused on practical examples so
+that the students will be able to load and process their own data and
+perform both simple and complex spatial analysis.
+
+Course materials (example data, presentations, additional files) will
+be provided to participants.
+
+Intended audience
+Students and researchers with absolutely no GIS experience will learn
+the basic GIS system concepts and will be able to work alone with
+QGIS. However, people with both GIS concept and QGIS experience will
+enjoy the course. Furthermore, the course is useful to all of those
+people who want to migrate from another GIS software (ArcMap, gvSIG,
+GRASS, etc..) to QGIS.
+
+Teaching format
+The course is 5 full-day long. The first day a small presentation of
+GIS concept will be shown. The other days practical examples and guided
+exercises will be provided.
+
+Assumed Background
+Biologists can have absolutely no GIS (or QGIS) experience. GIS experts
+that want refresh some GIS concept or want to discover hidden features
+of QGIS are welcome!
+
+Outline
+Introduction and installation
+
+Introduction to Free and Open Source GISQGIS installation or upgrading
+QGIS overview
+
+The work environmentWork environment configurationProjection
+managementProjectsPlugins management
+
+GIS data
+
+Vector data
+
+Properties, import/export, conversion between formatsVector theming and
+labelsTables of attributes and actions. Turn a table into a geographic
+layer Raster data
+
+Properties and themingCoordinate reference systems management and
+mosaicsGeoreferencing
+
+First data analysis
+
+Creation of animated maps3D visualizationAdanced layouts/printing;
+serial printing (mapbooks) Vector and Raster analysis
+
+Vector analyses
+
+dissolve, merge, overlay, attribute management, etc.Correction of
+topological errors and vector generalization
+
+Raster analysisgeomorphology analyses: digital terrain modules, contour,
+slope, aspect, shaded mapsInterpolationsdistance analysisreclassification
+of rasters, map algebrazonal statisticsexamples: intervisibility,
+multicriteria analyses; priority and risk maps
+
+Other GIS data type
+
+How to use GPS units in QGISVector digitizing. CAD toolsThe geographic
+databases PostGIS and Spatialite and QGISAdd layers from map servers:
+WMS, WFS, WFS-T, CSW, WPS, OpenLayers, Google MapsImporting photos as
+pointsExporting data directly to Google Earth
+
+Further information:
+The cost is 395 euros (VAT included) including refreshments and
+course materials. We also offer an all-inclusive package at 635 euros
+(VAT included), including breakfast, lunch, dinner, refreshments,
+accommodation, course and transfer from/to the main city's airports.
+
+Application deadline is: December 22nd, 2016.
+Please feel free to contact us for any further information.
+
+--
+
+Carlo Pecoraro, Ph.D
+
+Physalia-courses Coordinator
+
+info@physalia-courses.org
+
+http://www.physalia-courses.org/
+
+Twitter: @physacourses
+
+mobile: &#43;49 15771084054
+
+Skype: carlo_pecoraro
+
+Carlo Pecoraro <info@physalia-courses.org>
+

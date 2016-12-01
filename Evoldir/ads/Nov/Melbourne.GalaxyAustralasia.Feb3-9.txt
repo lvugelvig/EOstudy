@@ -1,0 +1,49 @@
+Galaxy Australasian Meeting (GAMe 2017)
+3-9 February 2017
+Melbourne, Victoria, Australia
+http://www.embl-abr.org.au/game2017/
+
+30 Nov: Oral presentation abstracts due
+31 Dec: Early registration ends
+
+The Galaxy Australasia Meeting will bring together biomedical researchers,
+bioinformaticians, infrastructure providers, and data producers from across
+Australia and Asia.
+
+GAMe 2017 spans a week and includes a two day conference, one day of
+training for researchers, and four days of training for Galaxy
+administrators.
+
+The two day conference starts 4th February with a BIO day =96 for Galaxy
+users (biologists and bioinformaticians) =96 followed by an INFO day on 5th
+February, focussing on technical aspects of Galaxy =96 for bioinformatician=
+s,
+tool and software developers, and research infrastructure providers. Both
+days feature keynotes, accepted and sponsored talks, poster and sponsor
+sessions, birds=AD-of-=ADa=AD-feather gatherings, and lots of opportunities=
+ for
+networking. The conference is preceded by a Researcher Training Day on 3
+February for analysis-focussed biologists and biomedical researchers with
+limited experience of Galaxy. A four day intensive Galaxy Admin Training
+session for those installing and maintaining Galaxy servers follows the
+conference.
+
+Early registration ends 31 December. Register now. Space is limited.
+
+About Galaxy:
+Galaxy is an open web based platform for biomedical data integration and
+analysis. It is deployed at large and small organizations around the world
+and used in a broad range of biomedical research domains, and across the
+tree of life.  Galaxy enables life science researchers to perform their own
+data analysis without having to learn command line interfaces or Linux
+package management.  Galaxy transparently records all analysis steps and
+eases workflow reuse and sharing.
+
+--
+http://galaxyproject.org/
+http://getgalaxy.org/
+http://usegalaxy.org/
+https://wiki.galaxyproject.org/
+
+Dave Clements <clements@galaxyproject.org>
+
