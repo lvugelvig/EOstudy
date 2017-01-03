@@ -1,0 +1,38 @@
+Abstract submission is open for our symposium: =93*S3: **Network-based
+approaches in evolutionary biology and medicine*=94 planned for the *Europe=
+an
+Society for Evolutionary Biology meeting in Groningen, Netherlands, 20-25th
+August, 2017. *
+
+http://www.eseb2017.nl/call-for-abstracts/abstract-guidelines-/
+
+*Symposium information*: Network theory, with a long history in mathematics
+and computer science, is starting to play an exciting role in evolutionary
+biology across multiple levels of biological organization, from cellular to
+ecological systems. Relevant and timely examples include: the study of
+diseases as perturbations in complex intracellular networks rather than
+single-gene abnormalities (Barabasi 2011), the spatial and functional
+interactions of microbial communities over time (Baldassano & Bassett,
+2016), epidemic outbreaks in animal networks (Shrestha 2015, Lofgren 2014),
+and dynamic interactions between large-scale neural circuits (Shi Gu, 2015,
+Bassett 2011), to name only a few. This symposium will bring together
+scientists working at the interface of network science and evolutionary
+biology with two primary aims: (1) to highlight the empirical and
+theoretical advances made by applying network topology and dynamics theory
+to biological data and evolutionary questions, and (2) to discuss the
+design of new evolutionary network models and the integration of network
+theory with classic evolutionary models to answer fundamental questions in
+biology. As methodologies evolve, greater scientific interaction at the
+interface of network theory and biological systems will be essential for
+predicting temporal, spatially embedded, multi-scale networked evolutionary
+systems and establishing an integrative approach to evolutionary population
+dynamics and disease.
+
+Organizers: Oana Carja, Nicole Creanza
+
+Invited speakers: Danielle Bassett, Laura Hindersin
+
+Please contact Oana Carja (ocarja@sas.upenn.edu) with further questions.
+
+oana.carja@gmail.com
+

@@ -1,0 +1,147 @@
+'Bioinformatics for geneticists and biologists (BIGB02)
+
+Delivered by Dr. Nic Blouin and Dr Ian Misner
+
+http://www.prstatistics.com/course/bioinformatics-for-geneticists-and-biologists-bigb02/
+
+This course will run from 3rd - 7th July 2017 at SCENE Field Station, 
+Loch Lomond, Glasgow
+
+OVERVIEW
+The handling of large datasets has become intractable without some level 
+of bioinformatic literacy. Many biologists find that there is a steep 
+learning curve to develop the confidence required to explore their 
+genomics datasets effectively. This bioinformatics short course includes 
+a rich collection of hands-on instruction and lectures specifically 
+intended to help novice users become comfortable with a range of tools 
+currently used to analyse next-generation data.
+
+INTENDED AUDIENCE
+The course is aimed at anyone interested in learning bioinformatics 
+tools needed for handling large genomic datasets.
+
+Course content is as follows
+
+Monday 3rd - Classes from 09:00 to 17:00
+Module 1: Linux.
+Linux is taught on the first day, this takes the entire day. Once you 
+get through this portion you will be on your way to completing your own 
+NGS analysis. We have created a workbook for this portion of the course. 
+This is a step-by-step, or in the case, command-by-command, Linux guide. 
+We complete each command as a class and discuss and review issues along 
+the way.
+
+Tuesday 4th - Classes from 09:00 to 17:00
+Module 2: RNAseq.
+We will cover two of the more popular tools in this workshop, The Tuxedo 
+package & Trinity. Outcomes; Confidence to design effective RNAseq 
+experiments. Knowledge of NGS sequencing platforms and their differing 
+applications, ability to analyze Illumina data for quality and 
+contamination. Proficiency to implement the Tuxedo package to analyze an 
+RNAseq dataset.Create publication ready graphics with cummeRbund and 
+EdgeR.
+
+Wednesday 5th - Classes from 09:00 to 17:00
+Module 3: Assembly.
+Whether you have a reference genome or are working with de novo samples 
+there are some basic tools and practices that we cover to help assist 
+you in your genome project. In this module we will cover the basic 
+metrics you should review when doing assembly as well as best practices 
+to consider in your own project. Outcomes; Take raw reads through a 
+complete assembly process. Working knowledge of different assembly 
+issues/challenges. The effect of assembly settings on assembly outcomes.
+
+Thursday 6th - Classes from 09:00 to 17:00
+Module 4: Annotation.
+We will use MAKER and Blast2GO and annotate the genome we assembled in 
+the assembly module. Outcomes; Understand the differences between 
+functional and structural annotations. Train MAKER to improve structural 
+annotations. Understand how MAKER improves with more evidence and 
+training; visualize structural annotations. Apply functional annotations 
+with Blast2GO.
+
+Friday 7th - Classes from 09:00 to 16:00
+Module 5: Python.
+Why Python? In truth it doesn't matter what coding language you learn 
+but you should learn one. Python has a very straightforward syntax that 
+is easy to understand.In this module we will utilise the clearly 
+explained training examples from Python for Biologists. Outcomes; 
+Understand Python language syntax. Create scripts to answer biological 
+problems & parse and analyse BLAST outputs using custom Python code.
+
+Please email any inquiries to oliverhooker@prstatistics.com or visit our 
+website www.prstatistics.com
+
+Please feel free to distribute this material anywhere you feel is 
+suitable
+
+Upcoming courses - email for details oliverhooker@prstatistics.com
+
+1.	MODEL BASED MULTIVARIATE ANALYSIS OF ECOLOGICAL DATA USING R (January 
+2017)
+http://www.prstatistics.com/course/model-base-multivariate-analysis-of-abundance-data-using-r-mbmv01/
+
+2.	ADVANCED PYTHON FOR BIOLOGISTS (February 2017)
+http://www.prstatistics.com/course/advanced-python-biologists-apyb01/
+
+3.	STABLE ISOTOPE MIXING MODELS USING SIAR, SIBER AND MIXSIAR USING R 
+(February 2017)
+http://www.prstatistics.com/course/stable-isotope-mixing-models-using-r-simm03/
+
+4.	NETWORK ANAYLSIS FOR ECOLOGISTS USING R (March 2017)
+http://www.prstatistics.com/course/network-analysis-ecologists-ntwa01/
+
+5.	ADVANCES IN MULTIVAIRAITE ANALYSIS OF SPATIAL ECOLOGICAL DATA (April 
+2017)
+http://www.prstatistics.com/course/advances-in-spatial-analysis-of-multivariate-ecological-data-theory-and-practice-mvsp02/
+
+6.	INTRODUCTION TO STATISTICS AND R FOR BIOLOGISTS (April 2017)
+http://www.prstatistics.com/course/introduction-to-statistics-and-r-for-biologists-irfb02/
+
+7.	ADVANCING IN STATISTICAL MODELLING USING R (April 2017)
+http://www.prstatistics.com/course/advancing-statistical-modelling-using-r-advr05/
+
+8.	INTRODUCTION TO BAYESIAN HIERARCHICAL MODELLING (May 2017)
+http://www.prstatistics.com/course/introduction-to-bayesian-hierarchical-modelling-using-r-ibhm02/
+
+9.	MULTIVARIATE ANALYSIS OF SPATIAL ECOLOGICAL DATA (June 2017)
+
+10.	GEOMETRIC MORPHOMETRICS USING R (June)
+http://www.prstatistics.com/course/geometric-morphometrics-using-r-gmmr01/
+
+11.	BIOINFORMATICS FOR GENETICISTS AND BIOLOGISTS (July 2017)
+http://www.prstatistics.com/course/bioinformatics-for-geneticists-and-biologists-bigb02/
+
+12.	INTRODUCTION TO METHODS FOR REMOTE SENSING (July 2017)
+
+13.	SPATIAL ANALYSIS OF ECOLOGICAL DATA USING R (August 2017)
+http://www.prstatistics.com/course/spatial-analysis-ecological-data-using-r-spae05/
+
+14.	ECOLOGICAL NICHE MODELLING (October 2017)
+
+15.	GENETIC DATA ANALYSIS USING R (October TBC)
+16.	INTRODUCTION TO PYTHON FOR BIOLOGISTS (October TBC)
+17.	INTRODUCTION TO BIOINFORMATICS USING LINUX (October TBC)
+18.	LANDSCAPE (POPULATION) GENETIC DATA ANALYSIS USING R (November TBC)
+19.	PHYLOGENETIC DATA ANALYSIS USING R (November TBC)
+
+20.	APPLIED BAYESIAN MODELLING FOR ECOLOGISTS AND EPIDEMIOLOGISTS 
+(November 2017)
+
+21.	ADVANCING IN STATISTICAL MODELLING USING R (December 2017)
+
+Oliver Hooker PhD.
+PR statistics
+
+3/1
+128 Brunswick Street
+Glasgow
+G1 1TF
+
++44 (0) 7966500340
+
+www.prstatistics.com
+www.prstatistics.com/organiser/oliver-hooker/
+
+Oliver Hooker <oliverhooker@prstatistics.com>
+

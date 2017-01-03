@@ -1,0 +1,55 @@
+Dear all,
+
+We are excited to invite you to submit your abstract and attend the
+symposium:
+
+"Phylogenetics in the Genomic Era" 
+
+to be held at the European Society for Evolutionary Biology meeting in
+Groningen, The Netherlands (20-25th August 2017).
+
+http://www.eseb2017.nl/
+http://www.eseb2017.nl/sub/s30-phylogenetics-in-the-genomic-er/
+
+INVITED SPEAKERS:
+Scott Edwards (Harvard University, USA)
+Ziheng Yang (University College London, UK)
+
+ABSTRACT:
+Accurate inference of species relationships is crucial to address
+fundamental questions in evolutionary biology. Empiricists have greatly
+benefitted from the continual ease of generating sequence data for
+phylogenetic inference and can now employ genome-scale datasets to infer
+the evolutionary history of clades across the tree of life. However,
+the availability of large phylogenomic datasets are not a panacea
+for all phylogenetic issues and these large datasets often present
+new challenges. In particular, individual genetic markers can have
+discordant phylogenetic histories due to processes such as incomplete
+lineage sorting, introgression and selection, potentially clouding
+the inference of organismal relationships. Most contemporary species
+tree estimation methods aim to model observed incongruence using the
+multi-species coalescent but these approaches often assume incomplete
+lineage sorting as the single source of discord and are computationally
+exhaustive or rely on the precision of individual gene trees. The
+development of novel approaches to account for sources of phylogenetic
+incongruence therefore remains a thriving area of research. Given the
+vigorous state of the field, it is thus timely to discuss recent advances
+and remaining challenges of species tree estimation in a symposium where
+we invite both theoreticians and empiricists.
+
+ORGANIZERS: Mozes Blom (Swedish Museum of Natural History, Sweden)
+Matthew Fujita (University of Texas at Arlington, USA)
+
+ABSTRACT SUBMISSION DEADLINE:
+The deadline for abstract submission is the 10th of January 2017.
+http://www.eseb2017.nl/call-for-abstracts/abstract-guidelines-/
+
+Please contact Mozes Blom (mozes.blom@gmail.com) if you have any
+questions!
+
+Best,
+
+Matt and Mozes
+
+mozes.blom@gmail.com
+

@@ -5,7 +5,7 @@ rm(list=ls())
 ## AND I AM JUST PLAYING WITH THE DATA.
 
 ## Load the data
-odata <- read.csv("AllData_20161108.csv", stringsAsFactors = FALSE)
+odata <- read.csv("AllData_20161206.csv", stringsAsFactors = FALSE)
 dim(odata)
 
 # Select only the ones that we include in the study (removing duplicates etc.)
@@ -70,12 +70,41 @@ diffcols <- !( compcols(tmp[,3], tmp[,4]) & compcols(tmp[,5], tmp[,6]) & compcol
 tmp[diffcols & tmp$Question.0=="Yes",]
 
 # Effect of proportion of female speakers on whether organizers replied
-tmp.reply <- ((adata$Org_reply1)|(adata$Org_reply2)) & (!is.na(adata$Org_reply1)|!is.na(adata$Org_reply2))
+tmp.reply <- adata$Org_reply1==TRUE | adata$Org_reply2==TRUE #((adata$Org_reply1)|(adata$Org_reply2)) & (!is.na(adata$Org_reply1)|!is.na(adata$Org_reply2))
+tmp.reply[is.na(tmp.reply)] <- FALSE
+source("plotting.R")
+histSMD.TF(tmp.reply, adata$rInv)
+
+tmp.reply.inv <- tmp.reply[!is.na(adata$rInv)]
+tmp.reply.ins <- tmp.reply[!is.na(adata$rIns)]
+
+
+plothist <- function(whichones, what="rInv", fillcol=gray(0.2), ...){
+  brks <- seq(-0.025, 1.025, by=0.05) #<- seq(-0.025,1.025,by=0.05)
+  hist(adata[,what][whichones], breaks=brks, plot=TRUE, ylim=c(0,yM), border="white", col=fillcol, axes=FALSE, 
+             xlab = "Proportion of female speakers", ylab="Count", xlim=range(brks), ...)
+  # Add grid
+  for (i in seq(1, yM)) lines(c(brks[1], brks[length(brks)]), c(i,i), col="white", lwd=0.5)
+  # Add axes
+  axis(1, at=seq(0,1,by=0.1), pos=0)
+  axis(2, pos=brks[1])
+}
+par(mfrow=c(2,1))
+plothist(!tmp.reply.inv, main="Did not reply")
+plothist(tmp.reply.inv, main="Replied")
+summary(aov(adata$rInv[!is.na(adata$rInv)] ~ tmp.reply.inv))
+
+par(mfrow=c(2,1))
+plothist(!tmp.reply.ins, what= "rIns", main="Did not reply")
+plothist(tmp.reply.ins, what="rIns", main="Replied")
+summary(aov(adata$rIns[!is.na(adata$rIns)] ~ tmp.reply.ins))
+
+# Plotting with boxplot
 boxplot(adata$rInv ~ tmp.reply, main="Replied?")
 text(1:2, rep(0.9, 2), paste("n=", tapply(adata$rInv, tmp.reply, length), sep="") )
 
 summary(lm(adata$rInv ~ tmp.reply))
-
+summary(aov(adata$rInv ~ tmp.reply))
 adata[is.na(adata$Org_reply1),]
 
 adata$Org_name1[duplicated(adata$Org_name1)]
@@ -85,15 +114,19 @@ tbl <- cbind(aa, rInv = aa$New_Invited_W / aa$New_Invited_nb, #
              rIns = aa$New_Instructor_W / aa$New_Instructor_nb, #
              rOrg = aa$New_Org_W / aa$New_Org_nb)
 
+par(mfrow=c(1,1))
 # Plots
 # Questions
 par(las=1)
 boxplot(rInv ~ Question.1, data = tbl, main="Q1: Aware?", ylab="Proportion female speakers")
 text(1:2, rep(0.9, 2), paste("n=", tapply(tbl$Question.1, tbl$Question.1, length), sep="") )
+summary(aov(rInv ~ Question.1, data = tbl))
 
 boxplot(rInv ~ Question.2, data = tbl, main="Q2: Took gender into account?", ylab="Proportion female speakers")
 text(1:2, rep(0.9, 2), paste("n=", tapply(tbl$Question.2, tbl$Question.2, length), sep="") )
+summary(aov(rInv ~ Question.2, data = tbl))
 
 boxplot(rInv ~ Question.3, data = tbl, main="Q3: Prescriptions?", ylab="Proportion female speakers")
 text(1:3, rep(0.9, 3), paste("n=", tapply(tbl$Question.3, tbl$Question.3, length), sep="") )
+summary(aov(rInv ~ Question.3, data = tbl))
 
