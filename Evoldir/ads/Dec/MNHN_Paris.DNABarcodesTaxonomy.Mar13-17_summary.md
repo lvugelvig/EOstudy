@@ -7,7 +7,9 @@
 
 
 ## Instructors
-
+Sarah Samadi (F)
+Line Le Gall (F) 
+Nicolas Puillandre (M)
 
 # Organisers
 
