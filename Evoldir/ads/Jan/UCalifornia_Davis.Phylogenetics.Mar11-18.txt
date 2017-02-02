@@ -1,0 +1,92 @@
+UC Davis WORKSHOP IN APPLIED PHYLOGENETICS
+at Bodega Marine Laboratory, Bodega Bay, California
+
+March 1118, 2017
+
+Sponsored by the University of California, Davis and Bodega Marine
+Laboratory
+
+http://treethinkers.org
+
+Introduction
+Phylogenetic methods have revolutionized modern systematics and become
+indispensable tools in evolution, ecology and comparative biology,
+playing an increasingly important role in analyses of biological data
+at all levels of organization ranging from molecules to ecological
+communities. The estimation of phylogenetic trees is now a formalized
+statistical problem with general agreement on the central issues and
+questions. A nearly standard set of topics is now taught as part of
+the curriculum at many colleges and universities. On the other hand,
+application of phylogenetic methods to novel problems outside systematics
+is an area of special excitement, innovation, and controversy, and
+perspectives vary widely.
+
+This Spring, for the seventeenth year, we will teach a workshop for
+graduate students interested in applying phylogenetic methods to diverse
+topics in biology. The one-week course is an intensive exploration
+of problems to which modern phylogenetic approaches are being applied
+and the most current statistical tools and approaches that are used to
+solve those problems. We cover a wide range of topics in comparative
+phylogenetics. The course starts with recent advances in phylogenetic
+inference, and then focuses on methods for making inferences from
+phylogenies.
+
+The course will be held at the Bodega Marine Laboratory on the beautiful
+Northern California coast, which has on-site housing. The course
+format will involve equal parts of lecture and hands-on software
+training (with an emphasis on performing analyses using RevBayes
+<http://revbayes.github.io/about.html>). One afternoon during the week
+will be left free for field trips to local natural areas.
+
+Topics Covered
+*          Estimating, evaluating and interpreting phylogenetic trees
+*          Recent advances in Bayesian inference of phylogeny
+*          Model specification issues: model selection, adequacy and
+           uncertainty
+*          Diagnosing MCMC performance
+*          Divergence-time estimation: relaxed clocks, fossil
+           calibration
+*          Species-tree estimation and species delimitation
+*          Character evolution: ancestral-state estimation, rates of
+           trait evolution
+*          Lineage diversification: detecting rate shifts, testing key-
+           innovation hypotheses
+
+Prerequisites
+Available housing limits course enrollment to ~30 students. Preference
+is given to doctoral candidates who are in the early to middle stages of
+their thesis research, and who have completed sufficient prerequisites
+(through previous coursework or research experience) to provide some
+familiarity with phylogenetic methods. Unfortunately, because of limits on
+class size, postdocs and faculty are generally discouraged from applying.
+
+Admission and Fees
+Students will be admitted based on academic qualifications and
+appropriateness of research interests. The course fee is $750. This
+includes room and board at BML for duration of the course (arriving March
+11, leaving March 18) and return transportation from Davis to the Bodega
+Marine Labs.
+
+Application Deadline
+Applications are due by January 31, 2017. Please send a completed
+application form and one letter of recommendation from your
+major advisor. Applications should be sent via email as PDFs to
+mikeryanmay@gmail.com. Students will be notified via e-mail by February 4,
+2017 of acceptance.
+
+Application Forms and Information
+Visit the Bodega website for additional information and to download an
+application form: http://treethinkers.org
+
+Send all application materials to:
+
+Mike May
+Department of Evolution and Ecology
+5343 Storer Hall
+University of California Davis
+Davis, CA
+95616
+email: mikeryanmay@gmail.com
+
+"brianmoore@ucdavis.edu" <brianmoore@ucdavis.edu>
+

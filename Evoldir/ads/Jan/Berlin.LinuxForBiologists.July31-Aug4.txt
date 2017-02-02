@@ -1,0 +1,103 @@
+Dear all,
+
+We are happy to announce that we will be holding the second edition of
+the "Introduction to Linux and workflows for biologists" in Berlin
+(Germany) from the 31th July to the 4th August 2017.
+
+Instructor:
+
+Dr Martin Jones (Founder, Python for
+Biologists http://pythonforbiologists.com )
+http://www.physalia-courses.org/instructors/t1/
+
+Overview
+
+Most high-throughput bioinformatics work these days takes place on
+the Linux command line. The programs which do the majority of the
+computational heavy lifting   genome assemblers, read mappers,
+and annotation tools   are designed to work best when used with a
+command-line interface. Because the command line can be an intimidating
+environment, many biologists learn the bare minimum needed to get their
+analysis tools working. This means that they miss out on the power of
+Linux to customize their environment and automate many parts of the
+bioinformatics workflow. This course will introduce the Linux command
+line environment from scratch and teach students how to make the most
+of its tools to achieve a high level of productivity when working with
+biological data.
+
+Intended audience
+
+This workshop is aimed at researchers and technical workers with a
+background in biology who want to learn to use the Linux operating
+system and the command line environment. No previous experience of Linux
+is required.
+
+Venue
+
+Botanischer Garten und Botanisches Museum (BGBM) Berlin-Dahlem, Freie
+Universität Berlin, Königin-Luise-Straße 6-8, 14195 Berlin.
+
+Course Programme
+
+https://www.physalia-courses.org/courses/course1/curriculum/
+
+Monday 31th - Classes from 09:30 to 17:30
+
+Session 1 - The design of Linux
+
+Session 2 - System management
+
+Tuesday 1sh - Classes from 09:30 to 17:30
+
+ Session 3 - Manipulating tabular data
+
+Session 4 - Constructing pipelines
+
+Wednesday 2nd - Classes from 09:30 to 17:30
+
+Session 5 - EMBOSS
+
+Session 6 - Using a Linux server
+
+Thursday 3rd - Classes from 09:30 to 17:30
+
+Session 7 - Combining methods
+
+Session 8 - Combining methods
+
+Friday 4th - Classes from 09:30 to 17:30
+
+Session 9 - Customization
+
+Session 10
+
+The afternoon of Friday 18th is reserved for finishing off the next-
+gen workflow exercise, working on your own datasets, or leaving early
+for travel.
+
+ 
+
+Application deadline is June 30th 2017.  
+
+Available packages:
+
+1) "only-course" (580 euros VAT included) includes refreshments,
+   lunch and course material;
+
+2) "all-inclusive" (795 euros VAT included) includes refreshments,
+   course material, accommodation and meals (breakfast, lunch, dinner).
+
+--
+
+Carlo Pecoraro, Ph.D
+
+Physalia-courses Coordinator
+
+info@physalia-courses.org
+
+http://www.physalia-courses.org/
+
+Twitter: @physacourses
+
+Carlo Pecoraro <info@physalia-courses.org>
+

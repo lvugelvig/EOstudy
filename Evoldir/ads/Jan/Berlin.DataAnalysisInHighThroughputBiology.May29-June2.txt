@@ -1,0 +1,145 @@
+Data analysis in high throughput biology
+https://www.physalia-courses.org/courses/course3/
+
+>From the 29th  of May to the 2nd of June 2017 in Berlin, Germany
+(https://www.physalia-courses.org/courses/course3/).
+
+Instructor: Dr. January Weiner (Max Planck Institute for Infection
+Biology; https://www.physalia-courses.org/instructors/t14/).
+
+Course overview
+
+High throughput (HT) techniques such as transcriptomics or metabolomics
+are of great significance in many areas of biology. With the standard
+techniques becoming more affordable and new techniques being introduced
+all the time, the amount of data sets generated is staggering. However,
+statistical and computational analysis of HT data sets present many
+challenges. In this course, the students will gain the ability to
+independently process and analyse HT data sets, select the appropriate
+tools, functionally interpret the results as well as learn the paradigms
+of computational biology and statistics which will allow them to
+efficiently communicate with computational biologists.
+
+Intended audience
+
+In general, the course is aimed at biologists who would like to take their
+data analysis in their own hands. While an aptitude for computational work
+is necessary, the main goal of the course is the application of biological
+and statistical knowledge to HT sets with as little effort as necessary.
+
+* basic computer skills (a rudimentary knowledge of programming
+  principles in any language is recommended, but not mandatory)
+* basic understanding of statistics
+* basic understanding of molecular techniques for generating high
+  throughput data
+
+The students should be comfortable with using a computer and have at
+least a rudimentary understanding of computer programming. However,
+no specific skills are necessary; the students will learn basic R
+programming in this course.
+
+Basic skills in statistics are necessary. The students should understand
+the concepts of statistical hypothesis testing and p-values. However,
+an in-depth introduction to these concepts will also be provided.
+
+Target student skills
+
+* overview of commonly used high-throughput data types
+* techniques for data clean-up and preparation for analysis
+* understanding of computational problems associated with high-
+  throughput data analysis
+* statistical problems and solutions in analysis of HT data
+* practical skills in analysis methods of HT data:
+- basic differential analysis (limma, DESeq, alternative and non-
+  parametric techniques)
+- set enrichment techniques (GSEA, gene ontologies, metabolic
+  profiling and more)
+- multivariate approaches to data analysis (PCA / ICA, PLS, multiple
+  correspondance analysis)
+- basic approaches in machine learning: cross
+* Communication skills in statistics and computational biology
+
+After the course, the student should be able to prepare, analyse and
+interpret a HT data set, including multivariate and machine learning
+techniques.
+
+Teaching format
+
+On each day, the course will consist of four parts:
+
+* Lecture: theoretical introduction to the days focus
+* Hands-on guide: guided practical session in R where students replicate
+  the analysis performed by the teacher. While the lecture is general,
+  here specific R techniques and R packages are introduced
+* Guided self-study: students are given excercises and problems to solve
+  and work on them individually under the guidance of the teacher
+* Individual project work: each student will receive a transcriptomic
+  (RNASeq or microarray) data set to analyse throughout the course
+* Lecture: wrap-up and side notes; preparation for the following day
+
+Venue
+
+Botanischer Garten und Botanisches Museum (BGBM) Berlin-Dahlem/Freie
+Universität Berlin, Königin-Luise-Straße 6-8, 14195 Berlin
+
+Course plan
+
+* Day 1: Introduction to statistical reasoning and R 
+o Lecture: "Statistics gone wrong: basics of statistical problems in HT applications"
+o Hands-on guide: working with R: first steps
+o Guided self-study: using R for data loading and basic statistical calculations
+o Individual project work: loading data for the individual project
+o Lecture: "On the importance of lab books - documentation and
+organization in computational projects"
+
+* Day 2: Data preparation and basic differential analyses
+o Lectures:
++ "Steps in HT data analysis and overview of HT techniques"
++ "Differential analysis in transcriptomics"
+o Hands-on guide: documentation with knitr, data pre-processing, QC
+o Guided self-study: creating self-documenting R code; basic steps in transcriptomic analyses
+o Individual project work: basic analysis of the individual data sets
+o Lecture: "So you have a list of thousand gene names: why do we do HT analyses?"
+
+* Day 3: Functional analysis, gene set enrichments and biological interpretation
+o Lecture: "Methods of functional analysis in gene set enrichment analyses"
+o Hands-on guide: gene set enrichment techniques in R
+o Guided self-study: comparing results of different gene set enrichment techniques
+o Individual project work: biological interpretation of the results
+o Lecture: "Common mistakes in functional analysis of HT data"
+
+* Day 4: Machine learning and multivariate approaches
+o Lecture: "Introduction to multivariate approaches and ML techniques"
+o Hands-on guide: Practical guide to multivariate and ML techniques in R
+o Individual project work
+o Lecture: "How to know when you are done?"
+
+* Day 5: Evaluation of individual project
+o Individual work on project reports
+o Project report evaluation
+o Discussion round
+o Lecture: "Course wrap-up: where to go from here?"
+
+Further information:
+
+There two packages available: 1) "only-course" costs 430 euros
+(VAT included), which includes refreshments and course material; 2)
+"all-inclusive" costs 695 euros (VAT included), which includes
+refreshments, course material, accommodation and meals (breakfast,
+lunch, dinner).
+
+Registration deadline: April 24th, 2017
+(https://www.physalia-courses.org/courses/course3/)
+
+--
+
+Carlo Pecoraro, Ph.D
+
+Physalia-courses Coordinator
+
+info@physalia-courses.org
+
+http://www.physalia-courses.org/
+
+Twitter: @physacourses
+

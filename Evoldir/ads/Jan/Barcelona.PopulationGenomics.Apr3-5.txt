@@ -1,0 +1,28 @@
+NGS'17: Structural Variation and Population Genomics, 3-5 April 2017,
+Barcelona, Spain
+
+Hosted by the International Society for Computational Biology (ISCB)
+and the Centre for Genomic Regulation (CRG), the Next-generation
+sequencing conference covers a broad range of topics in genome
+sequencing and analysis. Our particular focus areas in 2017 are
+structural variation and population genomics.
+
+New sequencing technologies have opened up the possibility to sequence
+genomes at a previously unprecedented scale. The sequencing of whole
+genomes from large number of individuals representing multiple
+populations allows the extent of genetic diversity, of both at the
+single nucleotide level, and of larger structural variants, to be
+catalogued. Using such data the genetic basis of evolutionary and
+disease processes can be explored. The meeting will draw together
+researchers from diverse backgrounds who develop and apply novel tools
+to sequencing data. Topics covered will include, but are not limited
+to, genome assembly, variant characterization and analysis, gene
+expression, population history, disease, and more!
+
+The conference program will be a combination of keynote talks from
+renown scientists with research focusing on structural variation and
+population genomics, a selection of thought-provoking submitted
+abstract talks, technology and applications talks, as well as posters.
+
+Laura Prat Busquets <laura.prat@crg.eu>
+

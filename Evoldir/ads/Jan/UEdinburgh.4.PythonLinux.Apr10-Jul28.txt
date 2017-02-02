@@ -1,0 +1,801 @@
+
+ADVANCED PYTHON FOR BIOLOGISTS
+
+DATE: Monday 24 - Friday 28 July 2017
+VENUE: The King's Buildings, The University of Edinburgh, Edinburgh,
+Scotland, UK
+REGISTRATION DEADLINE: Monday 10 July 2017 noon
+CANCELLATION DEADLINE: Monday 17 July 2017 noon
+PLACES: 20 (first come, first served)
+REGISTRATION FEE: pounds 525 (includes coffee/tea, but no lunch)
+INFORMATION: Bert Overduin (bert.overduin@ed.ac.uk), Martin Jones (
+martin@pythonforbiologists.com)
+
+TO REGISTER: http://genomics.ed.ac.uk/services/advanced-python-biologists
+
+Python is a dynamic, readable language that is a popular platform for all
+types of bioinformatics work, from simple one-off scripts to large, complex
+software projects. This workshop is aimed at people who already have a
+basic knowledge of Python and are interested in using the language to
+tackle larger problems. In it, we will look in detail at the parts of the
+language which are particularly useful in scientific programming, and at
+the tools Python offers for making development faster and easier. The
+workshop will use examples and exercises drawn from various aspects of
+bioinformatics work. After completing the workshop, students should be in a
+position to (1) take advantage of the advanced language features in their
+own programs and (2) use appropriate tools when developing software
+programs.
+
+"Just what I needed to start writing more complex code." (August 2015)
+
+"I also liked the fact that Martin spent a good amount of one on one time
+talking to people helping explain specific concepts and giving people
+advice on their personal academic projects." (July 2016)
+INSTRUCTORS
+
+Dr. Martin Jones (Founder, Python for Biologists)
+Dr. Bert Overduin (Training and Outreach Bioinformatician, Edinburgh
+Genomics)
+
+WORKSHOP FORMAT
+
+The workshop is delivered over ten half-day sessions. Each session consists
+of roughly a one hour lecture followed by two hours of practical exercises,
+with breaks at the organiser's discretion. Each session uses examples and
+exercises that build on material from the previous one, so it's important
+that students attend all sessions. A description of the sessions can be
+found at the bottom of this page.
+
+WHO SHOULD ATTEND
+
+This workshop is aimed at researchers and technical workers with a
+background in biology and a basic knowledge of Python.
+
+Note that we are also offering a workshop Data Manipulation and
+Visualisation with Python.
+The Advanced course is aimed at people who want to develop bigger or more
+complicated programs in Python, or to learn more about the language, or to
+explore different approaches (object-oriented, functional) to programming.
+The material covered is very general purpose and can be applied to any kind
+of problem. The Dataviz course is about using a set of Python libraries
+that are specifically designed for data exploration and visualisation. In
+the Dataviz course, we're going to concentrate on using these tools to
+explore patterns in data, but the actual code that we write will be very
+simple - mostly we will be calling the functions and methods in these
+libraries.
+
+To summarise: if you want to learn more about the language, build more
+complicated programs, or need to work with existing complicated programs,
+attend the Advanced course. If you want to explore datasets, find patterns,
+produce figures and charts, attend the Dataviz course.
+
+REQUIREMENTS
+
+Students should have enough biological/bioinformatics background to
+appreciate the examples and exercise problems (i.e. they should know what a
+protein accession number, BLAST report, and FASTA sequence is). They should
+also have basic Python experience (the Edinburgh Genomics Introduction to
+Python for Biologists course will fulfil these requirements). Students
+should be familiar with the use of lists, loops, functions and conditions
+in Python and have written at least a few small programs from scratch.
+During the workshop students will use their own laptops. Instructions for
+any software to be installed will be sent out prior to the course.
+
+SESSION CONTENT
+
+1. Data structures in Python
+
+In this session we will briefly recap Python's basic data structures,
+before looking at a couple of new data types " tuples and sets " and
+discussing where each should be used.  We will then see how we can combine
+these basic types to make more complex data structures for solving specific
+problems. We'll finish our discussion by looking at specialized data types
+that are found in the Python core library. This session will also be our
+first introduction to benchmarking as we talk about the relative
+performance of different data types. In the practical session we'll learn
+how to parse an input file into a complex data structure which we can then
+use to rapidly query the data. Core concepts introduced: tuples, sets,
+higher-order data structures, default dicts, Counters, big-O notation.
+
+2. Recursion and trees
+
+In this session we will cover two very closely related concepts: trees
+(i.e. the various ways that we can store hierarchical data) and recursive
+functions (the best way to operate on treelike data). As recursion is
+inherently confusing, we'll start with a gentle introduction using
+biological examples before moving on to consider a number of core tree
+algorithms concerning parents, children, and common ancestors. In the
+practical session we'll look in detail at one particular way of identifying
+the last common ancestor of a group of nodes, which will give us an
+opportunity to explore the role of recursion. Core concepts introduced:
+nested lists, storing hierarchical data, recursive functions, relationship
+between recursion and iteration.
+
+3. Classes and objects
+
+In this session we will introduce the core concepts of object-oriented
+programming, and see how the data types that we use all the time in Python
+are actually examples of classes. We'll take a very simple example and use
+it to examine how we can construct our own classes, moving from an
+imperative style of programming to an object-oriented style. As we do so,
+we'll discuss where and when object-orientation is a good idea. In the
+practical we will practise writing classes to solve simple biological
+problems and familiarize ourselves with the division of code into library
+and client that object-oriented programming demands. Core concepts
+introduced: classes, instances, methods vs. functions, self, constructors,
+magic methods.
+
+4. Object-oriented programming
+
+Following on from the previous session, we will go over some advanced ideas
+that are common to most object-oriented programming languages. For each
+idea we'll discuss the basic concept, the scenarios in which it's useful,
+and the details of how it works in Python. This overview will also allow us
+to consider the challenges involved in designing object-oriented code. In
+the practical we will work on a simulation which will involve multiple
+classes working together. Core concepts introduced: inheritance and class
+hierarchies, method overriding, superclasses and subclasses, polymorphism,
+composition, multiple inheritance.
+
+5. Functional programming in Python
+
+This session will start with a look at a few different concepts that are
+important in functional programming, culminating in a discussion of the
+idea of state and its role in program design. We will see how functional
+programming is, in many ways, the complement of object-oriented programming
+and how that realization informs our decision about when to use each
+approach. We'll take a quick tour of Python's built-in tools that take
+advantage of functional programming and see how we can build our own. We'll
+finish with a brief look at how functional programming can vastly simplify
+the writing of parallel code. In the practical, we'll practise using
+Python's built-in functional tools, then implement one of our own. Core
+concepts introduced: state and mutability, side effects, first-class
+functions, declarative programming, lazy evaluation, parallelism,
+higher-order functions.
+
+6. Iterators, comprehensions and generators
+
+We'll start this session with a discussion of Python's iteration mechanism,
+focussing particularly on the behaviour of the functional methods from the
+previous session. Next, we'll introduce the idea of comprehensions as a way
+to concisely define lists and generators as a way to produce those lists
+efficiently. We'll see how to extend the same idea to sets and dicts,
+leaving us with comprehensions as a powerful tool in our programming
+toolbox. We'll finish with a look at how we can use iterators inside our
+own classes, tying together the ideas of object-oriented and functional
+programming. In the practical, we'll re-examine some of the problems from
+previously in the course using the new tools. Core concepts introduced:
+iteration, interfaces, comprehensions, generators, eager vs. lazy sequences.
+
+7. Exception handling
+
+This session will start with a reminder of the difference between syntax
+errors and exceptions, after which we will explore the syntax involved in
+catching and handling exceptions. We'll then examine the way that
+exceptions can be handled in multiple places and the consequences for
+program design. We'll finish this session by learning how we can take
+advantage of Python's built-in exception types to signal problems in our
+own code, and how we can create custom exception types to deal with
+specific issues. In the practical we'll modify existing code to make use of
+exceptions. Core concepts introduced: exception classes,
+try/except/else/finally blocks, context managers, exception bubbling,
+defining and raising exceptions.
+
+8. Packaging and distribution
+
+We'll start this session by looking at our options for reusing code in
+Python and seeing how the methods differ depending on whether we want to
+share code between files in a program, between many programs on the same
+system, or between many programmers on different systems. This leads into a
+discussion about packaging and distribution, in which we'll discuss the
+roles of Python's package management tools and package repositories. In the
+practical session we'll turn existing code into modules and packages. Core
+concepts introduced: modules, namespaces, dependencies, executing modules,
+packages, metadata.
+
+9. Performance and benchmarking
+
+In this session we'll learn about the various tools Python has for
+benchmarking code (i.e. measuring its memory and runtime performance) and
+for profiling code (identifying areas where improvements can be made).
+We'll see that different tools are useful in different scenarios, and
+collect a set of recommendations for improving program performance. We'll
+use these tools to illustrate and measure points about performance that
+have been made through the course. In the practical, we'll take real-life
+code examples, measure their performance, and try to improve it. Core
+concepts introduced: function profiling, line profiling, profiler overhead,
+timing.
+
+10. Unit testing
+
+In this session we will begin with a gentle introduction to testing which
+will illustrate why it's useful and what type of problems it can solve.
+We'll run through a series of examples using Python's built-in testing
+tools which will cover a number of different testing scenarios. We'll then
+implement the same set of tests using the Nose testing framework and
+examine how using a framework makes the tests easier to write and
+interpret. After looking at a number of specialized tests for different
+types of code, we'll discuss the impact of program design on testing. In
+the practical we'll practise building and running test suites for existing
+code.
+
+-- 
+Bert Overduin, PhD
+TRAINING AND OUTREACH BIOINFORMATICIAN
+Bert.Overduin@ed.ac.uk
+orcid.org/0000-0002-5281-8838
+
+EDINBURGH GENOMICS
+The University of Edinburgh
+Ashworth Laboratories
+The King's Buildings
+Charlotte Auerbach Road
+Edinburgh EH9 3FL
+Scotland, United Kingdom
+
+tel. +44(0)1316507403 <+44%20131%20650%207403>
+http://genomics.ed.ac.uk
+
+-----
+
+
+
+INTRODUCTION TO PYTHON FOR BIOLOGISTS
+
+DATE: Monday 10 - Friday 14 April 2017
+VENUE: The King's Buildings, The University of Edinburgh, Edinburgh,
+Scotland, UK
+REGISTRATION DEADLINE: Monday 27 March 2017 noon
+CANCELLATION DEADLINE: Monday 3 April 2017 noon
+PLACES: 20 (first come, first served)
+REGISTRATION FEE: pounds 525 (includes coffee/tea, but no lunch)
+INFORMATION: Bert Overduin (bert.overduin@ed.ac.uk), Martin Jones (
+martin@pythonforbiologists.com)
+
+TO REGISTER: http://genomics.ed.ac.uk/services/introduction-pyt
+hon-biologists
+
+Python is a dynamic, readable language that is a popular platform for all
+types of bioinformatics work, from simple one-off scripts to large, complex
+software projects. This workshop is aimed at complete beginners and assumes
+no prior programming experience. It gives an overview of the language with
+an emphasis on practical problem-solving, using examples and exercises
+drawn from various aspects of bioinformatics work. The workshop is
+structured so that the parts of the language most useful for bioinformatics
+are introduced as early as possible, and that students can start writing
+plausibly-useful programs after the first few sessions. After completing
+the workshop, students should be in a position to (1) apply the skills they
+have learned to tackling problems in their own research and (2) continue
+their Python education in a self-directed way.
+
+"Great learning from someone with a biology background rather than computer
+science - meant we were on the same wavelength." (February 2016)
+"Brilliantly well-run. From the book; to the USB stick with all the files
+we need; to the topics covered; to the system of helping us one-on-one, I
+cannot fault this course." (February 2016)
+
+INSTRUCTORS
+
+Dr. Martin Jones (Founder, Python for Biologists)
+Dr. Bert Overduin (Training and Outreach Bioinformatician, Edinburgh
+Genomics)
+
+WORKSHOP FORMAT
+
+The workshop is delivered over ten half-day sessions. Each session consists
+of roughly a one hour lecture followed by two hours of practical exercises,
+with breaks at the organiser's discretion. Each session uses examples and
+exercises that build on material from the previous one, so it's important
+that students attend all sessions. A description of the sessions can be
+found at the bottom of this page.
+
+WHO SHOULD ATTEND
+
+This workshop is aimed at researchers and technical workers with a
+background in biology who want to learn programming. The syllabus has been
+planned with complete beginners in mind; people with previous programming
+experience are welcome to attend as a refresher but may find the pace a bit
+slow. If in doubt, take a look at the detailed session content below or
+drop Martin Jones or Bert Overduin an email.
+
+REQUIREMENTS
+
+Students should have enough biological/bioinformatics background to
+appreciate the examples and exercise problems (i.e. they should know what a
+protein accession number, BLAST report, and FASTA sequence is). No previous
+programming experience or computer skills (beyond the ability to use a text
+editor) are necessary. During the workshop students will use their own
+laptops. Instructions for any software to be installed will be sent out
+prior to the course.
+
+SESSION CONTENT
+
+1. Introduction
+
+In this session I introduce the students to Python and explain what we
+expect them to get out of it and how learning to program can benefit their
+research. I explain the format of the course and take care of any
+housekeeping details (like coffee breaks and catering arrangements). I
+outline the edit-run-fix cycle of software development and talk about how
+to avoid common text editing errors. In this session, we also check that
+the computing infrastructure for the rest of the course is in place (e.g.
+making sure that everybody has an appropriate version of Python installed).
+Core concepts introduced: source code, text editors, whitespace, syntax and
+syntax errors, Python versions
+
+2. Manipulating text
+
+In this session students learn to write very simple programs that produce
+output to the terminal, and in doing so become comfortable with editing and
+running Python code. This session also introduces many of the technical
+terms that we'll rely on in future sessions. I run through some examples of
+tools for working with text and show how they work in the context of
+biological sequence manipulation. We also cover different types of errors
+and error messages, and learn how to go about fixing them methodically.
+Core concepts introduced: terminals, standard output, variables and naming,
+strings and characters, special characters, output formatting, statements,
+functions, methods, arguments, comments.
+
+3. Working with files
+
+I introduce this session by talking about the importance of files in
+bioinformatics pipelines and workflows, and we then explore the Python
+interfaces for reading from and writing to files. This involves introducing
+the idea of types and objects, and a bit of discussion about how Python
+interacts with the operating system. The practical session is spent
+combining the techniques from session 2 with the file IO tools to create
+basic file- processing scripts. Core concepts introduced: objects and
+classes, paths and folders, relationships between variables and values,
+text and binary files, newlines.
+
+4. Lists and loops
+
+A discussion of the limitations of the techniques learned in session 3
+quickly reveals that flow control is required to write more sophisticated
+file-processing programs, and I introduce the concept of loops. We look at
+the way in which Python loops work, and how they can be used in a variety
+of contexts. We explore the use of loops and lists together to tackle some
+more difficult problems. Core concepts introduced: lists and arrays, blocks
+and indentation, variable scoping, iteration and the iteration interface,
+ranges.
+
+5. Conditions
+
+I use the idea of decision-making as a way to introduce conditional tests,
+and outline the different building-blocks of conditions before showing how
+conditions can be combined in an expressive way. We look at the different
+ways that we can use conditions to control program flow, and how we can
+structure conditions to keep programs readable. Core concepts introduced:
+Truth and falsehood, Boolean logic, identity and equality, evaluation of
+statements, branching.
+
+6. Writing functions
+
+We discuss functions that we'd like to see in Python before considering how
+we can add to our computational toolbox by creating our own. We examine the
+nuts and bolts of writing functions before looking at best-practice ways of
+making them usable. We also look at a couple of advanced features of Python
+- named arguments and defaults. Core concepts introduced: argument passing,
+encapsulation, data flow through a program.
+
+7. Regular expressions
+
+I show how a range of common problems in bioinformatics can be described in
+terms of pattern matching, and give an overview of Pythons regex tools. We
+look at the building blocks of regular expressions themselves, and learn
+how they are a general solution to the problem of describing patterns in
+strings, before practising writing some specific examples of regular
+expressions. Core concepts introduced: domain-specific languages, modules
+and namespaces.
+
+8. Dictionaries
+
+We discuss a few examples of key-value data and see how the problem of
+storing them is a common one across bioinformatics and programming in
+general. We learn about the syntax for dictionary creation and manipulation
+before talking about the situations in which dictionaries are a better fit
+that the data structures we have learned about thus far. Core concepts
+introduced: paired data types, hashing, key uniqueness, argument unpacking
+and tuples.
+
+9. Working with the filesystem
+
+We discuss the role of Python in the context of a bioinformatics workflow,
+and how it is often used as a language to "glue" various other components
+together. We then look at the Python tools for carrying out file and
+directory manipulation, and for running external programs - two tasks that
+are often necessary in order to integrate our own programs with existing
+ones. Core concepts introduced: processes and subprocesses, the shell and
+shell utilities, program return values.
+
+10. Final day
+
+The schedule for the final day will be set based on the progress of the
+course and the interests of the students. We will have time set aside for
+attendees to finish exercises, work on their own data, or get one-on-one
+help with real-world problems arising from their research. We may also use
+some of the time to cover more advanced topics of interest to the
+attendees, including BioPython, data visualisation, packaging and
+distributing code, and using alternative interfaces such as iPython.
+
+-- 
+Bert Overduin, PhD
+TRAINING AND OUTREACH BIOINFORMATICIAN
+Bert.Overduin@ed.ac.uk
+orcid.org/0000-0002-5281-8838
+
+EDINBURGH GENOMICS
+The University of Edinburgh
+Ashworth Laboratories
+The King's Buildings
+Charlotte Auerbach Road
+Edinburgh EH9 3FL
+Scotland, United Kingdom
+
+tel. +44(0)1316507403 <+44%20131%20650%207403>
+http://genomics.ed.ac.uk
+
+
+-----
+
+
+
+DATA MANIPULATION AND VISUALISATION WITH PYTHON
+
+DATE: Monday 10 - Friday 14 July 2017
+VENUE: The King's Buildings, The University of Edinburgh, Edinburgh,
+Scotland, UK
+REGISTRATION DEADLINE: Monday 26 June 2017 noon
+CANCELLATION DEADLINE: Monday 3 July 2017 noon
+PLACES: 20 (first come, first served)
+REGISTRATION FEE: pounds 525 (includes coffee/tea, but no lunch)
+INFORMATION: Bert Overduin (bert.overduin@ed.ac.uk), Martin Jones (
+martin@pythonforbiologists.com)
+
+TO REGISTER: http://genomics.ed.ac.uk/services/data-manipulation-
+and-visualisation-python
+
+One of the strengths of the Python language is the availability of mature,
+high-quality libraries for working with scientific data. Integration
+between the most popular libraries has lead to the concept of a "scientific
+Python stack": a collection of packages which are designed to work well
+together. In this workshop we will see how to leverage these libraries to
+efficiently work with and visualise large volumes of data.
+
+"Martin was very good at both teaching and helping with
+customising/practicing on our own dataset." (September 2016)
+
+INSTRUCTORS
+
+Dr. Martin Jones (Founder, Python for Biologists)
+Dr. Bert Overduin (Training and Outreach Bioinformatician, Edinburgh
+Genomics)
+
+WORKSHOP FORMAT
+
+The workshop is delivered over ten half-day sessions. Each session consists
+of roughly a one hour lecture followed by two hours of practical exercises,
+with breaks at the organiser's discretion. Each session uses examples and
+exercises that build on material from the previous one, so it's important
+that students attend all sessions. The last two sessions will be kept free
+for students to work on their own datasets with the assistance of the
+instructor. A description of the sessions can be found at the bottom of
+this page.
+
+WHO SHOULD ATTEND
+
+This workshop is aimed at researchers and technical workers with a
+background in biology and a basic knowledge of Python (if you've taken the
+Introductory Python course then you have the Python knowledge; if you're
+not sure whether you know enough Python to benefit from this course then
+just drop Martin Jones or Bert Overduin an email).
+
+Note that we are also offering a workshop Advanced Python for Biologists.
+
+The Advanced course is aimed at people who want to develop bigger or more
+complicated programs in Python, or to learn more about the language, or to
+explore different approaches (object-oriented, functional) to programming.
+The material covered is very general purpose and can be applied to any kind
+of problem. The Dataviz course is about using a set of Python libraries
+that are specifically designed for data exploration and visualisation. In
+the Dataviz course, we're going to concentrate on using these tools to
+explore patterns in data, but the actual code that we write will be very
+simple - mostly we will be calling the functions and methods in these
+libraries.
+
+To summarise: if you want to learn more about the language, build more
+complicated programs, or need to work with existing complicated programs,
+attend the Advanced course. If you want to explore datasets, find patterns,
+produce figures and charts, attend the Dataviz course.
+
+REQUIREMENTS
+
+Students should have enough biological/bioinformatics background to
+appreciate the example datasets. They should also have some basic Python
+experience (the Introduction to Python course will fulfill these
+requirements). Students should be familiar with the use of lists, loops,
+functions and conditions in Python and have written at least a few small
+programs from scratch. During the workshop students will use their own
+laptops. Instructions for any software to be installed will be sent out
+prior to the course.
+
+SESSION CONTENT
+
+1. Introduction and datasets
+
+Jupyter (formerly iPython) is a programming environment that is rapidly
+becoming the de facto standard for scientific data analysis. In this
+session we'll learn why Jupyter is so useful, covering its ability to mix
+notes and code, to render inline plots, charts and tables, to use custom
+styles and to create polished web pages. We'll also take a look at the
+datasets that we'll be investigating during the course and discuss the
+different types of data we encounter in bioinformatics work.
+
+2. Introduction to pandas
+
+In this session we introduce the first part of the scientific Python stack:
+the pandas data manipulation package. We'll learn about Dataframes " the
+core data structure that much of the rest of the course will rely on " and
+how they allow us to quickly select, sort, filter and summarize large
+datasets. We'll also see how to extend existing Dataframes by writing
+functions to create new columns, as well as how to deal with common
+problems like missing or inconsistent values in datasets. We'll get our
+first look at data visualisation by using pandas' built in plotting ability
+to investigate basic properties of our datasets.
+
+3. Grouping and pivoting with pandas
+
+This session continues our look at pandas with advanced uses of Dataframes
+that allow us to answer more complicated questions. We'll look two very
+powerful tools: grouping, which allows us to aggregate information in
+datasets, and pivoting/stacking, which allows us to flexibly rearrange data
+(a key step in preparing datasets for visualisation). In this session we'll
+also go into more detail about pandas indexing system.
+
+4. Advanced manipulation with pandas
+
+In this final session on the pandas library we'll look at a few common
+types of data manipulation " binning data (very useful for working with
+time series), carrying out principal component analysis, and creating
+networks. We'll also cover some features of pandas designed for working
+with specific types of data like timestamps and ordered categories.
+
+5. Introduction to seaborn
+
+This session introduces the seaborn charting library by showing how we can
+use it to investigate relationships between different variables in our
+datasets. Initially we concentrate on showing distributions with
+histograms, scatter plots and regressions, as well as a few more exotic
+chart types like hexbins and KDE plots. We also cover heatmaps, in
+particular looking at how they lend themselves to displaying the type of
+aggregate data that we can generate with pandas.
+
+6. Categories in seaborn
+
+This session is devoted to seaborn's primary use case: visualising
+relationships across multiple categories in complex datasets. We see how we
+can use colour and shape to distinguish categories in single plots, and how
+these features work together with the pandas tools we have already seen to
+allow us to very quickly explore a dataset. We continue by using seaborn to
+build small multiple or facet plots, separating categories by rows and
+columns. Finally, we look at chart types that are designed to show
+distributions across categories: box and violin plots, and the more exotic
+swarm and strip plots.
+
+7. Customisation with seaborn
+
+For the final session on seaborn, we go over some common types of
+customisation that can be tricky. To achieve very fine control over the
+style and layout of our plots, we'll learn how to work directly with axes
+and chart objects to implement things like custom heatmap labels, log axis
+scales, and sorted categories.
+
+8. Matplotlib
+
+In the final teaching session, we look at the library that both pandas and
+seaborn rely on for their charting tools: matplotlib. We'll see how by
+using matplotlib directly we can do things that would be impossible in
+pandas or seaborn, such as adding custom annotations to our charts. We'll
+also look at using matplotlib to build completely new, custom visualisation
+by combining primitive shapes.
+
+9. / 10. Data workshop
+
+The two sessions on the final day are set aside for a data workshop.
+Students can practice applying the tools they've learned to their own
+datasets with the help of an instructor, or continue to work on exercises
+from the previous day. There may also be time for some demonstrations of
+topics of particular interest, such as interactive visualisation tools and
+animations.
+
+-- 
+Bert Overduin, PhD
+TRAINING AND OUTREACH BIOINFORMATICIAN
+Bert.Overduin@ed.ac.uk
+orcid.org/0000-0002-5281-8838
+
+EDINBURGH GENOMICS
+The University of Edinburgh
+Ashworth Laboratories
+The King's Buildings
+Charlotte Auerbach Road
+Edinburgh EH9 3FL
+Scotland, United Kingdom
+
+tel. +44(0)1316507403 <+44%20131%20650%207403>
+http://genomics.ed.ac.uk
+
+
+-----
+
+
+INTRODUCTION TO LINUX AND WORKFLOWS FOR BIOLOGISTS
+
+DATE: Monday 24 - Friday 28 April 2017
+VENUE: The King's Buildings, The University of Edinburgh, Edinburgh,
+Scotland, UK
+REGISTRATION DEADLINE: Monday 10 April 2017 noon
+CANCELLATION DEADLINE: Monday 17 April 2017 noon
+PLACES: 20 (first come, first served)
+REGISTRATION FEE: pounds 525 (includes coffee/tea, but no lunch)
+INFORMATION: Bert Overduin (bert.overduin@ed.ac.uk), Martin Jones (
+martin@pythonforbiologists.com)
+
+TO REGISTER: http://genomics.ed.ac.uk/services/introduction-linux-
+and-workflows-biologists
+
+Most high-throughput bioinformatics work these days takes place on the
+Linux command line. The programs which do the majority of the computational
+heavy lifting " genome assemblers, read mappers, and annotation tools " are
+designed to work best when used with a command-line interface. Because the
+command line can be an intimidating environment, many biologists learn the
+bare minimum needed to get their analysis tools working. This means that
+they miss out on the power of Linux to customise their environment and
+automate many parts of the bioinformatics workflow. This course will
+introduce the Linux command line environment from scratch and teach
+students how to make the most of its tools to achieve a high level of
+productivity when working with biological data.
+
+INSTRUCTORS
+
+Dr. Martin Jones (Founder, Python for Biologists)
+Dr. Bert Overduin (Training and Outreach Bioinformatician, Edinburgh
+Genomics)
+
+WORKSHOP FORMAT
+
+The workshop is delivered over nine half-day sessions (see the detailed
+curriculum below). Each session consists of roughly a one hour lecture
+followed by two hours of practical exercises, with breaks at the
+organiser's discretion. There will also be plenty of time for students to
+discuss their own problems and data.
+
+WHO SHOULD ATTEND
+
+This workshop is aimed at researchers and technical workers with a
+background in biology who want to learn to use the Linux operating system
+and the command line environment.
+
+REQUIREMENTS
+
+Students should have enough biological background to appreciate the
+examples and exercise problems, and have at least some interest in working
+with DNA sequence data. No previous computer skills are necessary, as we
+will introduce Linux starting with the very basics. Students need to bring
+a laptop with a Linux virtual machine installed (we will distribute
+instructions for downloading and installing the virtual machine before the
+course starts).
+
+SESSION CONTENT
+
+1. The design of Linux
+
+In the first session we briefly cover the design of Linux: how is it
+different from Windows/OSX and how is it best used? We'll then jump
+straight onto the command line and learn about the layout of the Linux
+filesystem and how to navigate it. We'll describe Linux's file permission
+system (which often trips up beginners), how paths work, and how we
+actually run programs on the command line. We'll learn a few tricks for
+using the command line more efficiently, and how to deal with programs that
+are misbehaving. We'll finish this session by looking at the built in help
+system and how to read and interpret manual pages.
+
+2. System management
+
+We'll first look at a few command line tools for monitoring the status of
+the system and keeping track of what's happening to processor power,
+memory, and disk space. We'll go over the process of installing new
+software from the built in repositories (which is easy) and from source
+code downloads (which is trickier). We'll also introduce some tools for
+benchmarking software (measuring the time/memory requirements of processing
+large datasets).
+
+3. Manipulating tabular data
+
+Many data types we want to work with in bioinformatics are stored as
+tabular plain text files, and here we learn all about manipulating tabular
+data on the command line. We'll start with simple things like extracting
+columns, filtering and sorting, searching for text before moving on to more
+complex tasks like searching for duplicated values, summarizing large
+files, and combining simple tools into long commands.
+
+4. Constructing pipelines
+
+In this session we will look at the various tools Linux has for
+constructing pipelines out of individual commands. Aliases, shell
+redirection, pipes, and shell scripting will all be introduced here. We'll
+also look at a couple of specific tools to help with running tools on
+multiple processors, and for monitoring the progress of long running tasks.
+
+5. EMBOSS
+
+EMBOSS is a suite of bioinformatics command-line tools explicitly designed
+to work in the Linux paradigm. We'll get an overview of the different
+sequence data formats that we might expect to work with, and put what we
+learned about shell scripting to biological use by building a pipeline to
+compare codon usage across two collections of DNA sequences.
+
+6. Using a Linux server
+
+Often in bioinformatics we'll be working on a Linux server rather than our
+own computer " typically because we need access to more computing power, or
+to specialized tools and datasets. In this session we'll learn how to
+connect to a Linux server and how to manage sessions. We'll also consider
+the various ways of moving data to and from a server from your own
+computer, and finish with a discussion of the considerations we have to
+make when working on a shared computer.
+
+7. Combining methods
+
+In the next two sessions " i.e. one full day " we'll put everything we have
+learned together and implement a workflow for next-gen sequence analysis.
+In this first session we'll carry out quality control on some paired-end
+Illumina data and map these reads to a reference genome. We'll then look at
+various approaches to automating this pipeline, allowing us to quickly do
+the same for a second dataset.
+
+8. Combining methods
+
+The second part of the next-gen workflow is to call variants to identify
+SNPs between our two samples and the reference genome. We'll look at the
+VCF file format and figure out how to filter SNPs for read coverage and
+quality. By counting the number of SNPs between each sample and the
+reference we will try to figure out something about the biology of the two
+samples. We'll attempt to automate this analysis in various ways so that we
+could easily repeat the pipeline for additional samples.
+
+9. Customisation
+
+Part of the Linux design is that everything can be customised. This can be
+intimidating at first but, given that bioinformatics work is often fairly
+repetitive, can be used to good effect. Here we'll learn about environment
+variables, custom prompts, soft links, and ssh configuration " a collection
+of tools with modest capabilities, but which together can make life on the
+command line much more pleasant. In this last session there will also be
+time to continue working on the next-gen sequencing pipeline.
+
+The last afternoon is reserved for finishing off the next-gen workflow
+exercise, working on your own datasets, or leaving early for travel.
+
+-- 
+Bert Overduin, PhD
+TRAINING AND OUTREACH BIOINFORMATICIAN
+Bert.Overduin@ed.ac.uk
+orcid.org/0000-0002-5281-8838
+
+EDINBURGH GENOMICS
+The University of Edinburgh
+Ashworth Laboratories
+The King's Buildings
+Charlotte Auerbach Road
+Edinburgh EH9 3FL
+Scotland, United Kingdom
+
+tel. +44(0)1316507403 <+44%20131%20650%207403>
+http://genomics.ed.ac.uk
+
+
+
+Bert Overduin <Bert.Overduin@ed.ac.uk>
+
+

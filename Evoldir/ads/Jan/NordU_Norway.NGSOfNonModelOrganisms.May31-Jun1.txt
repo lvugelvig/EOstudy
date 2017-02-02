@@ -1,0 +1,25 @@
+Course: NordUNorway. HighThroughputSequencingOfNonModelOrganisms.
+May31-June1 
+
+High throughput sequencing (HTS) technologies are being applied to a wide
+range of important topics in biology. However, the analyses of non-model
+organisms, for which little previous sequence information is available,
+pose specific problems. This course will address the specific strengths
+and weaknesses of alternative HTS technologies, the computational
+resources needed for HTS, and how to analyze non-model species using
+HTS. The course consists of practical training in preparing and running
+fragment libraries, HTS bioinformatics training, and lecturing/seminars
+of HTS approaches specifically targeting non-model organisms.
+
+A detailed course description is available here. 
+
+We will accept a maximum of 10 students. The closing date for
+applications is April 29.
+
+If you have questions regarding the course, please contact Prof. Truls
+Moum at truls.b.moum@nord.no
+
+ 
+
+"Alexander-Jueterbock@web.de" <Alexander-Jueterbock@web.de>
+

@@ -1,0 +1,65 @@
+Dear colleagues,
+
+A *small* workshop entitled "co-evolution, fitness landscapes and
+epistasis" will take place in Paris, at the "Museum National d'Histoire
+Naturelle", 1-3 March 2017.
+
+The workshop aims at gathering scientists with various backgrounds
+(biologists, computer scientists, physicists and mathematicians) who work
+on the co-evolution within genomes, the fitness landscapes or even more
+generally on epistasis. The working time will be evenly split between
+presentations and questions / discussions. The list of confirmed speakers
+is provided below.
+
+It will start on wednesday (March the 1st) at lunch and will end on friday
+(March the 3rd) at lunch.  Workshop registration is free but mandatory
+(!). Meals expenses are not included but attendees will be encouraged
+to join common lunches in restaurants nearby as well as the diner of
+thursday evening. Travel and hotel expenses are also left to particpants.
+
+The number of attendees is limited to 50. Few slots are available for
+contributed talks.
+
+To register to the workshop, please reply to this email (to
+guillaume.achaz@mnhn.fr) and fill the following form:
+
+- Full Name :
+- Affiliation(s) :
+- Email :
+
+If you would like to present your work (beware that only few slots are
+available), please also provide:
+
+- a title
+- a list of the author(s)
+- an abstract.
+
+** Confirmed speakers **
+
+Thomas Bataillon (Université de Aarhus, DK)
+Claudia Bank (Gulbenkian Institute, Lisbonne, PT)
+Alessandra Carbone (UPMC, Paris, FR)
+Kristina Crona (Washington DC, USA)
+Luis-Miguel Chevin (CEPHE, Montpellier, FR)
+Julien Dutheil (Institut Max Planck, Plön, DE)
+Luca Ferretti  (Pribright Institute, UK)
+Raphaël Guerrois (CEA, Paris, FR)
+Joachim Krug (Université de Cologne, DE)
+Thomas Lenormand (CEFE, Montpellier FR)
+Guillaume Martin (ISEM, Montpellier, FR)
+Sebastian Matuszewski (EPFL, Lausane, SW)
+Olivier Tenaillon (Hopital Bichat, Paris, FR)
+Richard Watson (Southampton University, UK)
+Martin Weigt (UPMC, Paris, FR)
+Daniel Weinreich (Brown University, Providence, US)
+
+We hope to see you in Paris to share this exciting scientific event,
+
+Yours sincerely,
+
+The organizing comitee
+(Guillaume Achaz, Sophie Brouillet, Mathilde Carpentier,
+ Joël Pothier and Eduardo Rocha)
+
+"guillaume.achaz@mnhn.fr" <guillaume.achaz@mnhn.fr>
+
