@@ -1,0 +1,136 @@
+RECOMB COMPARATIVE GENOMICS 2016, CALL FOR PAPERS
+
+SCOPE
+The annual RECOMB Comparative Genomics Satellite Conference (RECOMB-CG) brings 
+together leading researchers in the mathematical, computational and life 
+sciences to discuss cutting edge research in comparative genomics, with  an 
+emphasis on computational approaches and the analysis of novel experimental 
+results. The program will include keynote talks, contributed talks, and a 
+poster session.
+
+The 14th RECOMB-CG conference will be held in MontrÃ©al, Canada, October 11-14
+2016. With this Call for Papers we invite high-quality original full papers on
+topics related to the conference theme. The conference will also have a poster 
+session. A detailed call for posters will be published later on the conference 
+web page.
+
+TOPICS
+Papers are solicited on, but not limited to, the following topics:
+- genome evolution
+- genome rearrangements
+- genome variation, diversity and dynamics
+- phylogenomics
+- comparative tools for genome assembly
+- population genomics
+- comparison of functional networks
+- comparative epigenomics
+- paleogenomics
+- cancer evolution genomics
+- epidemiology
+- gene identification and/or annotation
+
+IMPORTANT DATES
+Paper Submission Deadline: June 6, 2016
+Author Notification: July 8, 2016
+Final Version Due: July 22, 2016
+Conference: October 11-14, 2016
+
+DETAILS ON SUBMITTING MANUSCRIPTS
+Submitted papers must have not been published or be currently under
+consideration for publication in any other journal or conference with formal 
+proceedings. All accepted papers will have to be presented by one of the 
+authors at the conference.
+
+Accepted papers will be published in one of three journals:
+- a special issue of BMC Genomics, edited by a RECOMB-CG PC chair,
+- a special issue of BMC Bioinformatics, edited by a RECOMB-CG PC chair,
+- a special section of a regular issue of Bioinformatics (Oxford University
+  Press), edited by a RECOMB-CG PC chair and a Bioinformatics Associate 
+  Editor.
+
+As BMC Genomics and BMC Bioinformatics are Open Access journals, there will be 
+an author fee of Â922 (922 Pounds Sterling) for publication in the event that
+an article is accepted in one of these two journals.
+
+Papers accepted for presentation at the conference and considered for 
+publication in Bioinformatics will be subject to an extra round of reviewing 
+to ensure they meet the usual standards of the journal. Papers appearing in 
+Bioinformatics will be subject to the regular fees of Bioinformatics for 
+extra pages and colour figures for example.
+
+Authors will need to indicate upon submission their preferred publication
+option (BMC Genomics, BMC Bioinformatics, Bioinformatics). This preference
+should be stated in the Abstract section of the Easychair submission page.
+However, the final decision about the journal for each paper will be taken by 
+the RECOMB-CG PC chairs and communicated to the authors upon acceptance. 
+
+Papers must be submitted in PDF format according to the guidelines for authors 
+of the respective journal:
+https://bmcbioinformatics.biomedcentral.com/submission-guidelines/preparing-your-manuscript
+http://www.oxfordjournals.org/our_journals/bioinformatics/for_authors/general.html
+
+Papers submitted in BMC format must be within 10 pages, while papers submitted
+in Bioinformatics format must be limited to 7 pages. In both cases a clearly 
+marked appendix can be added to the submission that contains supplementary 
+material made available to the reviewers.
+
+All submissions must be made online, through the EasyChair submission system,
+at the following address:
+https://easychair.org/conferences/?conf=recombcg2016
+
+Authors need to register on that web site before submitting. A standard PDF 
+file must be received by midnight on June 6, 2016 (any time  zone) in order 
+for a submission to be considered. Re-submission of already submitted papers 
+will be possible until midnight June 8, 2016 (any time zone).
+
+KEYNOTE SPEAKERS
+Guillaume Bourque (McGill University and Genome Quebec)
+JosÃ©e Dostie (McGill University)
+Edward Marcotte (University of Texas at Austin)
+Rebekah Rogers (University of California at Berkeley)
+Sohrab Shah (University of British Columbia and BC Cancer Agency)
+
+PROGRAM COMMITTEE
+Max Alekseyev (George Washington University)
+Lars Arvestad (Stockholm University)
+Anne Bergeron (UQAM)
+Marilia Braga (Bielefeld University)
+Cedric Chauve (Simon Fraser University, co-chair)
+Leonid Chindelevitch (Simon Fraser University)
+MiklÃ³s CsÅ±rÃ¶s (University of MontrÃ©al)
+Ingo Ebersberger (Goethe University Frankfurt)
+Nadia El-Mabrouk (University of MontrÃ©al, co-chair)
+Guillaume Fertin (University of Nantes)
+Katharina Jahn (ETH Zurich) 
+Asif Javed (Genome Institute of Singapore)
+Ketil Malde (Institute of Marine Research, Norway)
+IstvÃ'n MiklÃ³s (RÃ©nyi Institute, Hungarian Academy of Sciences)
+Bernard Moret (EPFL)
+AÃ¯da Ouangraoua (University of Sherbrooke)
+Teresa Przytycka (NCBI)
+Marie-France Sagot (INRIA, LBBE, Lyon)
+Michael Sammeth (Federal University of Rio de Janeiro)
+Jens Stoye (Bielefeld University)
+Krister Swenson (CNRS, University of Montpellier)
+Eric Tannier (INRIA, LBBE, Lyon)
+Glenn Tesler (UCSD)
+Tamir Tuller (Tel Aviv University)
+Lusheng Wang (City University of Hong Kong)
+Tandy Warnow (University of Illinois at Urbana-Champaign)
+Louxin Zhang (National University of Singapore)
+Jie Zheng (Nanyang Technological University)
+Chunfang Zheng (University of Ottawa)
+
+CONTACT
+http://www.crm.math.ca/Genomics16
+cedric.chauve@sfu.ca
+nadia.el-mabrouk@umontreal.ca
+
+Cedric Chauve, PhD
+Professor, Department of Mathematics
+Simon Fraser University
+http://paleogenomics.irmacs.sfu.ca/
+http://www.cecm.sfu.ca/~cchauve
+
+Cedric Chauve <cedric.chauve@sfu.ca>
+

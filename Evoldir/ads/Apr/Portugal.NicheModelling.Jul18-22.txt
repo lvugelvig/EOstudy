@@ -1,0 +1,86 @@
+ INTRODUCTION TO NICHE MODELLING
+ SECOND EDITION
+ 18-22 July 2016
+ Observatorio Astronomico Prof. Manuel de Barros
+ Faculty of Sciences  o  University of Porto
+ Alameda do Monte da Virgem, Vila Nova de Gaia, Portugal
+ 
+ Do you want to know what is an Niche Model and how to calculate
+ it? Do you want to use ecological niche models to support a species'
+ description? Or to evaluate niche conservatism inside a taxonomical group?
+ This course will teach you the base theory of ecological niche modelling
+ and its main methodologies. By the end of this 5-day practical course, you
+ will have the capacity to perform ecological niche models and understand
+ their results. You will be able to choose and apply the correct
+ methodology depending in the aim of your study and type of datasets.
+ 
+ This course is orientated to PhD and MSc students, as well as other
+ students and researchers working on biogeography, evolutionary biology,
+ systematists, or related disciplines. Participants will receive a diploma
+ of course attendance, copies of presentations and materials used, one
+ selection of the most relevant articles on Niche Modelling, and
+ a copy of programs and other tools used in the course.
+ 
+ The course will be mainly practical, with some theoretical lectures. All
+ modelling processes and calculations will be performed with R, the free
+ software environment for statistical computing and graphics
+ (http://www.r-project.org/). Students will learn to use modelling
+ algorithms like Maxent, Bioclim, Domain, and logistic regressions, and R
+ packages for computing ENMs like Dismo and Biomod2. Also, students will
+ learn to compare different ecological niche models with Ecospat package.
+ 
+ **
+ Recommended Background
+ Basic knowledge in Geographical Information Systems and R statistical
+ package is necessary.
+ 
+ **
+ Course Format
+ The first course day will be mainly theoretical. The following days will
+ be mainly practical with some short theoretical presentations.  The course
+ will be lectured in English.
+ 
+ **
+ Lecturer
+ Neftali Sillero
+ Assistant Researcher
+ Centro de Investigac,ao em Ciencias Geo-Espaciais (CICGE), Faculdade de
+ Ciencias, Universidade do Porto
+ 
+ **
+ Course Information and Registration
+ On
+ *l*
+ y 24 inscriptions!
+ The registration fee is 150EUR.
+ Registration deadline: 1/7/2016.
+ Students must bring their own laptops!
+ 
+ Dates: 18-22 July 2015.
+ Venue: Observatorio Astronomico Prof. Manuel de Barros, Alameda do Monte
+ da Virgem, Vila Nova de Gaia (Portugal).
+ https://goo.gl/maps/Xaxfe
+ 
+ **
+ More information in:
+ https://www.facebook.com/ pages/Introduction-to-
+ Ecological-Niche-Modelling/ 359229247606906
+ https://sites.google.com/site/ neftalisillero/Home/enm-course
+ --
+ Neftali Sillero
+ Assistant Researcher
+ https://sites.google.com/site/neftalisillero/
+ https://scholar.google.pt/citations?user=yJHOX7IAAAAJ&hl=en
+ http://na2re.ismai.pt/
+ neftali.sillero@gmail.com
+ 
+ CICGE: Centro de Investigac,ao em Ciencias Geo-Espaciais
+ Faculdade de Ciencias da Universidade do Porto
+ Observatorio Astronomico Prof. Manuel de Barros
+ Alameda do Monte da Virgem
+ 4430-146 Vila Nova de Gaia, Portugal
+ 
+ Life is too short to eat bad chocolate
+
+Neftalí Sillero <neftali.sillero@gmail.com>
+

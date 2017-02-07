@@ -1,0 +1,224 @@
+PHYLOGENOMICS SUMMER SCHOOL 2016 (MAY 29TH - JUNE 3RD)
+
+http://mcinerneylab.com/evolution/phylogenomics-summer-school-2016-may-29th-june3rd/
+
+(Est. 1999)
+
+What?: Week-long, intensive phylogenetics course covering all aspects of
+bioinformatics and phylogenetics/phylogenomics.  Where?: Department of
+Biology, National University of Ireland Maynooth.  This is approximately
+40 minutes from Dublin Airport (Serviced by Aer Lingus, British Airways,
+Ryanair, American Airlines, Lufthansa, Air France, etc.) ,  25km from
+the centre of Dublin, Ireland.  When?: Sunday May 29th - Friday June 3rd
+(inclusive), 2016.
+
+Who is it for?: This course starts with the basics of bioinformatics
+- unix computer usage, genome assembly, gene prediction and genome
+annotation.
+
+The course then leads on to phylogenetic reconstruction and deals with
+all the major methods and all kinds of data from genes to genomes.
+Therefore, it is particularly suited to researchers that have a keen
+interest in phylogenetic reconstruction, but have little or no practical
+experience or theoretical background (ideally suited to new Masters/PhD
+students/post-docs, but also investigators moving into this area of
+research).
+
+We welcome organismal phylogeneticists or genome scientists who are trying
+to make sense of the evolutionary history of any kind of gene or genome.
+
+Who has taken this course in the past?: Researchers from every continent
+and every stage of their career, from early-stage Masters students,
+to Professors with 40 years experience in research.
+
+Course structure: Every day will begin with formal lectures covering all
+parts of phylogenetic reconstruction.  The afternoons will be taken up
+with practicals.  In addition, the course will have specific lectures that
+demonstrate "use cases" for phylogenetics, with examples from prokaryotes,
+animals, plants, protozoans and fungi.
+
+Student involvement:  All students are expected to give a five minute
+presentation of their research agenda.  This will happen towards the
+beginning of the week, in order to encourage discussions during the
+course.
+
+Course fee: 750. This includes a welcome reception on Sunday May 29th,
+all coffee breaks and all lunches during the week and the course dinner
+on Thursday evening. It does not include accommodation.
+
+Accommodation: If you are accepted on the course, we will make several
+recommendations for inexpensive (27 - 70 per night) or more
+luxurious accommodation (100-250 per night).  You must organise
+and pay for your own accommodation.
+
+Application process:
+
+You first place an order for a place on the course (email
+phyloinformatic@gmail.com).  You must include your CV and a half-page
+letter of interest, stating your position and why you want to do the
+course.  You will get a yes/no answer within two working days and if the
+answer is yes, you will get a link to a BACS payment system.  You will
+then have five working days to make the payment. Your place on the course
+will be held for that time.  Please email us at phyloinformatic@gmail.com
+if you need more information.
+
+Note 1: All students will be presented with a certificate of completion
+for this course and it can be used as part of post-graduate studies.
+
+Note 2: We have found it better if students bring their own laptops.
+Please let us know if this is a problem for you and we will supply
+a laptop.
+
+Programme 'V tentative and subject to change
+
+Day 1 (Sunday May 29th, 2016)  '¨Meet and Greet'¨
+
+Meeting with students.(8:00PM) '§Welcome introductions and refreshments'¨
+
+Day 2 (Monday May 30th, 2016) '§Setting the scene'¨
+
+Lecture I (9.00 'V 10.30): James McInerney 'V '§Introduction to Gene
+and Genome Evolution'¨
+
+Coffee break (10.30 'V 10.45) (Provided by the course)
+
+Student introductions and presentations I (10.45 'V 12.30)
+
+Lunch (12.30-1.30) (Provided by the course)
+
+Student introductions and presentations II ( 1.30 'V 3:00)
+
+Coffee Break (3.00 'V 3.15) (Provided by the course)
+
+Practical session I (3.15 'V 5.00): David Fitzpatrick (leading
+demonstrator) 'V '§Unix pipelining and the automation of analyses in
+comparative genomics and phylogenomics I'¨
+
+Seminar I (5.00 'V 5.45): Mary O'Connell 'V '§Phylogenomics and the
+Evolution of Function'¨
+
+Day 3 (Tuesday May 31st, 2016) "Putting Order On The Data"
+
+Lecture II (9.00-10.30): James McInerney - "BLAST - sequence similarity,
+database searching and statistics"
+
+Coffee break (10.30 - 10.45) (provided by the course)
+
+Practical session II (10.45 - 12.30) David Fitzpatrick (leading
+demonstrator) - "Short read assembly using Velvet"
+
+Lunch (12.30-1.30) (Provided by the course)
+
+Practical session III (1.30-3.00) David Fitzpatrick (leading demonstrator)
+- "Gene prediction using GeneMark"
+
+Coffee break (3.00 - 3.15)
+
+Practical session IV (3.15-5.00) David Fitzpatrick (leading demonstrator)
+- "Genome annotation using Interpro"
+
+Seminar II (5.00 -5.45): James McInerney - "Evolutionary Analyses of
+Eukaryote Origins.
+
+Day 4 (Wednesday June 1st, 2016) '§Theory and Practice'¨
+
+Lecture III (9.00 'V 10.30): James McInerney 'V '§Maximum Parsimony,
+Evolutionary Distances & Molecular Clocks I'¨
+
+Coffee break (10.30 'V 10.45) (Provided by the course)
+
+Lecture IV (10.45 'V 12.30) James McInerney 'V '§Maximum Parsimony,
+Evolutionary Distances & Molecular Clocks II'¨
+
+Lunch (12.30-1.30) (Provided by the course)
+
+Practical session V ( 1.30 'V 3:00): David Fitzpatrick (leading
+demonstrator) 'V '§Multiple sequence alignment using clustal'¨
+
+Coffee Break (3.00 'V 3.15) (Provided by the course)
+
+Practical session VI (3:15-5:00): Mary O'Connell (leading demonstrator)
+'V '§Parsimony and Distance analyses'¨
+
+Seminar III (5.00-5.45): David Fitzpatrick '§Fungal Phylogenomic Analyses'¨
+
+Day 5 (Thursday June 2nd, 2016) '§Single gene analyses'¨
+
+Lecture V (9.00 'V 10.30): Mary O'Connell 'V '§Searching tree space
+and determining support'¨
+
+Coffee break (10.30 'V 10.45) (Provided by the course)
+
+Lecture VI (10.45 'V 12.30): James McInerney 'V '§Introduction to
+Maximum Likelihood and Bayesian Analyses'¨
+
+Lunch (12.30 'V 1.30) (Provided by the course)
+
+Practical session VII (1.30 'V 3.00): Mary O'Connell (leading
+demonstrator) - "Model selection using Maximum Likelihood -
+ModelGenerator"
+
+Coffee Break (3.00 'V 3.15) (Provided by the course)
+
+Practical session VIII (3.15 'V 5.00):  David Fitzpatrick 'V
+'§Troubleshooting phylogenomics'¨
+
+7:00: Conference Mixer
+
+Day 6 (Friday June 3rd, 2016) '§Using Phylogenies'¨
+
+Lecture VII (9.00 'V 10.30): James McInerney  (leading demonstrator)
+'V '§PAUP Maximum Likelihood'¨
+
+Coffee Break (10:30 'V 10:45) (Provided by the course)
+
+Practical session IX (1.30 'V 3.00): James McInerney (leading
+demonstrator) 'V '§MrBayes & Phylobayes 'V Bayesian phylogenomics'¨
+
+Lunch (12.30 1.30) (Provided by the course)
+
+Practical session X (3.15 'V 5.00): Mary O'Connell (leading demonstrator)
+'V '§Unix pipelining and the automation of analyses in comparative
+genomics and phylogenomics II'¨
+
+Coffee Break (3.00 'V 3.15) (Provided by the course)
+
+Practical session X (3.15 'V 5.00): Student Data Analysis (all teachers
+and demonstrators)
+
+Course ends
+
+Software Programs we will use:
+BLAST
+Velvet
+GeneMark
+InterproScan
+Clustal Omega
+PAUP
+Phylobayes
+RAxML
+ModelGenerator
+
+Learning Outcomes:
+1.  Basic understanding of Unix-like operating systems.
+2.  You will know how to assemble a genome and what to look out for while
+    assembling.
+3.  You will know how to find genes in a genome.
+4.  You will know how to annotate a genome using interpro.
+5.  Understanding of the questions that can be answered using
+    phylogenetic reconstruction
+6.  You will know how alignments are constructed.
+7.  You will know how Maximum Parsimony, Distance Matrix, Maximum
+    Likelihood and Bayesian methods work.
+8.  You will know how to test for signal in your data.
+9.  You will know how to analyse your phylogenetic hypotheses for
+    robustness.
+10. You will know how to use phylogenies in order to detect selective
+    constraints on protein-coding sequences.
+11. You will know how to test phylogenetic models.
+12. You will see how phylogenetics can be extended to phylogenomics.
+
+Email us at:  phyloinformatic@gmail.com
+
+James Mcinerney <James.McInerney@manchester.ac.uk>
+

@@ -1,0 +1,152 @@
+Please note, the application period has been extended until 8th April 2016.
+
+Please apply to ccmaratt@ualg.pt
+
+------
+
+ADVERTISEMENT WEBSITE: http://att.ccmar.ualg.pt/statistical_genetics_2016
+
+WORKSHOP IN STATISTICAL GENETICS - taught by BRUCE WEIR - Professor of
+Biostatistics, and Director of the Institute of Public Health Genetics at
+the University of Washington. Bruce Weir is the author of the textbook
+"Genetic Data Analysis" (3rd edition in preparation) and he has directed
+the Summer Institute in Statistical Genetics since 1996.
+http://www.gs.washington.edu/faculty/weir.htm,
+http://www.ncbi.nlm.nih.gov/pubmed/?term=Bruce+Weir
+
+DESCRIPTION: A unified treatment for the analysis of discrete genetic data,
+starting with estimates and sample variances of allele frequencies to
+illustrate genetic vs statistical sampling and Bayesian approaches. A
+detailed look at Hardy-Weinberg and linkage disequilibrium, including the
+use of exact tests with mid-p-values and a new look at X-chromosome
+Hardy-Weinberg testing. A new characterization of population structure with
+F-statistics, based on allelic matching within and between populations with
+individual relationship estimation as a special case. Analyses illustrated
+with applications to forensic science and association mapping, with
+particular reference to rare variants.
+
+VENUE: Centre of Marine Sciences, University of the Algarve, Faro,
+Portugal. http://ccmar.ualg.pt - Google maps: https://goo.gl/cM78fp
+
+DATE: 8th-9th September 2016
+
+FORMAT: 2-day workshop, lectures and hands-on practical sessions (attendees
+will need to bring laptops). The course is equivalent to 3 European ECTS
+credits.
+
+INTENDED AUDIENCE: PhD students, post-doctoral and advanced researchers
+(but no formal restriction)
+
+REGISTRATION FEE: 240 euro
+
+Registration does not include travel and lodging. Faro has an international
+airport located 4 km from the Gambelas Campus of the University of Algarve
+where the course will take place.
+
+HOW TO APPLY: Applications in the form of a CV and motivational letter
+should be sent to ccmaratt@ualg.pt by *8th April 2016*. Applicants will
+be selected on merit and successful applicants will be informed by 10th
+April 2016.
+
+SCHOLARSHIPS: At least 2 scholarships to cover registration fees will be
+awarded to PhD students; applicants should indicate if they would like to
+be considered and must send proof of student status.
+
+ACCOMMODATION: Recommended: Hotel Aeromar at Faro beach (
+http://www.aeromar.net/en) has temporarily reserved (until 31st May) and
+discounted 8 double rooms, priced 62.5 euro and 80 euro, double and single
+occupancy, respectively (mention CCMAR reservation when booking).
+Additional accommodation at the beach and in Faro centre:
+http://goo.gl/mgG85g. A minibus service will run between the beach, town
+centre, and campus.
+
+CONTACTS:
+Ester Serrão - Assistant Professor, UALG/CCMAR - eserrao@ualg.pt
+Cymon J. Cox - FCT Coordinating Researcher, CCMAR - cymon@ualg.pt
+
+Advanced Technologies and Training programme @ CCMAR 2016
+ccmaratt@ualg.pt <ccmaratt@ccmar.ualg.pt>,
+att.ccmar.ualg.pt/statistical_genetics_2016
+
+The Centre of Marine Sciences (Centro de Ciências do Mar, CCMAR) is an
+independent multidisciplinary, non-profit institute located on the Gambelas
+campus of the University of the Algarve in Faro with ~250 members and a
+mission to promote research and education in the marine sciences. Faro (
+http://www.algarve-tourist.com/Faro-portugal-guide.html) is the capital
+city of the Algarve region of southern Portugal and borders the Ria Formosa
+National Park (http://www.formosamar.com/en). The Algarve (
+http://www.visitalgarve.pt/?idioma=uk) boasts > 300 days of sun per year,
+stunning beaches and mountain vistas, opportunities for diving, golf, and
+other sporting activities, and a unique traditional regional cuisine (esp.
+seafood). A variety of optional social activities will be organised to
+coincide with the course and special events can be organised upon request
+for participants and/or accompanying persons (diving, surf, stand-up
+paddle, windsurf, kayaking, horse-riding, tennis, bird-watching, nature
+walks, boat guided tours, fishing, etc).
+
+Bruce Weir - Recent Publications:
+
+Zhu ZH, Bakshi1 A, Vinkhuyzen AAE, Hemani G, Lee SH, Nolte IM,  van
+Vliet-Ostaptchouk JV,  Snieder H, The LifeLines Cohort Study,  Esko T,
+Milani L, Mägi R,  Metspalu A,  Hill WG,  Weir BS, Goddard ME, Visscher PM,
+Yang J. 2015. Dominance genetic variation contributes little to the missing
+heritability for human complex traits. American Journal of Human Genetics
+96:377-385.
+
+Wasser SK, Brown L, Mailand C, Mondol S, Clark W, Laurie C, Weir BS. 2015.
+Genetic assignment of large seizures of elephant ivory reveals Africa's
+major poaching hotspots. Science 349:84-87.
+
+Graffelman J, Nelson S, Gogarten SM, Weir BS. 2015. Exact Inference for
+Hardy-Weinberg proportions with missing genotypes: Single and multiple
+imputation. G3 (Genes, Genomes, Genetics) 5:2365-2373.
+
+Weir BS, Zheng X. 2015. SNPs and SNVs in Forensic Science. Forensic Science
+International: Genetics Supplement Series 5:e267-e268.
+
+Zheng X, Weir BS. 2015. Eigenanalysis of SNP data with an interpretation of
+identity by descent. Theoretical Population Biology 107:65-76.
+
+Conomos MP, Reiner AP, Weir BS, Thornton TA. 2016. Model-free estimation of
+recent genetic relatedness. American Journal of Human Genetics 98:127-148.
+
+Conomos MP, Laurie CA, Stilp AM, Gogarten SM, McHugh CP, Nelson SC, Sofer
+T, Fernandez-Rhodes L, Justice E, Graff M, Young KL, Seyerle AA, Avery CL,
+Taylor KD, Rotter JT, Talavera GA, Daviglus ML Wassertheil-Smoller S,
+Schneiderman N, Heiss G, Kaplan RC, Franceschini N, Reiner AP, Shaffer JR,
+Barr RG,  Kerr KF, Browning SR, Browning BL, Weir BS,  Aviles-Santa ML,
+Papanicolaou GJ, Lumley T, Szpiro AA, North KE,  Rice K, Thornton TA,
+Laurie CC. 2016. Genetic diversity and association studies in U.S.
+Hispanic/Latino populations: Applications in the Hispanic Community Health
+Study/Study of Latinos. American Journal of Human Genetics 98:165-184.
+
+Schick UM, Jan D, Hodonsky CJ, Morrison JV, Dvis JP, Brown L, Sofer T,
+Conomos MP, Schumann C, McHugh CP, Nelson SC, Vadiamudi S, Stilp A,
+Plantinga A, Baier L, Bien SA, Gogarten SM, Laurie CA, Taylor KD, Liu Y,
+Auer PL, Franceschini N, Szpiro A, Rice K, Kerr KF, Roter JI, Hanson RL,
+Papanicolaou, Rich SS, Loos RJF, Browing BL, Browning SR, Weir BS, Laurie
+CC, Mohike KL, North KE, Thornton TA, Reiner AP. 2016. Genome-wide
+association study of platelet count identifies ancestry-specific loci in
+Hispanic/Latino Americans. American Journal of Human Genetics 98:229-242.
+
+Curran JM, Weir BS. 2016. Modern methods of DNA interpretation. Chance (in
+press)
+
+Graffelman J, Weir BS. 2016. Testing for Hardy-Weinberg equilibrium at
+bi-allelic genetic markers on the X chromosome. 2016. Heredity (in press)
+
+Buckleton JS, Curran JM, Goudet J, Taylor D, Thiery A, Weir BS. 2016.
+Population-specific Fst values: A worldwide survey. Forensic Science
+International: Genetics (in press).
+
+-- 
+
+Cymon J. Cox
+
+FCT Investigador - Coordinating Researcher
+Plant Systematics and Bioinformatics Research Group (PSB)
+Centro de Ciencias do Mar (CCMAR) - CIMAR-Lab. Assoc.
+<http://orcid.org/0000-0002-4927-979X>
+
+cymon.cox@googlemail.com
+

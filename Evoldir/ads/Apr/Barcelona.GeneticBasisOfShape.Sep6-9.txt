@@ -1,0 +1,48 @@
+Dear colleagues,
+
+There are a few places still available for the course "From Phenotype to
+Genotype: The Genetic Bases of Shape - 3rd Edition"; September 6-9, 2016.
+
+Instructors: Dr. Neus Martínez-Abadías (Centre for Genomic Regulation, Spain)
+and Dr. Nicolas Navarro (École Pratique des Hautes Études, France).
+
+Site:  Premises of Sabadell of the Institut Catalá de Paleontologia Miquel
+Crusafont (Barcelona, Spain).
+
+Course Webpage: http://www.transmittingscience.org/courses/gen/quant-gen-shape/
+
+The aim of this course is to provide participants with an overview of
+quantitative genetics, with specific application to shape analysis and
+decomposition of phenotypic variation into components of genetic and
+environmental variation. The basic theoretical concepts of resemblance between
+relatives, heritability, estimates of selection, and geometric morphometrics
+will be introduced. Practical lessons will enable participants to learn to use
+user-friendly (and not so user-friendly) software packages to estimate
+heritability, phenotypic and genetic variance covariance matrices, response to
+hypothetical selection, actual selection and QTL mapping.
+
+Participants are encouraged to bring their own data for analysis and discussion
+in the course. Morphometric data involves any kind of quantitative shape data
+collected on individuals, such as linear measurements and/or 2D or 3D landmark
+coordinates. Pedigree files usually consist of text files with a list of three
+columns (individual ID, father ID, mother ID). Specific details about formatting
+these files will be provided during the practical lessons.
+
+This course is co-organized by Transmitting Science and the Institut Catalá de
+Paleontologia M. Crusafont. Place are limited and will be covered by strict
+registration order.
+
+Please feel free to distribute this information between your colleagues if you
+consider it appropriate.
+
+With best regards
+
+Sole
+
+Soledad De Esteban-Trivigno, PhD.
+Scientific Director
+Transmitting Science
+www.transmittingscience.org
+
+soledad.esteban@transmittingscience.org
+

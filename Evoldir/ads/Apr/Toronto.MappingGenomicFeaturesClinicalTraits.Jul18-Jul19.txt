@@ -1,0 +1,96 @@
+Canadian Bioinformatics Workshops present:
+Next Generation Methods for Mapping Genomics Features and Clinical Traits
+
+Course Dates: July 18 - 19
+
+Instructors: Philip Awadalla (Ontario Institute for Cancer Research)
+and Stephen Montgomery (Standford University)
+
+Location: Downtown Toronto, ON
+
+Registration:
+https://bioinformatics.ca/workshops/2016/next-generation-methods-mapping-genomic-features-and-clinical-traits-2016
+
+This 2 day workshop focuses on the genetics and analysis of genomes
+and quantitative traits in human populations, with emphasis on
+population genetic inference, genetic mapping, estimation and prediction
+analysis of discrete (diseases) and quantitative traits using genomic
+resources. Principles and pitfalls of prediction analyses using genetic
+markers and eQTL mapping will also be discussed.
+
+Participants will gain practical experience and skills to be able to:
+
+* Estimate population genetic parameters using partial or whole-genome data
+* Infer relatedness from genomic data
+* Evaluate GWAS data for quantitative traits
+* Use GWAS data to estimate and partition genetic variance
+* Infer Gene x Environment interactions using multi-omic approaches (eg. eQTL mapping)
+
+Course Outline
+
+Day 1
+
+Module 1 - Concepts in Population Genomics (2016)
+
+Basic concepts in population genomics (drift, structure, inbreeding)
+Parametric and Non-parametric Inference in population genetics for
+inferences of mutation
+
+Lab Practical: The following lab exercises will be done in R
+
+Hapmap/genotyping data vs. whole genome/sequencing data
+Simulations ¡V coalescent, forward simulations
+MCMC ¡V extensions of the coalescent, capturing and estimating mutation
+and recombination events/rates
+
+Module 2 - Extensions in Population Genomics (2016)
+
+The coalescent
+Extensions of the coalescent including inferences of recombination and
+population structure
+
+Module 3 - QTLs (2016)
+
+Basic concepts in QTL mapping in inbred populations and outbred populations
+Linkage analysis for quantitative traits
+
+Lab Practical:
+
+Principals of linkage analyses (PLINK, Merlin)
+Analytical treatment of discrete (binary) outcome data versus continuous data
+
+Day 2
+
+Module 4 - More QTLs (2016)
+
+Whole genome linkage analysis
+GWAS for quantitative traits
+Imputation
+
+Lab Practical:
+
+GCTA, Replication and Multiple testing correction
+Covariates and relatedness
+
+Module 5 - Gene x Environment (2016)
+
+Basic concepts in gene expression analysis: RNAseq, eQTLs inferences
+Integrating phenotypic and environmental data
+
+Module 6 - Functional Annotation of Mutations & Haplotypes (2016)
+
+Impact of selection and disease on mutations
+Classical approaches to mapping mutations and genes under selection or
+potentially damaging/associated with disease
+Constraint and selection,- polyphen, SIFT, GERP, etc.
+
+Lab Practical:
+
+Modeling dominance and functional impact
+Inferences using whole genome data of constraint
+Simulations and analyses of mutation trajectories and impact on linked loci
+
+Registration and Travel awards available.
+
+Ann Meyer <Ann.Meyer@oicr.on.ca>
+

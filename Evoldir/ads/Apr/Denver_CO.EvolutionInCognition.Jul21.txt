@@ -1,0 +1,108 @@
+Workshop:Denver_CO.EvolutionInCognition.July21
+
+Evolution in Cognition Workshop
+July 21
+to be held as part of the
+
+2016 Genetic and Evolutionary Computation Conference (GECCO-2016)
+ July 20-24, Denver, Colorado, USA
+
+Organized by ACM SIGEVO
+  http://gecco-2016.sigevo.org
+
+Webpage: http://lis2.epfl.ch/events/workshops/GECCO2016/
+ Submission Deadline extended: April 12th, 2016
+
+=== Topic =Evolution by natural selection has shaped life over billions of years
+leading to the emergence of complex organism capable of exceptional
+cognitive abilities. These natural evolutionary processes have inspired
+the development of Evolutionary Algorithms (EAs), which are optimization
+algorithms widely popular due to their efficiency and robustness. Beyond
+their ability to optimize, EAs have also proven to be creative and
+efficient at generating innovative solutions to novel problems. The
+combination of these two abilities makes them a tool of choice for the
+resolution of complex problems.
+
+Even though there is evidence that the principle of selection on
+variation is at play in the human brain, as proposed in Changeux's and
+Edelman's models of Neuronal Darwinism, and more recently expanded
+in the theory of Darwinian Neurodynamics by Szathmáry, Fernando and
+others, not much attention has been paid to the possible interaction
+between evolutionary processes and cognition over physiological time
+scales. Since the development of human cognition requires years of
+maturation, it can be expected that artificial cognitive agents will
+also require months if not years of learning and adaptation. It is in
+this context that the optimizing and creative abilities of EAs could
+become an ideal framework that complement, aid in understanding, and
+facilitate the implementation of cognitive processes. Additionally, a
+better understanding of how evolution can be implemented as part of an
+artificial cognitive architecture can lead to new insights into cognition
+in humans and other animals.
+
+The goals of the workshop are to depict the current state of the art
+of evolution in cognition and to sketch the main challenges and future
+directions. In particular, we aim at bringing together the different
+theoretical and empirical approaches that can potentially contribute to
+the understanding of how evolution and cognition can act together in an
+algorithmic way in order to solve complex problems. In this workshop
+we welcome approaches that contribute to an improved understanding of
+evolution in cognition using robotic agents, in silico computation as
+well as mathematical models.
+
+Keywords: Evolutionary Computation, Evolution, Cognition, Darwinian
+Neurodynamics, Neuronal Darwisnism, robotics.
+
+=== Invited speakers =	-	Prof. Eörs Szathmary
+	-	Prof. Jeff Krichmar
+	-	Prof. Arne Dietrich
+
+=== Organizers =	-	Prof. Stéphane Doncieux, University Pierre and Marie Curie, France
+	-	Dr. Joshua Auerbach, EPFL, Switzerland
+	-	Prof. Richard Duro, Universidade da Coruna, Spain
+	-	Dr. Harold P. de Vladar, Parmenides Foundation, Germany
+
+=== Workshop format This is a half day workshop with invited talks and a session dedicated to
+posters, videos and demonstrations. The session will start with a short
+teaser of posters and demonstrations. Videos will also be displayed
+afterwards.
+
+=== Submissions and deadlines =Submission: extended abstracts (2-4 pages) following ACM template should
+be sent in electronic form (pdf) to eic_2016@isir.upmc.fr
+	-	April 3rd, 2016: Papers Submission Deadline
+	-	April 20th, 2016: Notification of Acceptance
+	-	May 4th, 2016: Camera-Ready Paper Submission
+	-	July 21st, 2016: Workshop
+
+Each accepted abstract will be presented in one or more of the following
+formats:
+	-	poster
+	-	2-minutes video
+	-	demonstration
+
+Your submission email should specify in which of these formats you would
+like to present.
+
+Original works, position papers as well as overviews of author's recent
+work are all welcome.
+
+All abstracts will be included in the GECCO workshop proceedings, unless
+explicitly required by the authors (for copyright reason, for instance).
+
+GECCO is sponsored by the Association for Computing Machinery Special
+Interest Group on Genetic and Evolutionary Computation (SIGEVO). SIG
+Services: 2 Penn Plaza, Suite 701, New York, NY, 10121, USA,
+1-800-342-6626 (USA and Canada) or +212-626-0500 (Global).
+
+Stéphane Doncieux, Josh Auerbach, Richard Duro and Harold P. de Vladar
+
+Harold P. de Vladar
+
+Center for the Conceptual Foundations of Science.
+Parmenides Foundation.
+Kirchplatz 1, 82049 Pullach, Germany
+
+hpvladar.wordpress.com
+www.parmenides-foundation.org
+
+"Harold P. de Vladar" <Harold.Vladar@parmenides-foundation.org>
+

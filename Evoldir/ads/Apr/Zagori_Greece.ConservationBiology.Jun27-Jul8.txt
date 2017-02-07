@@ -1,0 +1,31 @@
+8th Greek Summer School in Conservation Biology
+- Biodiversity Theory and Practice -
+Zagori, Greece, 27 June to 8 July, 2016
+
+This international course which is held under the aegis of SCB-Europe 
+(Society for Conservation Biology) and of HELECOS (the Hellenic 
+Ecological Society) aims to equip participants with an understanding of 
+the principles of modern biodiversity theory and its role in 
+Conservation Biology. They will learn practical skills for biodiversity 
+fieldwork including sampling design and monitoring. Students will learn 
+how to analyze ecological data with R using some of the main packages 
+for biodiversity data analysis and have the opportunity to try these out 
+on their own datasets.
+
+Further details can be found on the website: http://gss.bat.uoi.gr/
+
+Application deadline: 22 April 2016
+
+-- 
+Dr. Martin Wiemers
+Department of Community Ecology
+Helmholtz Centre for Environmental Research - UFZ
+Theodor-Lieser-Str. 4
+06120 Halle
+Germany
+Tel. +49 345 558-5322
+e-mail: martin.wiemers@ufz.de
+http://www.ufz.de/index.php?en=31235
+
+Martin Wiemers <martin.wiemers@univie.ac.at>
+

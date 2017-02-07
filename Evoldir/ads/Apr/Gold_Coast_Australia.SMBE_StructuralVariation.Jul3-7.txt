@@ -1,0 +1,55 @@
+Dear colleagues,
+
+We are pleased to announce the symposium "Structural variation in the light
+of new sequencing technologies" as part of the July 2016 SMBE meeting in
+Gold Coast, Australia. We encourage you to submit your abstracts for oral
+presentations before April 22 (http://smbe2016.org/).
+
+INVITED SPEAKERS:
+Esther Betrán (The University of Texas at Arlington)
+Tomas Marques-Bonet (Institut Biologia Evolutiva, Universitat Pompeu
+Fabra/CSIC, Barcelona)
+
+ORGANIZERS:
+Arcadi Navarro, Diego Hartasanchez, Marina Brasó-Vives and Josephine Daub 
+(Institut Biologia Evolutiva, Universitat Pompeu Fabra/CSIC, Barcelona,
+Spain)
+Hideki Innan (The Graduate University for Advanced Studies, Hayama, Japan)
+
+SUMMARY:
+Structural variation, including segmental duplications, copy-number
+variation and inversions, constitute a substantial part of variation in the
+genomes of humans and other species. Structural variation plays a
+significant role in evolution, since it can lead to large-scale functional
+innovation. A better knowledge of the way structural variants arise and
+evolve, is helping us to understand how they relate to phenotypes that are
+relevant for both human health and the evolution of our lineage. For this
+reason, mapping the position of structural variants, obtaining their
+sequences, annotating their functional contents and understanding their
+dynamics has gained much interest in the scientific community.
+Until recently, questions regarding structural variation have been difficult
+to answer given the limitations of short-read technologies and the relative
+scarcity of theoretical and numerical tools. New sequencing methods, such as
+single molecule real time sequencing (SMRT), allow us to gain more insight
+into the molecular evolution of structural variation. Novel approaches to
+exploit long-read technologies and data sets have already produced various
+results on intra and inter-specific copy-number variation and on differences
+within structural variants themselves. Additionally, recent methodological
+advances allow novel insights into data.
+With this symposium we aim to address how the latest sequencing methods,
+analytical approaches and data sets can further improve our understanding of
+the role of structural variation in evolution.
+
+We look forward to seeing you in Australia!
+
+Josephine Daub
+Postdoctoral Researcher
+
+Evolutionary Genomics Lab
+Institut de Biologia Evolutiva (UPF- CSIC)
+c/ Dr Aiguader 88
+08003 Barcelona
+email: josephine.daub@upf.edu
+
+"josephine.daub@upf.edu" <josephine.daub@upf.edu>
+

@@ -1,0 +1,24 @@
+We are pleased to announce a symposium on Genomics of Adaptation to Human
+Contexts will be held at Colorado State University on July 30, 2016. This
+symposium will highlight exemplar research that uses large genomic datasets
+to investigate ecology and evolution in the Anthropocene, featuring keynote
+talks by Regina Baucom (UMichigan) and Robert Wayne (UCLA). The symposium
+will be paired with a Software Carpentry workshop (July 28-29, 2016) to
+train early career researchers in the essential programmatic tools needed
+to analyze such datasets. The symposium and accompanying workshop are
+jointly funded by the American Genetic Association and the Genetics Society
+of America. Please see our website (https://adapt2humans.wordpress.com/)
+for information on how to register and more!
+
+Registration is required but free for both the workshop and symposium.
+Space in the workshop is limited, and we will be offering limited travel
+funds for workshop attendees traveling from outside of the local area.
+Registration closes on May 15.
+
+See you in July!
+Brook Moyers (moyers@colostate.edy)
+Kathryn Turner (kathryn.g.turner@gmail.com)
+Chris Schell (chris.schell@colostate.edu)
+
+brook.moyers@gmail.com
+

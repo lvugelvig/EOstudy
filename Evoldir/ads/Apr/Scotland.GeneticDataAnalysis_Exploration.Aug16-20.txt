@@ -1,0 +1,131 @@
+"Genetic data analysis/exploration using R"
+
+Delivered by Dr. Thibaut Jombart
+
+http://prstatistics.com/course/genetic-data-analysis-using-r-gdar/
+
+This course will run from 16th - 20th August, Millport Field Station,
+Ilse of Cumbrae, Scotland
+
+This course will provide an extensive overview of exploratory methods
+for the analysis of genetic data using the R software and aim to equip
+participants with powerful resources for tackling increasingly common
+challenges in genetic data analysis. It is aimed at PhD students,
+research postgraduates, and practicing academics as well as persons in
+industry working with genetic data in fields such as molecular ecology,
+evolutionary biology, and phylogenetics. This course will provide a
+comprehensive introduction to various statistical approaches for the
+analysis of genetic data.
+
+Course content is as follows
+
+Day 1 Introduction to phylogenetic reconstruction
+
+- Lecture 1a: Reconstructing phylogenies from genetic sequence data.
+Three main approaches covered: distance-based phylogenies; maximum
+parsimony; and likelihood-based approaches.
+
+- Lecture 1b: Short R refresher.
+
+- Practical 1: Phylogenetic reconstruction using R. Three main
+approaches plus rooting a tree; assessing/testing for a molecular
+clock; and bootstrapping.
+
+Main packages: ape, phangorn.
+
+Day 2 Introduction to multivariate analysis of genetic data
+
+- Lecture 2: Key concepts in multivariate analysis. Focus on using
+factorial methods for genetic data analysis.
+
+- Practical 2: Basics of multivariate analysis of genetic data in R.
+Topics include: data handling, population genetic tests of population
+structure (PCA, PCoA).
+
+Main packages: adegenet, ade4, ape.
+
+Day 3 Exploring group diversity
+
+- Lecture 3: Approaches to identifying and describing genetic
+clusters. Topics include:   hierarchical clustering, K-means,
+population-level multivariate analysis (between-group-PCA, DA, DAPC).
+
+- Practical 3: Applying the approaches covered in morning lecture and
+emphasising their strengths and weaknesses.
+
+Main packages: adegenet, ade4.
+
+Day 4 Spatial genetic structure
+
+- Lecture 4: Discussing the origin and significance of spatial
+genetic patterns, and how to test or them.
+
+- Practical 4: Visualising and analysing spatial genetic data.
+Topics: spatial density estimates, Moran/Mantel tests, mapping
+principal components in PCA, spatial PCA.
+
+- Main packages: adegenet, glmnet.
+
+Main packages: adegenet, glmnet.
+
+Day 5 Using R for reproducible science
+
+- Lecture 5: Using R for reproducible science.
+
+- Practical 5: Practical session based on morning lecture
+
+- Main packages: knitr, Sweave, rmarkdown
+
+- Option to discuss own data (time permitting)
+
+Please email any inquiries to oliverhooker@prstatistics.com or visit
+our website www.prstatistics.com
+
+Please feel free to distribute this material anywhere you feel is
+suitable
+
+Upcoming courses - email for details oliverhooker@prstatistics.com
+
+ADVANCING IN STATISTICAL MODELLING USING R (May)
+
+TIMES SERIES DATA ANALYSIS FOR ECOLOGISTS AND CLIMATOLOGISTS (May)
+
+INTRODUCTION TO PYTHON FOR BIOLOGISTS (May)
+
+ADVANCES IN SPATIAL ANALYSIS OF MULTIVARIATE ECOLOGICAL DATA (July)
+
+ADVANCES IN DNA TAXONOMY USING R (August)
+
+INTRODUCTION TO BIOINFORMAITCS USING LINUX (August)
+
+INTRODUCTION TO BAYESIAN HIERARCHICAL MODELLING (August)
+
+MODEL BASED MULTIVARIATE ANALYSIS OF ECOLOGICAL DATA USING R (October)
+
+LANDSCAPE (POPULATION) GENETIC DATA ANALYSIS USING R (October)
+
+APPLIED BAYESIAN MODELLING FOR ECOLOGISTS AND EPIDEMIOLOGISTS (October)
+
+PHYLOGENETIC DATA ANALYSIS USING R (November)
+
+SPATIAL ANALYSIS OF ECOLOGIC AL DATA USING R (November)
+
+Dates still to be confirmed - email for details
+oliverhooker@prstatistics.com
+
+STABLE ISOTOPE MIXING MODELS USING SIAR, SIBER AND MIXSIAR USING R
+
+INTRODUCTION TO R AND STATISTICS FOR BIOLOGISTS
+
+BIOINFORMATICS FOR GENETICISTS AND BIOLOGISTS
+
+Oliver Hooker
+
+PR Statistics
+
+Oliver Hooker
+
+PR~Statistics
+
+"oliverhooker@prstatistics.co.uk" <oliverhooker@prstatistics.co.uk>
+

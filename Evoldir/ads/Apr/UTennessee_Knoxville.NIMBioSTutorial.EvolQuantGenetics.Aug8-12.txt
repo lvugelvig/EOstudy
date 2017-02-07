@@ -1,0 +1,80 @@
+Please spread this announcement to colleagues:
+
+NIMBioS Tutorial
+Evolutionary Quantitative Genetics 2016
+Meeting dates: August 8-12, 2016
+Location: NIMBioS at the University of Tennessee, Knoxville
+Organizers:
+Stevan J. Arnold, Integrative Biology, Oregon State Univ.
+
+Joe Felsenstein, Genome Sciences, Univ. of Washington, Seattle
+Objectives: This tutorial will review the basics of theory in the field
+of evolutionary quantitative genetics and its connections to evolution
+observed at various time scales. Quantitative genetics deals with the
+inheritance of measurements of traits that are affected by many genes.
+
+Quantitative genetic theory for natural populations was developed
+considerably in the period from 1970 to 1990 and up to the present, and
+it has been applied to a wide range of phenomena including the
+evolution of differences between the sexes, sexual preferences, life
+history traits, plasticity of traits, as well as the evolution of body
+size and other morphological measurements. Textbooks have not kept pace
+with these developments, and currently few universities offer courses
+in this subject aimed at evolutionary biologists. There is a need for
+evolutionary biologists to understand this field because of the ability
+to collect large amounts of data by computer, the development of
+statistical methods for changes of traits on evolutionary trees and for
+changes in a single species through time, and the realization that
+quantitative characters will not soon be fully explained by genomics.
+
+This tutorial aims to fill this need by reviewing basic aspects of
+theory and illustrating how that theory can be tested with data, both
+from single species and with multiple-species phylogenies. Participants
+will learn to use R, an open-source statistical programming language,
+to build and test evolutionary models. The intended participants for
+this tutorial are graduate students, postdocs, and junior faculty
+members in evolutionary biology.
+
+The content of this tutorial will be similar to the tutorial held at
+NIMBioS in 2015.
+
+For general information, access the web page of the tutorial at this
+address:   http://www.nimbios.org/tutorials/TT_eqg2016
+Co-sponsor: American Society of Naturalists
+Instructors:
+Stevan J. Arnold, Integrative Biology, Oregon State Univ.
+Marguerite Butler, Department of Zoology, Univ. Hawaii
+Patrick Carter, Evolutionary Physiology, Washington State Univ.,
+Pullman
+Joe Felsenstein (by video link), Genome Sciences, Univ. of Washington,
+Seattle
+Adam Jones, Biology, Texas A&M Univ.
+Emilia Martins, Biology, Indiana Univ., Bloomington
+Brian O'Meara, Ecology & Evolutionary Biology, Univ. of Tennessee
+Patrick Phillips, Institute of Ecology and Evolution, Univ. of Oregon
+Josef Uyeda, Bioinformatics and Evolutionary Studies, Univ. of Idaho,
+Moscow
+
+A descriptive flyer can be accessed at this address:
+http://www.nimbios.org/ifiles/TT_eqg2015_flyer.pdf
+Application deadline: May 1, 2016
+To apply, you must complete an application on our online registration
+system:
+
+Use this link to access the system:
+https://adnimb.nimbios.org/pages/home
+Login or register
+Complete your user profile (if you haven't already)
+Find this tutorial event under Current Events Open for Application and
+click on Apply
+
+Food and lodging. Breakfast and lunch will be provided at NIMBioS each
+day of the tutorial, as well as coffee and mid-morning and
+mid-afternoon snacks. NIMBioS is not covering dinner, travel, or
+lodging expenses for participants. A block of rooms at a group rate
+will be reserved at the Four Points by Sheraton Knoxville Cumberland
+House Hotel. More information will be available here soon about room
+rates and how participants can make reservations.
+
+Joe Felsenstein <joe@gs.washington.edu>
+

@@ -1,0 +1,44 @@
+Dear colleagues,
+
+This is a reminder for the workshop on *"Optimal Contribution Selection"*
+
+arraged by The Nordic Genetic Resource Center (NordGen) in Hafjell (Øyer
+municipality north of Lillehammer), Norway 6th-10th of June 2016.
+
+The main goals of the workshop are:
+
+   - to introduce the theory and implementation of Optimal Contribution
+   Selection in sustainable management of breeding and conservation programs
+
+   - to promote the independent use of EVA (EVolutionary Algorithms)
+   software with hands-on exercises
+
+To maximize the learning experience of all participants, the workshop is
+divided into two parts. Participants may choose to register for *both* *or
+only one* of the consecutive parts: "*Part I - Introductory"* and "*Part II
+- Advanced"*. The maximum number of participants in Part I and Part II are
+20 and 25, respectively. There are still few places left on both parts.
+
+For a more detailed description of the workshop program, registration and
+practical information please follow the link below:
+
+https://sites.google.com/a/nordgen.org/workshop-optimal-contribution-selection/
+
+Feel free to distribute this invitation amongst your colleagues and other
+institutions.
+
+Best regards
+
+Anne Kettunen
+
+Dr. Anne Kettunen
+Senior Scientist
+NordGen - Nordic Genetic Resource Center
+P.O. Box 115, NO-1431 Ås, Norway
+Street address: Raveien 9, NO-1430 Ås, Norway
+Phone: +47 9036 5249, mobile: +47 9778 0903
+anne.kettunen@nordgen.org
+www.nordgen.org
+
+Anne Kettunen <anne.kettunen@nordgen.org>
+
