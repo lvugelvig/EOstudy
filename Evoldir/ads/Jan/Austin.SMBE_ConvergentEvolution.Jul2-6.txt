@@ -1,0 +1,51 @@
+SMBE 2017 Symposium "Convergent evolution"
+
+We are pleased to announce a symposium on "Convergent evolution" at SMBE
+2017 in Austin, Texas, this July. Our invited speakers are Jay Storz
+(University of Nebraska-Lincoln), Matthew Hahn (Indiana University), and
+Sarah Kocher (Princeton University). Abstract submissions for contributed
+talks and posters are welcome and due on 1 February 2017. Please use the
+following link for submission: http://www.smbe2017.org/abstracts/. Note
+that abstract submission is possible prior to registration for the
+conference.
+
+Symposium description:
+
+***
+Convergent evolution, wherein species independently evolve substantially
+similar phenotypes in response to similar selective pressures, is a
+potentially powerful criterion to identify genotypes underlying adaptive
+evolution. The on-going boom in comparative genomics has renewed interest
+in the molecular and genetic basis of convergent phenotypes. Recent
+progress in the field has demonstrated the extent of convergence in a wide
+variety of contexts, from microbes to vertebrates, and resulting from
+conditions including environmental shifts, sensory systems, and biochemical
+challenges. In addition, whole-population sequencing and in vitro evolution
+has provided evidence of the dependence of convergence on the nature of the
+selective pressure. At a higher level, the study of convergence is
+outlining the constraints on adaptive evolution and deepening our
+understanding of natural selection. In light of the increasing amount of
+genomic data available, the field will benefit from a discussion of the
+challenges in robustly identifying and testing apparent cases of
+convergence, with one major challenge being distinguishing adaptive
+convergence at the sequence level from chance events. This symposium will
+present a balanced program of historical evolution, in vitro evolution,
+methodology and theory in convergent evolution. Talks will span the full
+spectrum of potential convergence ranging across molecules, networks, and
+phenotypes.
+***
+
+SMBE 2017 will offer child care support during the conference (
+http://www.smbe2017.org/destination/childcare-at-smbe/), and you can apply
+for child care awards as well (http://www.smbe.org/smbe/awar
+ds/ChildCareTravelAward).
+
+SMBE 2017 will take place in Austin, Texas, from 2 to 6 July 2017.
+
+Thanks,
+
+Tim Sackton (tsackton@g.harvard.edu)
+Nathan Clark (nclark@pitt.edu)
+
+"tsackton@g.harvard.edu" <tsackton@g.harvard.edu>
+

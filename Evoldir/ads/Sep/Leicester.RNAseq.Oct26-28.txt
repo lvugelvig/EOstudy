@@ -1,0 +1,41 @@
+Deadline is approaching for the upcoming BBASH Next Generation Sequencing
+RNA-seq training workshop.
+
+Course description
+This course will provide an introduction to next generation sequencing
+(NGS) platforms, data analysis and tools for data quality control, read
+alignment (mapping), differential expression, de-novo and referenced based
+transcriptome assembly, annotation and gene discovery of RNA sequencing
+(RNA-Seq) data. The course will be delivered using a mixture of lectures
+and computer based hands on practical sessions using real data.
+
+This course is aimed at wet-lab biologists who are involved in research
+projects that will require the handling and analysis of NGS data. A
+significant proportion of the course will be computer-based using command
+line tools in the Unix environment, therefore, in order to gain maximum
+benefit from the course all attendees will be required to have basic
+Unix skills.
+
+For additional information:
+http://www2.le.ac.uk/colleges/medbiopsych/facilities-and-services/cbs/bbash/training/workshop-webpages/RNA-Seq-workshop-2016
+
+Instructors:
+Richard Badge (BBASH, University of Leicester, UK)
+Chiara Batini (University of Leicester, UK)
+Matthew Blades (BBASH, University of Leicester, UK)
+Benjamin Hunt (University of Leicester, UK)
+
+Deadline for applications: 30th September 2016
+Notification of acceptance: 3rd October 2016
+Course dates: 26th-28th October 2016
+
+Venue: University of Leicester - College Court Conference Centre,
+Leicester, UK (http://collegecourt.co.uk/)
+
+The Organisers
+Chiara Batini (University of Leicester, UK)
+Matthew Blades (BBASH, University of Leicester, UK)
+Benjamin Hunt (University of Leicester, UK)
+
+"cb334@leicester.ac.uk" <cb334@leicester.ac.uk>
+

@@ -1,0 +1,248 @@
+Dear all,
+
+Please find below the preliminary schedule and general aims of the
+course, "An introduction to bioinformatic tools for population
+genomic and metagenetic data analysis", offered November 7-11
+2016 at the Sven Loven Centre for Marine Sciences on the island
+of Tjärnö outside of Strömstad on the Swedish West Coast
+(http://loven.gu.se/english/about_the_loven_centre/tjarno).
+
+There is no course fee. Accommodation and meals for students are provided
+by the Royal Academy of Sciences of Sweden. Students will need to provide
+their own means of transportation to and from the course, however.
+
+The course will be open to a maximum of 18 students, as large parts of
+the course will consist of hands-on exercises. The aim is a broad mix
+of students both from the University of Gothenburg and from the outside,
+mainly PhD students but postdocs are also welcome to apply.
+
+Knowledge of general molecular biology and genetics is necessary,
+as is some previous experience with command-line interfaces. Previous
+experience working on a remote server will also be beneficial. No previous
+bioinformatics skills are needed, however.
+
+For more information and registration, please visit the course web site at:
+https://sites.google.com/site/bioinformaticpipelines2016/
+Deadline for registration is September 15th 2016.
+
+Please note that ALL students must bring their own computers.
+
+Best wishes,
+Pierre De Wit
+Sarah Bourlat
+-----
+An introduction to bioinformatic tools for population
+genomic and metagenetic data analysis,
+2.5 higher education credits
+Third Cycle
+Faculty of Science; Department of Marine Sciences
+The Swedish Royal Academy of Sciences
+_____
+
+1 Confirmation
+The syllabus was confirmed by the Steering Committee of the Department
+of Marine Sciences 200X-XX-XX, 200X-XX-XX.
+
+Discipline: Natural Science
+Responsible department: Department of Marine Sciences
+Main fields of study: Bioinformatics
+
+2. Position in the educational system
+Elective course; third-cycle education.
+
+3. Entry requirements
+Admitted to third cycle education.
+
+4. Course content
+This course aims at detailed understanding and hands-on experience of
+using state of the art bioinformatics pipelines for one"s own biological
+research questions. An important aspect of the course is to show how
+genomic data can be applied to address and answer research questions
+in the fields of genetics, ecology, population biology, biodiversity
+monitoring and conservation. The students will be trained in the latest
+bioinformatic methods to analyze high throughput sequencing data,
+which is present in many research projects. The course will cover basic
+computing tools required to run command line applications, processing
+high throughput sequencing data of the CO1 gene from environmental samples
+to reveal biodiversity and analysis of sequencing data from whole genome
+scans for population genomic studies.
+
+The first part of the course introduces general computing tools for
+beginners such as the UNIX command line environment, bash commands, data
+formatting using regular expressions and basic scripting in the unix
+shell with a series of examples and exercises.  The course introduces
+bioinformatics software for analysis of sequence data from metagenetics
+(The high-throughput sequencing of a molecular marker from an ecosystem or
+a community of organisms, used for large-scale analyses of biodiversity),
+through a series of live demonstrations (AmpliconNoise, TaxAssign,
+QIIME). The course also introduces basic and advanced concepts of
+population genomics data analysis such as genome/transcriptome assembly,
+annotation (BLAST), alignment/mapping, differential Gene expression,
+functional enrichment tests, SNP genotyping, PCA, outlier tests.
+
+The course corresponds to 1 week of full time studies and and is composed
+of lectures, demonstrations and computer labs.
+
+5. Outcomes
+1. Knowledge and understanding
+1a. Demonstrate advanced knowledge of experimental strategies,
+applications and tools of DNA barcoding/metabarcoding and
+population genomics.
+
+1b. Demonstrate advanced knowledge of the potential of genomics
+approaches to answer ecosystem-wide questions, in particular for
+biodiversity monitoring.
+
+2. Skills and abilities
+2a. Ability to use basic commands in the Unix command line environment
+(reformatting data with regular expressions, basic scripting, running
+python scripts from the unix shell)
+2b. Ability to use metagenetics software tools to analyse sequence data
+from environmental samples (data cleaning steps, clustering of reads into
+operational taxonomic units (OTUs) and taxonomic assignment through hidden
+markov models and database matching (BLAST, barcode of life database).
+
+2c. Ability to use population genomics software tools to assemble and
+annotate a genome/transcriptome, and perform gene alignment/mapping,
+differential gene expression, functional enrichment tests, SNP genotyping,
+PCA, outlier tests.
+
+3. Judgement and approach
+3a. Formulate one's own research questions, identify data and tools needed
+to answer these questions and critically evaluate and analyse the results.
+
+6. Required reading
+Part 1: General computing tools.
+
+This will be the main textbook for the introduction to general computing
+tools:
+- Haddock and Dunn (2010). Practical computing for Biologists. Sinauer
+  Associates.
+
+Part 2: Population genomics
+- deWit et al. (2012). The simple fool's guide to population genomics
+  via RNA-seq: an introduction to high-throughput sequencing data
+  analysis. Molecular Ecology Resources 12, 1058-1067.
+
+Part 3: Metagenetics
+- Bik, H. M., D. L. Porazinska, et al. (2012). "Sequencing our way
+  towards understanding global eukaryotic biodiversity." TREE 1485.
+
+- Leray, M. and Knowlton, N. (2015), 'DNA barcoding and metabarcoding of
+  standardized samples reveal patterns of marine benthic diversity',
+  Proceedings of the National Academy of Sciences of the United States
+  of America, 112 (7), 2076-81.
+
+Online course material
+- The simple fool's guide to population genomics via RNA-Seq: an
+  introduction to high-throughput sequencing data analysis. Details of
+  the pipeline can be found at (http://sfg.stanford.edu
+<http://sfg.stanford.edu/>) Practical
+  computing for Biologists (http://practicalcomputing.org
+<http://practicalcomputing.org/>)
+7. Assessment
+Attendence is mandatory for a pass grade.
+
+8. Grading scale
+The grading scale comprises Fail (U),  and Pass (G).
+
+9. Course evaluation
+The course evaluation will be carried out through an online
+questionnaire.
+
+         Additional information
+Language of instruction will be English, as international guest lecturers
+will participate.
+
+11. Preliminary course schedule
+Course format: 2.5 hp course, fulltime.
+
+Lecturers: Sarah Bourlat (SB), Pierre de Wit (PDW), Mats Topel (MT)
+and Katja Lehmann (KL)
+*   Day 1: Introduction to general computing tools (PDW, MT)
+Format: 3 hours lecture and demo sessions, 3 hours computer labs,
+assigned exercises
+Day 1 of the course will be an introduction to general computing tools,
+such as the unix command line environment. We will go through bash
+commands (less, nano, ls, ll, wc, |, tail, head, mkdir, cat, grep,
+for loop), regular expressions, basic scripting, and running python
+scripts from the unix shell with a series of examples. Exercises and
+assignments will be based on Haddock and Dunn "Practical Computing for
+biologists" and can be carried out independently.  There will also be
+a presentation of useful bioinformatics software.
+
+Part of day 1 will also be concerned with working on a remote server,
+using the University of Gothenburg"s Albiorix cluster as a training
+tool. Sudents will be provided with guest accounts.  This portion of
+the course is to refresh the students" knowledge of the command line
+environment and the shell, a tool for interacting with the computer
+through typed instructions at the command line. Exercise sessions will
+be carried out in pairs to encourage collaborative problem solving. All
+lectures will be made dynamic through live demonstrations of the command
+line. Detailed course material including commands and scripts will
+be available through the course web page.  This part of the course
+corresponds to learning outcome 2a: "Ability to use basic commands
+in the Unix command line environment" (reformatting data with regular
+expressions, basic scripting, running python scripts from the unix shell)
+*   Days 2, 3 and 4: Population Genomics pipeline (PDW)
+Format: Lectures and hands on sessions (computer labs)
+This part of the course will cover an introductory lecture
+and practical session run through of the simple fool's guide to
+population genomics via RNA-Seq: an introduction to high-throughput
+sequencing data analysis. Details of the pipeline can be found at
+(http://sfg.stanford.edu).
+
+Lecture: Population genomics via RNA-seq: an introduction to
+high-throughput sequencing data analysis (PDW)
+Pratical session: A hands on practical session based on the which
+will cover:
+Genome/Transcriptome assembly, annotation (BLAST), alignment/mapping,
+differential Gene expression, functional enrichment tests, SNP genotyping,
+PCA, outlier tests.
+
+The practical session will encourage students to collaborate and work
+in pairs to enhance communication and understanding.
+
+Before the course: Students will need to bring their own computers,
+with some software pre-installed. Guidelines and download locations for
+all software used in the course will be available on the course web page.
+
+This part of the course corresponds to learning outcome 2c: "Ability
+to use population genomics software tools to assemble and annotate a
+genome/transcriptome, and perform gene alignment/mapping, differential
+gene expression, functional enrichment tests, SNP genotyping, PCA,
+outlier tests."
+*      Day 5: Metagenetic data analysis pipelines (SB, KL)
+Format: Lectures and live demonstrations of software
+Day 5 will focus on analysis of a high-throughput sequencing dataset
+from an environmental sample. This approach allows us to gather novel
+data on species composition of a sample for biodiversity analyses. We
+will proceed through data cleaning steps, clustering of reads into
+operational taxonomic units (OTUs) and taxonomic assignment through
+database matching using the QIIME pipeline.
+
+Lecture 1: The potential of metagenomics approaches to answer
+ecosystem-wide questions, in particular for biodiversity monitoring (SB).
+
+Demo session: Introduction to taxonomic diversity analysis of 16S amplicon
+data using QIIME and R (KL, SB)
+This part of the course corresponds to learning outcome 2b: "Ability
+to use metagenetics software tools to analyse sequence data from
+environmental samples (data cleaning steps, clustering of reads into
+operational taxonomic units (OTUs) and taxonomic assignment through hidden
+markov models and database matching (BLAST, barcode of life database)".
+
+-----
+Pierre De Wit, Ph.D.
+
+University of Gothenburg, Department of Marine Sciences
+Sven Lovén Centre for Marine Sciences - Tjärnö
+452 96 Strömstad
+Sweden
+Phone: +46 31 786 9550
+http://www.gu.se/english/about_the_university/staff?languageId=100001&userI
+d=xdewpi
+Pierre de Wit <pierre.de_wit@marine.gu.se>
+
+Pierre de Wit <pierre.de_wit@marine.gu.se>
+

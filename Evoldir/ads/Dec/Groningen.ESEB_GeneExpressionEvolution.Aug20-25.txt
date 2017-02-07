@@ -1,0 +1,40 @@
+Abstract submission is open for our symposium: '[S19] Evolution of gene
+expression regulation' planned for the *European Society for Evolutionary
+Biology meeting in Groningen, Netherlands, 20-25th August, 2017. *
+
+http://www.eseb2017.nl/call-for-abstracts/abstract-guidelines-/
+
+More than four decades have passed since it was first suggested that gene
+expression regulation variation could play a significant role in the
+phenotypic divergence between chimpanzees and humans. Ever since, there has
+been an impressive and fruitful effort to characterize the molecular basis
+of regulatory variation within and between species. However, until
+recently, 'regulatory variation' has been used synonymously with
+'differences in mRNA levels'. In recent years, though, new high-throughput
+sequencing technologies have offered us a window into fundamental questions
+about the evolution of post-transcriptional dynamics. With the introduction
+of methods such as ribosome profiling (RiboSeq) and mass spectroscopy
+(mass-spec), we can now measure post-transcriptional regulation in a
+variety of different conditions. These technologies are now being used to
+study questions from how regulatory variation evolves within and between
+species. Moreover, there exist exciting avenues in applying these methods
+to microbial evolution experiments to study how gene expression regulation
+evolves during adaptation. Other examples include new methods and insights
+into the evolutionary role of non-coding RNAs, which have been uncovered as
+key regulators of gene expression at the post-transcriptional level, or the
+evolution of protein post-translational modifications that can influence
+their function, activity or stability. Together, these studies have given
+us unprecedented insight into the evolution of transcriptional and
+post-transcriptional regulation. This symposium will bring together
+researchers that develop and employ high-throughput, quantitative
+techniques to measure gene expression regulation with the goal of
+understanding the molecular landscape of complex phenotypes.
+
+Organizers: Oana Carja, Joshua Plotkin, Premal Shah
+
+Inivited speakers: Leonid Kruglyak, Judit Villen
+
+Please contact Oana Carja (ocarja@sas.upenn.edu) with further questions.
+
+oana.carja@gmail.com
+

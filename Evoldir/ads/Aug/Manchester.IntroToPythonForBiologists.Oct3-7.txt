@@ -1,0 +1,117 @@
+INTRODUCTION TO PYTHON FOR BIOLOGISTS
+
+http://prstatistics.com/course/introduction-to-python-for-biologists-ipyb-3/
+
+This course is being delivered by Dr Martin Jones, an expert in Python 
+and author of two text books,
+
+Python for Biologists 
+[http://www.amazon.com/Python-Biologists-complete-programming-beginners/dp/1492346136/]
+
+Advanced Python for Biologists 
+[http://www.amazon.com/Advanced-Python-Biologists-Martin-Jones/dp/1495244377/].
+
+Due to high demand a repeat of this course will run from 3rd - 7th 
+October 2016 at Malham tarn field centre, Yorkshire, North of 
+Manchester, England.
+
+Course overview: Python is a dynamic, readable language that is a 
+popular platform for all types of bioinformatics work, from simple 
+one-off scripts to large, complex software projects. This workshop is 
+aimed at complete beginners and assumes no prior programming experience. 
+It gives an overview of the language with an emphasis on practical 
+problem-solving, using examples and exercises drawn from various aspects 
+of bioinformatics work. After completing the workshop, students should 
+be in a position to (1) apply the skills they have learned to tackle 
+problems in their own research and (2) continue their Python education 
+in a self-directed way.
+Intended audience:
+
+This workshop is aimed at all researchers and technical workers with a 
+background in biology who want to learn programming. The syllabus has 
+been planned with complete beginners in mind; people with previous 
+programming experience are welcome to attend as a refresher but may find 
+the pace a bit slow.
+Teaching format:
+
+The workshop is delivered over ten half-day sessions (see the detailed 
+curriculum below). Each session consists of roughly a one hour lecture 
+followed by two hours of practical exercises, with breaks at the 
+organizer's discretion. There will also be plenty of time for students 
+to discuss their own problems and data.
+
+Assumed background:
+Students should have enough biological background to appreciate the 
+examples and exercise problems (i.e. they should know about DNA and 
+protein sequences, what translation is, and what introns and exons are). 
+No previous programming experience or computer skills (beyond the 
+ability to use a text editor) are necessary, but you'll need to have a 
+laptop with Python installed.
+
+Curriculum:
+Day 1:
+Module 1 - Introduction
+Module 2 - Output and text manipulation
+
+Day 2:
+Module 3 - File IO and user interfaces
+Module 4 - Flow control 1: loops
+
+Day 3:
+Module 5 - Flow control 2: conditionals
+Module 6 - Organizing and structuring code
+
+Day 4:
+Module 7 - Regular expressions
+Module 8 - Dictionaries
+
+Day 5:
+Module 9 - Interaction with the file system
+Module 10 - Optional free afternoon to cover previous modules and 
+discuss data
+
+Please email any inquiries to oliverhooker@prstatistics.com or visit our 
+website www.prstatistics.com
+
+Please feel free to distribute this material anywhere you feel is 
+suitable
+
+Other relevant courses - email for details oliverhooker@prstatistics.com
+1.	INTRODUCTION TO BIOINFORMATICS USING LINUX (August)
+2.	ADVANCED PYTHON FOR BIOLOGISTS (fEBRUARY, 2017)
+
+Upcoming courses - email for details oliverhooker@prstatistics.com
+3.	INTRODUCTION TO BAYESIAN HIERARCHICAL MODELLING (August)
+4.	INTRODUCTION TO PYTHON FOR BIOLOGISTS (October)
+5.	LANDSCAPE (POPULATION) GENETIC DATA ANALYSIS USING R (October)
+6.	APPLIED BAYESIAN MODELLING FOR ECOLOGISTS AND EPIDEMIOLOGISTS 
+(October)
+7.	PHYLOGENETIC DATA ANALYSIS USING R (October/November)
+8.	SPATIAL ANALYSIS OF ECOLOGIC AL DATA USING R (November)
+9.	ADVANCING IN STATISTICAL MODELLING USING R (December)
+10.	MODEL BASED MULTIVARIATE ANALYSIS OF ECOLOGICAL DATA USING R 
+(January, 2017)
+11.	NETWORK ANAYLSIS FOR ECOLOGISTS USING R (March, 2017)
+12.	INTRODUCTION TO GEOMETRIC MORPHOMETRICS USING R (June, 2017)
+
+Dates still to be confirmed - email for details 
+oliverhooker@prstatistics.com
+-	STABLE ISOTOPE MIXING MODELS USING SIAR, SIBER AND MIXSIAR USING R
+-	INTRODUCTION TO R AND STATISTICS FOR BIOLOGISTS
+-	BIOINFORMATICS FOR GENETICISTS AND BIOLOGISTS
+
+Oliver Hooker
+PR Statistics
+
+3/1
+128 Brunswick Street
+Glasgow
+G1 1TF
+
++44 (0) 7966500340
+
+www.prstatistics.com
+www.prstatistics.com/organiser/oliver-hooker/
+
+Oliver Hooker <oliverhooker@prstatistics.com>
+

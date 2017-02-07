@@ -1,0 +1,101 @@
+CALL FOR  EXTENDED ABSTRACTS
+
+EvoEvo workshop
+
+Satellite workshop of the 2016 Conference on Complex Systems (CCS16)
+http://www.ccs2016.org/
+
+Tuesday 20 Sep 2016, Beurs Van Berlage, Amsterdam, The Netherlands
+
+AIMS AND SCOPE
+Variation and Selection are the two core processes of Darwinian
+Evolution. Yet, both are directly regulated by many processes that are
+themselves products of evolution (e.g. DNA repair, mutator genes,
+transposable elements, horizontal transfer, stochasticity of gene
+expression, sex, network modularity, niche construction; ). This
+results in the ability of evolution to self-modify its operators, hence
+its dynamics. We call this process "Evolution of Evolution" or EvoEvo.
+
+Different EvoEvo strategies have been proposed in the literature,
+including regulation of variability, robustness/evolvability strategies
+and bet-hedging, but finding traces of these strategies in extant
+organisms is difficult. Moreover all these strategies are likely to
+interact one with the others, blurring their respective outcomes.
+
+However, new tools are now available that help understanding EvoEvo. On
+the one hand, large scale bioinformatic data analysis can be used to
+recognize signatures of evolution of evolution. On the other hand,
+large scale computational modelling of multi-level evolution is now
+becoming feasible, and promises to shed light on the conditions under
+which evolutionary mechanisms evolve as well as their consequences.
+
+The aim of the EvoEvo workshop is to seek for a unified theory of
+Evolution of Evolution and bring together researchers from various
+fields in computational biology to tackle this challenge. The workshop
+will take place as a satellite workshop of CCS 2016, Amsterdam, NL. The
+EvoEvo workshop is an initiative of the EvoEvo consortium funded by the
+FP7 EU-FET grant EvoEvo (ICT-610427).
+
+AREAS OF INTEREST
+ We are seeking submissions that explore all aspects of "Evolution of
+ Evolution", including theoretical and experimental works (including
+ in vivo, in vitro and in silico experiment). Topics include but are
+ not limited to:
+-    Evolution of robustness and evolvability, evolution of pleiotropy
+-    Evolution of mutation rates, regulation of variability, mutators,
+     transposable elements, chromosomal rearrangements
+-    Open-ended evolution
+-    Evolution of the genotype-to-phenotype mapping
+-    Niche construction, evolution of trophic networks, evolution of
+     cooperation
+-    Evolution of genes and metabolic networks, evolution of modularity
+-    Evolution of stochastic gene expression and bet-hedging
+-    Modeling and simulation of EvoEvo, EvoEvo and fitness
+     landscapes/seascapes
+-    Experimental characterization of EvoEvo
+-    Application of EvoEvo to evolutionary computation
+-    Philosophical, theoretical and practical aspects of EvoEvo
+
+SUBMISSIONS
+EvoEvo will accept extended abstracts of maximum 2000 words in LNCS
+format. All submissions will be peer reviewed by at least two members
+of the workshop committee. Accepted papers will be selected for long
+or short oral presentation during the workshop.
+
+Abstracts should be submitted via EasyChair
+<https://easychair.org/conferences/?conf=3Devoevo2016>.
+
+LNCS formatting details can be found at
+<http://www.springer.com/computer/lncs?SGWID=3D0-164-7-72376-0>.
+
+IMPORTANT DATES
+-    Abstract Submission: 30 June 2016
+-    Notification of acceptance: 10 July 2016
+-    EvoEvo Workshop: 20 September 2016
+
+WORKSHOP CHAIRS
+-    Guillaume Beslon, INSA, Universite de Lyon (FR), LIRIS/Beagle team
+-    Santiago Elena, CSIC and Polytechnic University of Valencia
+     (SP), IBMCP
+-    Paulien Hogeweg, Utrecht University (NL), Bioinformatics group
+-    Dominique Schneider, Universite Joseph Fourier, Grenoble
+     (FR), LAPM
+-    Susan Stepney, University of York (UK), Centre for Complex
+     Systems Analysis
+
+Prof. Santiago F. Elena
+IBMCP (CSIC-UPV)
+Campus UPV, CPI  8E, lab. 2.0.4
+Ingeniero Fausto Elio s/n, 46022 Valencia, Spain
+Phone: +34 963 877 895
+Fax: +34 963 877 859
+E-mail: sfelena@ibmcp.upv.es
+Web: http://bioxeon.ibmcp.upv.es/EvolSysVir
+Twitter: @SantiagoFElena
+The Santa Fe Institute
+1399 Hyde Park Road
+Santa Fe, NM 87501
+USA
+
+"Santiago F. Elena" <sfelena@ibmcp.upv.es>
+

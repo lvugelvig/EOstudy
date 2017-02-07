@@ -1,0 +1,21 @@
+Una introducción a los métodos comparativos filogenéticos en R (An
+introduction to comparative phylogenetic methods in R)
+December 12-16 2016
+San Carlos de Bariloche, Río Negro, Argentina
+Instructor:Dr. Liam Revell
+More info: Lina Moreno Azócar (morenoal@comahue-conicet.gob.ar)
+
+Thank you so much,
+
+kind regards,
+
+Dra. Lina Moreno Azócar
+Becaria posdoctoral CONICET
+Laboratorio de Fotobiología
+Instituto de Investigaciones en biodiversidad y medio ambiente
+Quintral 1250
+TE: +54 (9 294) 4344642
+http://www.researchgate.net/profile/Debora_Moreno_Azocar/
+
+Lina Moreno Azócar <morenoal@comahue-conicet.gob.ar>
+

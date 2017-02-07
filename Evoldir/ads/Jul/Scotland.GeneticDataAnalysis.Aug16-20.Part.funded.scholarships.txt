@@ -1,0 +1,125 @@
+"Genetic data analysis/exploration using R" - FUNDING AVAILABLE!
+
+PR STATISTICS ARE PLEASED TO ANNOUNCE THAT THEY HAVE SECURED SOME 
+FUNDING TO CONTRIBUTE TOWARDS TUITION FEES AND ACCOMMODATION WITH A 
+LIMITED NUMBER OF 'COURSE ONLY PLACES' AT 240.00 (inc VAT) or 
+'ALL INCLUSIVE PLACES' AVAILABLE AT 480.00 (inc VAT).
+
+Applications should be sent to oliverhooker@prstatistics.com and contain 
+the following.
+1.	Full name
+2.	Institute name
+3.	PhD subject title or Post doc research questions
+4.	Do you hold a funded position
+5.	150 words why this course would be relevant to your research or how 
+it would help.
+
+Application deadline is August 1st, successful applicants will be 
+notified by the 3rd August.
+
+Full course  details are given below
+
+Delivered by Dr. Thibaut Jombart
+
+http://prstatistics.com/course/genetic-data-analysis-using-r-gdar/
+
+This course will run from 16th - 20th August, Millport Field Station, 
+Ilse of Cumbrae, Scotland
+This course will provide an extensive overview of exploratory methods 
+for the analysis of genetic data using the R software and aim to equip 
+participants with powerful resources for tackling increasingly common 
+challenges in genetic data analysis.
+
+The course is aimed at PhD students, research postgraduates, and 
+practicing academics as well as persons in industry working with genetic 
+data in fields such as molecular ecology, evolutionary biology, and 
+phylogenetics. This course will provide a comprehensive introduction to 
+various statistical approaches for the analysis of genetic data.
+
+Course content is as follows
+Day 1 Introduction to phylogenetic reconstruction
+-	Lecture 1a: Reconstructing phylogenies from genetic sequence data. 
+Three main approaches covered: distance-based phylogenies; maximum 
+parsimony; and likelihood-based approaches.
+-	Lecture 1b: Short R refresher.
+-	Practical 1: Phylogenetic reconstruction using R. Three main 
+approaches plus rooting a tree; assessing/testing for a molecular clock; 
+and bootstrapping.
+Main packages: ape, phangorn.
+
+Day 2 Introduction to multivariate analysis of genetic data
+-	Lecture 2: Key concepts in multivariate analysis. Focus on using 
+factorial methods for genetic data analysis.
+-	Practical 2: Basics of multivariate analysis of genetic data in R. 
+Topics include: data handling, population genetic tests of population 
+structure (PCA, PCoA).
+Main packages: adegenet, ade4, ape.
+
+Day 3 Exploring group diversity
+-	Lecture 3: Approaches to identifying and describing genetic 
+clusters. Topics include:   hierarchical clustering, K-means, 
+population-level multivariate analysis (between-group-PCA, DA, DAPC).
+-	Practical 3: Applying the approaches covered in morning lecture and 
+emphasising their strengths and weaknesses.
+Main packages: adegenet, ade4.
+
+Day 4 Spatial genetic structure
+-	Lecture 4: Discussing the origin and significance of spatial genetic 
+patterns, and how to test or them.
+-	Practical 4: Visualising and analysing spatial genetic data. Topics: 
+spatial density estimates, Moran/Mantel tests, mapping principal 
+components in PCA, spatial PCA.
+-	Main packages: adegenet, glmnet.
+Main packages: adegenet, glmnet.
+
+Day 5 Using R for reproducible science
+-	Lecture 5: Using R for reproducible science.
+-	Practical 5: Practical session based on morning lecture
+-	Main packages: knitr, Sweave, rmarkdown
+-	Option to discuss own data (time permitting)
+
+Please email any inquiries to oliverhooker@prstatistics.com or visit our 
+website www.prstatistics.com
+
+Please feel free to distribute this material anywhere you feel is 
+suitable
+
+Upcoming courses - email for details oliverhooker@prstatistics.com
+1.	INTRODUCTION TO BIOINFORMATICS USING LINUX (August)
+2.	INTRODUCTION TO BAYESIAN HIERARCHICAL MODELLING (August)
+3.	INTRODUCTION TO PYTHON FOR BIOLOGISTS (October)
+4.	LANDSCAPE (POPULATION) GENETIC DATA ANALYSIS USING R (October)
+5.	APPLIED BAYESIAN MODELLING FOR ECOLOGISTS AND EPIDEMIOLOGISTS 
+(October)
+6.	PHYLOGENETIC DATA ANALYSIS USING R (October/November)
+7.	SPATIAL ANALYSIS OF ECOLOGIC AL DATA USING R (November)
+8.	ADVANCING IN STATISTICAL MODELLING USING R (December)
+9.	MODEL BASED MULTIVARIATE ANALYSIS OF ECOLOGICAL DATA USING R 
+(January)
+10.	NETWORK ANAYLSIS FOR ECOLOGISTS USING R (March)
+11.	INTRODUCTION TO GEOMETRIC MORPHOMETRICS USING R (June)
+
+Dates still to be confirmed - email for details 
+oliverhooker@prstatistics.com
+-	STABLE ISOTOPE MIXING MODELS USING SIAR, SIBER AND MIXSIAR USING R
+-	INTRODUCTION TO R AND STATISTICS FOR BIOLOGISTS
+-	BIOINFORMATICS FOR GENETICISTS AND BIOLOGISTS
+Oliver Hooker
+PR Statistics
+
+-- 
+Oliver Hooker
+PR statistics
+
+3/1
+128 Brunswick Street
+Glasgow
+G1 1TF
+
++44 (0) 7966500340
+
+www.prstatistics.com
+www.prstatistics.com/organiser/oliver-hooker/
+
+Oliver Hooker <oliverhooker@prstatistics.com>
+

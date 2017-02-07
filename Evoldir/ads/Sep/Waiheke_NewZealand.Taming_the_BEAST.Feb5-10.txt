@@ -1,0 +1,34 @@
+ACCEPTING REGISTRATIONS for Taming the BEAST in the South Pacific
+
+February 5th to February 10th 2017.
+
+Application deadline: October 25th, 2016. See "Taming the BEAST in the
+South Pacific" https://www.compevol.auckland.ac.nz/en/events.html for
+registration and scholarship process details. 3 partial scholarships
+are available for postgraduate students.
+
+This 5-day comprehensive summer school will focus on the BEAST2 software
+and is aimed at postgraduate students and early career researchers in the
+life sciences. Speakers and tutorial instructors are leading experts in
+the field and come from New Zealand, Australia and the UK. The location
+of the summer school is on the beautiful Waiheke Island, a short ferry
+ride from Auckland city centre, New Zealand.
+
+The course combines lecture sessions, guided tutorials, and opportunities
+to discuss the analysis of your own data with experts. The programme
+is divided into daily themes which cover 1) Bayesian phylogenetics and
+relaxed clocks; 2) phylodynamics: macroevolution and infectious disease;
+3) species tree and gene trees; 4) plylogenetic model comparison, model
+selection and model averaging and 5) phylogeography and trait evolution.
+
+Taming the BEAST in the South Pacific is organised by the Centre for
+Computational Evolution at the University of Auckland, and follows the
+successful inaugural Taming the BEAST workshop in the Swiss Alps run by
+ETH Zurich earlier this year.
+
+For more information, please visit our website
+http://www.compevol.auckland.ac.nz/ or send an email to
+compevol@auckland.ac.nz
+
+"alexei@cs.auckland.ac.nz" <alexei@cs.auckland.ac.nz>
+

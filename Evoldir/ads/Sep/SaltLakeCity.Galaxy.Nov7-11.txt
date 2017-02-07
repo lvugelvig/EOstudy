@@ -1,0 +1,53 @@
+Galaxy Admin Training
+  November 7-11, 2016
+  Salt Lake City Utah
+  https://wiki.galaxyproject.org/Events/AdminTraining2016
+
+----
+
+The first Galaxy Admin Training workshop will be held November 7-11 in Salt
+Lake City, Utah (the week before Supercomputing'16 also meets in Salt
+Lake).  The workshop offers Basic and Advanced sessions.
+
+Galaxy is an open web based platform for biomedical data integration and
+analysis. It is deployed at large and small organizations around the world
+and used in a broad range of biomedical research domains, and across the
+tree of life.  Galaxy enables life science researchers to perform their own
+data analysis without having to learn command line interfaces or Linux
+package management.  Galaxy transparently records all analysis steps and
+eases workflow reuse and sharing.  If your organization is looking for how
+to empower your researchers, then please consider attending one or both
+sessions.
+
+Participants will learn how to install, configure, customize, and extend
+their own Galaxy servers. Topics include tool configuration, authentication
+and user management, using heterogeneous storage and compute services, and
+many other topics that will enable you to get your own Galaxy server up and
+running, performing well, and used by your community.
+
+Registration is now open, but space is limited.  Early registration ends
+September 19.  Participants can register for one or both sessions. Please
+review each session's prerequisites before registering.
+
+Galaxy Admin Training 2016 is hosted by the University of Utah Center for
+High Performance Computing (CHPC),  USTAR Center for Genetic Discovery
+(UCGD), the Department of Biomedical Informatics and the Clinical &
+Translational Science Biomedical Informatics Core (CCTS BMIC) at the
+University of Utah.
+
+We hope to see you in Salt Lake!
+
+The Galaxy Team
+
+PS: Please share this flier (
+https://wiki.galaxyproject.org/Events/AdminTraining2016/Publicity) with any
+individuals or groups who might be interested in this event.
+
+-- 
+http://galaxyproject.org/
+http://getgalaxy.org/
+http://usegalaxy.org/
+https://wiki.galaxyproject.org/
+
+Dave Clements <clements@galaxyproject.org>
+

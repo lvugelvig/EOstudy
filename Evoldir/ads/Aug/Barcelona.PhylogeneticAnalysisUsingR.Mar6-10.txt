@@ -1,0 +1,44 @@
+Dear Colleague,
+
+Registration is open for the fourth edition of the course PHYLOGENETIC ANALYSIS
+USING R, March 6th-10th, 2017.
+
+INSTRUCTORS: Dr. Emmanuel Paradis (Institut de Recherche pour le D¨¦veloppement,
+France) and Dr. Klaus Schliep (University of Massachusetts, USA).
+
+More information:
+http://www.transmittingscience.org/courses/phylogeny/phylogenetic-analysis-using-r/
+
+This course is for biologists dealing with the analysis of multiple molecular
+sequences at several levels: Populations, species, clades, communities. These
+biologists address questions relative to the evolutionary relationships among
+these sequences, as well as the evolutionary forces structuring biodiversity at
+different scales. The objectives are: (i) to learn the theorical bases
+phylogenetic analysis, (ii) to know how to choose a strategy of molecular data
+analysis at the inter©\ or intraspecific levels, (iii) to be able to initiate a
+phylogenetic analysis starting from the files of molecular sequences until the
+interpretation of the results and the graphics. The software used for this
+course will be centered on the R language for statistics. This will include the
+use of specialized packages particularly ape, phangorn, and adegenet.
+
+Requeriments: Knowledge of multivariate statistics, phylogenetics and molecular
+evolution. User level of R.
+
+PLACE:  Facilities of the Centre of Restauraci¨® i Interpretaci¨® Paleontologica,
+Els Hostalets de Pierola,  Barcelona (Spain).
+
+Organized by: Transmitting Science, the Institut Catal¨¢ de Paleontologia M.
+Crusafont and the Centre de Restauraci¨® i Interpretaci¨® Paleontologica de Els
+Hostalets de Pierola.
+
+Places are limited and will be covered by strict registration order.
+
+With best regards
+
+Soledad De Esteban-Trivigno, PhD.
+Scientific Director
+Transmitting Science
+www.transmittingscience.org
+
+Soledad De Esteban-Trivigno <soledad.esteban@transmittingscience.org>
+

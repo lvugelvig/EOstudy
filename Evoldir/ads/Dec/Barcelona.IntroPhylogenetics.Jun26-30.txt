@@ -1,0 +1,51 @@
+Dear colleagues,
+
+Registration is open for the course "Introduction to Phylogenetic Inference and
+its Applications".
+
+Dates: June 26th-30th, 2017.
+
+Instructors: Dr. Miquel Arnedo (Universitat de Barcelona, Spain) y Dr. Salvador
+Carranza (Institut of Evolutionary Biology (CSIC-UPF, Spain).
+
+PLACE: Facilities of the Centre de Restauració i Interpretació Paleontologica,
+Els Hostalets de Pierola, Barcelona (Spain). 
+
+During this course instructors will guide attenders and will provide training in
+conceptual and practical aspects of biological systematics. They will present
+the main methods of phylogenetic inference (parsimony, maximum likelihood and
+Bayesian inference), evolutionary models, data combinability, the estimation of
+divergence times and the use of quantitative approaches to species delimitation.
+Moreoverm in hands on computer sessions, we will introduce the most widely used
+computer programs for building alignments, selecting evolutionary models,
+inferring trees under alternative assumptions, estimating divergence times and
+delimiting species.
+
+The participants are welcome to bring their own data and problems to be used
+during the practical sessions.
+
+The course is aimed at advanced undergrads, PhD students, post-docs and faculty
+interested in the use of phylogenies for addressing evolutionary and ecological
+questions but with limited background in systematics and phylogenetic inference.
+All participants must bring their own personal laptop.
+
+Registration and more info:
+http://www.transmittingscience.org/courses/phylogeny/introduction-phylogenetic-inference-applications/
+
+PROGRAM:
+http://www.transmittingscience.org/courses/phylogeny/introduction-phylogenetic-inference-applications/#program
+
+This course is organized by Transmitting Science, the Institut Català de
+Paleontologia and the Centre de Restauració i Interpretació Paleontologica.
+
+With best regards
+
+Sole
+
+Soledad De Esteban-Trivigno, PhD.
+Scientific Director
+Transmitting Science
+www.transmittingscience.org
+
+soledad.esteban@transmittingscience.org
+

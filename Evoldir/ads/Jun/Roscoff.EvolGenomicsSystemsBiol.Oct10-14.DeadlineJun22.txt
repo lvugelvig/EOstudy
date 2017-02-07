@@ -1,0 +1,150 @@
+Dear all,
+
+We have the pleasure to announce a CNRS-Jacques Monod Conference 
+entitled "Evolutionary genomics and systems biology: bringing together 
+theoretical and experimental approaches" that will take place in Roscoff 
+(France) from 10 to 14 October 2016.
+
+Deadline for abstract submission (mandatory for participation to a 
+Jacques Monod Conference): 22 June 2016 (see instructions on CNRS 
+website http://www.cnrs.fr/insb/cjm/2016/Vekemans_e.html)
+The organizers: Xavier Vekemans (UMR Evo-Eco-Paléo, Lille; 
+xavier.vekemans@univ-lille1.fr) and Christian Landry (Institut Biologie 
+Intégrative et des Systèmes, Laval University, Québec; 
+christian.landry@bio.ulaval.ca)
+
+Presentation of the conference:
+Genomic tools are becoming essential in biological investigations that 
+relate to agriculture, medicine, biotechnology and biodiversity science. 
+Moreover, evolutionary concepts and an evolutionary genomics perspective 
+are becoming central to interpret any new finding in these fields and 
+develop forward approaches for problem solving. The potential of 
+evolutionary genomics is unparalleled as it provides key insights into 
+our understanding of many fundamental and applied questions such as the 
+evolutionary history of life on earth and the molecular bases of 
+adaptation of species in response to environmental changes in natural 
+populations and crop improvement. However, the maturation of 
+evolutionary thinking in these fields involving genomic approaches is an 
+ongoing process and needs to be supported by initiatives that will 
+update key analytical, conceptual and experimental innovations in 
+evolutionary genomics.
+
+The objective of the proposed conference is to make such synthesis 
+possible by bringing leaders in the field together to discuss their 
+ongoing research and vision of where the field is moving over the coming 
+years. Accordingly, we aim at fostering the link between functional and 
+evolutionary perspectives towards an integrative approach of 
+evolutionary genomics, and propose a conference with: two sessions on 
+evolutionary systems biology and experimental evolution; one session on 
+genome evolution; two sessions on theoretical and empirical population 
+genomics. Because evolutionary genomics largely focuses on processes 
+(how mutations arise and fix in populations) and systems biology on 
+functions (how mutations are translated into phenotypes), we are 
+convinced that this combination will allow to progress towards a better 
+understanding of evolutionary processes and its applications.
+Besides this focus on an integrative approach, a second aim of the 
+conference is to bring together evolutionary genomic researchers working 
+on a large panel of organisms, from bacteria to humans, including e.g. 
+plants and fungi, in order to foster the cross-exchange of evolutionary 
+concepts, analytical methods and experimental approaches.
+
+Programme and confirmed invited speakers:
+Session EVOLUTIONARY SYSTEM BIOLOGY AND NETWORK EVOLUTION: Marie-Anne 
+FELIX; Christian LANDRY; Ben LEHNER; Benjamin PRUD'HOMME; Trisha WITTKOPP
+Session EXPERIMENTAL EVOLUTION: Irene CHEN; Michael DESAI; Duncan GREIG; Caroline KNIBBE; Olivier TENAILLON
+Session GENOME EVOLUTION: Doris BACHTROG; Laurent DURET; Tatiana GIRAUD; 
+Henrik KAESSMANN; Maud TENAILLON
+Session THEORETICAL AND METHODOLOGICAL DEVELOPMENTS IN POPULATION 
+GENOMICS: Mark BEAUMONT; Michael BLUM; Richard DURBIN; Asger HOBOLT; 
+Renaud VITALIS
+Session ECOLOGICAL AND EVOLUTIONARY GENOMICS: Juliette DE MEAUX; Nicolas 
+GALTIER; Dmitri PETROV; Molly PRZEWORSKI; Christian SCHLOTTERER; Xavier 
+VEKEMANS
+
+Provisional titles of invited communications:
+BACHTROG Doris (Berkeley, USA)
+The evolution of chromatin structure
+BEAUMONT Mark (Bristol, United Kingdom).
+ABC strategies for inferring demographic history from whole genome data
+BLUM Michael (La Tronche, France)
+Detecting genomic signatures of natural selection with principal 
+component analysis
+CHEN Irene (Santa Barbara, USA)
+The role of chance in the early evolution of life
+DE MEAUX Juliette (Köln, Germany)
+Evolutionary transcriptomics in the Arabidopsis genus
+DESAI Michael (Cambridge, USA)
+The statistics of epistasis and pleiotropy in budding yeast
+DURBIN Richard (Cambridge, United Kingdom)
+Inferring demography from multiple genome sequences
+DURET Laurent (Villeurbanne, France)
+Biased gene conversion: the dark side of recombination
+FELIX Marie-Anne (Paris, France)
+Evolutionary systems analysis of Caenorhabditis vulva development
+GALTIER Nicolas (Montpellier, France)
+Effective population size, genetic polymorphism and adaptive rate in 
+non-model animals.
+GIRAUD Tatiana (Orsay, France)
+Evolutionary genomics of adaptation in fungi as model eukaryotes
+GREIG Duncan (Plön, Germany)
+Experimental evolution of pheromonal mate discrimination
+HOBOLT Asger (Aarhus, Denmark)
+Accurate approximation to the ancestral recombination graph
+KAESSMANN Henrik (Lausanne, Switzerland)
+The evolution of gene expression programs in mammalian organs
+KNIBBE Carole (Villeurbanne, France)
+Genome evolution: challenging intuition with modelling and simulation
+LANDRY Christian (Québec, Canada)
+Structure and evolution of protein interaction networks
+LEHNER Ben (Barcelona, Spain)
+Complete local genotype-phenotype landscapes
+PETROV Dmitri (Stanford, USA)
+Dynamics of rapid adaptation
+PRUD'HOMME Benjamin (Marseille, France)
+Evolution of a morphological novelty from a genomic perspective
+PRZEWORSKI Molly (New York, USA)
+The evolution of mutation rates in primates
+SCHLOTTERER Christian (Vienna, Austria)
+Towards understanding adaptation in the wild by combining laboratory 
+natural selection with high throughput sequencing
+TENAILLON Maud (Gif sur Yvette, France)
+Patterns of local adaptation along altitudinal gradients in maize wild 
+relatives
+TENAILLON Olivier (Paris, France)
+Protein landscapes and antibiotic resistance
+VEKEMANS Xavier (Villeneuve d'Ascq, France)
+Comparative genomic structure of self-incompatibility loci in flowering 
+plants
+VITALIS Renaud (Montferrier-sur-Lez, France)
+Hierarchical Bayesian models of genetic differentiation to detect 
+signatures of local adaptation.
+WITTKOPP Trisha (Ann Arbor, USA)
+Disentangling the impacts of mutation and selection on regulatory variation
+
+Practical information and abstract submission:
+http://www.cnrs.fr/insb/cjm/2016/Vekemans_e.html
+
+Christian Landry, PhD
+Professeur agrégé
+
+Chaire de Recherche du Canada en Biologie évolutive des systèmes cellulaires
+// Canada Research Chair in Evolutionary Cell and Systems Biology
+
+Département de Biologie
+Institut de Biologie Intégrative et des Systèmes
+PROTEO
+Centre de recherche en données massives (CRDM)
+
+Local 3106, Pavillon Charles-Eugène-Marchand
+1030, Avenue de la Médecine
+Université Laval
+Québec (Québec) G1V 0A6
+Canada
+
+http://landrylab.ibis.ulaval.ca/
+
+Téléphone: 418-656-3954
+Télécopieur: 418-656-7176
+
+Christian Landry <Christian.Landry@bio.ulaval.ca>
+

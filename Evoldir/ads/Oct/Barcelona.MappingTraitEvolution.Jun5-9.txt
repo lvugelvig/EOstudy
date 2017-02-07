@@ -1,0 +1,63 @@
+Dear colleagues,
+
+Transmitting Science is offering a new course: "Mapping Trait Evolution", June
+5th-9th, 2017.
+
+Instructor: Dr. Jeroen Smaers (Stony Brook University, USA).
+
+PROGRAM:
+
+Monday. (R packages: ape, Geiger).
+
+* Morning: Phylogenetic data.
+* What is the basic structure of phylogenetic data?
+* How to visualize and manipulate phylogenetic data?
+* Afternoon: Models of evolution.
+* What are models of evolution?
+* What are the assumptions of the different models of evolution?
+* How are models of evolution utilized?
+
+Tuesday. (R packages: ape, nlme, caper, evomap).
+
+* Morning: Phylogenetic regression.
+* Assumptions, properties, and applications of the phylogenetic regression.
+* Afternoon: Phylogenetic ancova.
+* Testing for grade shifts using the phylogenetic regression.
+
+Wednesday. (R packages: phytools, motmot, geiger, ape, evomap, BayesTraits).
+
+* Morning: Ancestral estimation.
+* Using models of evolution to estimate values of ancestral nodes.
+* Afternoon: Analysis of rates of evolution.
+* Estimation of rates of evolution.
+* Testing hypothesis about rates of evolution.
+
+Thursday. (R packages: bayou, phylolm, surface, OUwie, mvMORPH).
+
+* Morning: Inferring the structure of a macroevolutionary landscape.
+* Using Ornstein-Uhlenbeck models to map macroevolutionary patterns.
+* Afternoon: Testing the structure of a macroevolutionary landscape.
+* Applications and assumptions of OU models.
+* Using OU models to test macroevolutionary hypotheses.
+
+Friday. (R packages: geomorph).
+
+* Morning: Modularity and integration.
+* What is 'phylogenetic' modularity and integration?
+* Applications and assumptions.
+* Afternoon: Case study.
+
+MORE INFO:
+http://www.transmittingscience.org/courses/evolution/mapping-trait-evolution/
+
+With best regards
+
+Sole
+
+Soledad De Esteban-Trivigno, PhD.
+Scientific Director
+Transmitting Science
+www.transmittingscience.org
+
+Soledad De Esteban-Trivigno <soledad.esteban@transmittingscience.org>
+

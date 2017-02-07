@@ -1,0 +1,81 @@
+ *FuturePhy | OpenTree | Arbor*
+*Request for Workshop Proposals: Clade Focused Tree-Data Integration
+Challenges*
+
+*RFP:* Two page proposals to fund small workshops and/or hackathons on
+completing the tree of life and integrating data layers for specific
+clades. This is the second set of clade workshops - you can see a summary
+from the first workshop on the *Open Tree of Life blog*
+<https://blog.opentreeoflife.org/2016/03/09/futurephy-clade-workshops/>. In
+this round, we particularly encourage proposals focused on microbes, plants
+and fungi.
+*Proposal deadline:* Aug. 1, 2016
+*Meeting dates:* Oct. 2016
+*Location:* Chicago, IL
+*Participants per workshop:* 10 maximum funded (virtual attendees possible)
+*Contacts:* mwestneat@uchicago.edu (FuturePhy), karen.cranston@gmail.com
+(OpenTree), lukejharmon@gmail.com (Arbor)
+
+The challenges to completing the Tree of Life and integrating data layers
+(NSF GoLife goals) are huge and vary across clades. Some groups have a
+nearly-complete tree but lack publicly available data layers, whereas other
+groups lack phylogenetic resolution or the resources to support tree / data
+integration. Partnering with Open Tree of Life and Arbor Workflows,
+FuturePhy will support a series of clade-based workshops to identify and
+solve specific challenges in tree of life synthesis and data layer
+integration.
+
+Proposals should focus on challenges in completing the tree of life and
+integrating data layers for a clade or clades of interest.
+Cross-fertilization among systematists and other fields is desired, with
+focus on phylogenetic challenges, data layer development, and/or tree-data
+integration and analyses. How can developers of Arbor, OpenTree and other
+resources develop tools to help solve these challenges? What tools and
+infrastructure are needed for others to solve similar problems?
+
+Proposals (using the *proposal template*
+<https://docs.google.com/document/d/1SJbzT2h1oPGOCGDsETfPjAI8ZKDhrgIS9odZPuxySPw/edit>)
+should include (1) the status of the phylogeny for your group, including
+availability of trees in Dryad, TreeBASE or Open Tree of Life, (2) target
+data layers for the workshops, indicating the locations and accessibility
+of the data, (3) key biological questions that you would like to ask, given
+availability of trees and data layers, (4) roadmap to tangible products,
+with a clear timeline, (5) the challenges to phylogeny and data synthesis
+in your clade, with specific targets scoped for progress towards a solution
+during the workshop, (6) evidence that public data exist as a starting
+point or access to data that can be made public.
+
+General plans & logistics. Each workshop may involve up to 10 funded
+attending participants, with the first set of workshops to happen in
+parallel at the same time and location. Open Tree of Life, FuturePhy and
+Arbor personnel will be there to demo, discuss and plan implementation.
+Each group should involve participants familiar with data analysis /
+integration / use of web services (e.g., in R, python). Groups can focus
+anywhere on the spectrum of completing phylogeny to integrating data
+layers. Groups agree to make assembled data or tools publicly available and
+to provide a post-workshop report after the event. Phylogenetic data will
+be incorporated into Open Tree of Life.
+
+*Evaluation.* Proposals will be evaluated on (1) the feasibility of solving
+the specific challenges, including evidence for publicly-available data;
+(2) participant diversity (discipline, career stages, gender, ethnicity),
+(3) participant expertise, (4) how solving these challenges will benefit
+researchers in other clades, (5) potential for increasing public data,
+tools, products, and contributing trees to Open Tree of Life and related
+initiatives.
+
+-- 
+Mark W. Westneat
+Professor, Department of Organismal Biology and Anatomy
+Director of Graduate Studies, Integrative Biology
+University of Chicago
+1027 E. 57th Street, Chicago IL 60637
+(773) 702-2412
+Lab Web site: http://westneatlab.uchicago.edu
+email: mwestneat@uchicago.edu
+
+Research Associate, Field Museum of Natural History
+mwestneat@fieldmuseum.org <mwestneat@uchicago.edu>
+
+mwestneat@gmail.com
+

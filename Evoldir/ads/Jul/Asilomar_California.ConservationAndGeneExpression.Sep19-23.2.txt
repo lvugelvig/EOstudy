@@ -1,0 +1,46 @@
+DEADLINE EXTENDED
+
+Genomic variation has been a recent focus in conservation of rare and
+endangered species. However, the immediate response to environmental
+challenges will likely be determined by gene expression, which will
+constrain the efficacy of response and the likelihood of population
+persistence. Nonetheless, gene expression has been poorly studied in
+natural populations facing environmental and anthropogenic threats. This
+5-day workshop at Asilomar, a resort on the central California coast, will
+focus on providing an overview of the general approaches to studying gene
+expression as well as the molecular and analytical tools needed to initiate
+and complete a field study. We will be oriented toward questions regarding
+the conservation of biodiversity, but the tools and approaches can be
+applied to a wide variety of questions. The topics covered will include: 1)
+RNA sampling, preservation, extraction and quantification; 2) library
+construction and sequencing (RNA-Seq and reduced representation bisulphite
+sequencing (RRBS)); 3) filtering, quality control, mapping of reads to
+transcriptomes and genomes; and 4) statistical analysis, mixed linear
+model, WGCNA, GO analysis, TOA and TCA (for whole blood samples) and other
+inference techniques; and 5) interpretation of results and functional
+analysis.
+
+The workshop will not be restricted to taxonomic groups; it will include
+examples from plants, invertebrates, and vertebrates. Applications from
+University of California graduate and post-graduate community will receive
+higher priority as funding is partly due to a UC president=E2=80=99s office
+catalyst award. However, all applications will be considered. *There will
+be some special fellowship support for UC students. The $600 registration
+includes housing and all meals. Please apply online below. Space will be
+limited to 25 students. Applications will be rolling and accepted until
+July 15th, 2016.*
+
+*Lecturers*
+Robert Wayne, Matteo Pellegrini, Steve Cole (UCLA), Beth Shapiro (UCSC),
+Jenny Tung (Duke U), Steve Palumbi (Stanford U), Bridgett vonHoldt
+(Princeton U), Zac Cheveron (U Montana) and Christina Richards (U South
+Florida).
+
+*Workshop Instructors*
+Rachel Johnson, Tiffany Armenta, Alice Mouton, Devaughn Fraser, Gabriela
+Pinto, Annabel Beichman, Adam Freedman, and Amanda Lee.
+
+Apply here: https://ucconservationgenomics.eeb.ucla.edu/workshops/
+
+Rachel Meyer <rm181@nyu.edu>
+

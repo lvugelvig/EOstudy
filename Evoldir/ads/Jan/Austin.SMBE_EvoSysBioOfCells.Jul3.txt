@@ -1,0 +1,89 @@
+SMBE 2017 Symposium: Evolutionary Systems Biology of Cells
+Please join us for an exciting symposium addressing key 
+challenges at the interface of cell biology, systems biology, 
+and evolution. How do cells evolve so many fascinating forms 
+and functions and which tools can we use to discover more?
+
+Keynote speakers 
+-----
+
+- Prof. Michael Lynch (Bloomington): Evolutionary Cell Biology 
+- Prof. Trey Ideker (UCSD): Translation of Genotype to 
+  Phenotype by a Hierarchy of Cell Subsystems 
+
+We welcome abstract submissions for contributed talks and 
+posters due * Next * Wednesday:
+
+Important dates
+-----
+
+- 1st Feb 2017: SMBE abstract submission deadline, 
+  submit here http://www.smbe2017.org/abstracts/
+- 1st  March 2017: SMBE abstract notification
+- 29th March 2017: End of reduced registration rates  
+
+The Society for Molecular Biology and Evolution Conference 
+will be held in Austin, Texas, from 2 to 6 July 2017. 
+Symposium is on July 3rd.
+
+More Details
+-----
+
+The symposium program will also be published at:
+- http://evolutionarysystemsbiology.org/meeting/2017-SMBE/ 
+
+SMBE supports the presence of children at the conference:
+- http://www.smbe2017.org/destination/childcare-at-smbe/ 
+
+Symposium Description
+-----
+
+Cells are the basic units of life. Decades of research in 
+molecular-, cell-, and systems-biology have accumulated impressive 
+insights into the molecular mechanisms of life, but the 
+biodiversity of cellular systems remain vastly under-explored 
+despite its critical role in evolution. Building on successful 
+models of well-known cells in controlled environments, this 
+symposium aims to bring together cell biologists, systems biologists, 
+evolutionary biologists, and others interested in advancing models 
+of evolution at the cellular level. This focus on cellular systems 
+celebrates the latest advances in the relentless Evolutionary 
+Synthesis that started with Fisher 1918, and has been continuing 
+whenever evolutionary biologists study complex biological systems 
+to achieve an integrative understanding of evolution. Topics of 
+interest include, but are not be limited to: 
+
+- Mechanistic simulations predicting distributions of 
+  mutational effects on cellular growth or survival 
+- Mechanisms for establishing, maintaining, and modifying cellular
+  pathways, gene-regulatory sub-networks and genetic subsystems
+- Mechanisms for evolving novel cell types 
+- Methods that help study the above
+
+We will discuss how to integrate recent advances in genome biology, 
+computational molecular systems biology, cell biology and 
+evolutionary biology.  
+
+Symposium organizers
+-----
+
+Dr. Laurence Loewe
+Evolutionary Systems Biology Group
+Laboratory of Genetics and
+Wisconsin Institute for Discovery 
+University of Wisconsin-Madison
+330 North Orchard Street, Madison, WI, 53715 
+Tel: +1 (608) 316 4324 
+Email: loewe@wisc.edu	
+http://wid.wisc.edu/profile/laurence-loewe/
+
+Prof Anne-Ruxandra Carvunis
+Department of Computational and Systems Biology
+University of Pittsburgh
+3501 Fifth Avenue, 3064 BST3 
+Pittsburgh, PA 15260, USA
+Email: Carvunis@gmail.com
+http://carvunislab.csb.pitt.edu/
+
+"ll@evre.de" <ll@evre.de>
+

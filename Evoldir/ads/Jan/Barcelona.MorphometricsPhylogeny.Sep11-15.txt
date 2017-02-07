@@ -1,0 +1,55 @@
+Dear colleagues, 
+
+The 8th edition of the course GEOMETRIC MORPHOMETRICS AND PHYLOGENY has
+open registration. Basic knowledge of Geometric Morphometrics is required.
+
+INSTRUCTOR: Prof. Chris Klingenberg (University of Manchester, UK).
+
+DATES: September 11th - 15th, 2017.
+
+PLACE: Facilities of the Centre of Restauració i Interpretació
+Paleontologica, Els Hostalets de Pierola, Barcelona (Spain).
+
+Testimonials of previous editions:
+http://www.transmittingscience.org/courses/gm/gm-and-phylogeny/#Testimonials
+
+PROGRAM,
+
+1.  Phylogeny, trees and phylogenetic reasoning.
+2.  Brief review of geometric morphometrics (Procrustes fit, PCA, etc.).
+3.  Mapping traits onto phylogenies: squared-change parsimony.
+4.  Practice: making/editing Nexus files, mapping morphometric data onto
+    the tree (Mesquite, MorphoJ).
+5.  Phylogenetic signal, morphometric traits and estimating phylogeny.
+6.  Comparative methods: independent contrasts.
+7.  Application in morphometrics: evolutionary allometry and size correction.
+8.  Practice: comparative methods (MorphoJ).
+9.  Application of comparative methods: morphological integration.
+10. Multi-level analyses of integration: inferring evolutionary mechanisms.
+11. Application of comparative methods: partial least squares
+    (ecomorphology, etc.).
+12. Practice; comparative methods (cont.).
+13. Morphometrics, phylogenies and qualitative characters.
+14. Disparity and diversification.
+15. Presentations of group work.
+
+More information:
+http://www.transmittingscience.org/courses/geometric-morphometrics/geometric-morphometrics-phylogeny/
+
+or writing to courses@transmittingscience.org
+
+Organized by: Transmitting Science, the Institut Catalá de Paleontologia
+Miquel Crusafont and the Council of Hostalets de Pierola.
+
+Please feel free to distribute this information between your colleagues
+if you consider it appropriate.
+
+With best regards 
+
+Soledad De Esteban-Trivigno, PhD.
+Scientific Director
+Transmitting Science
+www.transmittingscience.org
+
+Soledad De Esteban-Trivigno <soledad.esteban@transmittingscience.org>
+

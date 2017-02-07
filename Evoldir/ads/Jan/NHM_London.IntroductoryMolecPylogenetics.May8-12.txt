@@ -1,0 +1,68 @@
+Dear Colleagues,
+
+The Natural History Museum, London and BBSRC are offering a one-week
+introductory course ³Integrating molecules with taxonomy and systematics:
+an introductory molecular phylogenetics course for species identification
+and evolutionary analysis², to run from 8-12th May 2017. The course will
+be taught by NHM scientists and will benefit anyone wishing to gain
+expertise in molecular diagnostics and phylogenetic analysis for
+systematic, taxonomic and ecological studies. Note that this course
+assumes no prior experience with DNA sequence analyses and is an
+introductory course. As such, it is not appropriate for more advanced
+students. More information can be found here:
+http://www.nhm.ac.uk/our-science/courses-and-students/integrating-molecules
+-with-taxonomy-and-systematics.html
+
+Summary: 
+This one-week introductory-level course will teach participants the steps
+involved to produce molecular phylogenies from raw Sanger and
+next-generation sequence data (i.e. Illumina paired-end). A phylogeny is
+essential for defining species boundaries, species identifications,
+recognition of cryptic species, testing systematic hypotheses, identifying
+evolutionary and biogeographic patterns and understanding the evolution of
+traits. As such, knowing how to produce a robust tree is an indispensible
+tool for modern taxonomists, systematists and evolutionary biologists. By
+the time the participants have completed the course, they will have had
+theoretical and practical experience enabling them to i) edit raw Sanger
+and NGS sequence data, ii) carry out multiple sequence alignments, iii)
+choose appropriate models of sequence evolution, iv) carry out
+phylogenetic analyses (including Bayesian inference, maximum likelihood),
+v) interpret tree topology and nodal support, vi) produce publication
+ready trees, vii) work with public sequence repositories, vii) assemble
+and annotate next generation sequence data, and viii) recognise cryptic
+species.
+
+Venue and duration: The Natural History Museum, London, UK. The course
+will run for one week, 9.30am-6.00pm, 8-12th May 2017.
+
+Eligibility and how to apply:
+The course is available to anyone but please note that priority will be
+given to applicants supported by BBSRC, working on a BBSRC grant or based
+at a BBSRC institute. There are a maximum of 12 places available. The
+course is sponsored by BBSRC and the NHM and we are charging only a
+nominal fee of 300, which includes all course costs as well as
+accommodation in London and some travel costs within the UK. Lunch and
+light refreshments will be provided each day. To apply please use the
+application form provided and return by the closing date: 31 March 2017.
+Applications will be accepted up to the deadline and places will be
+decided based on merit and suitability.
+
+Email applications to: molec_NHMBBSRC@nhm.ac.uk (Note that this is an
+automated email account ­ do not send queries. Your application will
+receive a bounce back message so you know it has arrived safely).
+Application forms can be found here:
+http://www.nhm.ac.uk/our-science/courses-and-students/integrating-molecules
+-with-taxonomy-and-systematics.html
+
+Dr Suzanne Williams
+Dept of Life Sciences
+Natural History Museum
+Cromwell Rd
+London SW7 5BD
+United Kingdom
+Tel: + 44 (0) 207 942 5351
+
+http://www.nhm.ac.uk/research-curation/staff-directory/zoology/s-williams/index.html
+
+"s.williams@nhm.ac.uk" <s.williams@nhm.ac.uk>
+

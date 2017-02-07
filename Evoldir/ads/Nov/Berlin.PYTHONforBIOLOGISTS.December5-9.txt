@@ -1,0 +1,90 @@
+
+Introduction to Python for biologists
+5-9
+December 2016 in Berlin, GermanyInstructor: Dr Martin Jones
+Application deadline is: November 21st , 2016.
+
+Overview:
+Python is a dynamic, readable language that is a popular platform for
+all types of bioinformatics work, from simple one-off scripts to large,
+complex software projects. This workshop is aimed at complete beginners
+and assumes no prior programming experience.
+ It gives an overview of the language with an emphasis on practical
+ problem-solving, using examples and exercises drawn from various
+ aspects of bioinformatics work. After completing the workshop,
+ students should be in a position to (1) apply the skills they have
+ learned to tackling problems in their own research and (2) continue
+ their Python education in a self-directed way. All course materials
+ (including copies of presentations, practical exercises, data files,
+ and example scripts prepared by the instructing team) will be provided
+ electronically to participants.
+
+Intended audience:
+This workshop is aimed at all researchers and technical workers with
+a background in biology who want to learn programming. The syllabus
+has been planned with complete beginners in mind; people with previous
+programming experience are welcome to attend as a refresher but may find
+the pace a bit slow. If in doubt, take a look at the detailed session
+content below or drop Martin Jones (martin@pythonforbiologists.com)
+an email.
+
+Teaching format:
+The workshop is delivered over ten half-day sessions (see the detailed
+curriculum below). Each session consists of roughly a one hour lecture
+followed by two hours of practical exercises, with breaks at the
+organizer's discretion. There will also be plenty of time for students
+to discuss their own problems and data.
+
+Assumed background:
+Students should have enough biological background to appreciate the
+examples and exercise problems (i.e. they should know about DNA and
+protein sequences, what translation is, and what introns and exons
+are). No previous programming experience or computer skills (beyond the
+ability to use a text editor) are necessary, but you'll need to have a
+laptop with Python installed.
+
+Course programme:
+Monday 5th - Classes from 09:30 to 17:30
+Session 1-. Introduction
+Session 2-Output and text manipulation
+
+Tuesday 6th - Classes from 09:30 to 17:30
+Session 3-File IO and user interfaces
+Session 4. Flow control 1 : loops
+
+Wednesday 7th - Classes from 09:30 to 17:30
+Session 5-Flow control 2 : conditionals
+Session6- Organizing and structuring code
+
+Thursday 17th - Classes from 09:30 to 17:30
+Session-7. Regular expressions
+Session 8-Dictionaries
+
+Friday 18th - Classes from 09:30 to 17:30
+Session 9-Interaction with the filesystem
+Session-10-Optional free afternoon to cover previous modules and discuss data
+
+Further information:
+The cost is 555 euros (VAT included) including refreshments and
+course materials. We also offer an all-inclusive package at 795
+euros(VAT included), including breakfast, lunch, dinner, refreshments,
+accommodation, course and transfer from/to the main city's airports.
+
+Please feel free to contact us if you need any further information:
+info@physalia-courses.org
+
+--
+
+Carlo Pecoraro, Ph.D
+
+Physalia-courses Coordinator
+
+info@physalia-courses.org
+
+http://www.physalia-courses.org/
+
+Twitter: @physacourses
+
+mobile: &#43;49 15771084054
+
+Carlo Pecoraro <info@physalia-courses.org>

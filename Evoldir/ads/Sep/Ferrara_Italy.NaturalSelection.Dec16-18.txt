@@ -1,0 +1,72 @@
+REGISTRATION IS NOW OPEN for the workshop "Inferring natural selection from
+genomic data", which will be held in Ferrara, Italy, December 16-18, 2016.
+
+Invited speakers include Andrea Betancourt, Dan Graur, Rasmus Nielsen,
+Ludovic Orlando, and Pavlos Pavlidis. The titles of their presentations are
+available at the site www.sibe2016.it, and reported at the end of this
+message.
+
+Three round tables are planned with the following themes: ENCODE and the
+functional fraction of the genome; The most influential (and useful) papers
+in adaptation genomics; Genomics for non-model organisms: pros and cons.
+
+A few spots are available for the participants to present their data and
+results.
+
+Please, register at http://www.sibe2016.it/index.php/registration. The
+maximum number of participants is 70, so register ASAP (first-come,
+first-served; we encourage participants to submit an abstract and present
+an oral communication).
+
+Accepted participants will be asked to confirm not later than the end of
+October.
+
+The workshop is supported by SIBE, the Italian Society of Evolutionary
+Biology (http://www.sibe-iseb.it/), in collaboration with the University of
+Ferrara. Registration is free for SIBE members; non-members can easily and
+cheaply become SIBE fellows (30 EUR for academics and 15 EUR for
+students/postdocs).
+
+Invited Speakers Presentations (A: Seminar; B: Lecture)
+
+Andrea Betancourt
+
+A: Transposable element evolution in Drosophila
+
+B: Analysing pooled sequencing data
+
+Dan Graur
+
+A: Can animal and plant genomes be devoid of junk DNA? An answer based on
+mutational genetic load, mean fertility, and effective population size.
+
+On December 15, Dan Graur will also give an open lecture at the University
+of Padova (about 70 km North of Ferrara) with the title: Lies, Damn Lies,
+and Statistics: Three Misconceptions about Genetics (Determinism,
+Perfectibility, and Naturalness)
+
+Pavlos Pavlidis
+
+A: Story-telling in genome scans for selective sweeps. Should we believe
+the results because they make sense?
+
+B: Detecting selective sweeps in full-genomes: what methods to use?
+
+Rasmus Nielsen
+
+A: Physiological adaptation in humans
+
+B: Selection scans using Next generation Sequencing data
+
+Ludovic Orlando
+
+A: TBA
+
+B: TBA
+
+Giorgio Bertorelle
+Department of Life Sciences and Biotechnology
+University of Ferrara
+
+Bertorelle Giorgio <ggb@unife.it>
+

@@ -1,0 +1,62 @@
+Call for contributions
+
+Workshop on Mathematical and Statistical Aspects of Molecular Biology
+
+http://www.cl.cam.ac.uk/events/masamb2016
+
+26th annual workshop, Computer Science Laboratory, Cambridge, UK
+
+Important dates:
+August 5 2016: Submission deadline for oral presentations
+September 5 2016: Author notification date
+September 5 2016: Late submission deadline for poster presentations
+October 3/4, 2016: Workshop date
+
+WORKSHOP DESCRIPTION
+
+Bioinformatics and statistical genetics, twin themes of the long-running
+series of annual MASAMB meetings, have gained huge impetus from
+large-scale genome sequencing projects and development of high-throughput
+biological assay systems, including gene-expression microarrays, proteomic
+and single-cell genomics technologies. These immense data resources,
+and the underlying complexities of molecular and cell biology, provide
+exciting research opportunities for numerate scientists.
+
+The workshop will host presentations of emerging problems and statistical
+techniques in molecular biology.  We encourage contributions describing
+either progress on new molecular problems or work on established problems
+using new approaches that are substantially different from established
+approaches. Kernel methods, graphical models, semi-supervised approaches,
+feature selection and other techniques applied to relevant problems
+would all be appropriate for the workshop. 
+
+SUBMISSION INSTRUCTIONS
+
+The MASAMB program will be compiled from submitted abstracts. Researchers
+interested in contributing should upload a one-page abstract in PDF
+format to the MASAMB submission site 
+
+https://easychair.org/conferences/?conf=masamb2016
+
+by August 5, 11:59pm (BST).
+
+All submissions will be peer reviewed and will be evaluated on the
+basis of their technical content.  A typical submission to the workshop
+represents a new mathematical or statistical approach applied to a problem
+in molecular biology. We encourage submissions both for established as
+well as new and emerging fields.
+
+The workshop allows submissions of abstracts that are based on papers
+that are currently under review or have been recently published in a
+conference or a journal. The authors should clearly state any overlapping
+published work at time of submission. 
+
+LOCAL ORGANIZERS
+
+Max Convey (University of Cambridge)
+Pietro Lio? (University of Cambridge)
+Oliver Stegle (EMBL-EBI)
+Lara Urban (EMBL-EBI)
+
+"goldman@ebi.ac.uk" <goldman@ebi.ac.uk>
+

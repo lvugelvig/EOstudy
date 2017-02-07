@@ -1,0 +1,35 @@
+Hi Everyone-
+
+We are offering a  Fall Workshop in Introductory Bioinformatics
+ 
+Where/when:
+University of Maryland
+College Park, Maryland
+September 15-18, 2016
+ 
+The handling of large datasets has become intractable without some
+level of bioinformatic literacy. Many biologists find that there is a
+steep learning curve to develop the confidence required to explore their
+genomics datasets effectively. This bioinformatics short course includes a
+rich collection of hands-on instruction and lectures specifically intended
+to help novice users become comfortable with a range of tools currently
+used to analyze deep sequencing data.  There is no prerequisite for this
+course other than a willingness to learn and to work hard throughout the
+week. All workshop exercises will be implemented via VirtualBox and focus
+primarily on Illumina data; however, we will also include PacBio data
+during the genome assembly tutorial.  Course participation is limited to
+25 students to ensure an intimate learning environment. Course tuition
+is $800 and is open to graduate students, postdocs, staff, faculty,
+and industry researchers on a first come basis.
+
+Full course information, contact, instructor info and
+application instructions at https://biodatatraining.wordpress.com
+<https://biodatatraining.wordpress.com/>
+
+Please contact us if you have any questions or need additional info.
+Hope to see you in College Park.
+
+Nic and Ian
+
+biodatatraining@gmail.com
+

@@ -1,0 +1,41 @@
+SMBE 2017 Symposium "Systems approaches to behavior"
+
+We welcome abstract submissions for a symposium on "Systems approaches to
+behavior" at SMBE 2017 in Austin, TX.  The symposium will feature talks by
+Lauren O'Connell (Harvard University) and Hans Hofmann (UT Austin).  The
+deadline for abstract submissions is February 1: http://www.smbe2017.org/
+
+If you have any questions, please feel free to contact Julia Saltz
+(julia.b.saltz@rice.edu)
+
+Symposium summary:
+Understanding the diversity of animal behaviors and how this diversity
+evolves is an intricate challenge because behavior uniquely combines inputs
+across biological scales-from genes, transcripts, and proteins interacting
+at tissue, organ, and whole organismal levels to environmental factors such
+as other individuals via social interactions. The goal of our symposium is
+to bring together researchers working at the interface of multiple levels
+of behavioral and molecular analysis to highlight how systems-level
+approaches can lead to new insights about behavioral evolution. Our
+symposium will be timely because high-dimensional "-omics" data,
+representing functional information at multiple biological scales, is
+rapidly becoming available; but the evolutionary relevance of such
+information, particularly for highly-plastic phenotypes like behavior,
+remains unclear. Our symposium will contribute to building an integrated
+conceptual framework for thinking about the causes of variation in behavior
+at a systems level and how such systems can evolve. Our invited speakers
+will provide "worked examples" illustrating how different molecular levels,
+neurobiology, and ecology can be integrated to understand why behavior
+varies within individuals, among individuals, and among species.
+
+-- 
+Julia B. Saltz
+Assistant Professor
+Biosciences at Rice University
+6100 Main Street, MS-170
+Houston, TX 77005
+julia.b.saltz@rice.edu
+Saltzlab.wordpress.com
+
+jbsaltz@gmail.com
+

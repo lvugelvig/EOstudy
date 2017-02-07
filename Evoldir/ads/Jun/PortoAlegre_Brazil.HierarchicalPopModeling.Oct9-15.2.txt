@@ -1,0 +1,70 @@
+III Porto Alegre Hierarchical Modeling Workshop
+
+Site-Occupancy and Species Distribution Models
+
+Date: October 9-15, 2016
+
+Lecturers: Marc Kery, Swiss Ornithological Institute, Sempach,
+Switzerland
+David Miller, Penn State University, University Park, USA
+Goncalo Ferraz, Universidade Federal do Rio Grande do Sul, Porto
+Alegre, Brazil
+
+Teach. Assistants: Ulisses Camargo, University of Helsinki, Finland
+Courtney Davis, Penn State University, University Park, USA
+Murilo Guimaraes, UFRGS, Porto Alegre, Brazil
+Nicolas Strebel, Swiss Ornithological Institute, Sempach, Switzerland
+
+Location: Pousada Haras Cambara, Porto Alegre, Rio Grande do Sul,
+Brazil
+
+Language: English
+
+Organization: Programa de Pos-Graduacao em Ecologia, Instituto de
+Biociencias, Universidade Federal do Rio Grande do Sul (UFRGS), with
+support from the Swiss Ornithological Institute, Penn State College of
+Agricultural Sciences, and the Finnish Ministry of Education and Culture.
+
+Course Fee: R$1200, covering lectures and handouts, food and accommodation
+for the whole week. Five bonus slots (reduced fee of R$250) will be
+available and distributed to graduate students on a merit basis.
+
+Attendance: 25 Participants max.
+
+This workshop is the third in a series of Porto Alegre Hierarchical
+Modeling Workshops for Ecologists, started in 2014. Each year we focus
+on a particular modeling topic and the theme for 2016 is site-occupancy
+modeling with particular emphasis on species distribution modeling. The
+workshop will open with a one-day introduction to linear, generalized
+linear and mixed models, and their implementation in the Bayesian and
+likelihood framework. From day two on, we turn our attention to the
+modeling of species distributions, focusing on the powerful
+site-occupancy models, which deal explicitly with measurement errors in
+species detection/non-detection data. We first study the basic
+MacKenzie et al. (2002) static model, and then develop a range of
+variations on the basic theme, with particular attention to
+dynamic occupancy models, mis-identification models, and spatial models
+of species distribution. A large part of the content will draw on three
+successful applied statistics books co-authored by Marc Kery and
+published by Academic Press (2010, 2012, and 2016). Most models will be
+implemented in a Bayesian framework, but we will show likelihood
+implementations, too, especially in the user-friendly R package
+unmarked. Ample time will be given for solving exercises, which will
+require some experience in R. We encourage participants to bring their
+own research problems for discussion during the workshop; both new
+and returning applicants are welcome.
+
+HOW TO APPLY: Visit http://www.ferrazlab.org/workshops and use the
+application form link to send us a CV and short letter describing
+former experience with ecological modeling and R (and possibly with
+BUGS software). Please also tell us your main reasons for wanting to
+attend and whether you want to apply for a bonus slot. This course is
+geared towards an audience of Latin American graduate students but
+we welcome applications from any background, professional activity and
+geographic origin. Please send your application no later than June
+30th; we will get back to you until July 5th. For more information
+please visit http://www.ferrazlab.org/workshops or write directly
+to goncalo.ferraz@ufrgs.br.
+
+Gonçalo Ferraz <goncalo.ferraz@ufrgs.br>
+

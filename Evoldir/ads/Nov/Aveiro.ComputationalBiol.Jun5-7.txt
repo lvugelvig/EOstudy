@@ -1,0 +1,204 @@
+4th INTERNATIONAL CONFERENCE ON ALGORITHMS FOR COMPUTATIONAL BIOLOGY
+
+AlCoB 2017
+ 
+Aveiro, Portugal
+ 
+June 5-7, 2017
+ 
+
+Organized by:
+
+Center for Research &amp; Development in Mathematics and Applications
+(CIDMA) Institute of Electronics and Informatics Engineering of Aveiro
+(IEETA) University of Aveiro
+
+Research Group on Mathematical Linguistics (GRLMC)
+Rovira i Virgili University
+ 
+http://grammars.grlmc.com/AlCoB2017/
+
+ 
+AIMS:
+
+AlCoB aims at promoting and displaying excellent research using string and
+graph algorithms and combinatorial optimization to deal with problems in
+biological sequence analysis, genome rearrangement, evolutionary trees,
+and structure prediction.
+
+Previous events were held in Tarragona, Mexico City, and Trujillo.
+ 
+The conference will address several of the current challenges in
+computational biology by investigating algorithms aimed at:
+
+1) assembling sequence reads into a complete genome,
+2) identifying gene structures in the genome,
+3) recognizing regulatory motifs,
+4) aligning nucleotides and comparing genomes,
+5) reconstructing regulatory networks of genes, and
+6) inferring the evolutionary phylogeny of species.
+ 
+Particular focus will be put on methodology and significant room will
+be reserved to young scholars at the beginning of their career.
+
+VENUE:
+
+AlCoB 2017 will take place in Aveiro, an industrial city with an
+important seaport on the Atlantic Ocean, and known as "the Portuguese
+Venice" due to its network of canals. The venue will be the Department
+of Mathematics of the University of Aveiro, Campus Universitário de
+Santiago, 3810-193 Aveiro.
+
+SCOPE:
+ 
+Topics of either theoretical or applied interest include, but are not
+limited to:
+
+Exact sequence analysis
+Approximate sequence analysis
+Pairwise sequence alignment
+Multiple sequence alignment
+Sequence assembly
+Genome rearrangement
+Regulatory motif finding
+Phylogeny reconstruction
+Phylogeny comparison
+Structure prediction
+Compressive genomics
+Proteomics: molecular pathways, interaction networks
+Transcriptomics: splicing variants, isoform inference and quantification, differential analysis
+Next-generation sequencing: population genomics, metagenomics, metatranscriptomics
+Microbiome analysis
+Systems biology
+
+ 
+STRUCTURE:
+ 
+AlCoB 2017 will consist of:
+
+invited lectures
+invited tutorials
+peer-reviewed contributions
+posters
+ 
+INVITED SPEAKERS:
+
+tba
+ 
+PROGRAMME COMMITTEE: (to be completed)
+ 
+Can Alkan (Bilkent University, Ankara, TR)
+Stephen Altschul (National Institutes of Health, Bethesda, USA)
+Yurii Aulchenko (PolyOmica, Groningen, NL)
+Ken Chen (University of Texas MD Anderson Cancer Center, Houston, USA)
+Eytan Domany (Weizmann Institute of Science, Rehovot, IL)
+Dmitrij Frishman (Technical University of Munich, DE)
+Terry Furey (University of North Carolina, Chapel Hill, USA)
+Olivier Gascuel (Pasteur Institute, Paris, FR)
+Debashis Ghosh (University of Colorado, Denver, USA)
+Susumu Goto (Kyoto University, JP)
+Osamu Gotoh (Institute of Advanced Industrial Science and Technology, Tokyo, JP)
+Javier Herrero (University College London, UK)
+Karsten Hokamp (Trinity College Dublin, IE)
+Fereydoun Hormozdiari (University of California, Davis, USA)
+Kazutaka Katoh (Osaka University, JP)
+Lukasz Kurgan (Virginia Commonwealth University, Richmond, USA)
+Carlos Martín-Vide (Rovira i Virgili University, Tarragona, ES, chair)
+Zemin Ning (Wellcome Trust Sanger Institute, Hinxton, UK)
+William Stafford Noble (University of Washington, Seattle, USA)
+Cedric Notredame (Center for Genomic Regulation, Barcelona, ES)
+Christos Ouzounis (Centre for Research &amp; Technology Hellas, Thessaloniki, GR)
+Manuel C. Peitsch (Philip Morris International, Bern, CH)
+Matteo Pellegrini (University of California, Los Angeles, USA)
+Graziano Pesole (University of Bari, IT)
+David Posada (University of Vigo, ES)
+Knut Reinert (Free University of Berlin, DE)
+Peter Robinson (The Jackson Laboratory, Farmington, USA)
+Julio Rozas (University of Barcelona, ES)
+David Sankoff (University of Ottawa, CA)
+Alejandro Schäffer (National Institutes of Health, Bethesda, USA)
+Xinghua Shi (University of North Carolina, Charlotte, USA)
+Nicholas D. Socci (Memorial Sloan Kettering Cancer Center, New York, USA)
+Alexandros Stamatakis (Heidelberg Institute for Theoretical Studies, DE)
+Granger Sutton (J. Craig Venter Institute, La Jolla, USA)
+Kristel Van Steen (University of Liège, BE)
+Arndt von Haeseler (Center for Integrative Bioinformatics Vienna, AT)
+Kai Wang (University of Southern California, Los Angeles, USA)
+Haim J. Wolfson (Tel Aviv University, IL)
+Ioannis Xenarios (Swiss Institute of Bioinformatics, Lausanne, CH)
+Shibu Yooseph (University of Central Florida, Orlando, USA)
+Mohammed J. Zaki (Rensselaer Polytechnic Institute, Troy, USA)
+Daniel Zerbino (European Bioinformatics Institute, Hinxton, UK)
+Weixiong Zhang (Washington University in St. Louis, USA)
+
+ORGANIZING COMMITTEE:
+ 
+Diana Costa (Aveiro, CIDMA)
+Daniel Figueiredo (Aveiro, CIDMA, co-chair)
+Carlos Martín-Vide (Tarragona, co-chair)
+Manuel A. Martins (Aveiro, CIDMA)
+Manuel Jesús Parra Royón (Granada)
+Armando J. Pinho (Aveiro, IEETA)
+Diogo Pratas (Aveiro, IEETA, co-chair)
+Miguel A. Vega-Rodríguez (Cáceres)
+Florentina Lilica Voicu (Tarragona)
+ 
+SUBMISSIONS:
+ 
+Authors are invited to submit non-anonymized papers in English
+presenting original and unpublished research. Papers should not
+exceed 12 single-spaced pages (including eventual appendices,
+references, proofs, graphics, etc.) and should be prepared according
+to the standard format for Springer Verlag's LNCS series (see
+http://www.springer.com/computer/lncs?SGWID=0-164-6-793341-0).
+
+Submissions have to be uploaded to:
+ 
+https://easychair.org/conferences/?conf=alcob2017
+ 
+PUBLICATIONS:
+ 
+A volume of proceedings published by Springer in the LNCS/LNBI series
+will be available by the time of the conference.
+
+A special issue of a major journal will be later published containing
+peer-reviewed substantially extended versions of some of the papers
+contributed to the conference. Submissions to it will be by invitation.
+
+REGISTRATION:
+ 
+The registration form can be found at:
+ 
+http://grammars.grlmc.com/AlCoB2017/Registration.php
+ 
+DEADLINES (all at 23:59 CET):
+ 
+Paper submission: January 22, 2017
+Notification of paper acceptance or rejection: February 25, 2017
+Final version of the paper for the LNCS/LNBI proceedings: March 9, 2017
+Early registration: March 9, 2017
+Late registration: May 22, 2017
+Submission to the journal special issue: September 7, 2017
+ 
+QUESTIONS AND FURTHER INFORMATION:
+
+
+florentinalilica.voicu (at) urv.cat
+ 
+POSTAL ADDRESS:
+ 
+AlCoB 2017
+Research Group on Mathematical Linguistics (GRLMC)
+Rovira i Virgili University
+Av. Catalunya, 35
+43002 Tarragona, Spain
+ 
+Phone: +34 977 559 543
+Fax: +34 977 558 386
+ 
+ACKNOWLEDGEMENTS:
+ 
+
+Universidade de Aveiro
+Universitat Rovira i Virgili
+

@@ -1,0 +1,45 @@
+Symposium: Investigating ecological and evolutionary processes with NGS
+
+Global change drivers create new environmental scenarios and selective
+pressures, affecting animal and plant species in various interacting
+ways. Understanding how the genome of an organism evolves and copes
+with environmental challenges is the main goal of Ecological and
+Evolutionary Genomics (EEG). EEG involves the integration of genomic
+data to the phenotype and ecosystem function of the organism. The
+development of next-generation sequencing (NGS) technologies offers an
+unprecedented opportunity to understand the genetic architecture of
+fundamental ecological and evolutionary processes such as migration,
+foraging behavior, energetics, and communication in natural populations
+as well as to identify the environmental factors that drive local
+adaptation. The aim of this symposium is to discuss the promise of NGS
+technologies in order to study ecological adaptation and bring together
+field biologists along the molecular to theoretical continuum to
+exchange ideas and perspectives.
+
+Invited speaker, Aaron Schafer (Trent University), Canada: "Using
+genomic data to infer demographic and adaptive processes in natural
+populations".
+
+The online abstracts submission for the symposium is open until the 5th
+of September. This symposium is part of the XIV MEDECOS & XIII AEET
+meeting, which will take place in Seville, Spain, from January 31 to
+February 4, 2017.
+
+For more information about the meeting, please visit:
+http://www.medecos-aeet-meeting2017.es/
+For abstract submission, please visit:
+http://www.medecos-aeet-meeting2017.es/Call_for_Abstracts_330_p.htm
+
+Miguel Gallach
+Center for Integrative Bioinformatics Vienna (CIBIV)
+Max F. Perutz Laboratories(MFPL)
+Telf: +43 1 4277 74330
+Campus Vienna Biocenter 5, Ebene 1
+CIBIV, MFPL
+1030 Vienna, Austria
+e-mail:
+miguel.gallach@univie.ac.at
+migaca2001@gmail.com
+
+Miguel Gallach <miguel.gallach@univie.ac.at>
+

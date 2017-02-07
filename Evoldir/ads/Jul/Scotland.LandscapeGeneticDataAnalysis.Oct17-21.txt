@@ -1,0 +1,91 @@
+"Landscape (population) genetic data analysis using R"
+
+Delivered by Dr. Rodney Dyer
+
+http://prstatistics.com/course/landscape-genetic-data-analysis-using-r-lndg/
+
+This course will run from 17th - 21st October 2016 at SCENE Field 
+Station, Loch Lomond, Glasgow, Scotland
+The term 'landscape genetics' has been applied studies that 
+integrate ecological context and intervening landscape into population 
+genetic analyses of contemporary processes such as gene flow and 
+migration.  This course will cover the basics of both quantitative 
+landscape ecology and population genetics, focusing on how we develop 
+and evaluate spatial/genetic analyses using the R platform
+
+Course content is as follows
+Day 1
+-	Spatial & Ecological Data
+-	Installation & configuring R & RStudio
+-	Acquiring spatial data, projections, and visualization
+-	Vector and raster data
+
+Day 2
+-	Genetic markers and basic analyses
+-	Genetic markers and sampling
+-	Genetic distance, diversity, and structure
+-	Ordination techniques based upon genetic markers
+
+Day 3
+-	Integrating spatial and genetic data
+-	Barrier detection & population division
+-	Resistance Modeling
+-	Mantel and distance regressions
+-	Remote sensing - LiDAR and Hyperspectral data
+
+Day 4
+-	Integrating spatial and genetic data
+-	Spatial autocorrelation
+-	Network Approaches
+-	PCMN & Redundancy
+
+Day 5
+-	Adaptive Genetic Variance
+-	Outliers & gradients
+-	Quantitative genetics, why we should care.
+-	Chromosome walking
+
+Please email any inquiries to oliverhooker@prstatistics.com or visit our 
+website www.prstatistics.com
+
+Please feel free to distribute this material anywhere you feel is 
+suitable
+
+Upcoming courses - email for details oliverhooker@prstatistics.com
+1.	ADVANCES IN SPATIAL ANALYSIS OF MULTIVARIATE ECOLOGICAL DATA (July)
+2.	INTRODUCTION TO BIOINFORMATICS USING LINUX (August)
+3.	GENETIC DATA ANALYSIS / EXPLORATION USING R (August)
+4.	INTRODUCTION TO BAYESIAN HIERARCHICAL MODELLING (August)
+5.	INTRODUCTION TO PYTHON FOR BIOLOGISTS (October)
+6.	APPLIED BAYESIAN MODELLING FOR ECOLOGISTS AND EPIDEMIOLOGISTS 
+(October)
+7.	PHYLOGENETIC DATA ANALYSIS USING R (Octobe/November)
+8.	SPATIAL ANALYSIS OF ECOLOGIC AL DATA USING R (November)
+9.	ADVANCING IN STATISTICAL MODELLING USING R (December)
+10.	MODEL BASED MULTIVARIATE ANALYSIS OF ECOLOGICAL DATA USING R 
+(January)
+11.	ADVANCED PYTHON FOR BIOLOGISTS (February)
+12.	NETWORK ANALYSIS FOR ECOLOGISTS USING R (March)
+13.	INTRODUCTION TO GEOMETRIC MORPHOMETRICS USING R (June)
+
+Dates still to be confirmed - email for details 
+oliverhooker@prstatistics.com
+-	STABLE ISOTOPE MIXING MODELS USING SIAR, SIBER AND MIXSIAR USING R
+-	INTRODUCTION TO R AND STATISTICS FOR BIOLOGISTS
+-	BIOINFORMATICS FOR GENETICISTS AND BIOLOGISTS
+
+Oliver Hooker
+PR statistics
+
+3/1
+128 Brunswick Street
+Glasgow
+G1 1TF
+
++44 (0) 7966500340
+
+www.prstatistics.com
+www.prstatistics.com/organiser/oliver-hooker/
+
+Oliver Hooker <oliverhooker@prstatistics.com>
+

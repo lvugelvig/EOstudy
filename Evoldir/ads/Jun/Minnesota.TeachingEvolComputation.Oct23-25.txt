@@ -1,0 +1,104 @@
+Dear Colleagues,
+
+We invite you to the *Teaching Computation in the Sciences Using
+MATLAB* workshop
+focused on building students' ability to solve problems with computation
+using MATLAB in their undergraduate evolutionary biology courses.
+Quantitative and computational skills are an important component of current
+biological practice, and this is especially evident in evolutionary
+research.  Faculty are invited to join an interdisciplinary community to
+explore how their evolutionary applications of MATLAB in the undergraduate
+classroom can contribute to best practices for the community.   By
+attending the workshop, you will be part of a community effort to bring
+together best practices and teaching materials that will be made freely
+available through the SERC website. MathWorks (makers of MATLAB®) is
+sponsoring the workshop.
+
+*Details*
+
+Workshop:                             Teaching Computation in the Sciences
+Using MATLAB
+Location:                                Carleton College, Northfield, MN
+
+Date:                                         October 23-25, 2016 (5PM
+ Sunday - 2PM Tuesday)
+Application Deadline:                     September 2, 2016
+
+Learn more from the workshop website:
+http://serc.carleton.edu/matlab_computation2016/index.html
+
+Workshop Description:
+
+The *Teaching Computation in the Sciences Using MATLAB *workshop will bring
+together faculty from the sciences, including Chemistry, Geoscience,
+Physics, Biology, and allied fields, who teach computation and quantitative
+thinking skills using MATLAB. Computation is broadly defined as using
+computers in scientific work to understand and solve problems, or
+formulating problems in ways that can be computed. Computational skills are
+critically important for students to understand complex systems, analyze
+data, and create numerical models and visualizations-all essential aspects
+of modern science. These skills require students to have comfort and skill
+with languages and tools such as MATLAB. To achieve comfort and skill,
+computation and quantitative thinking must build over a 4-year degree
+program across courses and disciplines. Participants will help build a
+collection of teaching activities that showcase computation, quantitative
+thinking, and applied math using MATLAB and design approaches to
+integrating these skills throughout science degree programs.
+
+This workshop target is 30 college educators (by application).
+
+The application deadline is *September 2, 2016*.
+
+There is no registration fee to attend.
+
+To apply, go to:
+http://serc.carleton.edu/matlab_computation2016/application.html
+
+We hope to see you there!
+
+If you have additional questions, direct them to Rory McFadden (
+rmcfadden@carleton.edu).
+
+Thank you,
+
+Lisa Kempler
+
+MATLAB Community Strategist, MathWorks
+
+https://serc.carleton.edu/NAGTWorkshops/data_models/toolsheets/MATLAB.html
+
+Cathryn A. Manduca
+
+Director, Science Education Resource Center
+
+Executive Director, National Association of Geoscience Teachers
+
+Kristin Jenkins
+
+Executive Director, BioQUEST Curriculum Consortium
+
+Kelly Roos
+
+Professor, Department of Engineering Physics, Bradley University
+
+PICUP Leadership Council
+
+Frederik J. Simons
+
+Associate Professor, Department of Geosciences, Princeton University
+
+Wendy Thomas
+
+Associate Professor, Department of Bioengineering, University of Washington
+
+Kristin P. Jenkins, PhD
+Director
+
+BioQUEST Curriculum Consortium
+bioquest.org
+(608) 622.9394
+POBox 126
+Boyds, MD 20841-0126
+
+Kristin Jenkins <kristin.jenkins@bioquest.org>
+

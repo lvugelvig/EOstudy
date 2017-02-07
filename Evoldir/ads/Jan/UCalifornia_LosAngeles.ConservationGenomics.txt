@@ -1,0 +1,128 @@
+UCLA/La Kretz Workshop in Conservation Genomics, 25 - 29 March, 2017
+Conservation biology, genetics, and evolutionary biology have had a
+long and intimate relationship, and conservation constitutes one of the
+key applications of evolutionary analysis to real-world biological
+problems. The impacts of population and landscape genetics and gene
+expression studies have been particularly striking, and are helping to
+solve some of the most pressing problems in biological conservation.
+
+As the field of conservation genetics continues to grow and mature, the
+availability of genome-scale data stand to make profound new
+contributions to our ability to identify and protect at-risk
+populations and recover those that are most endangered. However,
+genomic analyses also carry a heavy burden--data sets are enormous,
+often requiring diverse computational approaches for assembly, quality
+control and analysis.
+
+The La Kretz annual workshop provides a comfortable, rigorous, but
+informal training environment for a small group of motivated graduate
+students to explore how conservation problems can best be addressed
+with genomic-level data. Our goal is to provide hands-on experience in
+the efficient collection, troubleshooting, and analysis of large data
+sets for conservation-relevant problems. One of the highlights of our
+workshop is active participation from members of several governmental
+agencies who are at the forefront of endangered species protection and
+management, providing a forum for exploring the most relevant aspects
+of conservation genomics to managers.
+
+The UCLA/La Kretz workshop is held at the La Kretz Field Station
+(https://www.ioes.ucla.edu/santa-monica-mountains-research/) and Stunt
+Ranch Reserve (http://stuntranch.ucnrs.org/) in the heart of the Santa
+Monica Mountains. Only 30 miles from UCLA and the LAX airport, but
+nestled in the relatively undeveloped 160,000 acre Santa Monica
+Mountains National Recreation Area, the Field Station/Stunt Reserve
+provides an ideal location to explore new developments in genomic
+science and pressing needs in conservation and management together in a
+single setting.
+
+Our current instructor list, drawn from UCLA faculty and several other
+partner institutions, includes:
+Ben Fitzpatrick (U. Tennessee Knoxville)
+Kirk Lohmueller
+Evan McCartney-Melstad
+Ian Wang (UC Berkeley, tentative)
+Brad Shaffer
+Victoria Sork
+Bob Wayne
+Ying Zhen
+Erin Toffelmier
+Alice Mouton/Devaughn Fraser
+Emily Curd/Zach Gold
+Agency partners represented include:
+USGS
+BLM
+USFWS
+CDFW
+
+Topics covered include:
+Overview of traditional conservation genetics
+Next generation platforms: the best tool for the job
+Data management pipelines:
+Quality Control
+Data storage
+Data organization
+Data types and analyses:
+SNPs
+Sequences
+Exploring very large data sets
+Functional genomic data
+RNA-seq
+RADseq pipelines, from raw reads to analyzing data
+Genomic data and GIS
+Visualizing geographic structure and demographic history
+Admixture, clines, and hybridization
+Detecting adaptive variation
+RNAseq in a conservation context
+eDNA as an emerging tool
+Prerequisites:
+Available housing limits course enrollment to ~20 students. Preference
+will be given to masters and doctoral candidates who are in the early
+to middle stages of their thesis research, and who have some
+familiarity with using a command line interface or programming
+languages (i.e. Perl, python etc.). We also welcome applications from
+postdocs, faculty, and government researchers, although our top
+priority is graduate student applicants. We encourage applications from
+women, minorities, and individuals from under-represented demographics
+in the sciences.
+
+Admission and Fees:
+Applicants will be admitted based on academic qualifications and
+appropriateness of research interests. The course fee is $425. This
+includes food and lodging at the La Kretz Field Station, as well as any
+incidental fees, for the duration of the course (arriving Saturday
+March 25, departing Thursday March 30).
+
+This year, the workshop is co-sponsored by a UC Catalyst program grant,
+which will provide some student support and staffing. University of
+California students from any campus may apply for partial support (up
+to $225) from the newly awarded Conservation Genomics Consortium
+(https://ucconservationgenomics.eeb.ucla.edu/) funded under the UC
+Catalyst program. To do so, simply note in your application that you
+would like to apply for this partial support.
+
+UCLA students are encouraged to take the La Kretz Workshop for graduate
+credit. Other UC students may also be able to take the course for
+credit.
+
+Application Forms and Information:
+Visit the UCLA/La Kretz Center for California Conservation Science
+website for additional information:
+https://www.ioes.ucla.edu/lakretz/our-work/la-kretz-annual-workshop-con
+servation-genomics/
+Download an application form:
+https://www.ioes.ucla.edu/wp-content/uploads/2017-La-Kretz-Conservation
+-Genomics-Application-1.pdf
+Application Deadline:
+Applications are due by February 5, 2017. Please send a completed
+application form and a short letter of recommendation from your major
+advisor. Students will be notified via e-mail by February 10, 2017 of
+acceptance.
+
+Applications should be emailed as a single PDF (including the letter of
+recommendation) to:
+Mario Colon, (mario.colon@ucla.edu). Please note if you are a
+University of California student or postdoc, and if so, whether you are
+requesting financial assistance.
+
+Mario Colon <mario.colon@ucla.edu>
+

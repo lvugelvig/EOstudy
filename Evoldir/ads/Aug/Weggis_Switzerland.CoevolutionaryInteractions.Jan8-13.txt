@@ -1,0 +1,90 @@
+-WHERE? Alexander & Gerbi Hotel, Weggis, Switzerland
+
+-WHEN ? January 8th - January 13^rd 2017
+
+-APPLICATION DEADLINE ? 17th October 2016
+
+-ORGANISERS
+
+-Dr. Amandine Cornille, ETH Zurich, Switzerland
+(amandine.cornille@gmail.com): main organiser, contact her for any
+questions.
+
+-Dr. Daniel Croll, University of Zurich, Switzerland
+(daniel.croll@usys.ethz.ch)
+
+-Prof. Dr. Alex Widmer, ETH Zurich, Switzerland
+(alex.widmer@env.ethz.ch)
+
+-AIMS and OBJECTIVES
+
+The goal of our 5-days workshop is to bring together an outstanding
+group of experts that develop conceptual, theoretical and experimental
+approaches to study the ecological genomics of coevolutionary
+interactions. These instructors will introduce workshop participants to
+modern concepts, models and methods that are widely being used or are
+currently being developed. The first four days of the workshop will
+consist of lectures and practical demonstrations given by the
+instructors, followed by hands-on exercises performed by the
+participants under guided supervision. The lectures will focus on
+current topics and latest developments relevant for investigating
+ecogenomics of coevolutionary interactions (see program: inferring
+co-demographic histories and testing for co-adaptation). Participants
+will focus on datasets provided by the instructors in the light of new
+developments. On the fifth day, thematic talk sessions with
+presentations from invited speakers and selected participants will
+illustrate current research on the ecological genomics of coevolution.
+In order to enhance discussions during the five-day workshop, we will
+also ask participants to present a poster of their own work on the
+first day to introduce themselves and their research topic.
+
+-PROVISIONAL PROGRAM
+
+Day 1: Computational methods to infer co-demographic histories using
+genomic data, Dr. Aurelien Tellier (Center of Life and Food Sciences,
+Technische Universitat Munchen, Munich, Germany).
+
+Day 2 : Computational methods to infer histories of co-divergences
+using genomic data, Prof. Dr. Alexei Drummond and Dr. Alexandra
+Gacryushkina (Department of Computer Science, University of Auckland,
+New Zealand).
+
+Day 3 : Testing co-adaptation using genomic data, Prof. Dr. Eva
+Stukenbrock (Max Planck Institute, Plon, Germany).
+
+Day 4: Testing co-local adaptation using genomic data, Prof. Dr. Peter
+Tiffin (College of Biological Sciences, University of Minessota, Falcon
+Heights, US)
+
+Day 5: Oral presentations on the application of methods and theory for
+investigating the ecological genomics of coevolution (main invited
+speaker: Prof. Dr. Dieter Ebert, Zoologisches Institut, Univ. of Basel,
+Basel, Switzerland + selected oral presentations).
+
+-INFO & REGISTRATION :
+http://www.adaptation.ethz.ch/education/gen-ecol-coevol.html
+
+-FUNDING
+
+The workshop is co-funded by
+  * Center for Adaptation to a Changing Environment (ACE), ETH Zurich,
+    Switzerland
+  * Swiss National Science Fundation (SNSF), Switzerland
+
+--
+Post-doc
+Adaptation to a Changing Environment (ACE)
+ETH Zurich
+Institut f. Integrative Biologie
+Universitatstrasse 16
+8092 Zurich
+Switzerland
+and from February 2017
+Chargee de Recherche CNRS CR2
+Genetique Quantitative et Evolution - Le Moulon
+Ferme du Moulon
+91190 Gif-sur-Yvette
+France
+
+Amandine Cornille <amandine.cornille@gmail.com>
+

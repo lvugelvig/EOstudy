@@ -26,18 +26,21 @@ do
   # 4: remove hour at the end
   # 5: reformat date so that they all have same length
   # 6: add typeevent at the end of the line
-  sed -e 's/<\/a>//g' -e 's/^.*">//g' -e "s/ .*$1/, $1/g" -e 's/ [0-9]\{2\}:[0-9]\{2\}//g' -e "s/$1  /$1 0/g" -e "s/$/, ${typeevent}/g" ${typeevent}_tmp.txt > ${typeevent}_tmp2.txt
+sed -e 's/<\/a>//g' -e 's/^.*">//g' -e "s/ .*$1/, $1/g" -e 's/ [0-9]\{2\}:[0-9]\{2\}//g' -e "s/$1  /$1 0/g" -e "s/$/, ${typeevent}/g" ${typeevent}_tmp.txt > ${typeevent}_${1}.txt
 
   # Download the ads
-  cat ${typeevent}_tmp2.txt | cut -d, -f1 | while read line
+  cat ${typeevent}_${1}.txt | cut -d, -f1 | while read line
   do
     echo $line
-  curl "http://life.mcmaster.ca/~brian/evoldir/${typeevent}/${line}" > ads/${1}/${line}.txt
+    curl "http://life.mcmaster.ca/~brian/evoldir/${typeevent}/${line}" > ads/${1}/${line}.txt
+
+    # Create template for the summary
+    cp summarytemplate.md ads/${1}/${line}_summary.md
   done
 done
 
 # Concatenate the files
-cat Conferences_tmp2.txt WorkshopsCourses_tmp2.txt > ads_$1.csv
+cat Conferences_${1}.txt WorkshopsCourses_${1}.txt > ads_$1.csv
 
 # Clean dir
 rm *tmp*.txt

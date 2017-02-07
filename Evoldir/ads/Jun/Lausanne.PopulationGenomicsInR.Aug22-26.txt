@@ -1,0 +1,40 @@
+POPULATION GENOMICS IN R
+
+WHEN? 22-26 August 2016
+WHERE? University of Lausanne
+
+FACULTY
+Prof. Jérôme Goudet, University of Lausanne (CH)
+Dr. Emmanuel Paradis, Université de Montpellier (FR)
+Dr. Thibaut Jombart, Imperial College London (UK)
+
+DESCRIPTION
+In this workshop, we will present a series of R packages tailored for
+population genomic analyses: ape, adegenet, hierfstat, popr. The teachers
+are the active developers of these packages, and will illustrate their
+flexibilities to conduct population genomic analyses in R.
+
+Each of the first four days will be devoted to one package, and the
+last one will take the form of a mini population genomic conference,
+showing applications.
+
+Provisional program:
+Day 1: ape
+Day 2: adegenet
+Day 3: hierfstat
+Day 4: popr
+Day 5: workshop/conference
+
+INFO & REGISTRATION
+http://www.cuso.ch/activity/?p=1128&uid=3032
+
+or
+
+https://biologie.cuso.ch/index.php?id=3D1128&tx_displaycontroller[showUid]=3032
+
+or
+
+https://biologie.cuso.ch/ecologie-et-evolution/dpee-activities/
+
+Caroline.Betto-Colliard@unil.ch
+

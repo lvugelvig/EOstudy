@@ -1,0 +1,45 @@
+Reminder: Registration for the Triple A Winter School on Whole Genome
+Sequence Assembly, Annotation and Analysis closes 30th November.
+
+Where: Monte Verita, Switzerland
+When: 15-20th January 2017
+
+Triple A Winter School is a intensive workshop on how to Assemble,
+Annotate and Analyse Whole Sequence Data - with a focus on de novo whole
+genome assembly and analysis of complex genomes. The Winter School will
+combine lectures with computer based practicals, and will be most valuable
+to those who have or will soon have whole genome sequence data.
+
+Webpage:
+http://www.adaptation.ethz.ch/education/triple-a-winterschool.html
+
+Instructors include: 
+
+Monica Munoz-Torres from Lawrence Berkeley National Laboratory, USA.
+http://www.berkeleybop.org/people/monica-munoz-torres/
+
+Robert Waterhouse from Universite de Geneve and the Swiss Institute of
+Bioinformatics, Switzerland.  http://rmwaterhouse.org/
+
+Emmanuelle Lerat from Charge de recherche  CNRS, France.
+https://lbbe.univ-lyon1.fr/-Lerat-Emmanuelle-.html?lang=3Den
+
+Peter Fields from Universität Basel, Switzerland.
+http://www.peterdfields.com/ <http://rmwaterhouse.org/>
+
+TOTAL COST:  610 CHF + travel to Locarno (Switzerland)
+Covers tuition, accommodation (shared double room) and all meals
+(breakfast, lunch, dinner, and coffee breaks).
+
+Spaces are limited to 40 participants. See our webpage for more details.
+
+ORGANISERS
+Dr Jessica Stapley <http://jessicastapley.com/>, ETH
+Zurich; Dr Stuart Dennis <http://stuartdennis.com/>,
+EAWAG <http://www.eawag.ch/en/>; Dr Stefan Zoller, GDC
+<http://www.gdc.ethz.ch/> ETH Zurich and Professor Alex Widmer
+<http://www.peg.ethz.ch/people/person-detail.html?persid=46511>
+ETH Zurich.
+
+Jessica Stapley <jessica.stapley@env.ethz.ch>
+

@@ -1,0 +1,39 @@
+POPULATION GENOMICS WORKSHOP
+
+January 16th-18th 2017
+University of Sheffield, UK
+
+This course will be held at the NERC Biomolecular Analysis Facility at the
+University of Sheffield and introduce participants to a variety of
+population genomics analyses for large next generation sequencing (NGS)
+datasets. It will include discussion on single nucleotide polymorphism
+(SNP) calling and filtering options, an introduction to population genomics
+statistics using the PopGenome R package, examining genetic structure,
+Fst-based analyses such as outlier detection/genomic islands of divergence,
+and genome-wide association analysis (GWAS).
+
+The majority of the course will comprise practical computer sessions,
+giving participants hands-on experience in these analyses. We will perform
+these on the high performance computing cluster at Sheffield and computers
+will be provided. Prior experience with the Linux environment and basic
+command line tools would be advantageous.
+
+There is no charge for the course, and successful applicants will be
+provided with accommodation for two nights and up to 100 towards travel
+costs to Sheffield.
+
+The application closing deadline is at 5pm on Monday 28th November.
+
+Further details and how to apply can be found at:
+https://www.sheffield.ac.uk/nbaf-s/courses/popgen
+
+Dr Helen Hipperson
+
+Data Analyst
+NERC Biomolecular Analysis Facility - Sheffield
+http://www.shef.ac.uk/nbaf-s/home
+
+https://www.facebook.com/nbafsheffield
+
+h.hipperson@sheffield.ac.uk
+

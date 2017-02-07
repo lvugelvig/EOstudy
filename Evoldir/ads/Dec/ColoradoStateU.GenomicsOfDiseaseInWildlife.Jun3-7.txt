@@ -1,0 +1,158 @@
+Where: Colorado State University_Colorado
+What:  Genomics of Disease in Wildlife Workshop
+When: June 3-11, 2017
+
+Website for more information and application instructions:
+www.gdw2017workshop.colostate.edu
+
+Application Deadline: February 1, 2017
+
+Email inquiries: CVMBS_genomics2017@mail.colostate.edu
+
+Overview:
+
+Title: Genomics of Disease in Wildlife: A Workshop
+
+Location: Lory Conference Student Center, Colorado State University,
+Fort Collins, CO
+
+Dates: June 3-11, 2017
+
+Website:  www.gdw2017workshop.colostate.edu
+
+Application deadline:  February 1, 2017.
+
+Wildlife biodiversity can be drastically affected by the outbreak
+and transmission of disease pathogens in both natural habitats and ex
+situ populations. Recent technological advances in genomic sciences
+and increasingly affordable Next Generation Sequencing (NGS) assay
+costs have coalesced to result in powerful tools to monitor, detect,
+and reconstruct the past, present and future role of pathogens within
+wildlife biodiversity.  This short course will provide hands-on training
+for graduate level and above researchers in wildlife disease related
+disciplines seeking to incorporate genomic data into their projects.
+The course will be taught by a core group of experts in genome data
+analyses with invited faculty comprised of pre-eminent scientists
+performing cutting edge of research in host-pathogen genomics in wildlife.
+
+Why is the course needed?
+
+Advances in genomic technology now provide an extraordinary opportunity to
+rapidly assess the impact of disease in wildlife biodiversity, management,
+and conservation. Wildlife researchers are uniquely positioned to merge
+ecological, biological, and evolutionary studies with genomic technologies
+to generate unprecedented ‘Big Data’ tools in disease research.
+The workshop will provide a venue to accomplish this goal, will provide
+networking opportunities for colleagues from intersecting interests,
+and will advance genomic tools in wildlife disease investigations.
+
+How will the course address the need?
+
+The course will provide essential training to wildlife biologists,
+veterinarians, conservation managers, and related experts to successfully
+incorporate NGS data in wildlife research. Attendees will conduct hands-on
+analyses of ‘real world’ genomic data of both host and pathogen.
+The course will provide: (1) an overview of current bioinformatics
+developments and approaches; (2) guidance to implement genomic tools
+in study design;  (3) NGS data analysis and interpretation; and, (4)
+opportunities for interaction with peers, core faculty, and invited
+experts.
+
+Workshop Syllabus
+
+The workshop will cover a typical workflow commonly used in NGS analyses
+starting with the initial raw sequence through the final stages of
+identifying host:pathogen variants linked with disease. Each of the
+eight days of the workshop will cover an essential component of the NGS
+workflow in succession.
+
+Morning sessions will be a series of instructional lectures and
+demonstrations that will concisely present the purpose, justification and
+implementation of the specific workflow unit.  Short and exciting ‘flash
+talks’ presented by CSU faculty will present some of their ongoing
+investigations using genomic tools in wildlife disease.  The afternoon
+sessions will be computer-intensive labs in which attendees will perform
+‘hands-on’ analyses with real-world genomic data for each workflow
+topic. Evening plenary lectures from invited faculty will conclude each
+day’s activities.
+
+Teaching tools will include exercises using ‘real-world’ NGS data
+from a range of pathogens and host species.  Participants will learn
+the importance of integrating NGS data from both host and pathogen in
+order to better understand current epidemics in wildlife.
+
+For the duration of the course, each attendee will be provided with
+a MacBook Pro computer and peripheral equipment, and prepared genome
+datasets from several host species and associated pathogens.  These
+datasets will be organized into various files and formats prior to the
+course, demonstrate key concepts, and be the foundation for computer
+exercises and teaching tools.
+
+Summary of Workshop Schedule
+
+Day 1: Arrival, Registration and Opening Reception. The workshop begins
+in the evening of Sunday June 3, 2017 at the Lory Conference Center. A
+welcome session will introduce faculty and an overview of the workshop. An
+informal welcome reception follows with faculty, staff and participants.
+
+Day 2:  Optimizing NGS data and study design. Lectures and computer labs
+will introduce the different types of NGS data and how to best use these
+data in the study of disease in wildlife. Topics will include the latest
+advances in NGS technologies, NGS definitions, examples, applications,
+and experimental design. Computer lab will introduce host and pathogen
+datasets for the workshop, methods in genome mining, and navigating
+genome browsers.
+
+Day 3: NGS evaluation, quality and genome assembly. Lectures and computer
+labs will address the next phase of NGS workflow including assessment
+of sequence data quality, long and short reads, scaffolds, contigs,
+genome assembly algorithms, genome mapping to a reference genome and de
+novo assembly.
+
+Day 4: Genome alignments and multiple sequence files.  Lectures and
+computer labs will outline the critical steps essential to creating
+proper alignments of genomes or targeted portions of genomes of host
+and pathogen.
+
+Day 5: Phylogenomics. Lectures and computer labs will introduce the
+concepts guiding the use of phylogenetic reconstruction of genomes
+of both host and pathogen and the utility of these methods in rapid
+assessment of critical factors characterizing pathogen outbreaks in the
+wild. Topics will include phylogenomic design and sampling strategies,
+search algorithms, maximum likelihood and Bayesian methods, and
+phylogenetic interpretation.
+
+Day 6: Signatures of selection and adaptation. Lectures and computer
+labs will teach methods commonly used in identifying regions of the
+genome under neutral, diversifying and purifying selection for both host
+and pathogen.
+
+Day 7: Population genomics.  Lectures and computer labs will address
+the types of information only possible through application of genomic
+tools in the study of population structure and diversity of both host
+species and pathogen.
+
+Day 8:  The arms race between host and pathogen.  Using the tools of
+the workshop, participants will learn how to evaluate and identify the
+genomic underpinnings of host-pathogen interactions.
+
+Day 9: Workshop Evaluations, Concluding Remarks and Departure
+
+Who may apply?
+
+We invite applications from researchers involved in wildlife disease
+through four major fields of inquiry: wildlife biology, veterinary
+medicine, conservation managers, and genome scientists. Participants will
+be comprised of senior level graduate students, post-doctoral fellows,
+and faculty from academia as well as managers of wildlife and conservation
+programs from government agencies and non-profit organizations.
+
+‘Genomics of Disease in Wildlife’ Sponsors:
+
+Morris Animal Foundation
+Smithsonian Conservation Biology Institute
+College of Veterinary Medicine and Biomedical Sciences-Colorado State University
+Geneious
+
+"Slattery, Jill Pecon" <SlatteryJP@si.edu>
+

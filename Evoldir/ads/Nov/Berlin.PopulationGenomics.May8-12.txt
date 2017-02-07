@@ -1,0 +1,169 @@
+Workshop: Introductory Population Genomics: from Data to Inference
+
+Monday 8th to Friday 12th May 2017, Berlin (Germany)
+
+http://www.physalia-courses.org/courses/course9/
+
+Instructor: Dr. Martin Taylor (http://www.physalia-courses.org/instructors/t9/)
+
+            Dr. Lewis Spurgin (http://www.physalia-courses.org/instructors/t8/)
+
+Overview:
+
+Next generation sequencing has revolutionized evolutionary biology
+allowing unprecedented resolution and insight into evolutionary questions
+that appeared intractable only a few years ago. The course will cover
+the basics of population genomic analysis from SNP data onwards and will
+cover the key analyses that may be required to successfully analyze a
+population genetic data set. The course will NOT cover steps prior to
+generation of a .vcf file or SNP data set such as NGS data demultiplexing,
+clustering and SNP calling (This is covered in detail in the Introduction
+to RADseq course).  This course will introduce Linux and the command
+line environment, basic perl and python usage, file conversions and
+manipulation, population structure and differentiation in R, outlier
+analysis, landscape / seascape genomics and introgression. Having
+completed the course, students should have a good understanding of the
+software and methods available for population genomic analysis and be
+competent in population genomic analysis.
+
+Intended audience & assumed background:
+
+This workshop is aimed at postgraduate students and early career
+researchers who are interested in using population genomic tools in
+their research. No previous experience of bioinformatics is required,
+but an underpinning in evolutionary biology and basic population genetics
+concepts such as Hardy Weinberg Equilibrium and FST are desirable. The
+course will use a range of software including the Linux operating system
+and R.
+
+Teaching format:
+
+The workshop is delivered over ten half-day sessions (see the detailed
+curriculum below). Each session consists of a combination of lectures  and
+practical exercises, with breaks at the organisers' discretion. There
+will also be time for students to discuss their own problems and data.
+
+Curriculum:
+
+Monday 8th-Classes from 9:30 to 17:30
+
+Session 1- Introduction to Linux and the command line (Dr. Martin Taylor)
+
+-       Installation of required software
+
+-       Introduction to linux operating system
+
+-       Working on the command line. Basic bash shell commands and navigation.
+
+-       Introduction to Perl and Python
+
+Session 2 - Understanding genomic data formats (Dr. Martin Taylor)
+
+-       Understanding and working with VCF files using VCF tools
+
+-       Data conversion and manipulation using Plink
+
+-       Text editors
+
+Tuesday 9th-Classes from 9:30 to 17:30
+
+Session 3- Introduction to genetic analysis in R (Dr. Lewis Spurgin)
+
+-       Introduction to R
+
+-       Reading data into R
+
+-       Data manipulation in R
+
+-       Introduction to Adegenet and other genetics packages
+
+Session 4- Genomic diversity estimation (Dr. Lewis Spurgin)           
+
+-       Estimating heterozygosity and nucleotide diversity
+
+-       Hardy Weinberg
+
+-       Linkage disequilibrium
+
+-       Introduction to ggplot2
+
+Wednesday 10th-Classes from 9:30 to 17:30
+
+Session 5- Population structure and differentiation (Dr. Martin Taylor &
+Dr. Lewis Spurgin)
+
+-       Estimating and understanding FST
+
+-       Visualising genetic structure using MDS and PCA
+
+-       STRUCTURE and related software
+
+-       Estimating migration
+
+Session 6- Identifying selection within populations (Dr Lewis Spurgin)
+
+-       Marker-based genetic diversity
+
+-       Introduction to sliding windows
+
+-       Tajima's D and related statistics
+
+-       Introduction to GO analyses
+
+Thursday 11th-Classes from 9:30 to 17:30
+
+Session 7-Identifying selection among populations (Dr. Lewis Spurgin)
+
+-       FST outlier analysis
+
+-       EigenGWAS
+
+Session 8-Incorporating landscape and seascape into population genomics
+(Dr. Martin Taylor)
+
+-       Seascape / landscape genetics
+
+-       Environmental  / genomic correlation
+
+Friday 12th-Classes from 9:30 to 17:30
+
+Session 9-Hybridisation and introgression (Dr. Martin Taylor)
+
+-       Identifying hybrids and introgression using genotype data
+
+Session 10-Summary data troubleshooting session (Dr Martin Taylor &
+Dr Lewis Spurgin)
+
+-       Time to answer questions on any areas covered during week.
+
+Talk to us about your own data
+
+Further information:
+
+The cost is 480 euros (VAT included) including refreshments and course
+materials. We also offer an all-inclusive package at 745 euros (VAT
+included), including course material, refreshments, accommodation
+and food.
+
+Application deadline: April 14th 2017.
+
+For any further information, please feel free to email me.
+
+--
+
+Carlo Pecoraro, Ph.D
+
+Physalia-courses Coordinator
+
+info@physalia-courses.org
+
+http://www.physalia-courses.org/
+
+Twitter: @physacourses
+
+mobile: +49 15771084054
+
+Skype: carlo_pecoraro
+
+Carlo Pecoraro <info@physalia-courses.org>
+

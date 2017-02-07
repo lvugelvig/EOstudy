@@ -1,0 +1,134 @@
+'Introduction to Python for biologists - Funding available'
+
+PR STATISTICS ARE PLEASED TO ANNOUNCE THAT THROUGH THEIR FUNDING SCHEME 
+THEY CAN CONTRIBUTE TOWARDS TUITION FEES AND ACCOMMODATION WITH A 
+LIMITED NUMBER OF 'ALL INCLUSIVE PLACES' AVAILABLE AT 450.00 (+ 
+VAT).
+
+Applications should be sent to oliverhooker@prstatistics.com and contain 
+the following.
+1.	Full name
+2.	Institute name
+3.	PhD subject title or Post doc research questions
+4.	Do you hold a funded position
+5.	150 words why this course would be relevant to your research or how 
+it would help.
+
+Application deadline is 22nd September, successful applicants will be 
+notified by the 23rd September.
+
+Full course  details are given below
+
+http://prstatistics.com/course/introduction-to-python-for-biologists-ipyb-3/
+
+This course is being delivered by Dr Martin Jones, an expert in Python 
+and author of two text books,
+
+Python for Biologists 
+[http://www.amazon.com/Python-Biologists-complete-programming-beginners/dp/1492346136/]
+
+Advanced Python for Biologists 
+[http://www.amazon.com/Advanced-Python-Biologists-Martin-Jones/dp/1495244377/].
+
+Due to high demand a repeat of this course will run from 3rd - 7th 
+October 2016 at Malham tarn field centre, Yorkshire, North of 
+Manchester, England.
+
+Course overview: Python is a dynamic, readable language that is a 
+popular platform for all types of bioinformatics work, from simple 
+one-off scripts to large, complex software projects. This workshop is 
+aimed at complete beginners and assumes no prior programming experience. 
+It gives an overview of the language with an emphasis on practical 
+problem-solving, using examples and exercises drawn from various aspects 
+of bioinformatics work. After completing the workshop, students should 
+be in a position to (1) apply the skills they have learned to tackle 
+problems in their own research and (2) continue their Python education 
+in a self-directed way.
+Intended audience:
+
+This workshop is aimed at all researchers and technical workers with a 
+background in biology who want to learn programming. The syllabus has 
+been planned with complete beginners in mind; people with previous 
+programming experience are welcome to attend as a refresher but may find 
+the pace a bit slow.
+Teaching format:
+
+The workshop is delivered over ten half-day sessions (see the detailed 
+curriculum below). Each session consists of roughly a one hour lecture 
+followed by two hours of practical exercises, with breaks at the 
+organizer's discretion. There will also be plenty of time for students 
+to discuss their own problems and data.
+
+Assumed background:
+Students should have enough biological background to appreciate the 
+examples and exercise problems (i.e. they should know about DNA and 
+protein sequences, what translation is, and what introns and exons are). 
+No previous programming experience or computer skills (beyond the 
+ability to use a text editor) are necessary, but you'll need to have a 
+laptop with Python installed.
+
+Curriculum:
+Day 1:
+Module 1 - Introduction
+Module 2 - Output and text manipulation
+
+Day 2:
+Module 3 - File IO and user interfaces
+Module 4 - Flow control 1: loops
+
+Day 3:
+Module 5 - Flow control 2: conditionals
+Module 6 - Organizing and structuring code
+
+Day 4:
+Module 7 - Regular expressions
+Module 8 - Dictionaries
+
+Day 5:
+Module 9 - Interaction with the file system
+Module 10 - Optional free afternoon to cover previous modules and 
+discuss data
+
+Please email any inquiries to oliverhooker@prstatistics.com or visit our 
+website www.prstatistics.com
+
+Please feel free to distribute this material anywhere you feel is 
+suitable
+
+Other relevant courses - email for details oliverhooker@prstatistics.com
+
+1. INTRODUCTION TO PYTHON FOR BIOLOGISTS (October)
+2. LANDSCAPE (POPULATION) GENETIC DATA ANALYSIS USING R (October)
+3. APPLIED BAYESIAN MODELLING FOR ECOLOGISTS AND EPIDEMIOLOGISTS 
+(October)
+4. PHYLOGENETIC DATA ANALYSIS USING R (October/November)
+5. SPATIAL ANALYSIS OF ECOLOGIC AL DATA USING R (November)
+6. ADVANCING IN STATISTICAL MODELLING USING R (December)
+7. MODEL BASED MULTIVARIATE ANALYSIS OF ECOLOGICAL DATA USING R 
+(January, 2017)
+8. ADVANCED PYTHON FOR BIOLOGISTS (February, 2017)
+9. NETWORK ANAYLSIS FOR ECOLOGISTS USING R (March, 2017)
+10. INTRODUCTION TO GEOMETRIC MORPHOMETRICS USING R (June, 2017)
+
+Dates still to be confirmed - email for details 
+oliverhooker@prstatistics.com
+STABLE ISOTOPE MIXING MODELS USING SIAR, SIBER AND MIXSIAR USING R
+INTRODUCTION TO R AND STATISTICS FOR BIOLOGISTS
+BIOINFORMATICS FOR GENETICISTS AND BIOLOGISTS
+INTRODUCTION TO BIOINFORMATICS USING LINUX (August)
+
+Oliver Hooker
+PR Statistics
+
+3/1
+128 Brunswick Street
+Glasgow
+G1 1TF
+
++44 (0) 7966500340
+
+www.prstatistics.com
+www.prstatistics.com/organiser/oliver-hooker/
+
+Oliver Hooker <oliverhooker@prstatistics.com>
+

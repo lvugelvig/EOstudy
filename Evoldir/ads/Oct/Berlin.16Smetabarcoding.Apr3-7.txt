@@ -1,0 +1,145 @@
+16SrRNA gene metabarcoding workshop
+
+Monday 3rd to Friday 7th April 2017 in Berlin, Germany
+
+http://www.physalia-courses.org/courses/course8/
+
+Instructor: Dr. Alexandre Barretto de Menezes
+
+(http://www.physalia-courses.org/instructors/t5/)
+
+Overview:
+
+The 16s rRNA gene has become the standard marker for prokaryote
+phylogenetic analysis, and combined with high-throughput sequencing
+technologies it is widely used to infer the structure and
+composition of microbial communities. Due to the continuous
+improvements in sequencing technologies and bioinformatics tools,
+there is a wide choice of methods for sequencing and analysing 16S
+rRNA gene assemblies. This workshop is designed to give students the
+necessary background and practical experience of the strategies for
+the analysis of the diversity and structure of prokaryote
+communities, covering i) experimental design and primer choices; ii)
+wet-lab and library preparation options; iii) sequence quality
+control and analysis and iv) statistical analysis of microbial
+community data. The many sequencing and analysis options will be
+discussed, whereas a more in-depth tutorial using real sequence data
+will provide an opportunity for the student to practice 16S rRNA
+sequence analysis from raw sequence files to ecological
+interpretation. Course material, such as presentation slides and
+necessary model data, will be provided to the students.
+
+Targeted audience and assumed background:
+
+This workshop is intended for students and researchers interested in
+microbial ecology but who are not yet very familiar with the
+techniques involved.Choosing the appropriate primers, library
+preparation kits, sequencing methodologies and bioinformatics
+pipelines can be quite daunting to the uninitiated. This workshop
+will allow researchers interested more confidence in their
+methodology and analyses choices.The target audience include
+students of animal or plant microbiomes as well as those studying
+environmental microbial communities. It is assumed that the workshop
+attendees are interested in performing 16S rRNA metabarcoding using
+the Illumina MiSeq platform, although other sequencing technologies
+will be discussed during the workshop.
+
+Knowledge of Linuxand R or familiarity with working in the command
+line will be helpful, but for those new to the area detailed
+instructions will allowstudents to follow the workshop. Students
+will need to have a computer running either onLinux or a Linux
+virtual machine running on MacOX/Windows computers. Contact the
+instructor at ademez@gmail.com if in doubt about computational
+requirements.
+
+Where:
+
+Seminar room at Molecular Parasitology, Humboldt-Universitat zu
+Berlin, Philippstr. 13, Haus 14, 10115 Berlin
+
+Workshop structure:
+
+The workshop will consist of both lectures and practical classes.
+Background information will be provided to help workshop attendees
+choose the appropriate experimental design, primers, sequencing
+library preparation kits and to contextualise the bioinformatics and
+statistical analysis methods. Practical tutorials will be conducted
+on a step-by-step basis to guide the student from when receiving
+data from a sequence provider to obtaining plots and tables
+describing microbial community diversity, structure and
+relationships to environmental variables or host data.
+
+Session contents:
+
+http://www.physalia-courses.org/courses/course8/curriculum8/
+
+Session 1: the 16S rRNA gene
+
+Session 2: sequencing experimental design and initial hands-on
+exercises
+
+Session 3:library preparation for MiSeq sequencing
+
+Session 4: practical session on sequence analysis pipelines
+
+Session 5: mothur tutorial
+
+Session 6: alternative tutorial combining USEARCH and mothur
+
+Session 7: QIIME and Ninja OPS
+
+Session 8: using statistical tools provided in mothur and QIIME
+
+Session 9: other analysis tools in R and Linux
+
+Optional session 10: wrap up and questions
+
+Further information:
+
+The cost is 430 euros (VAT included) including refreshments and
+course materials. We also offer an all-inclusive package at 695
+euros(VAT included), including breakfast, lunch, dinner,
+refreshments, accommodation, course and transfer from/to the main
+city's airports.
+
+Application deadline March3^rd, 2017.
+
+Please feel free to contact us if you need any further information.
+
+Other relevant courses offered by Physalia-courses:
+
+1) Introduction to Python for biologists. 5-9 December
+2016. http://www.physalia-courses.org/courses/course2/
+
+2) GIS analysis with QGIS. 6-10 February
+2017.http://www.physalia-courses.org/courses/course5/
+
+3) Eukaryotic-metabarcoding. 20-24 February
+2017. http://www.physalia-courses.org/courses/course4/
+
+4) Scientific Writing: organization and motivation booster. 28-29
+March 2017. http://www.physalia-courses.org/courses/course7/
+
+--
+
+Physalia-courses
+
+info@physalia-courses.org
+www.physalia-courses.org
+
+@physacourses
+
+--
+
+Carlo Pecoraro, Ph.D
+
+Physalia-courses Coordinator
+info@physalia-courses.org
+http://www.physalia-courses.org/
+
+Twitter: @physacourses
+mobile: +49 15771084054
+Skype: carlo_pecoraro
+
+Carlo Pecoraro <info@physalia-courses.org>
+

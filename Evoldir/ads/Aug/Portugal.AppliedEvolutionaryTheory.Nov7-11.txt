@@ -1,0 +1,63 @@
+The Gulbenkian Training Programme in Bioinformatics
+
+Applications for the bioinformatics training course
+
+AET16 - Applied Evolutionary Theory
+with Claudia Bank, Rafael Guerrero and Stephan Peischl
+are open.
+
+Please refer to the course website
+http://gtpb.igc.gulbenkian.pt/bicourses/AET16
+for details.
+
+  IMPORTANT DATES for this Course
+    Deadline for applications: Oct 25th 2016
+    Course dates: Nov 7th - Nov 11th 2016
+
+Course Description
+For many of its history, our knowledge of evolution has been based  
+heavily on theoretical models and hypotheses. In the age of novel  
+experimental and technological approaches, we are now increasingly  
+able to evaluate this theory; however, the basics of how and why to  
+develop and analyse a simple model are often forgotten in the process  
+of NGS analysis. This course aims at training evolutionary biologists  
+in classical modelling and teach them ways to approach their own  
+research questions through evolutionary theory.
+
+Primarily through interactive hands-on sessions, complemented by an  
+introduction to the cornerstones of modelling and its application to  
+data analysis, this course will familiarize the participants with ways  
+of approaching a research question with a simple model, and different  
+strategies at gaining insight from the model. In groups of two, course  
+participants will develop and analyse their own toy model in the  
+course and present their findings to the group on the last day.
+Topics that will be covered in the course include the following:
+
+     Why and how are models useful?
+     How to write down/develop a model
+     How simple/complicated should a model be?
+     Which modelling approach/programming language should I use for my  
+         question?
+     How to nail down a question with a model
+     Extracting results from an equation/simulation
+     How to evaluate a model using empirical data
+
+Participants can use their preferred programming language during the  
+hands-on sessions, and free access to Wolfram Mathematica will be  
+provided. The instructors have modelling experience using Mathematica,  
+R, Python, and C++.
+
+Best regards
+Pedro Fernandes
+
+Pedro Fernandes
+GTPB Coordinator
+Instituto Gulbenkian de Ciência
+Apartado 14
+2781-901 OEIRAS
+PORTUGAL
+Tel +351 21 4407912
+http://gtpb.igc.gulbenkian.pt
+
+Pedro Fernandes <pfern@igc.gulbenkian.pt>
+

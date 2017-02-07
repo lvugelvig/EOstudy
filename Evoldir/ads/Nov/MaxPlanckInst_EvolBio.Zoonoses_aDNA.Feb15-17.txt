@@ -1,0 +1,84 @@
+The Max Planck Institute for Evolutionary Biology and the Robert Koch 
+Institute are organizing the workshop
+
+                    *One Past Health*
+
+- Understanding past zoonotic events to predict future ones -
+
+from February 15th to 17th, 2017, at the Max Planck Institute for 
+Evolutionary Biology in Ploen/Germany.
+
+http://web.evolbio.mpg.de/OnePastHealth
+
+This workshop aims to foster the interdisciplinary dialog between 
+medical, veterinary and biological sciences, bringing together empirical 
+and theoretical researchers interested in disease ecology, epidemiology, 
+host-pathogen coevolution, paleogenomics, and more. The resulting 
+interactions will promote interdisciplinary scientific progress and may 
+ultimately help uncovering ways to prevent future zoonotic events.
+
+_Synopsis:_
+Many infectious diseases that are of high public health relevance today 
+find their roots in past zoonotic events, e.g. the HIV-1 pandemics. 
+Similarly, for these infectious diseases involving recurrent 
+transmission from zoonotic reservoirs, most transmission events lie in 
+the past, e.g. the historical pandemics of Yersinia pestis. These past 
+events are an immense, precious and underexplored record of the 
+processes leading to zoonotic emergence.
+
+We have some tools to indirectly frame the context of zoonotic events. 
+Historical outbreak records are such a tool but unfortunately often 
+reveal a very unclear source of information. Over the last 2 decades, we 
+took advantage of major advances in molecular biology, statistics and 
+computational sciences to leverage the power of a natural record of the 
+evolutionary history: the genetic diversity of present-day pathogens. 
+This information was used to determine the origin in time and space as 
+well as the later spread of Ebola viruses or HIV-1.
+But what if we could travel back in time and observe what really 
+happened? We could then directly test the hypotheses we derive from 
+present-day genetic diversity and catch evolution red-handed at crucial 
+steps of the emergence process. Ancient DNA (aDNA) approaches are now 
+ripe to simultaneously investigate the evolution of many pathogens 
+(including zoonotic ones) and the evolution of the immune system of 
+their hosts. This maturity nicely coincides with the development of 
+modeling frameworks that allow us to make the most of heterochronous 
+data and to describe individual pathogen trajectories in the context of 
+the microbial communities they belong to.
+
+_Confirmed keynote speakers are:_
+
+Charlie Nunn, Duke University, USA
+Christian Drosten, Uni Bonn, Germany
+Frank Kirchhoff, Uni Ulm, Germany
+Simone Sommer, Uni Ulm, Germany
+Philippe Lemey, KU Leuven, Belgium
+Johannes Krause, MPI-SHH, Germany
+
+_Registration:_
+There will be some slots for contributed talks as well as a poster 
+session. Registration is on a first-come-first-serve basis. Deadline for 
+registration is December 21st 2016. Please see the registration page on 
+the workshop website for more details:
+
+http://web.evolbio.mpg.de/OnePastHealth
+
+_Organizers:_
+Sebastien Calvignac, Robert Koch Institute, Berlin
+Tobias Lenz, MPI for Evolutionary Biology, Ploen
+
+-- 
+
+Dr. Tobias Lenz, Group Leader
+Emmy Noether Group for Evolutionary Immunogenomics
+Department of Evolutionary Ecology
+Max Planck Institute for Evolutionary Biology
+August-Thienemann-Str. 2
+24306 Ploen, Germany
+Tel: +49 4522 763-228
+Fax: +49 4522 763-310
+Email: lenz@evolbio.mpg.de
+
+http://www.evolbio.mpg.de/EvolutionaryImmunogenomics
+
+"lenz@evolbio.mpg.de" <lenz@evolbio.mpg.de>
+

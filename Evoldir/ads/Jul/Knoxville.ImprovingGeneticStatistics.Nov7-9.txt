@@ -1,0 +1,34 @@
+The National Institute for Mathematical and Biological Synthesis (NIMBioS),
+an NSF funded synthesis center located at the University of Tennessee, is
+seeking applicants for a workshop on improving analytical approaches in
+conservation and population genetics.  The workshop will be Nov 7-9.  A
+brief summary is below and more information and a link to apply can be
+found here: http://www.nimbios.org/workshops/WS_nextgen  DEADLINE TO APPLY
+IS VERY SOON- JULY 24.  Financial support for travel, meals, and lodging
+(typically full funding) is available for workshop attendees.
+
+As biodiversity loss accelerates and environmental challenges mount, there
+is need for quantitative evaluation of the status and trends of genetic
+biodiversity. However, appropriate mathematical tools for this evaluation
+are lacking. Despite major recent advances in obtaining genetic data,
+current genetic metrics are piecemeal, may be incomparable across studies
+and data types, and are often collected and presented in an ad hoc manner.
+
+There is urgent need to conceive and develop standard, summary-level
+genetic indices that are robust, easily interpretable and tractable across
+diverse datasets. In this workshop we will develop a framework for
+constructing these mathematical tools. Specifically, we will: identify key
+attributes of successful indices in biodiversity science, survey and
+critique existing genetic metrics, and identify potential statistical
+approaches suitable for summarizing the highly dimensional nature of
+genetic data. We hope the workshop will inspire synthesis papers, new
+collaborations, and research funding proposals for developing, evaluating
+and distributing new genetic indices.
+The inherent challenges of our aims require participants from diverse
+fields: statistics, mathematics, ecology, evolutionary biology,
+conservation science, complexity, genetics, network and biodiversity
+science.  Please apply if you have interest in these fields and appreciate
+broad collaboration and cross-disciplinary work.
+
+Sean Hoban <shoban@alumni.nd.edu>
+

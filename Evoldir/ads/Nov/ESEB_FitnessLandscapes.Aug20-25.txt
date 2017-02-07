@@ -1,0 +1,48 @@
+Dear evolDir community,
+
+we would like to draw your attention to the upcoming conference
+of the  "European Society for Evolutionary Biology" (ESEB 2017)
+to be held at Groningen (Netherlands) from 20 to 25 August 2017
+(for more details see http://www.eseb2017.nl/) and invite
+you all to submit an abstract to our symposium on "Fitness
+landscapes, big data and the predictability of evolution"
+(http://www.eseb2017.nl/sub/s14-fitness-landscapes-big-data-an/).
+
+Please note that the deadline for abstract submission is January 10th.
+Abstracts can be submitted here: http://www.eseb2017.nl/call-for-abstracts/
+
+[S14] Fitness landscapes, big data and the predictability of evolution
+
+Evolutionary biology has become increasingly powerful in inferring past
+evolutionary processes from patterns in present-day genomes. However,
+forecasting evolution's future routes remains an exciting intellectual
+challenge with substantial implications for global health and species
+conservation. The concept of the fitness landscape has been central
+to recent studies of the predictability of evolution, and has inspired
+evolutionary biologists and mathematicians alike. Combining microbial
+experimental evolution with next-generation sequencing, efforts have
+now been made to rigorously test for the repeatability and dynamics
+of evolution. At the same time, theoretical studies try to provide
+the necessary navigational tools for exploring the terra incognita
+of molecular evolutionary biology. This symposium aims to identify
+the key issues and challenges -- both methodological and theoretical
+- to advance our understanding of the predictability of evolution,
+particularly in the light of "big data". We anticipate that insights
+from our symposium will stimulate and direct future studies of the
+predictability of evolution. With next-generation sequencing on board,
+fitness landscapes are heading for new shores: It's now time to check
+whether "there be dragons"!
+
+Organizers: Santiago Elena, Inês Fragata, Sebastian Matuszewski,
+Arjan de Visser
+
+Invited speakers: Michael Lässig, Lilia Perfeito
+
+Please feel free to contact sebastian.matuszewski[at]epfl.ch if you have
+any questions.
+
+Looking forward to seeing you all in Groningen,
+Sebastian Matuszewski
+
+"sebastian.matuszewski@epfl.ch" <sebastian.matuszewski@epfl.ch>
+

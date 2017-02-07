@@ -1,0 +1,75 @@
+Evolutionary Quantitative Genetics Workshop
+
+Friday Harbor Laboratories, University of Washington, 5-9 June 2017
+
+Non-credit workshop.
+Participants arrive at Friday Harbor Labs on Sunday, June 4, lectures and
+exercises occur June 5-9, and participants depart on Saturday, June 10, 2017.
+
+Application deadline March 1, 2017.
+Application forms and details here:
+  http://tinyurl.com/EQG2017
+Web page:
+  http://depts.washington.edu/fhl/studentSummer2017.html#SumB-genetics
+
+Instructors:
+
+Dr. Joe Felsenstein
+Department of Genome Sciences
+University of Washington, Seattle
+joe@gs.washington.edu
+
+Dr. Stevan J. Arnold
+Department of Integrative Biology
+Oregon State University, Corvallis
+stevan.arnold@oregonstate.edu
+
+Previous versions of this 5-day workshop were given at the National
+Evolutionary Synthesis Center (NESCENT) at Duke University in Durham, North
+Carolina from 2011-2013, and then at the National Institute for Mathematical
+and Biological Synthesis (NIMBioS) at the University of Tennessee in Knoxville
+from 2014-2016. Like past versions, the Friday Harbor version will review the
+basics of theory in the field of evolutionary quantitative genetics and its
+connections to evolution observed at various time scales. The aim of the
+workshop is to build a bridge between the traditionally separate disciplines of
+quantitative genetics and comparative methods.
+
+Quantitative genetic theory for natural populations was developed considerably
+in the period from 1970 to 1990 and up to the present, and it has been applied
+to a wide range of phenomena including the evolution of differences between the
+sexes, sexual preferences, life history traits, plasticity of traits, as well
+as the evolution of body size and other morphological measurements. Textbooks
+have not kept pace with these developments, and currently few universities
+offer courses in this subject aimed at evolutionary biologists. Evolutionary
+biologists need to understand this field because of the ability to collect
+large amounts of data by computer, the development of statistical methods for
+changes of traits on evolutionary trees and for changes in a single species
+through time, and the realization that quantitative characters will not soon be
+fully explained by genomics. This workshop aims to fill this need by reviewing
+basic aspects of theory and illustrating how that theory can be tested with
+data, both from single species and with multiple-species phylogenies.
+Participants will use R, an open-source statistical programming language, to
+build and test evolutionary models.
+
+The workshop involves lectures and in-class computer exercises. You can
+consult the 2016 tutorial website for examples, it will be found at
+  http://www.nimbios.org/tutorials/TT_eqg2016
+The intended participants for this
+tutorial are graduate students, post-docs, and junior faculty members in
+evolutionary biology. The workshop can accommodate up to 35 participants. Guest
+instructors will include:
+
+* Marguerite Butler, Biology, Univ. Hawai'i, Mānoa
+* Patrick Carter, Evolutionary Physiology, Washington State University, Pullman
+* Adam Jones, Biology, Texas A&M University, College Station
+* Brian O'Meara, Ecology & Evolutionary Biology, Univ. of Tennessee, Knoxville
+* Josef Uyeda, Biological Sciences, Virginia Tech, Blacksburg
+
+Cost: $1000 to be paid to Friday Harbor Laboratories. This fee will cover
+housing and meals at FHL and all other workshop expenses, except travel.
+Participants who have been admitted to attend will make their payment prior to
+arrival at FHL. Details of payment by credit card or check will be provided
+once the applicant has been admitted to attend.
+
+Joe Felsenstein <joe@gs.washington.edu>
+

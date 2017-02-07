@@ -1,0 +1,85 @@
+Dear colleagues
+
+This is a reminder that the registration for this year's morphometrics 
+course from the University of Manchester is open (deadline: 21 October 
+2016).
+
+This year's course will run via the web in the six weeks from 7 November 
+to 16 December 2016.
+
+Course content:
+*  Data acquisition: the kinds of data and the equipment used to collect 
+them.
+*  Definitions of size and shape
+*  Geometric methods to characterise shape from a configuration of 
+landmark points (Procrustes superimposition)
+*  Statistics of variation, scatter plots, basic multivariate statistics
+*  Principal component analysis
+*  Measurement error and outliers
+*  Shape transformations and 'warping' -- the thin plate spline
+*  Analysis of outline shapes
+*  Distinguishing between groups (taxonomy, clinical diagnosis, etc.)
+*  Allometry and size correction
+*  Influence of external factors on shape (ecomorphology, dose-response 
+studies)
+*  Symmetric forms and measurement of asymmetry.
+*  Morphometric inferences on developmental processes
+*  Morphological integration and modularity
+*  Genetics of shape: analyses of resemblance between relatives, QTL 
+analyses.
+*  Phylogeny: examining the history of evolutionary changes of shape
+
+Practice examples:
+As far as possible, practical exercises are provided to accompany the 
+course content. These practice exercises consist of data sets and 
+explanations on how to run the respective analyses using the MorphoJ 
+software (http://www.flywings.org.uk/MorphoJ_page.htm).
+Participants who already have their own data are encouraged to use those 
+and to discuss them as part of the course. I hope there will be a bit of 
+a 'workshop' feel to the course unit.
+
+Group work:
+Participants will work in small groups to prepare web presentations of 
+possible morphometric studies (wikis prepared by the groups). This 
+activity stimulates discussion and provides a broad overview of the 
+broad range of questions that can be addressed with morphometric methods.
+
+Further information on the course and a link to the registration page 
+can be found on the following we site:
+http://www.flywings.org.uk/MorphoCourse
+
+Registtration uses the university's e-store, which can process automatic 
+*payments by credit card or debit card*. The deadline for registration 
+via this site is the *21 October 2016*.
+
+The direct link to the e-store is this:
+http://estore.manchester.ac.uk/browse/product.asp?compid=1&modid=5&catid=164
+
+The fee for the course is GBP 340.00.
+
+If you cannot pay by credit or debit card, or *if you require a formal 
+invoice* (e.g. for reimbursement by your institution), you need to 
+contact the Short Course Office in our faculty via this E-mail:
+FLS-shortcourses@manchester.ac.uk
+If you need to use this option, please do so as soon as possible, but 
+definitely *well before October*.
+
+Best wishes,
+Chris
+
+Christian Peter Klingenberg
+Faculty of Life Sciences
+The University of Manchester
+Michael Smith Building
+Oxford Road
+Manchester M13 9PT
+United Kingdom
+
+Telephone: +44 161 275 3899
+Fax: +44 161 275 5082
+E-mail: cpk@manchester.ac.uk
+Web: http://www.flywings.org.uk
+Skype: chris_klingenberg
+
+Chris Klingenberg <cpk@manchester.ac.uk>
+

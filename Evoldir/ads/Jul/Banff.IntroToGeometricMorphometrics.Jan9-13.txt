@@ -1,0 +1,53 @@
+Dear colleagues,
+
+Registration is open for the course "INTRODUCTION TO GEOMETRIC
+MORPHOMETRICS- 8th edition".
+
+INSTRUCTORS: Prof. Chris Klingenberg (University of Manchester, UK)
+and Dr.  Jesús Marugán (UAM, Spain).
+
+Dates: January 9th-13th, 2017.
+
+Place: Banff Center, Alberta, Canada (https://www.banffcentre.ca/)
+
+More information and registration:
+http://www.transmittingscience.org/courses/geometric-morphometrics/introduction-geometric-morphometrics-canada/
+
+This course is entitled to teach the main concepts of shape analysis
+based on landmark coordinates and its multivariate procedures, and
+how they can be put into practice across any biological discipline in
+which the phenotype (form) and its variation are the principal sources
+of information.
+
+Program:
+
+1. Introduction: Shape, size and biological morphology.
+2. Morphometric data: Equipment, landmarks, outlines and surfaces.
+3. Visualizing shapes and shape changes.
+4. Looking at variation: PCA.
+5. Distinguishing groups: CVA and discriminant analysis.
+6. Symmetry and asymmetry.
+7. Morphometrics in a messy world: outliers and measurement error.
+8. Regression and allometry.
+9. Covariation between things: PLS.
+10. Morphological integration.
+11. Modularity.
+12. Phylogeny and comparative methods.
+13. Putting things together: Combining analyses to solve biological
+    questions.
+14. Presentation of group work by participants.
+
+Please feel free to distribute this information between your colleagues
+if you consider it appropriate.
+
+With best regards
+
+Sole
+
+Soledad De Esteban-Trivigno, PhD.
+Scientific Director
+Transmitting Science
+www.transmittingscience.org
+
+soledad.esteban@transmittingscience.org
+

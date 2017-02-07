@@ -1,0 +1,71 @@
+*Eco-Evolutionary Dynamics in Nature and the Lab*
+*Coordinators:* Michael Desai, Anthony Long, Paul Rainey, and Christian
+Schlötterer
+Location: KITP Santa Barbara, California
+Dates: Jul 24, 2017 - Sep 15, 2017
+https://www.kitp.ucsb.edu/activities/ecoevo17
+Application deadline Sep 25, 2016
+A tentative schedule can be found at:
+https://docs.google.com/spreadsheets/d/1xZyH2uHLLRqtlTtua8MLphkdBJqanu2yimCaUr2oL8I/edit?usp=sharing
+
+Background:
+
+The diversity of life is shaped by the action of evolutionary forces such
+as mutation, recombination, and natural selection. While each of these
+forces is well understood in isolation, it is difficult to predict how they
+work in combination to shape the evolution of populations and communities.
+The ecological richness of natural habitats, which typically involve
+numerous interacting species, present further obstacles to detailed
+investigations of their evolutionary dynamics. Similar complications are
+present even in simple laboratory systems, where initially clonal
+populations often quickly diversify. Ecological feedback is thus an
+essential element of evolutionary dynamics in both natural and laboratory
+settings, while interactions within complex communities are themselves
+substrates of evolutionary change.
+
+Technological advances have made the field ripe for exploring new ways to
+reconstitute eco-evolutionary dynamics in laboratory models, and for
+connecting the insights gained from the lab to observations of diversity in
+natural communities. Most strikingly, inexpensive genome sequencing now
+makes it possible to characterize evolutionary dynamics and patterns of
+diversity in unprecedented detail. This has in turn led to new theoretical
+challenges as we attempt to interpret sequence data in the context of
+population genetics. The purpose of this program is to bring together
+perspectives from different disciplines to forge a new understanding of
+eco-evolutionary dynamics in natural and laboratory communities.
+
+Key questions include:
+
+   - How does the interplay between organismic changes and ecological
+   interactions drive evolution of diversity? And how does this diversity
+   scale with the physical and biological complexities of the environment?
+   - How does eco-evolutionary dynamics lead to stable versus unstable and
+   chaotic communities? How repeatable are the dynamics, and predictable the
+   stable patterns, of community assembly across replicate systems?
+   - How does genetic exchange (e.g. horizontal transmission and migration)
+   shape the genomic and ecological structure of a community? And what are the
+   roles of selection acting on genes, organisms, and communities?
+   - How does evolution in sexual organisms (such as *Drosophila* and *C.
+   elegans*) fueled by standing genetic variation differ from adaptation
+   based on new mutations in largely asexual populations of microbes and
+   viruses?
+
+A closely linked Santa Barbara Advanced School of Quantitative Biology
+Summer Course will take place from July 24-August 25, 2017.
+
+Christian Schlötterer
+Institut für Populationsgenetik
+Vetmeduni Vienna
+Veterinärplatz 1
+1210 Wien
+Austria/Europe
+
+phone: +43-1-25077-4300
+fax: +43-1-25077-4390
+http://www.vetmeduni.ac.at/en/population-genetics/
+
+Vienna Graduate School of Population Genetics
+http://www.popgen-vienna.at
+
+Christian Schlötterer <christian.schloetterer@vetmeduni.ac.at>
+

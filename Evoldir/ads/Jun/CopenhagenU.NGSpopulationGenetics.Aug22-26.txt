@@ -1,0 +1,30 @@
+PhD course in analyses of genotyping and next ­generation sequencing data 
+in medical and population genetics
+
+When:
+August 22 - August 26  2016
+
+Where:
+Department of Biology, University of Copenhagen, Copenhagen Denamrk
+
+Instructors:
+Brenna Henn, Matteo Fumagalli, Fernando Racimo,  Anders Albrechtsen and 
+Ida Moltke
+
+The course is a comprehensive introduction to a number of topics
+and common research tools used in analyses of genetic data. Topics
+include: genetic drift, natural selection, population structure, Fst,
+linkage disequilibrium, association mapping, GWAS, genotyping data,
+next ­generation sequencing (NGS) data, 1000 genomes project data. The
+main focus will be on humans, but the analysis methods are applicable to
+many other species as well. Lectures will be combined with hands ­on
+computer exercises mostly using R and command ­line ­based programs.
+The course is free for all PhD students at Danish universities (KU, AU,
+AUC, SDU and DTU). For all other PhD students there is a course fee of
+200 US dollars. Food and accommodation are not included in the course.
+
+To sign up, please send an email to 
+cphsummercourse@gmail.com
+
+albrecht@binf.ku.dk
+

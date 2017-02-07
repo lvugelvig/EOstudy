@@ -1,0 +1,36 @@
+Last call.
+Registration closes Tuesday, September 6th at noon.
+
+https://biodatatraining.wordpress.com
+
+For those of you considering traveling to Maryland for this, we will be
+in the Biology-Psychology Building  in the center of campus just across
+from the Reagents Drive Parking lot. There is also a Metro station nearby.
+Here is an interactive map that can also be used to plan Metro and bus
+access: http://maps.umd.edu/map/
+
+Please contact us if you have any questions or need additional info.
+
+Hope to see you in Maryland.
+
+Ian & Nic
+
+Fall Workshop in Introductory Bioinformatics
+University of Maryland College Park, Maryland
+September 15-18, 2016
+
+There is no prerequisite for this course other than a willingness to
+learn and to work hard throughout the week. All workshop exercises will be
+implemented via VirtualBox and focus primarily on Illumina data; however,
+we will also include PacBio data during the genome assembly tutorial.
+
+Course participation is limited to 25 students to ensure an intimate
+learning environment. Course tuition is $800 and is open to graduate
+students, postdocs, staff, faculty, and industry researchers on a first
+come basis.
+
+Full course information, contact, instructor info and application
+instructions at: https://biodatatraining.wordpress.com
+
+nblouin69@gmail.com
+

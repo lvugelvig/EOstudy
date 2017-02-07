@@ -1,0 +1,70 @@
+MCEB - Mathematical and Computational Evolutionary Biology 12-16 June
+2017 - Porquerolles Island, South of France.
+
+Webpage: http://www.lirmm.fr/mceb2017/
+
+Pre-registration deadline: February 26th
+
+Notification to applicants: March 17th
+
+Final list of attendees: April 17th
+
+Registation page : http://www.lirmm.fr/mceb2017/register.php
+
+Scope: Mathematical and computational tools and concepts form  an
+essential basis for modern evolutionary studies. The goal of the MCEB
+conference (at its 9th edition) is to bring together scientists with
+diverse backgrounds to present recent advances and discuss open problems
+in the field of mathematical and computational evolutionary biology.
+The theme of this year's edition will be "Methods for integrative
+evolutionary biology: various sources of data, various scales of
+evolution", which includes the analysis of heterogeneous data (molecular,
+phenotypic, ecological...), different time scales (from recent times to
+the origin of life), different spatial scales (from local to worldwide
+range), the combination of phylogenetics and population genetics,
+multidisciplinary approaches, etc.. General concepts, models, methods
+and algorithms will also be presented and discussed, just as during the
+previous conference editions.
+
+Where and when: Porquerolles Island, near Hyeres, in the South of 
+France, 12-16 June 2017.
+
+Cost: Conference fees including accommodation for four nights, meals,
+coffee breaks, etc., will be around 450euro, all inclusive. PhD students
+and postdocs would benefit of financial support.
+
+Keynote speakers:
+
+Elizabeth Allman (Department of Mathematics and Statistics, University of Alaska Fairbanks)
+http://www.dms.uaf.edu/%7Eeallman/
+
+Guy Baele (Rega Institute / KU Leuven - Evolutionary and Computational Virology Section)
+https://rega.kuleuven.be/cev/ecv/lab-members/GuyBaele.html
+
+Stephane Dray (Laboratoire de Biometrie et Biologie Evolutive (LBBE), Lyon)
+http://pbil.univ-lyon1.fr/members/dray/cv.php
+
+Barbara Holland (Theoretical Phylogenetics Group, School of Mathematics 
+and Physics, University of Tasmania) 
+http://www.maths.utas.edu.au/People/Holland/
+
+Anna-Sapfo Malaspinas (Institute of Ecology and Evolution, University
+of Bern)
+http://www.cmpg.iee.unibe.ch/about_us/team/researchers/ass_prof_dr_mala
+spinas_anna_sapfo/index_eng.html
+
+Yun Song (Calabi-Simons Chair in Mathematics and Biology, Departments of
+Mathematics and Biology, University of Pennsylvania)
+http://www.sas.upenn.edu/~yss/
+
+Marc Suchard (David Geffen School of Medicine at UCLA, Departments of 
+Biomathematics, Biostatistics and Human Genetics) 
+http://faculty.biomath.ucla.edu/msuchard/
+
+For more information, visit the website at:
+http://www.lirmm.fr/mceb2017/
+
+Please forward this announcement!
+
+Olivier  GASCUEL <olivier.gascuel@pasteur.fr>
+

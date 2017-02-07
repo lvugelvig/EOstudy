@@ -1,0 +1,200 @@
+Dear colleagues,
+
+Early bird registration has been extended to November 30th for the course
+"Geometrics Morphometrics in R".
+
+Dates: January 23th-27th, 2017.
+
+Instructor: Dr. Julien Claude (Institut des Sciences de l'Évolution de
+Montpellier, France), author of Morphometrics with R
+(http://www.springer.com/us/book/9780387777894).
+ http://www.springer.com/us/book/9780387777894).%C2%A0
+
+PLACE:  Facilities of the Centre de Restauració i Interpretació
+Paleontologica, Els Hostalets de Pierola, Barcelona (Spain).
+
+Registration and more info:
+http://www.transmittingscience.org/courses/geometric-morphometrics/geometric-morphometrics-r/
+
+PROGRAM: 
+
+Monday, January 23rd, 2017.
+
+1. An Introduction to R / Image Processing / Organizing Morphometric Data.
+
+1.1. Some Basics in R.
+
+1.1.1. The R Environment.
+
+1.1.2. R objects, Assigning, Indexing.
+
+1.1.3. Generating Data in R.
+
+1.1.4. 2D and 3D Plots in R; Interacting with the Graphs.
+
+1.2. Organizing Data for Morphometrics.
+
+1.2.1. Data-frame, Array and List.
+
+1.2.2. Converting and Coercing Objects.
+
+1.2.3. Read and Write Morphometric Data in R.
+
+1.3. Image Processing in R.
+
+1.3.1. Reading Various Image Files.
+
+1.3.2. Obtaining Image Properties.
+
+1.3.3. Modifying Image Properties: Contrast, Channels, Saturation Directly
+from R or by Interfacing R with Imagemagick.
+
+1.4. Simple Tests, Simple Linear Modelling, Alternatives to Linear
+Modelling, an example using traditional morphometrics.
+
+1.4.1. Defining size and shape using PCA and log-shape ratio approaches.
+
+1.4.2. Getting stats and test outputs.
+
+1.4.3. Testing assumptions of linear modelling.
+
+1.4.4. Testing for allometry and isometry.
+
+1.4.5. Solutions when assumptions of linear modelling are not met.
+
+Tuesday, January 24th, 2017.
+
+1. Landmark data.
+
+2.1. Acquiring Landmark Data in R.
+
+2.2. Plotting Landmark Configurations in 2 and in 3D.
+
+2.2.1. Using Different Symbols and Setting the Graphical Parameters.
+
+2.2.2. Labeling Landmarks.
+
+2.3. Geometric Transformation with Landmark Configurations.
+
+2.3.1. Translation.
+
+2.3.2. Scaling using Baseline or Centroid Size.
+
+2.3.3. Rotation.
+
+2.4. Superimposing and Comparing Two Shapes.
+
+2.4.1. Baseline Superimposition.
+
+2.4.2. Ordinary Least Squares Superimposition.
+
+2.4.3. Resistant Fit.
+
+2.5. Representing Shape Differences.
+
+2.5.1. Plotting Superimposed Shape with Wireframe.
+
+2.5.2. Lollipop Diagrams and Vector Fields.
+
+2.5.3. Thin Plate Splines and Warped Shapes.
+
+2.6. Superimposing More Than Two Shapes.
+
+2.6.1. Baseline Registration.
+
+2.6.2. Full Generalized Procrustes Analysis.
+
+2.6.3. Partial Generalized Procrustes Analysis.
+
+2.6.4. Dimensionality of Superimposed Coordinates.
+
+Wednesday, January 25th, 2017.
+
+2.7. Exploring Shape Variation and Testing Hypotheses.
+
+2.7.1. PCA.
+
+2.7.2. Multivariate Linear Modelling (Multivariate Regression and MANOVA).
+
+2.7.3. Allometry free approaches (Burnaby correction).
+
+2.7.4. Linear discriminant and Canonical Analysis.
+
+1. Outlines.
+
+3.1. Acquiring outline Data in R.
+
+3.2. Fourier Analysis.
+
+3.2.1. Principles.
+
+3.2.2. Fourier Analysis of the Tangent Angle.
+
+3.2.3. Radius Fourier Analysis.
+
+3.2.4. Elliptic Fourier Analysis.
+
+3.2.5. Reduction of Shape Variables.
+
+3.2.6. Statistical Analysis of Shape Variation with Fourier Analysis.
+
+3.2.6.1. Exploring Shape Variation and Testing Hypotheses.
+
+3.2.6.2. PCA.
+
+3.2.6.3. Multivariate Linear Modelling (Multivariate Regression and MANOVA).
+
+3.2.6.4. Canonical Analysis.
+
+Thursday, January 26th, 2017.
+
+3.3. Combining Landmarks and Curves.
+
+3.3.1. Hybrid Methods between Fourier and Procrustes Analysis.
+
+3.3.2. Sliding Semi Landmarks.
+
+3.4. Solutions for Open Curves.
+
+1. Specific Applications.
+
+4.1. Testing Measurement Error.
+
+4.2. Partitional Clustering.
+
+4.2.1. K-means, Partition Around Medoids.
+
+4.2.2. Mclust.
+
+4.2.3. Combining Genetic, Geographic and Morphometric Data.
+
+Friday, January 27th, 2017.
+
+4.3. Modularity / Integration Studies.
+
+4.3.1. Two-block Partial Least Squares.
+
+4.3.2. Testing Among Various Sets of Modules.
+
+4.4. Fluctuating Asymmetry and Directional Asymmetry.
+
+4.4.1. Inter-Individual and Intra-Individual Variation.
+
+4.4.2. Object and Matching Symmetry.
+
+4.5. Bending Energy, Uniform and Non-uniform Shape Variation.
+
+This course is organized by Transmitting Science, the Institut Català de
+Paleontologia and the Centre de Restauració i Interpretació Paleontologica.
+
+With best regards
+
+Sole
+
+Soledad De Esteban-Trivigno, PhD.
+Scientific Director
+Transmitting Science
+www.transmittingscience.org
+
+Soledad De Esteban-Trivigno <soledad.esteban@transmittingscience.org>
+

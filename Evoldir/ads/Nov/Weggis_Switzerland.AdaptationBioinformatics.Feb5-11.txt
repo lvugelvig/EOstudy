@@ -1,0 +1,81 @@
+Winter School - Bioinformatics for Adaptation Genomics (B@G3 2017)
+
+DATE: February 5-11, 2017
+
+Reminder for the Winter School of Bioinformatics for Adaptation Genomics.
+The registration deadline is approaching fast. Applications need to be
+submitted by November 20th 2016.
+
+AIMS AND OBJECTIVES
+The application of next-generation sequencing (NGS) technologies
+to non-model organisms is now well-established and has unlocked
+new frontiers for research on adaptation genomics. Despite recent
+technological developments enabling an increasing number of projects
+to use genome-scale data, the analysis of such complex data sets still
+raises substantial hurdles for researchers with primarily a biological
+background. Bioinformatic pipelines offer an invaluable resource to
+process genomic data, but their underlying rationale often remains hard
+to understand, which poses significant challenges for their rigorous use
+and for the accurate interpretation of the results. The B@G Winter School
+provides an opportunity for researchers to penetrate the 'black box'
+behind the complex bioinformatics approaches available for investigating
+adaptation genomics throughout the analytical pipeline; from the programs
+and assumptions necessary to produce a high quality SNP dataset to the
+in-depth interpretation of methods designed to address key evolutionary
+questions. B@G teachers are established scientists with a primary role in
+the development of widely used bioinformatic software, and will provide
+insights into the foundations of the algorithms and suggest best practice
+in experimental design and analysis.
+
+AUDIENCE
+The School is primarily aimed at evolutionary biologists and
+bioinformaticians who want to gain deeper knowledge on state-of-the-art
+methods used to detect evolutionary patterns from genome-wide nucleotide
+data. Applications from early career researchers (PhD and post-doctoral
+level), as well as faculty with a background in ecology, genetics,
+or bioinformatics, will be considered. The workshop is particularly
+aimed at candidates with experience of the Unix environment and with
+preliminary knowledge on analytical pipelines for genomic data.
+
+VENUE
+The school will be hosted at the Alexander & Gerbi Hotel in Weggis,
+Switzerland (http://www.alexander-gerbi.ch).
+
+COST
+Total fee for participants is 750.- CHF. This includes tuition and
+accommodation in double rooms with full board (Breakfast, Lunch, Dinner
+and coffee breaks) at the Alexander & Gerbi Hotel during the workshop. A
+limited number of single rooms may be available upon request at an
+additional fee of 300.- CHF.
+
+REGISTRATION
+The workshop will be limited to 30 participants. We ask that all
+interested participants submit a cover letter (1 page max) detailing
+their research interests, their level of bioinformatics experience, and
+motivation for attending the workshop, as well as their CV (2 pages max)
+to BioinfAdapt@env.ethz.ch by November 20th 2016.  Participants will be
+notified of the outcome of the selection process by December 5th 2016.
+
+SCHOOL LECTURERS
+Dr. Jonathan Puritz - Marine Science Center, Northeastern University, USA
+Website: http://www.marineevoeco.com
+Mr. Erik Garrison - Wellcome Trust Sanger Institute, UK
+Website: http://hypervolu.me/~erik/erik_garrison.html
+Prof. Dr. Alex Buerkle - University of Wyoming, USA
+Website: http://www.uwyo.edu/buerkle/
+Dr. Anders Albrechtsen - Bioinformatics Centre, Copenhagen University, Denmark
+Website: http://popgen.dk/albrecht/web/WelcomePage.html
+Prof. Dr. Daniel Wegmann - University of Fribourg, Switzerland
+Website: http://www.unifr.ch/biochem/index.php?id=789
+ORGANISERS
+Dr. Simone Fior, ETH Zurich (simone.fior@env.ethz.ch)
+Dr. Martin C. Fischer, ETH Zurich (martin.fischer@env.ethz.ch)
+Dr. Stefan Zoller, GDC-ETH Zurich (stefan.zoller@env.ethz.ch)
+Prof. Dr. Alex Widmer, ETH Zurich (alex.widmer@env.ethz.ch)
+
+Funded by Adaptation to a Changing Environment (ACE) initiative, ETH
+Zürich, Switzerland
+
+For more information:
+http://www.adaptation.ethz.ch/education/winter-school-2017.html
+

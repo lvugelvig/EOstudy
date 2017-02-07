@@ -1,0 +1,393 @@
+Two Python courses:
+    INTRODUCTION TO PYTHON FOR BIOLOGISTS
+    DATA VISUALISATION AND MANIPULATION USING PYTHON (below)
+
+-----
+
+INTRODUCTION TO PYTHON FOR BIOLOGISTS
+
+http://www.prstatistics.com/course/introduction-to-python-for-biologists-ipyb04/
+
+This course is being delivered by Dr Martin Jones, an expert in Python 
+and author of two text books,
+
+Python for Biologists 
+[http://www.amazon.com/Python-Biologists-complete-programming-beginners/dp/1492346136/]
+
+Advanced Python for Biologists 
+[http://www.amazon.com/Advanced-Python-Biologists-Martin-Jones/dp/1495244377/].
+
+Course overview: Python is a dynamic, readable language that is a 
+popular platform for all types of bioinformatics work, from simple 
+one-off scripts to large, complex software projects. This workshop is 
+aimed at complete beginners and assumes no prior programming experience. 
+It gives an overview of the language with an emphasis on practical 
+problem-solving, using examples and exercises drawn from various aspects 
+of bioinformatics work. After completing the workshop, students should 
+be in a position to (1) apply the skills they have learned to tackle 
+problems in their own research and (2) continue their Python education 
+in a self-directed way.
+Intended audience:
+
+This workshop is aimed at all researchers and technical workers with a 
+background in biology who want to learn programming. The syllabus has 
+been planned with complete beginners in mind; people with previous 
+programming experience are welcome to attend as a refresher but may find 
+the pace a bit slow.
+Teaching format:
+
+The workshop is delivered over ten half-day sessions (see the detailed 
+curriculum below). Each session consists of roughly a one hour lecture 
+followed by two hours of practical exercises, with breaks at the 
+organizer's discretion. There will also be plenty of time for students 
+to discuss their own problems and data.
+
+Assumed background:
+Students should have enough biological background to appreciate the 
+examples and exercise problems (i.e. they should know about DNA and 
+protein sequences, what translation is, and what introns and exons are). 
+No previous programming experience or computer skills (beyond the 
+ability to use a text editor) are necessary, but you'll need to have a 
+laptop with Python installed.
+
+Curriculum:
+Day 1:
+Module 1 - Introduction
+Module 2 - Output and text manipulation
+
+Day 2:
+Module 3 - File IO and user interfaces
+Module 4 - Flow control 1: loops
+
+Day 3:
+Module 5 - Flow control 2: conditionals
+Module 6 - Organizing and structuring code
+
+Day 4:
+Module 7 - Regular expressions
+Module 8 - Dictionaries
+
+Day 5:
+Module 9 - Interaction with the file system
+Module 10 - Optional free afternoon to cover previous modules and 
+discuss data
+
+Please email any inquiries to oliverhooker@prstatistics.com or visit our 
+website www.prstatistics.com
+
+Please feel free to distribute this material anywhere you feel is 
+suitable
+
+Other bioinformatics courses
+
+ADVANCED PYTHON FOR BIOLOGISTS (February 2017) #APYB
+http://www.prstatistics.com/course/advanced-python-biologists-apyb01/
+
+BIOINFORMATICS FOR GENETICISTS AND BIOLOGISTS (July 2017) #BIGB
+http://www.prstatistics.com/course/bioinformatics-for-geneticists-and-biologists-bigb02/
+
+INTRODUCTION TO BIOINFORMATICS USING LINUX (October 2017) #IBUL
+http://www.prstatistics.com/course/introduction-to-bioinformatics-using-linux-ibul02/
+
+DATA VISUALISATION AND MANIPULATION USING PYTHON (December 2017) #DVMP
+http://www.prstatistics.com/course/data-visualisation-and-manipulation-using-python-dvmp01/
+
+Other evolutionary statistics courses
+
+INTRODUCTION TO STATISTICS AND R FOR BIOLOGISTS (April 2017) #IRFB
+http://www.prstatistics.com/course/introduction-to-statistics-and-r-for-biologists-irfb02/
+
+ADVANCING IN STATISTICAL MODELLING USING R (April 2017) #ADVR
+http://www.prstatistics.com/course/advancing-statistical-modelling-using-r-advr05/
+
+GEOMETRIC MORPHOMETRICS USING R (June 2017) #GMMR
+http://www.prstatistics.com/course/geometric-morphometrics-using-r-gmmr01/
+
+ECOLOGICAL NICHE MODELLING (October 2017) #ENMR
+http://www.prstatistics.com/course/ecological-niche-modelling-using-r-enmr01/
+
+STRUCTURAL EQUATION MODELLING FOR ECOLOGISTS AND EVOLUTIONARY BIOLOGISTS 
+(October 2017) #SEMR
+
+LANDSCAPE (POPULATION) GENETIC DATA ANALYSIS USING R (November 2017 TBC) 
+#LNDG
+http://www.prstatistics.com/course/landscape-genetic-data-analysis-using-r-lndg02/
+
+INTRODUCTION TO BAYESIAN HIERARCHICAL MODELLING (January 2018) #IBHM
+http://www.prstatistics.com/course/introduction-to-bayesian-hierarchical-modelling-using-r-ibhm02/
+
+PHYLOGENETIC DATA ANALYSIS USING R (TBC) #PHYL
+
+GENETIC DATA ANALYSIS USING R (TBC) #GDAR
+
+Other ecological statistics courses
+
+STABLE ISOTOPE MIXING MODELS USING SIAR, SIBER AND MIXSIAR USING R 
+(February 2017) #SIMM
+http://www.prstatistics.com/course/stable-isotope-mixing-models-using-r-simm03/
+
+NETWORK ANAYLSIS FOR ECOLOGISTS USING R (March 2017) #NTWA
+http://www.prstatistics.com/course/network-analysis-ecologists-ntwa01/
+
+ADVANCES IN MULTIVARIATE ANALYSIS OF SPATIAL ECOLOGICAL DATA (April 
+2017) #MVSP
+http://www.prstatistics.com/course/advances-in-spatial-analysis-of-multivariate-ecological-data-theory-and-practice-mvsp02/
+
+MULTIVARIATE ANALYSIS OF SPATIAL ECOLOGICAL DATA (June 2017) #MASE
+http://www.prstatistics.com/course/multivariate-analysis-of-spatial-ecological-data-using-r-mase01/
+
+TIME SERIES MODELS FOR ECOLOGISTS USING R (JUNE 2017 (#TSME)
+
+SPATIAL ANALYSIS OF ECOLOGICAL DATA USING R (August 2017) #SPAE
+http://www.prstatistics.com/course/spatial-analysis-ecological-data-using-r-spae05/
+
+APPLIED BAYESIAN MODELLING FOR ECOLOGISTS AND EPIDEMIOLOGISTS (November 
+2017) #ABME
+http://www.prstatistics.com/course/applied-bayesian-modelling-ecologists-epidemiologists-abme03/
+
+INTRODUCTION TO METHODS FOR REMOTE SENSING (November 2017) #IRMS
+
+ADVANCING IN STATISTICAL MODELLING USING R (December 2017) #ADVR
+http://www.prstatistics.com/course/advancing-statistical-modelling-using-r-advr07/
+
+-- 
+Oliver Hooker PhD.
+PR statistics
+
+3/1
+128 Brunswick Street
+Glasgow
+G1 1TF
+
++44 (0) 7966500340
+
+www.prstatistics.com
+www.prstatistics.com/organiser/oliver-hooker/
+
+-----
+
+DATA VISUALISATION AND MANIPULATION USING PYTHON
+
+http://www.prstatistics.com/course/data-visualisation-and-manipulation-using-python-dvmp01/
+
+This course is being delivered by Dr Martin Jones, an expert in Python 
+and author of two text books,
+
+Python for Biologists 
+[http://www.amazon.com/Python-Biologists-complete-programming-beginners/dp/1492346136/]
+
+Advanced Python for Biologists 
+[http://www.amazon.com/Advanced-Python-Biologists-Martin-Jones/dp/1495244377/].
+
+COURSE OVERVIEW:
+One of the strengths of the Python language is the availability of 
+mature, high-quality libraries for working with scientific data. 
+Integration between the most popular libraries has lead to the concept 
+of a "scientific Python stack": a collection of packages which are 
+designed to work well together. In this workshop we will see how to 
+leverage these libraries to efficiently work with and visualize large 
+volumes of data.
+
+INTENDED AUDIENCE:
+This workshop is aimed at researchers and technical workers with a 
+background in biology and a basic knowledge of Python (if you've taken 
+the Introductory Python course then you have the Python knowledge; if 
+you're not sure whether you know enough Python to benefit from this 
+course then just drop us an email).
+
+TEACHING FORMAT:
+The workshop is delivered over nine half-day sessions. Each session 
+consists of roughly a one hour lecture followed by two hours of 
+practical exercises, with breaks at the organiser's discretion. Each 
+session uses examples and exercises that build on material from the 
+previous one, so it's important that students attend all sessions. The 
+last session will be kept free for students to work on their own 
+datasets with the assistance of the instructor.
+
+ASSUMED COMPUTER BACKGROUND:
+Students should also have some basic Python experience (the Introduction 
+to Python course will fulfil these requirements). Students should be 
+familiar with the use of lists, loops, functions and conditions in 
+Python and have written at least a few small programs from scratch.
+
+Curriculum:
+Day 1
+Module 1: Introduction and datasets
+Jupyter (formerly iPython) is a programming environment that is rapidly 
+becoming the de facto standard for scientific data analysis. In this 
+session we'll learn why Jupyter is so useful, covering its ability to 
+mix notes and code, to render inline plots, charts and tables, to use 
+custom styles and to create polished web pages. We'll also take a look 
+at the datasets that we'll be investigating during the course and 
+discuss the different types of data we encounter in bioinformatics work.
+
+Module 2: Introduction to pandas
+In this session we introduce the first part of the scientific Python 
+stack: the pandas data manipulation package. We'll learn about Data 
+frames   the core data structure that much of the rest of the course 
+will rely on   and how they allow us to quickly select, sort, filter 
+and summarize large datasets. We'll also see how to extend existing 
+Data frames by writing functions to create new columns, as well as how 
+to deal with common problems like missing or inconsistent values in 
+datasets. We'll get our first look at data visualization by using 
+pandas' built in plotting ability to investigate basic properties of 
+our datasets.
+
+Day 2
+Module 3: Grouping and pivoting with pandas
+This session continues our look at pandas with advanced uses of 
+Dataframes that allow us to answer more complicated questions. We'll 
+look two very powerful tools: grouping, which allows us to aggregate 
+information in datasets, and pivoting/stacking, which allows us to 
+flexibly rearrange data (a key step in preparing datasets for 
+visualization). In this session we'll also go into more detail about 
+pandas indexing system.
+
+Module 4: Advanced manipulation with pandas
+In this final session on the pandas library we'll look at a few common 
+types of data manipulation   binning data (very useful for working 
+with time series), carrying out principal component analysis, and 
+creating networks. We'll also cover some features of pandas designed 
+for working with specific types of data like timestamps and ordered 
+categories.
+
+Day 3
+Module 5: Introduction to seaborn
+This session introduces the seaborn charting library by showing how we 
+can use it to investigate relationships between different variables in 
+our datasets. Initially we concentrate on showing
+distributions with histograms, scatter plots and regressions, as well as 
+a few more exotic chart types like hexbins and KDE plots. We also cover 
+heatmaps, in particular looking at how they lend themselves to 
+displaying the type of aggregate data that we can generate with pandas.
+
+Module 6: Categories in seaborn
+This session is devoted to seaborn's primary use case: visualizing 
+relationships across multiple categories in complex datasets. We see how 
+we can use colour and shape to distinguish categories in single plots, 
+and how these features work together with the pandas tools we 
+havealready seen to allow us to very quickly explore a dataset. We 
+continue by using seaborn to build small multiple or facet plots, 
+separating categories by rows and columns. Finally, we look at chart 
+types that are designed to show distributions across categories: box and 
+violin plots, and the more exotic swarm and strip plots.
+
+Day 4
+Module 7: Customization with seaborn
+For the final session on seaborn, we go over some common types of 
+customization that can be tricky. To achieve very fine control over the 
+style and layout of our plots, we'll learn how to work directly with 
+axes and chart objects to implement things like custom heatmap labels, 
+log axis scales, and sorted categories.
+
+Module 8: Matplotlib
+The final teaching session, we look at the library that both pandas and 
+seaborn rely on for their charting tools: matplotlib. We'll see how by 
+using matplotlib directly we can do things that would be impossible in 
+pandas or seaborn, such as adding custom annotations to our charts. 
+We'll also look at using matplotlib to build completely new, custom 
+visualization by combining primitive shapes.
+
+Day 5
+Module 9: Data workshop
+The session on the final day are set aside for a data workshop. Students 
+can practice applying the tools they've learned to their own datasets 
+with the help of an instructor, or continue to work on exercises from 
+the previous day. There may also be time for some demonstrations of 
+topics of particular interest, such as interactive visualization tools 
+and animations.
+
+Please email any inquiries to oliverhooker@prstatistics.com or visit our 
+website www.prstatistics.com
+
+Please feel free to distribute this material anywhere you feel is 
+suitable
+
+Other bioinformatics courses
+
+ADVANCED PYTHON FOR BIOLOGISTS (February 2017) #APYB
+http://www.prstatistics.com/course/advanced-python-biologists-apyb01/
+
+BIOINFORMATICS FOR GENETICISTS AND BIOLOGISTS (July 2017) #BIGB
+http://www.prstatistics.com/course/bioinformatics-for-geneticists-and-biologists-bigb02/
+
+INTRODUCTION TO BIOINFORMATICS USING LINUX (October 2017) #IBUL
+http://www.prstatistics.com/course/introduction-to-bioinformatics-using-linux-ibul02/
+
+INTRODUCTION TO PYTHON FOR BIOLOGISTS (November 2017) #IPYB
+http://www.prstatistics.com/course/introduction-to-python-for-biologists-ipyb04/
+
+Other evolutionary statistics courses
+
+INTRODUCTION TO STATISTICS AND R FOR BIOLOGISTS (April 2017) #IRFB
+http://www.prstatistics.com/course/introduction-to-statistics-and-r-for-biologists-irfb02/
+
+ADVANCING IN STATISTICAL MODELLING USING R (April 2017) #ADVR
+http://www.prstatistics.com/course/advancing-statistical-modelling-using-r-advr05/
+
+GEOMETRIC MORPHOMETRICS USING R (June 2017) #GMMR
+http://www.prstatistics.com/course/geometric-morphometrics-using-r-gmmr01/
+
+ECOLOGICAL NICHE MODELLING (October 2017) #ENMR
+http://www.prstatistics.com/course/ecological-niche-modelling-using-r-enmr01/
+
+STRUCTURAL EQUATION MODELLING FOR ECOLOGISTS AND EVOLUTIONARY BIOLOGISTS 
+(October 2017) #SEMR
+
+LANDSCAPE (POPULATION) GENETIC DATA ANALYSIS USING R (November 2017 TBC) 
+#LNDG
+http://www.prstatistics.com/course/landscape-genetic-data-analysis-using-r-lndg02/
+
+INTRODUCTION TO BAYESIAN HIERARCHICAL MODELLING (January 2018) #IBHM
+http://www.prstatistics.com/course/introduction-to-bayesian-hierarchical-modelling-using-r-ibhm02/
+
+PHYLOGENETIC DATA ANALYSIS USING R (TBC) #PHYL
+
+GENETIC DATA ANALYSIS USING R (TBC) #GDAR
+
+Other ecological statistics courses
+
+STABLE ISOTOPE MIXING MODELS USING SIAR, SIBER AND MIXSIAR USING R 
+(February 2017) #SIMM
+http://www.prstatistics.com/course/stable-isotope-mixing-models-using-r-simm03/
+
+NETWORK ANAYLSIS FOR ECOLOGISTS USING R (March 2017) #NTWA
+http://www.prstatistics.com/course/network-analysis-ecologists-ntwa01/
+
+ADVANCES IN MULTIVARIATE ANALYSIS OF SPATIAL ECOLOGICAL DATA (April 
+2017) #MVSP
+http://www.prstatistics.com/course/advances-in-spatial-analysis-of-multivariate-ecological-data-theory-and-practice-mvsp02/
+
+MULTIVARIATE ANALYSIS OF SPATIAL ECOLOGICAL DATA (June 2017) #MASE
+http://www.prstatistics.com/course/multivariate-analysis-of-spatial-ecological-data-using-r-mase01/
+
+TIME SERIES MODELS FOR ECOLOGISTS USING R (JUNE 2017 (#TSME)
+
+SPATIAL ANALYSIS OF ECOLOGICAL DATA USING R (August 2017) #SPAE
+http://www.prstatistics.com/course/spatial-analysis-ecological-data-using-r-spae05/
+
+APPLIED BAYESIAN MODELLING FOR ECOLOGISTS AND EPIDEMIOLOGISTS (November 
+2017) #ABME
+http://www.prstatistics.com/course/applied-bayesian-modelling-ecologists-epidemiologists-abme03/
+
+INTRODUCTION TO METHODS FOR REMOTE SENSING (November 2017) #IRMS
+
+ADVANCING IN STATISTICAL MODELLING USING R (December 2017) #ADVR
+http://www.prstatistics.com/course/advancing-statistical-modelling-using-r-advr07/
+
+-- 
+Oliver Hooker PhD.
+PR statistics
+
+3/1
+128 Brunswick Street
+Glasgow
+G1 1TF
+
++44 (0) 7966500340
+
+www.prstatistics.com
+www.prstatistics.com/organiser/oliver-hooker/
+
+Oliver Hooker <oliverhooker@prstatistics.com>
+

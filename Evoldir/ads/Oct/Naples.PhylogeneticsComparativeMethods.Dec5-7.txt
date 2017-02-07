@@ -1,0 +1,62 @@
+
+Dear Colleagues,
+
+we are happy to announce an upcoming intensive workshop on phylogenetic
+and comparative methods
+
+Dates: December 5-7.
+
+PLACE:  Stazione Zoologica A. Dohrn, Naples (Italy)
+
+The workshop will include lectures on the theoretical aspects of
+generating time-calibrated phylogenies, reconstructing trait evolution
+and investigating rates of lineage diversification, as well as practical
+tutorials. A brief description of the program is listed below. The number
+of participants will be limited to 25, and admission is on a first
+come, first served basis. No previous experience with R is necessary,
+but students will be expected to have a basic understanding of molecular
+evolution:
+
+REGISTRATION: by email at sergio.stefanni@szn.it
+
+FEES: 100€ (fees include lunches); special price at 50€ for students
+enrolled at the Universities of Naples (Federico II and Parthenope)
+with no lunch included
+
+PARTICIPANTS: this workshop is preferentially addressed to PhD students,
+postdocs and researchers with basic knowledge of phylogeny (sequence
+alignments, nucleotide substitution models and basic tree building). Max
+number 25
+
+PROGRAM:
+
+        Day 1
+- Introduction to the use of phylogenies in comparative methods
+- Introduction to Likelihood and bayesian phylogenetic inference
+- Theory of molecular clocks
+- Tutorial on relaxed clock node-dating
+- Introduction to R
+
+Day 2
+- Tutorial on total-evidence dating
+- Introduction to the use of remote servers (Cipres) for
+  phylogenetic analyses
+- Tutorial on comparative methods for exploring the evolution of
+  discrete and continuous characters
+
+Day 3
+- Theory and approaches to the study of adaptive radiations
+- Tutorials on comparative methods for detecting and quantifying
+  heterogeneity in evolutionary rates
+
+with best regards,
+Sergio Stefanni, PhD
+
+Research FellowDept. of Biology and Evolution of Marine Organisms
+(BEOM)Stazione Zoologica "Anton Dohrn"Villa Comunale80121 -
+NaplesItaly
+
+email: sergio.stefanni@szn.it / sstefanni@gmail.com
+office: +39 081 5833228
+
+Sergio Stefanni <sstefanni@gmail.com>

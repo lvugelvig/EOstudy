@@ -1,0 +1,85 @@
+We still have a few places available... please apply to ccmaratt@ualg.pt
+
+-----
+
+ADVERTISEMENT WEBSITE: http://att.ccmar.ualg.pt/statistical_genetics_2016
+
+WORKSHOP IN STATISTICAL GENETICS - taught by *BRUCE WEIR* - Professor of
+Biostatistics, and Director of the Institute of Public Health Genetics at
+the University of Washington. Bruce Weir is the author of the textbook
+"Genetic Data Analysis" (3rd edition in preparation) and he has directed
+the Summer Institute in Statistical Genetics since 1996.
+http://www.gs.washington.edu/faculty/weir.htm,
+http://www.ncbi.nlm.nih.gov/pubmed/?term=Bruce+Weir
+
+DESCRIPTION: A unified treatment for the analysis of discrete genetic data,
+starting with estimates and sample variances of allele frequencies to
+illustrate genetic vs statistical sampling and Bayesian approaches. A
+detailed look at Hardy-Weinberg and linkage disequilibrium, including the
+use of exact tests with mid-p-values and a new look at X-chromosome
+Hardy-Weinberg testing. A new characterization of population structure with
+F-statistics, based on allelic matching within and between populations with
+individual relationship estimation as a special case. Analyses illustrated
+with applications to forensic science and association mapping, with
+particular reference to rare variants.
+
+VENUE: Centre of Marine Sciences, University of the Algarve, Faro,
+Portugal. http://ccmar.ualg.pt - Google maps: https://goo.gl/cM78fp
+
+DATE: 8th-9th September 2016
+
+FORMAT: 2-day workshop, lectures and hands-on practical sessions (attendees
+will need to bring laptops). The course is equivalent to 3 European ECTS
+credits.
+
+INTENDED AUDIENCE: PhD students, post-doctoral and advanced researchers
+(but no formal restriction)
+
+REGISTRATION FEE: 240
+
+Registration does not include travel and lodging. Faro has an international
+airport located 4 km from the Gambelas Campus of the University of Algarve
+where the course will take place.
+
+HOW TO APPLY: Applications in the form of a CV and motivational letter
+should be sent to ccmaratt@ualg.pt .
+
+SCHOLARSHIPS: At least 2 scholarships to cover registration fees will be
+awarded to PhD students; applicants should indicate if they would like to
+be considered and must send proof of student status.
+
+ACCOMMODATION: Recommended: Hotel Aeromar at Faro beach (
+http://www.aeromar.net/en) has temporarily reserved (until 31st May) and
+discounted 8 double rooms, priced 62.5 and 80, double and single
+occupancy, respectively (mention CCMAR reservation when booking).
+Additional accommodation at the beach and in Faro centre:
+http://goo.gl/mgG85g. A minibus service will run between the beach, town
+centre, and campus.
+
+CONTACTS:
+Ester Serrão - Assistant Professor, UALG/CCMAR - eserrao@ualg.pt
+Rita Castilo - Assistant Professor, UALG/CCMAR - rcastil@ualg.pt
+
+Advanced Technologies and Training programme @ CCMAR 2016
+ccmaratt@ualg.pt <ccmaratt@ccmar.ualg.pt>,
+att.ccmar.ualg.pt/statistical_genetics_2016
+
+The Centre of Marine Sciences (Centro de Ciências do Mar, CCMAR) is an
+independent multidisciplinary, non-profit institute located on the Gambelas
+campus of the University of the Algarve in Faro with ~250 members and a
+mission to promote research and education in the marine sciences. Faro (
+http://www.algarve-tourist.com/Faro-portugal-guide.html) is the capital
+city of the Algarve region of southern Portugal and borders the Ria Formosa
+National Park (http://www.formosamar.com/en). The Algarve (
+http://www.visitalgarve.pt/?idioma=uk) boasts > 300 days of sun per year,
+stunning beaches and mountain vistas, opportunities for diving, golf, and
+other sporting activities, and a unique traditional regional cuisine (esp.
+seafood). A variety of optional social activities will be organised to
+coincide with the course and special events can be organised upon request
+for participants and/or accompanying persons (diving, surf, stand-up
+paddle, windsurf, kayaking, horse-riding, tennis, bird-watching, nature
+walks, boat guided tours, fishing, etc).
+<http://orcid.org/0000-0002-4927-979X>
+
+Cymon Cox <cymon.cox@googlemail.com>
+

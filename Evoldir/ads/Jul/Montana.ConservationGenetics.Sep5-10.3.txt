@@ -1,0 +1,44 @@
+Course/workshop announcement:
+
+Last chance to participate in the ConGen 2.0 Course and Workshop (3
+spaces left)
+
+Theme:  Applications of Next Gen Sequencing Data to Understand Population
+Connectivity, Local Adaptation, and Environmental Influences on Genomic
+Variation.
+
+Instructors include: Fred Allendorf, Tiago Antao, Brian Hand, Paul
+Hohenlohe, Marty Kardos, Tabatha Graves, Jeff Good, Gordon Luikart,
+Garret McKinney, Mike Miller, Brice Sarver, Mike Schwartz, David Tallmon,
+Robin Waples, Diane Whited, and more.
+
+When: September 5-10, 2016, Flathead Lake Biological Station, Montana
+
+For details on ConGen-2.0: see http://www.umt.edu/sell/cps/congen/
+
+Past courses: see
+http://onlinelibrary.wiley.com/doi/10.1111/mec.13647/full ;  and
+see: Andrews and Luikart 2014, Molecular Ecology, 23:1661-7. doi:
+10.1111/mec.12686.
+
+ConGen 2013 - dinner by the lake
+
+Objective: To provide training in conceptual and practical aspects of
+data analysis for the population and evolutionary genomics of natural
+and managed populations.  Emphasis will be on next generation sequence
+data analysis (RADs, exon capture, and whole genome sequence analyses)
+and interpretation of output from recent novel statistical approaches
+and software programs.  The course include discussions (in a workshop
+like format) among young researchers (student participants) and >12
+leaders in population genomics (instructors) to help develop the next
+generation of conservation and evolutionary geneticists.
+
+Who should apply: Advanced Undergrads, Ph.D. students, post-docs,
+faculty, and population biologists with a background of at least one
+semester university-level course in population genetics and a course
+in population ecology.  Participation will be limited to 25-30 people
+allowing efficient instruction with hands-on computer exercises during the
+course.  Priority will be given to persons with their own data to analyze.
+
+gordon.luikart@mso.umt.edu
+

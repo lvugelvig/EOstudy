@@ -1,0 +1,94 @@
+EMBO Practical Course: http://events.embo.org/17-phylogenetics
+
+Tree building: Advanced concepts and practice of phylogenetic analysis
+
+24 - 29 April 2017, Faro, Portugal
+
+*About the practical course*
+
+The use of phylogenetic methods to reconstruct the evolutionary history of
+molecular sequences is a vital part of biological research. These methods
+underpin studies on the evolution and epidemiology of plant and animal
+parasites and disease-causing organisms, and more generally they allow an
+objective analysis of the patterns and processes generating biological
+diversity. To carry out phylogenetic analysis properly, it is necessary to
+have a good understanding of the strengths and weaknesses of the key
+methods and approaches. This EMBO Practical Course has been designed to
+provide the theoretical and practical skills needed to carry out
+state-of-the-art phylogenetic analyses.
+
+The past few years have seen have an explosion in new methods of analysis
+including the application of Bayesian analysis methods in phylogeny
+reconstruction, the development of improved non-homogeneous models that
+much better represent the dynamics of sequence evolution, and the
+development of methods for high-throughput genome-wide analyses. This EMBO
+Practical Course has been designed to cater for these newest of methods and
+for understanding how they relate to the more traditional methods. Our goal
+is to teach technical sophistication without losing sight of the need for a
+critical attitude to data and analyses.
+
+*Speakers*
+
+Martin Embley - University of Newcastle, UK
+Tal Dagan- University of Kiel, Germany
+Tom Williams - University of Bristol, UK
+Peter Foster - Natural History Museum (London), UK
+Naiara Rodriguez-Ezpeleta - AZTI Tecnalia, Spain
+Mark Wilkinson - Natural History Museum (London), UK
+
+*Selection criteria*
+
+Participants will be early-career postdoctoral researchers and advanced PhD
+students who will be chosen on merit, as judged from a motivational letter
+and a CV. The selection procedure will also consider the need to balance
+numbers of participants representing different nationalities, to avoid
+over-representation from the host country (Portugal), to include a majority
+of participants resident in EMBC countries, and to maintain a reasonable
+gender balance.
+
+*Abstract guidelines*
+
+Abstract for a 10 minute PowerPoint presentation that each student will
+present (200 words)
+
+*Registration fees*
+
+Student/postdocs 200 euros
+Academic             300 euros
+Industry                300 euros
+
+*Registration includes:*
+Accommodation 23rd - 29th April 2017, inclusive (7 nights)
+Lunch and coffee each day
+Dinner each day, including Welcome Dinner and Gala
+Transport to and from UALG campus (Gambelas)
+Registration administration
+Course materials
+
+(We will try to accommodate all participants in single rooms but due to
+availability we have ask for some participants to share.)
+
+*Payment*
+
+Payment of the registration fees will be made by inter-bank transfer after
+notification of acceptance.
+
+*Registration deadline*
+
+30 November 2016
+
+*Selected participants will be notified by*
+
+14 November 2016
+http://events.embo.org/17-phylogenetics
+
+For informal enquires contact: ccmaratt@ualg.pt
+
+Cymon J. Cox
+
+FCT Investigador - Coordinating Researcher
+Plant Systematics and Bioinformatics Research Group (PSB)
+Centro de Ciencias do Mar (CCMAR) - CIMAR-Lab. Assoc.
+
+ccmaratt@ualg.pt
+
