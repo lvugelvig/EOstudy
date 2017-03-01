@@ -1,0 +1,112 @@
+13^th Summer course on marine ecological & evolutionary genomics at the
+Marine Biological Station of Roscoff (F)
+
+First announcement
+
+>From June 5th^ - June 16th, 2017
+
+the 13^th Summer Course on Marine Ecological & Evolutionary Genomics
+- MEEG 2017
+
+takes place at the Station Biologique de Roscoff, Roscoff, France.
+
+Aims:
+
+Genomic knowledge is crucial for understanding the marine environment
+and for an efficient use of its resources. State of the art NGS methods
+have revolutionized the field, spawning applications in basic research,
+biotechnology and resource management. The course will focus on the
+latest developments in population genomics, including biodiversity,
+evolution, comparative and functional aspects through lectures, case
+studies and computer labs. It takes place at the Biological Station, a
+vibrant research community of 273 scientists and support personnel,
+located in the old town and fishing port of Roscoff, Brittany, France.
+
+The course includes lectures, tutorials and computer based exercises on
+the following topics.
+
+-    Genomics - next generation sequencing, database searching, basic
+skills in data handling and bioinformatics
+
+-    Population genomics - diversity, structure, connectivity and
+gene flow, assignment, effective population size, population dynamics,
+adaptive variation, genotyping by sequencing
+
+-    Environmental genomics - environment-genome interactions,
+ecogenomics and metagenetics
+
+-    Functional genomics - genome structure, molecular evolution at
+the functional level, genomic architecture, functional networks
+
+-    Comparative genomics - whole genome comparisons, concatenated
+phylogenies, genome organization, annotating genomic information,
+co-evolution
+
+-    metagenomics
+
+The course covers all aspects of life in the ocean.
+
+Target group:
+
+PhD students (at least in their second year) and junior postdocs with a
+solid knowledge in ecological and/or evolutionary genetics.
+
+18 participants will be selected on the following criteria:
+
+1.        Relevance of the course for their PhD or post-doc project
+
+2.        Background and experience
+
+3.        We aim at training people with different research
+backgrounds; not more than one person per institute will be considered.
+We implement a gender policy.
+
+The selected persons will be notified by Friday 14^th April and will
+have to confirm attendance within 7 days. There is a waiting list in
+case of non-confirmations and cancellations.
+
+Teaching staff :
+
+Nicola Barson, NMBU, No
+
+Sarah Bouchemousse, UniFr, Ch
+
+Jonas Collen, SB-Roscoff, FR
+
+Simon Creer, Univ. Bangor, UK
+
+Yves Desdevises, OO-Banyuls, FR
+
+Erica Leder, Univ. Turku, Fi
+
+Daniel Vaulot, SB-Roscoff
+
+Frederique Viard, SB-Roscoff, FR
+
+Filip Volckaert, Univ. Leuven, BE
+
+Mathias Wegner, AWI-Sylt, GE
+
+Organizing committee
+
+Jonas Collen, SB-Roscoff, FR
+
+Damien Guiffant, SB-Roscoff, FR
+
+Matthias Obst, Univ. Gothenburg, SE
+
+Nic Blouin, Univ. Rhode Island, USA
+
+Nathalie Turque, EMBRC-France, FR
+
+Daniel Vaulot, SB-Roscoff, FR
+
+Filip Volckaert, Univ. Leuven, BE
+
+For information, a flyer and application please check
+http://meeg2017.sciencesconf.org.
+
+Application deadline is April 2 2017.
+
+Filip Volckaert <filip.volckaert@kuleuven.be>
+

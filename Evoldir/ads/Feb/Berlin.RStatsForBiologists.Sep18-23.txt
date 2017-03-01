@@ -1,0 +1,143 @@
+STATISTICS FOR BIOLOGISTS USING R
+
+18-23 September 2017 in Berlin, Germany
+(https://www.physalia-courses.org/courses/course13/).
+
+Instructor: Dr. Ken Aho (Idaho State University;
+https://www.physalia-courses.org/instructors/t4/).
+
+Course overview
+
+This course will demonstrate the extensive capabilities of the R
+environment, and seek to develop/broaden the competency of participants
+in the use of R statistical applications.  The course will have two
+components presented in morning and afternoon sessions over five days.
+Component one (Monday Sept. 18, Tuesday Sept. 19)  will emphasize R
+programming characteristics including data management, use of existing
+package functions, graphics, customized function writing, calling
+routines from compiled languages, and documentation.  The second component
+(Wednesday Sept. 20 - Friday Sept. 22) will address implementation of
+statistical analyses with R, particularly linear models.  The materials
+will be presented using biological examples, making frequent use of
+the library asbio (Applied Statistics and Statistical Pedagogy for
+Biologists).
+
+Intended audience
+
+This course is aimed at scientists, particularly biologists.  While no
+previous experience with R is required, participants should have at
+least a basic familiarity with statistical terms and concepts.
+
+Venue
+
+Potsdamer Straße 98a, 10785 Berlin.
+
+Curriculum
+
+Monday 18th - Classes from 09:30 to 17:30
+
+Session 1 - R basics In this session we will briefly consider the
+history of R, including trends in usage and package development, the
+relationship of R to other languages and platforms, and the reliability of
+R base and user-contributed packages. We will then learn and conduct basic
+command line operations, including defining R programming options, saving
+work, mathematical functions, simple descriptive statistics functions,
+utilization of expressions and assignments, R-objects and classes,
+auxiliary R-packages, accessing and exploring internal R datasets,
+and getting help.
+
+Session 2 - R graphics In this session we consider the properties,
+capabilities, and extensions of R graphics. Session topics will include
+discussion of the R graphical devices, learning how to alter parameters to
+make simple plots and multilayer complex plots (e.g., those containing
+multiple distinct graphs, multiple y and x-axes, unusual fonts, 3d
+graphics, etc.), lattice graphics, graphical packages (particularly
+ggplot) and the creation of publication-ready high resolution figures.
+
+Tuesday 19th - Classes from 09:30 to 17:30
+
+Session 3 - Handling data in R The session will address handling
+data in R. Topics will include properties of R data structures (i.e.,
+vectors, matrices, dataframes, and arrays), command line data entry,
+importing/exporting delimited spreadsheets and other data, subsetting
+and querying data, testing and coercing objects, pattern matching,
+and functions for matrix/dataframe/array management and manipulation.
+
+Session 4 - Writing functions The session will consider user-defined
+functions using several extended examples. Topics will include looping,
+graphical animation, the utilization and development of GUIs, and calling
+routines from compiled languages.
+
+Wednesday 20th - Classes from 09:30 to 17:30
+
+Session 5 - Documentation of work in R and basic applications in
+statistics This session will conclude topics in function writing
+by considering approaches for documenting workflow and function
+characteristics in R. The session will then turn to the topic of
+statistical analysis in earnest. Topics will include probability density
+functions, point estimation (including least squares, maximum likelihood
+and MOM approaches), and intervallic estimators, including conventional
+confidence intervals on a priori sampling distribution assumptions,
+along with bootstrapping approaches and Bayesian credible intervals.
+
+Session 6 - General linear models I We will begin this session by
+considering simple methods for making inferences concerning the difference
+in measures of population location parameters, e.g., t-tests and their
+non-parametric analogues. We will then introduce general linear models
+with simple and multiple regression. Emphasis will be given to model
+selection approaches.
+
+Thursday 21st - Classes from 09:30 to 17:30
+
+Session 7 - General linear models II
+
+This session will continue exploration of general linear models by
+considering ANOVA approaches including one way ANOVAs with fixed and
+random effects, two way designs including factorial designs and blocked
+designs as fixed and mixed effect models. We will also consider methods
+for simultaneous inference for factor level comparisons.
+
+Session 8 - Generalized linear models, locally fitted models, and
+associated topics This session will briefly consider R applications
+for specialized response variables and locally fitted models. Topics
+will include logistic and Poisson generalized linear models (GLMs) and
+definitions of model efficacy in these contexts. Also explored will be
+locally fitted models, including splines, and their use in generalized
+additive models (GAMs).
+
+Friday 22nd - Classes from 09:30 to 17:30
+
+Session 9 - Multivariate approaches
+
+This session will briefly consider R applications for the analysis of
+multivariate data. Topics will include resemblance indices, multivariate
+hypothesis testing with MANOVA, and permutational MANOVA, ordination,
+and cluster analysis.
+
+Session 10 - Unfinished materials, student data This session will be
+devoted to completing unfinished topics and the analysis of student data
+using methods discussed during the course.
+
+Further information:
+
+There two packages available: 1) "only-course" costs 430 euros
+(VAT included), which includes refreshments and course material; 2)
+"all-inclusive" costs 695 euros (VAT included), which includes
+refreshments, course material, accommodation in double shared double
+rooms and meals (breakfast, lunch, dinner).
+
+Registration deadline: August 18th, 2017
+(https://www.physalia-courses.org/courses/course13/)
+
+--
+
+Carlo Pecoraro, Ph.D
+
+Physalia-courses Coordinator
+
+info@physalia-courses.org
+
+http://www.physalia-courses.org/
+
+Twitter: @physacourses
+

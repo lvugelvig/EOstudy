@@ -1,0 +1,136 @@
+This is an announcement of a course on phylogenetic comparative methods 
+to be taught in Córdoba, Argentina in August. The English version of the 
+announcement can be found below the Spanish version of the ad. The 
+announcement can also be viewed online at the following URL: 
+http://www.phytools.org/Cordoba2017/ad/.
+
+------------------------------------------
+
+Curso de macroevolución y uso de métodos filogenéticos comparativos en R
+
+Nos complace anunciar un nuevo curso intensivo, con modalidad de taller, 
+destinado a estudiantes graduados / de posgrado, acerca del uso de 
+métodos filogenéticos comparativos en R. Estos métodos tienen muchas y 
+diversas aplicaciones en estudios macroevolutivos. El curso será 
+gratuito, tendrá una duración de cuatro días, y se dictará en la 
+Universidad Nacional de Córdoba, Argentina, entre los días 1 y 4 de 
+agosto de 2017. Este curso estará parcialmente financiado por la 
+National Science Foundation (Estados Unidos), y contará con el apoyo 
+adicional de la University of Massachusetts Boston y de la Universidad 
+Nacional de Córdoba. El financiamiento cubriría los costos de los 
+pasajes de avión y del alojamiento de los alumnos que sean aceptados en 
+el curso, si bien la totalidad de la cobertura podría sujetarse a 
+cambios, dependiendo de la localización geográfica de los postulantes 
+seleccionados.
+
+El curso se encuentra destinado a estudiantes avanzados, estudiantes de 
+doctorado en ciencias biológicas o carreras afines, investigadores y 
+profesionales interesados en la temática. Recibiremos solicitudes de 
+cualquier país; sin embargo anticipamos que los postulantes 
+sudamericanos y de otros países latinoamericanos constituirán la mayoría 
+de los estudiantes admitidos al programa. Los estudiantes provenientes 
+de países más lejanos que resulten elegidos tendrán la posibilidad de 
+recibir únicamente apoyo parcial para costear sus gastos del viaje. 
+Además, es posible que los estudiantes provenientes de ciudades 
+argentinas accesibles a Córdoba mediante bus (distancias menos de < 700 
+km) reciban únicamente apoyo financiero para el alojamiento. Para 
+estudiantes argentinos, el curso se encontrará avalado por el Doctorado 
+en Ciencias Biológicas de la Universidad Nacional de Córdoba y tendrá 
+una duración de 32 horas.
+
+Los temas que serán discutidos en el curso incluyen: una introducción al 
+ambiente computacional de R, manipulación de árboles filogenéticos, 
+mínimos cuadrados generalizados en un contexto filogenético, 
+reconstrucción de estados ancestrales, modelos evolutivos de rasgos, 
+análisis de diversificación filogenética, y visualización de filogenias 
+y datos comparativos, entre otros. El curso estará a cargo de los 
+instructores Dr. Liam Revell (University of Massachusetts Boston), Dr. 
+Luke Harmon (University of Idaho), y Dr. Mike Alfaro (University of 
+California, Los Angeles), contándose con la posible participación de 
+instructores adicionales. El Dr. Santiago Benitez-Vieyra (Universidad 
+Nacional de Córdoba  -  CONICET) y la Dra. Marina Strelin (Universidad 
+Nacional del Comahue - CONICET) serán los coordinadores de este curso.
+
+El curso será dictado principalmente en inglés; sin embargo, algunos de 
+los instructores, coordinadores, y ayudantes de enseñanza del curso 
+hablan español fluido. Las discusiones, los ejercicios, y las 
+actividades del curso se harán en español e inglés.
+
+Los interesados en solicitar la admisión deberán enviar su currículum 
+vitae y una descripción corta (1 página) de sus intereses científicos, 
+experiencia, y razones por las cuales quieren tomar el curso. El proceso 
+de admisión será competitivo, y se dará preferencia a estudiantes con 
+conocimientos de filogenética y que estén desarrollando investigaciones 
+relacionadas a los temas del curso. Se espera que todos los estudiantes 
+tengan un nivel básico de inglés científico. En la solicitud debe 
+indicarse el aeropuerto de viaje preferido (si aplica). Las solicitudes 
+pueden estar escritas en inglés o en español y deben ser enviadas por 
+email a cordoba@phytools.org antes del 1 abril de 2017. Preguntas 
+adicionales pueden ser dirigidas al Dr. Liam Revell 
+(liam.revell@umb.edu) o a la Dra. Marina Strelin 
+(marina.strelin85@gmail.com).
+
+-----
+
+Intensive short course on macroevolution and phylogenetic comparative 
+methods in R
+
+We are pleased to announce a new graduate-level intensive short course 
+on the use of R for phylogenetic comparative analysis and downstream 
+implementation in macroevolutionary studies. The course will be four 
+days in length and free of charge, and will take place at the 
+Universidad Nacional de Córdoba in Córdoba, Argentina from the 1st to 
+the 4th of August, 2017. This course is partially funded by the National 
+Science Foundation, with additional support from the University of 
+Massachusetts Boston and the Universidad Nacional de Córdoba. There are 
+a number of full stipends available to cover the cost of travel and 
+lodging for qualified students and post-docs. Applicants are welcome 
+from any country; however, we expect that most admitted students will 
+come from the South American region and from other countries within 
+Latin America. Accepted students from further afield may be offered only 
+partial funding for their travel expenses. In addition, Argentine 
+students coming from cities accessible to Córdoba by bus (distances of < 
+700 km within Argentina) may receive only lodging and be asked to cover 
+their own travel expenses should they desire to participate in the 
+course. Postgraduate students attending other universities in Argentina 
+can register to receive credit for this 32 hour course with no 
+additional cost.
+
+Topics covered will include: an introduction to the R scientific 
+computing environment, tree manipulation, independent contrasts and 
+phylogenetic generalized least squares, ancestral state reconstruction, 
+models of character evolution, diversification analysis, and 
+visualization methods for phylogenies and comparative data. Course 
+instructors will include Dr. Liam Revell (University of Massachusetts 
+Boston), Dr. Luke Harmon (University of Idaho), and Dr. Mike Alfaro 
+(University of California, Los Angeles), along with the possibility of 
+other co-instructors yet to be announced. Course co-organizers are Dr. 
+Santiago Benitez Vieyra (Universidad Nacional de Córdoba) and Dr. Marina 
+Strelin (Universidad Nacional del Comahue).
+
+Instruction in the course will be primarily in English; however some of 
+the instructors, coordinators, and TAs of the course are competent or 
+fluent in Spanish and English. Discussion, exercises, and activities 
+will be conducted in both languages.
+
+To apply for the course, please submit your CV along with a short (1 
+page) description of your research interests, background, and reasons 
+for taking the course. Admission is competitive, and preference will go 
+towards students with background in phylogenetics and a compelling 
+motivation for taking the course. In your application please indicate 
+your preferred travel airport, if appropriate. Applications should be 
+submitted by email to cordoba@phytools.org by April 1st, 2017. 
+Applications may be written in English or Spanish; however all students 
+must have a basic working knowledge of scientific English. Questions can 
+be directed to Drs. Liam Revell (liam.revell@umb.edu) or Marina Strelin 
+(marina.strelin85@gmail.com).
+
+-- 
+Liam J. Revell, Associate Professor of Biology
+University of Massachusetts Boston
+web: http://faculty.umb.edu/liam.revell/
+email: liam.revell@umb.edu
+blog: http://blog.phytools.org
+
+"Liam.Revell@umb.edu" <Liam.Revell@umb.edu>
+

@@ -1,0 +1,138 @@
+*  CALL   FOR   PAPERS  *
+
+ECAL 2017 - 14th EUROPEAN CONFERENCE ON ARTIFICIAL LIFE
+
+"Artificial Life and the scientific method: Create, play, experiment,
+discover"
+
+https://project.inria.fr/ecal2017/
+
+The ECAL 2017 Organizing Committee would like to cordially invite you to
+submit your work to the 14th European Conference on Artificial Life (ECAL
+2017), taking place on the LyonTech Campus in Lyon, France, 4-8 September
+2017.
+
+*  I M P O R T A N T   D A T E S  *
+
+Paper submission deadline:  9th April, 2017
+Notification of Acceptance: 12th May, 2017
+Camera-Ready due: 9th June, 2017
+Main Conference convenes: 4-8 September, 2017
+
+Contact email for queries:  ecal2017@inria.fr
+
+*  T O P I C S  *
+
+ECAL 2017 will showcase a wide range of topics in Artificial Life, bringing
+together world-leading researchers to discuss the latest advances in the
+synthesis and simulation of living systems. We are happy to announce that
+our keynote speakers cover a wide variety of topics and include:
+
+ - Bill Sellers (University of Manchester, UK): Reconstructing Ancient Life
+using Virtual Robots
+ - Csaba Pal (Biological Research Centre, Szeged, Hungary): Complex
+adaptations in evolution
+ - Frances Westall (CNRS, Orleans, France): Origin of life and Life on Mars
+ - Nancy Nersessian (Harvard University, Cambridge, MA, USA): Managing
+Complexity: Modeling dynamics in integrative systems biology
+ - Philippe Faure (Universite Pierre et Marie Curie, Paris, France): Drug
+addiction and alteration of decision making process
+ - Sabine Hauert (University of Bristol, UK): Swarming nanomedicine
+
+For this edition the special theme is "Artificial life and the scientific
+method: Create, play, experiment, discover". We are inviting especially
+contributions that investigate the use of computer simulations in the
+scientific method, and/or the interactions between in silico, in vitro and
+in vivo experiments. Other topics of interest include, but are not limited
+to, the following aspects of Artificial Life:
+
+ - Evolutionary dynamics
+ - Ecological and social dynamics
+ - Artificial chemistry, origins of life
+ - Computational cellular biology/physiology/systems biology
+ - Self-replication, self-repair and morphogenesis
+ - Bio-inspired, cognitive and evolutionary robotics
+ - Perception, cognition and behavior
+ - Evolution of language, computational linguistics
+ - Embodied, interactive systems
+ - Collective dynamics of swarms
+ - Complex dynamical systems and networks
+ - Cellular automata and discrete dynamical systems
+ - Economy/society/social media as living systems
+ - Computational humanities/anthropology/archeology
+ - Methodologies and tools for artificial life
+ - Interactions between in silico/in vitro/in vivo experiments
+ - Philosophical, epistemological and ethical issues
+ - Artificial life and education
+ - Artificial life-based art
+ - Applications of artificial life
+ - Living technologies
+
+*  S U B M I S S I O N   F O R M A T  *
+
+There are two options for submission: either full paper or extended
+abstract. Note that the format is exactly the same for both options. The
+differences reside in the number of pages and type of contents:
+
+ - Full papers have an 8-page maximum length and should report on new,
+unpublished work.
+ - Extended abstracts are limited to a 2-page length and can report on
+previously published work.
+
+We encourage the use of LaTeX for the production of papers. Guidelines for
+submission and template files can be found here:
+http://project.inria.fr/ecal2017/submission-guidelines/ <
+http://project.inria.fr/ecal2017/submission-guidelines/>
+
+Color figures are possible. Each submission should be uploaded as a single
+file, in PDF format only, to the Easy Chair system:
+https://easychair.org/conferences/?conf=ecal2017 <https://easychair.org/
+conferences/?confìal2017>
+
+All submissions will undergo a detailed peer review process. Full papers
+will be reviewed for relevance, scientific quality, sound methodology and
+use of appropriate analysis techniques. Abstracts will be reviewed for
+relevance and quality.
+
+Both papers and extended abstracts will be considered for oral or poster
+presentation, without distinction between full papers and extended
+abstracts.
+
+Accepted papers and extended abstracts will be published by MIT Press as
+open-access electronic proceedings.
+
+Note: At least one author of every accepted paper or poster must be
+registered 30 days prior to the conference, or the paper/poster will be
+withdrawn.
+
+Note: Workshop papers are managed separately from the main conference. To
+submit a paper to a workshop, go to its own website, which will be listed
+in the Workshops page.
+
+*  ORGANISING COMMITTEE  *
+
+Dr Carole Knibbe (Scientific Chair, Universite Lyon 1)
+Prof Guillaume Beslon (Local Chair, INSA Lyon)
+Dr David P. Parsons (Technical Chair, Inria RhÃ´ne-Alpes)
+Prof Salima Hassas (Universite Lyon 1)
+Dr Dusan Misevic (Workshop Chair, University Rene Descartes, Paris)
+Prof Nicolas BredÃ¨che (Tutorial Chair, Universite Pierre et Marie Curie,
+Paris)
+Prof Olivier Simonin (Sponsor Chair, Insa de Lyon, CITI)
+Prof Hedi Soula (Social Networks Chair, Universite Pierre et Marie Curie,
+Paris)
+Dr Jonathan Rouzaud-Cornabas (INSA Lyon)
+Vincent Liard (INSA Lyon)
+Caroline Lothe (Local support, Inria RhÃ´ne-Alpes)
+Sophie Azzaro (Local support, Inria RhÃ´ne-Alpes)
+
+We look forward to seeing you in Lyon in September!
+--
+Guillaume Beslon, Professor
+IXXI - Institut RhÃ´ne-Alpin des SystÃ¨mes Complexes (http://www.ixxi.fr)
+INRIA - LIRIS - equipe Beagle (http://team.inria.fr/beagle -
+http://liris.cnrs.fr)
+INSA-Lyon Computer Science dept. (http://if.insa-lyon.fr)
+
+Guillaume Beslon <guillaume.beslon@inria.fr>
+

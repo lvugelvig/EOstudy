@@ -1,0 +1,115 @@
+NERC-MDIBL Environmental Genomics and Metabolomics Training Course 2017
+
+A NERC funded short course to guide genomics and metabolomics research
+applied to environmental sciences
+
+http://www.birmingham.ac.uk/schools/biosciences/conferences/mdibl-course/
+
+Date: 5-10 March 2017
+Location: The University of Birmingham, UK
+
+Number of places: up to 50
+Participation: Open to everyone.
+Priority is given to NERC-funded PhD students and early-career
+scientists. Confirmation for attendance will be announced February
+23, 2017.
+
+Bursaries: Four (4) bursaries are still available for the metabolomics
+track and two (2) remain for the genomics track, covering registration,
+travel and accommodations.
+
+Costs for non-NERC funded researchers: Early bird 2105, standard
+2340. Ten scholarships remain in the genomics track, where registration
+fees are waived.
+
+Course leaders: Professor John Colbourne, Dr Joseph Shaw, and Dr Ben
+Brown will lead the genomics course. The metabolomics course will be
+lead by Professor Mark Viant and Dr Warwick Dunn and assisted by staff
+from the NERC Biomolecular Analysis Facility and Birmingham Metabolomics
+Training Facility.
+
+Research Organizations involved: University of Birmingham (UK), BGI
+China National GeneBank (Shenzhen, China), Mount Desert Island Biological
+Laboratory (USA)
+
+For this fourth annual training course in Environmental Genomics and
+Metabolomics, the curriculum is expanded to highlight a multi-omics
+(system biology) approach to research in environmental sciences. It trains
+PhD students and early career postdoctoral scientists to investigate
+how gene function and metabolism are influenced by environmental
+conditions while accounting for variation that exists within and among
+natural populations. The course is built on the paradigm that this
+multidisciplinary research field encompassing ecology, evolution,
+toxicology, biostatistics and informatics will most effectively grow
+by training early career environmental scientists to properly design
+comprehensive, large-scale, Next Generation Sequencing and Metabolomics
+experiments enabled by drastically increased sample-throughput and lower
+costs. Most importantly, the challenges of manipulating and analysing
+population-level omics (big) data must be addressed.
+
+The course provides a significant introduction and much hands-on training
+experience so that participants can initiate their own environmental
+omics study and network with others in the field to launch Environmental
+Scientist careers in academia and industry. Case studies using multi-omics
+data sets collected at the University of Birmingham will be provided
+so that you can gain practical experience of analysing and integrating
+multi-omics data.
+
+Daphnia is used for training because of its growing use as a model system
+in the environmental sciences and for improving environmental health
+protection, yet the skills learned during the course will be applicable
+to all study systems with mature genomics and metabolomics resources.
+
+Evening Lecture Series
+Distinguished visiting academics will provide keynote lectures on each
+day of the course to highlight environmental omic applications that draw
+on the expertise of our guest faculty.
+
+Course Details
+The course will include ~1.5 days of generic environmental omics training
+and ~3.5 days of specialised genomics or metabolomics training (parallel
+tracks).
+
+The combined sessions will include:
+* Overviews of environmental genomics and metabolomics
+* Practical experience of analysing and integrating multi-omics data
+* Synthesis sessions to obtaining grant funding
+* Question and answer sessions with a panel of experts
+
+The genomics track includes:
+* Library construction methods and QC
+* Introduction to automation systems and sequence data workflow
+* Software solutions for sequence workflows and their application in
+  environmental research
+* RNA-seq alignment
+* Statistical considerations for analysing genome-scale data
+* Practical experience in applying open-source analysis tools to
+  visualise complex sequence data and explore genome sequence variation,
+  analyse Tuxedo output and perform gene set enrichment analysis
+* Synthesis sessions to explore using the most appropriate model
+  organism and maximising outputs from your sequence data
+
+The metabolomics track includes:
+* Experimental design
+* Quality assurance and quality control in metabolomics
+* Hands-on sample preparation
+* Analytical technologies including mass spectrometry and NMR
+  spectroscopy
+* Data processing, including LC-MS and SIMS stitching procedures
+* Univariate and multivariate data analysis approaches
+* Metabolite identification
+
+Please feel free to inquire with Dr [X] Catherine Winder or John
+Colbourne.
+
+c.l.winder@bham.ac.uk
+J.K.Colbourne@bham.ac.uk
+
+School of Biosciences, The University of Birmingham
+Birmingham, B15 2TT, United Kingdom
+
+Mount Desert Island Biological Laboratory
+Old Bar Harbor Rd., Salisbury Cove, ME 04672
+
+j.k.colbourne@bham.ac.uk
+

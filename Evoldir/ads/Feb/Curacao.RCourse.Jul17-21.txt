@@ -1,0 +1,77 @@
+Dear evoldir members,
+
+Please see below regarding an R course that some of you may be
+interested in:
+
+A gentle introduction to R for the biological sciences
+July 17th-21st, 2017, Willemstad (Curacao)
+Delivered by Dr. Dan Warren
+http://www.transmittingscience.org/courses/statistics/gentle-introducti
+on-r-biological-sciences/
+
+This 5-day course will introduce students to the R statistical
+programming environment. The main learning objective of the course is
+to give students a basic skill set and familiarity with several of the
+most used packages in the biological sciences. It is intended primarily
+for users who have no experience in R, or who have performed a few
+basic functions but wish to develop their skills. This course is not
+aimed at students with extensive experience in R and it will not cover
+the theory behind the ana lyses implemented.
+
+A typical day of the course will include step-by-step examination of
+pre-worked code examples as well as hands-on live-coding, so that
+students develop their skills through interacting with R directly.
+Students will learn to read in data, conduct common analyses, and
+produce publication-quality plots and reports. The students will also
+work independently on conducting analyses in order to produce a final
+project using available data provided by the course organisers.
+
+Programme:
+Monday, July 17th, 2017. Intro to R.
+  * Introduction to the R statistical programming environment.
+  * Introduction to R Studio.
+  * Interacting with the console.
+  * Working with variables.
+  * Basic plots using qplot.
+  * Reading data files.
+  * Writing data files.
+  * Working with tables, data frames, and lists.
+
+Tuesday, July 18th, 2017. Improving workflow and organization.
+  * Scripts.
+  * Commenting your code.
+  * Functions.
+  * Control flow.
+  * What to do when your code isn't working.
+
+Wednesday, July 19th, 2017. Taking R to the next level.
+  * R packages.
+  * Project organization.
+  * Version control.
+  * R Markdown.
+
+Thursday, July 20th, 2017. Making it pretty.
+  * Introduction to ggplot2.
+  * What's in a ggplot object.
+  * Basic plot types.
+  * Customizing your plot.
+  * Creating and using themes.
+  * Using extensions.
+
+Friday, July 21st, 2017. Problem solving / final project.
+  * T-test and linear models.
+  * Looking for help online.
+  * Bringing it all together in a final project.
+
+For more information, please
+visit http://www.transmittingscience.org/courses/statistics/gentle-intr
+oduction-r-biological-sciences/
+Contact: courses.curacao@transmittingscience.org
+
+Haris Saslis, PhD
+Course Coordinator
+Transmitting Science
+www.transmittingscience.org
+
+haris.saslis@transmittingscience.org
+

@@ -1,0 +1,38 @@
+Dear All
+
+for those working with SNP data, I would like to draw your attention
+to a three day workshop from April 4--6,2017 on:
+
+         "SNP data management with TheSNPpit software package"
+
+organized at the Institute of Farm Animal Genetics (FLI) in
+Mariensee near Hannover/Germany and run bei Helmut Lichtenberg and
+myself.
+
+TheSNPpit is a high performance database system for managing large
+scale SNP data. (for detailed information see:
+http://journals.plos.org/plosone/article?id=10.1371/journal.pone.0164043 )
+
+The workshop is targeted at people managing and analyzing SNP data from
+various species and SNP arrays from possibly millions of samples.
+
+The workshop will cover everything from software installation to hands on
+use of TheSNPpit. Participants must bring their Linux laptops
+together with their own SNP data.
+
+Accommodation will be available locally. There is no course fee, but
+participants will have to pay for their accommodation and meals.
+
+For registration and questions get in touch by February 28, 2017.
+
+Greetings
+
+Eildert Groeneveld
+Institute of Farm Animal Genetics (FLI)
+Mariensee 31535 Neustadt Germany
+Tel : (+49)(0)5034 8715155 Fax : (+49)(0)5034 8715143
+e-mail: eildert.groeneveld@fli.de 
+web:    http://vce.tzv.fal.de
+
+"eildert.groeneveld@fli.de" <eildert.groeneveld@fli.de>
+

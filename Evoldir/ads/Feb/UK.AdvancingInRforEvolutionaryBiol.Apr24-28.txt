@@ -1,0 +1,184 @@
+"Advancing in Statistical Modelling for evolutionary biologists and 
+ecologists using R"
+
+Delivered by Dr. Luc Bussiere and Dr. Ane Timenes Laugen
+
+http://www.prstatistics.com/course/advancing-statistical-modelling-using-r-advr06/
+
+This course will run from 24th - 28th April 2017 at SCENE field station, 
+Loch Lomond, Glasgow
+
+Course only and all inclusive packages are available.
+
+This course will provide an introduction to working with real-life data 
+typical of those encountered in the field of evolutionary biology and 
+ecology. The course will be delivered by Dr. Luc Bussiere and Dr. Ane 
+Timenes Laugen who are both practicing academics in the field of 
+ecology.  This five day course will consist of series of modules (each 
+lasting roughly half a day) covering model selection and 
+simplification, generalised linear models, mixed effects models,  and 
+non-linear models. Along the way you will gain in depth experience in 
+data 'wrangling', data and model visualisation and plotting, as well 
+as exploring and understanding model diagnostics. Classes will 
+comprises of a mixture of lectures and practicals designed to either 
+build required skills for future modules or to perform a family of 
+analyses that is frequently encountered in the biological literature.
+
+Course content is as follows
+
+Day 1 Course introduction
+-	Techniques for data manipulation, aggregation, and visualisation; 
+introduction to linear regression. Packages: {tidyr}, {dplyr}, {ggplot2}
+
+Day 2 Linear models
+-	Diagnostics, collinearity, scaling, plotting fitted values); fitting 
+and interpreting interaction terms; model selection and simplification; 
+general linear models and ANCOVA.
+-	Packages: {stats}, {car}
+
+Day 3 Generalized linear models
+-	Logistic and Poisson regression; predicting using model objects and 
+visualizing model fits.
+-	Packages: {broom}, {visreg}, {ggplot2}
+
+Day 4 Mixed effects models
+-	Theory and practice of mixed effect models; visualising fixed and 
+random effects.
+-	Packages: {lme4}, {broom}, {ggplot2}, {sjPlot}
+
+Day 5 Fitting nonlinear functions
+-	Polynomial & Mechanistic models; brief introduction to more advanced 
+topics & combining methods (e.g., generalised linear mixed effects, 
+nonlinear mixed effects, and zero-inflated and zero-altered models).
+-	Packages: {nlsTools}.
+-	Afternoon to discuss own data if time permits
+
+Please email any inquiries to oliverhooker@prstatistics.com or visit our 
+website www.prstatistics.com
+
+Please feel free to distribute this material anywhere you feel is 
+suitable
+
+Our other courses
+
+1.	STABLE ISOTOPE MIXING MODELS USING SIAR, SIBER AND MIXSIAR #SIMM
+28th Feb - 3rd Mar 2017, Scotland, Dr. Andrew Parnell, Dr. Andrew 
+Jackson
+http://www.prstatistics.com/course/stable-isotope-mixing-models-using-r-simm03/
+
+2.	NETWORK ANAYLSIS FOR ECOLOGISTS USING R #NTWA
+6th - 10th March 2017, Scotland, Dr. Marco Scotti
+http://www.prstatistics.com/course/network-analysis-ecologists-ntwa01/
+
+3.	ADVANCES IN MULTIVARIATE ANALYSIS OF SPATIAL ECOLOGICAL DATA USING R 
+#MVSP
+3rd - 7th April 2017, Scotland, Prof. Pierre Legendre, Dr. Olivier 
+Gauthier
+http://www.prstatistics.com/course/advances-in-spatial-analysis-of-multivariate-ecological-data-theory-and-practice-mvsp02/
+
+4.	ADVANCING IN STATISTICAL MODELLING FOR EVOLUTIONARY BIOLOGISTS AND 
+ECOLOGISTS USING R #ADVR
+17th - 21st April 2017, Scotland, Dr. Luc Bussiere, Dr. Ane Timenes 
+Laugen
+http://www.prstatistics.com/course/advancing-statistical-modelling-using-r-advr06/
+
+5.	CODING, DATA MANAGEMENT AND SHINY APPLICATIONS USING RSTUDIO FOR 
+EVOLUTIONARY BIOLOGISTS AND ECOLOGISTS #CDSR
+15th - 19th May, Scotland Dr. Aline Quadros
+http://www.prstatistics.com/course/coding-data-management-and-shiny-applications-using-rstudio-for-evolutionary-biologists-and-ecologists-cdsr01/
+
+6.	GEOMETRIC MORPHOMETRICS USING R #GMMR
+5th - 9th June 2017, Scotland, Prof. Dean Adams, Prof. Michael 
+Collyer, Dr. Antigoni Kaliontzopoulou
+http://www.prstatistics.com/course/geometric-morphometrics-using-r-gmmr01/
+
+7.	MULTIVARIATE ANALYSIS OF SPATIAL ECOLOGICAL DATA #MASE
+19th - 23rd June, Scotland, Prof. Subhash Lele, Dr. Peter Solymos
+http://www.prstatistics.com/course/multivariate-analysis-of-spatial-ecological-data-using-r-mase01/
+
+8.	TIME SERIES MODELS FOR ECOLOGISTS USING R (JUNE 2017 #TSME
+26th - 30th June, Canada, Dr. Andrew Parnell
+
+9.	BIOINFORMATICS FOR GENETICISTS AND BIOLOGISTS #BIGB
+3rd - 7th July 2017, Scotland, Dr. Nic Blouin, Dr. Ian Misner
+http://www.prstatistics.com/course/bioinformatics-for-geneticists-and-biologists-bigb02/
+
+10.	SPATIAL ANALYSIS OF ECOLOGICAL DATA USING R #SPAE
+7th - 12th August 2017, Scotland, Prof. Jason Matthiopoulos, Dr. James 
+Grecian
+http://www.prstatistics.com/course/spatial-analysis-ecological-data-using-r-spae05/
+
+11.	ECOLOGICAL NICHE MODELLINGUSING R #ENMR
+16th - 20th October 2017, Scotland, Dr. Neftali Sillero
+http://www.prstatistics.com/course/ecological-niche-modelling-using-r-enmr01/
+
+12.	INTRODUCTION TO BIOINFORMATICS USING LINUX #IBUL
+16th - 20th October, Scotland, Dr. Martin Jones
+http://www.prstatistics.com/course/introduction-to-bioinformatics-using-linux-ibul02/
+
+13.	GENETIC DATA ANALYSIS AND EXPLORATION USING R #GDAR
+23rd - 27th October, Wales, Dr. Thibaut Jombart, Zhian Kavar
+http://www.prstatistics.com/course/genetic-data-analysis-exploration-using-r-gdar03/
+
+14.	STRUCTURAL EQUATION MODELLING FOR ECOLOGISTS AND EVOLUTIONARY 
+BIOLOGISTS USING R #SEMR
+23rd - 27th October, Wales, Prof Jarrett Byrnes, Dr. Jon Lefcheck
+
+15.	LANDSCAPE (POPULATION) GENETIC DATA ANALYSIS USING R #LNDG
+6th - 10th November, Wales, Prof. Rodney Dyer
+http://www.prstatistics.com/course/landscape-genetic-data-analysis-using-r-lndg02/
+
+16.	APPLIED BAYESIAN MODELLING FOR ECOLOGISTS AND EPIDEMIOLOGISTS #ABME
+20th - 25th November 2017, Scotland, Prof. Jason Matthiopoulos, Dr. Matt 
+Denwood
+http://www.prstatistics.com/course/applied-bayesian-modelling-ecologists-epidemiologists-abme03/
+
+17.	INTRODUCTION TO METHODS FOR REMOTE SENSING #IRMS
+27th Nov - 1st Dec, Wales, Dr Duccio Rocchini, Dr. Luca Delucchi
+
+18.	INTRODUCTION TO PYTHON FOR BIOLOGISTS #IPYB
+27th Nov - 1st Dec, Wales, Dr. Martin Jones
+http://www.prstatistics.com/course/introduction-to-python-for-biologists-ipyb04/
+
+19.	DATA VISUALISATION AND MANIPULATION USING PYTHON #DVMP
+11th - 15th December 2017, Wales, Dr. Martin Jones
+http://www.prstatistics.com/course/data-visualisation-and-manipulation-using-python-dvmp01/
+
+20.	ADVANCING IN STATISTICAL MODELLING USING R #ADVR
+11th - 15th December 2017, Wales, Dr. Luc Bussiere, Dr. Tom Houslay, 
+Dr. Ane Timenes Laugen,
+http://www.prstatistics.com/course/advancing-statistical-modelling-using-r-advr07/
+
+21.	INTRODUCTION TO BAYESIAN HIERARCHICAL MODELLING #IBHM
+29th Jan - 2nd Feb, Scotland, Dr. Andrew Parnell
+http://www.prstatistics.com/course/introduction-to-bayesian-hierarchical-modelling-using-r-ibhm02/
+
+22.	ANIMAL MOVEMENT ECOLOGY (February 2018) #ANME
+
+23.	AQUATIC TELEMENTRY DATA ANALYSIS USIR R (TBC) #ATDAR
+
+24.	PHYLOGENETIC DATA ANALYSIS USING R (TBC) #PHYL
+
+PR statistics
+3/1
+128 Brunswick Street
+Glasgow
+G1 1TF
++44 (0) 7966500340
+
+-- 
+Oliver Hooker PhD.
+PR statistics
+
+3/1
+128 Brunswick Street
+Glasgow
+G1 1TF
+
++44 (0) 7966500340
+
+www.prstatistics.com
+www.prstatistics.com/organiser/oliver-hooker/
+
+Oliver Hooker <oliverhooker@prstatistics.com>
+

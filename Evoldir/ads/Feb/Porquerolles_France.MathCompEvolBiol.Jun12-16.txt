@@ -1,0 +1,54 @@
+MCEB - Mathematical and Computational Evolutionary Biology, 12-16 June 2017
+Porquerolles Island, South of France.
+
+Pre-registration deadline extended to March 6th 2017
+Using the web site: http://www.lirmm.fr/mceb2017/
+
+Notification to applicants: March 17th
+
+Final list of attendees: April 17th
+
+Scope: Mathematical and computational tools and concepts form an
+essential basis for modern evolutionary studies. The goal of the MCEB
+conference (at its 9th edition) is to bring together scientists with
+diverse backgrounds to present recent advances and discuss open
+problems in the field of mathematical and computational evolutionary
+biology. The theme of this year's edition will be "Methods for
+integrative evolutionary biology: various sources of data, various
+scales of evolution", which includes the analysis of heterogeneous data
+(molecular, phenotypic, ecological...), different time scales (from
+recent times to the origin of life), different spatial scales (from
+local to worldwide range), the combination of phylogenetics and
+population genetics, multidisciplinary approaches, etc.. General
+concepts, models, methods and algorithms will also be presented and
+discussed, just as during the previous conference editions.
+
+Cost: Conference fees including accommodation for four nights, meals,
+coffee breaks, etc., will be around 450 euros, all inclusive. PhD
+students and postdocs would benefit of financial support.
+
+Keynote speakers:
+
+-         Elizabeth Allman (Department of Mathematics and Statistics,
+University of Alaska Fairbanks)
+
+-         Guy Baele (Rega Institute / KU Leuven - Evolutionary and
+Computational Virology Section)
+
+-         Stephane Dray (Laboratoire de Biometrie et Biologie
+Evolutive (LBBE), Lyon)
+
+-         Barbara Holland (Theoretical Phylogenetics Group, School of
+Mathematics and Physics, University of Tasmania)
+
+-         Anna-Sapfo Malaspinas (Institute of Ecology and Evolution,
+University of Bern)
+
+-         Yun Song (Calabi-Simons Chair in Mathematics and Biology,
+Departments of Mathematics and Biology, University of Pennsylvania)
+
+-         Marc Suchard (David Geffen School of Medicine at UCLA,
+Departments of Biomathematics, Biostatistics and Human Genetics)
+
+Olivier  GASCUEL <olivier.gascuel@pasteur.fr>
+
