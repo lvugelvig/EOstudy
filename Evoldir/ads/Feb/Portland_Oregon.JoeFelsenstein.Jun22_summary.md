@@ -5,6 +5,23 @@
 
 ## Invited speakers
 
+Lee Felsenstein
+Michael Turelli
+Bill Hill
+Ray Huey
+Wayne Maddison
+Jeff Thorne
+Peter Beerli
+Mary Kuhner/Jon Yamato
+Mark Kirkpatrick
+Fred Allendorf
+Steve Arnold
+Scott Edwards
+Shozo Yokoyama
+Ted Garland
+Ruth Shaw
+Monty Slatkin
+
 
 ## Instructors
 
@@ -14,5 +31,8 @@
 
 ## Organizing committee
 
+Michael Turelli  
+Monty Slatkin  
+Ray Huey  
 
 ## Scientific committee

@@ -2,6 +2,7 @@
 
 ## Keynote speakers
 
+Joseph Travis  
 
 ## Invited speakers
 

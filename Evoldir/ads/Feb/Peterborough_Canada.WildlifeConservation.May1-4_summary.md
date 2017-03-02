@@ -2,6 +2,8 @@
 
 ## Keynote speakers
 
+Charles Krebs  
+Marco Festa-Bianchet  
 
 ## Invited speakers
 
@@ -14,5 +16,6 @@
 
 ## Organizing committee
 
+Jeff Bowman  
 
 ## Scientific committee

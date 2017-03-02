@@ -5,6 +5,9 @@
 
 ## Invited speakers
 
+Nicola Nadeau   
+Chris Bass    
+Luke Alphey
 
 ## Instructors
 
@@ -14,5 +17,7 @@
 
 ## Organizing committee
 
+Ramiro Morales-Hojas  
+Martin Williamson  
 
 ## Scientific committee

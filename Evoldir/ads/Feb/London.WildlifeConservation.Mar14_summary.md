@@ -5,6 +5,9 @@
 
 ## Invited speakers
 
+Richard Frankham  
+Mike Bruford  
+Jane Reid
 
 ## Instructors
 
@@ -13,6 +16,6 @@
 
 
 ## Organizing committee
-
+Linda DaVolls  
 
 ## Scientific committee
