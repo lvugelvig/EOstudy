@@ -105,4 +105,6 @@ printf "From: Sender Name <sender@domain.com>\nTo: recipient@domain.com\nSubject
 # SETTING UP POSTFIX -- UBUNTU
 Source: <https://easyengine.io/tutorials/linux/ubuntu-postfix-gmail-smtp/>
 
+Need to change my destination in `main.cf` as explained in <http://stackoverflow.com/questions/18377813/postfix-status-bounced-unknown-user-myuser>.
+
 
