@@ -1,4 +1,4 @@
-# SETTING UP POSTFIX
+# SETTING UP POSTFIX -- MAC
 
 SOURCE: <http://www.developerfiles.com/how-to-send-emails-from-localhost-mac-os-x-el-capitan/>
 
@@ -101,4 +101,8 @@ sudo postsuper -d ALL
 ```
 printf "From: Sender Name <sender@domain.com>\nTo: recipient@domain.com\nSubject: Subject\n\nBody\n" | /usr/sbin/sendmail -F "Sender Name" -f "sender@domain.com" "flo.debarre@gmail.com"
 ```
+
+# SETTING UP POSTFIX -- UBUNTU
+Source: <https://easyengine.io/tutorials/linux/ubuntu-postfix-gmail-smtp/>
+
 
