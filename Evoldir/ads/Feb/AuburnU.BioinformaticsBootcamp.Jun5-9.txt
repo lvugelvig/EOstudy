@@ -1,0 +1,42 @@
+>From June 5-9, 2017 the College of Sciences and Mathematics at Auburn
+University will host the 4th Annual Bioinformatics Bootcamp   a
+training workshop in genomics and computational biology for researchers
+interested in working with modern genomic data resources.  The Bootcamp
+is a week-long immersion experience in the command line, scripting,
+data handling and software skills required to process and analyze data
+from high-throughput sequencing experiments. Previous experience in
+bioinformatics is not required; interactive lectures and group data
+analysis activities will introduce participants to best practices in
+sequencing experiment design and analysis including widely used methods
+in genome and transcriptome assembly, annotation, differential expression
+and variant analysis.
+
+Instructors include: Les Goertzen, Scott Santos, Ken Halanych, Laurie
+Stevison, Rita Graze, & Jamie Oaks
+
+The 2017 Bootcamp will feature a keynote lecture by Dr. Nirav Merchant,
+Director of The Biocomputing Facility at The University of Arizona.
+
+The Bootcamp registration fee is $500. To apply, send a brief statement of
+interest and two-page CV (as a single pdf) to bioinformatics@auburn.edu
+by April 15, 2017. Additional information can be found at
+auburn.edu/bioinformatics.
+
+Kenneth M. Halanych
+Schneller Chair, Alumni Professor
+Curator of Marine Invertebrates
+Biological Sciences Department
+Life Sciences Bld. 101
+Auburn University
+Auburn, AL 36849
+
+http://metazoan.auburn.edu/halanych/lab/index.html
+
+Phone: (334)-844-3222
+e-mail: ken@auburn.edu
+
+Editor-In-Chief The Biological Bulletin
+http://www.journals.uchicago.edu/toc/bbl/current
+
+Kenneth Halanych <ken@auburn.edu>
+

@@ -1,0 +1,243 @@
+Dear all,
+
+There are the last 2 places left for the "16S rRNA
+gene Metabarcoding" workshop, 3-7 April 2017 in Berlin
+(Germany).https://www.physalia-courses.org/courses/course8/
+
+Registration deadline: March 3rd, 2017
+
+Instructor: Dr. Alexandre de Menezes (National University of Ireland
+Galway) https://www.physalia-courses.org/instructors/t5/
+
+Course overview
+
+The 16s rRNA gene has become the standard marker for prokaryote
+phylogenetic analysis, and combined with high-throughput sequencing
+technologies it is widely used to infer the structure and composition of
+microbial communities. Due to the continuous improvements in sequencing
+technologies and bioinformatics tools, there is a wide choice of methods
+for sequencing and analysing 16S rRNA gene assemblies. This workshop
+is designed to give students the necessary background and practical
+experience of the strategies for the analysis of the diversity and
+structure of prokaryote communities, covering i) experimental design
+and primer choices; ii) wet-lab and library preparation options; iii)
+sequence quality control and analysis and iv) statistical analysis of
+microbial community data. The many sequencing and analysis options will
+be discussed, whereas a more in-depth tutorial using real sequence data
+will provide an opportunity for the student to practice 16S rRNA sequence
+analysis from raw sequence files to ecological interpretation. Course
+material, such as presentation slides and necessary model data, will be
+provided to the students.
+
+Targeted audience and assumed background
+
+This workshop is intended for students and researchers interested in
+microbial ecology but who are not yet very familiar with the techniques
+involved. Choosing the appropriate primers, library preparation kits,
+sequencing methodologies and bioinformatics pipelines can be quite
+daunting to the uninitiated. This workshop will allow researchers
+interested more confidence in their methodology and analyses choices. The
+target audience include students of animal or plant microbiomes as well
+as those studying environmental microbial communities. It is assumed that
+the workshop attendees are interested in performing 16S rRNA metabarcoding
+using the Illumina MiSeq platform, although other sequencing technologies
+will be discussed during the workshop.
+
+Knowledge of Linux and R or familiarity with working in the command line
+will be helpful, but for those new to the area detailed instructions
+will allow students to follow the workshop. Students will need to have
+a computer running either on Linux or a Linux virtual machine running
+on MacOX/Windows computers. Contact the instructor at ademez@gmail.com
+mailto:ademez@gmail.com if in doubt about computational requirements.
+
+Workshop structure
+
+The workshop will consist of both lectures and practical
+classes. Background information will be provided to help workshop
+attendees choose the appropriate experimental design, primers, sequencing
+library preparation kits and to contextualise the bioinformatics and
+statistical analysis methods. Practical tutorials will be conducted on
+a step-by-step basis to guide the student from when receiving data from
+a sequence provider to obtaining plots and tables describing microbial
+community diversity, structure and relationships to environmental
+variables or host data.
+
+Venue
+
+Botanischer Garten und Botanisches Museum (BGBM) Berlin-Dahlem, Freie
+Universität Berlin, Königin-Luise-Straße 6-8, 14195 Berlin.
+
+Session contents
+
+Monday 3rd-Classes from 10:00 to 18:00
+
+Session 1: the 16S rRNA gene
+
+The use of the 16S rRNA gene as a marker for prokaryote phylogenetics
+will be discussed to introduce the students to the concept of conserved
+and hypervariable regions. The student will learn about the history
+of this molecular marker and why it is the choice for prokaryote
+diversity studies. The primer combinations used to target the different
+hypervariable regions will be discussed, as well as what is known
+regarding their advantages and disadvantages. The pros and cons of
+PCR-based 16S rRNA gene sequencing versus PCR-free shot-gun metagenomics
+will also be discussed.
+
+This session will also include an overview of current sequencing
+technologies, and the Illumina MiSeq platform will be contrasted with
+other sequencing technologies (Ion Torrent, MinIon, PacBio and Moleculo).
+
+Session 2: sequencing experimental design and initial hands-on exercises
+
+Focusing on the MiSeq platform, experimental design considerations
+will be discussed and topics discussed will include sequence depth,
+replication, contamination and the use of appropriate controls and
+mock communities. Other topics that will be taught include: metadata
+collection, DNA extraction and RNA-cDNA sequencing. Demo sequence data
+will be used to check that the appropriate tools are installed correctly
+for subsequent practical work, and students will perform exercises in the
+examination of sequence files to obtain basic characteristics of sequence
+datasets such as the number of sequences, sequence length ranges and
+sequence quality. Students will learn how to look into Illumina fastq
+files using FASTQC to check for sequence quality, and in Linux students
+will look inside the fastq files to understand the information they
+contain and to differentiate these from fasta files.
+
+Tuesday 4th-Classes from 10:00 to 18:00
+
+Session 3: library preparation for MiSeq sequencing
+
+The choice of sequencing libraries can have a substantial effect on
+the quality and quantity of data obtained from the MiSeq, and will
+also change the cost and ease of wet-lab procedures. An overview of
+sequence library preparation methods will be taught, contrasting two-step
+(Illumina Nextera) to one step library kits. Students will learn how
+samples are barcoded, how the PCR fragments are prepared for sequencing,
+and what are the implications for sequence fragment sizes. Students will
+also learn how sequencing libraries are pooled and loaded on the MiSeq,
+what are the consequences of loading too much or too little library
+DNA onto the MiSeq flow cell to introduce the concepts of over- and
+under-clustering. The choice of sequencing kits (i.e., V2 or V3 250-600
+cycles) will also be discussed.
+
+Session 4: practical session on sequence analysis pipelines
+
+The main sequence analysis tools will be introduced: Mothur, QIIME and
+DADA2. Background information on the rationale behind the different
+sequence analysis steps, such as trimming, merging and removal of low
+quality sequences, chimera checking and sequence annotation methods will
+be detailed. A particular focus will be given to the different strategies
+for generating OTUs. Students will follow exercises in the initial
+sequence quality control and pre-treatment options using FASTX-toolkit,
+FLASH and BBMerge.
+
+Wednesday 5th-Classes from 10:00 to 18:00
+
+Session 5: mothur and QIIME tutorial
+
+In this session the mothur MiSeq standard protocol will be followed
+using model data. This tutorial will take the students through
+steps involving further sequence quality control, sequence noise
+reduction, sequence alignment, chimera checking and removal, removal
+of contaminants, and clustering to generate OTU tables, phylogenies
+and OTU classifications. The choices of curated 16S rRNA gene databases
+(Silva, Greengenes and RDP databases) will be explained, and finally the
+.biom files will be generated and its uses discussed. In this session
+we will also run the model data through the QIIME pipeline. QIIME is a
+very popular 16S rRNA gene sequence analysis tool and in this session
+it will be used to generate the OTU table, phylogenetic trees, sequence
+classifications and the biom table as demonstrated previously with mothur.
+
+Session 6: DADA2
+
+DADA2 is a relatively new R package that combines all steps in amplicon
+sequence analysis from sequence quality filtering, merging paired-end
+sequences and sample inference. DADA2 is highly accurate, designed
+to resolve fine-scale sequence variation, and unlike mothur or QIIME,
+DADA2 does not cluster sequences into OTUs, potentially allowing for the
+detection of strain-level diversity (i.e. ribosomal sequence variants,
+or RSVs). This session will run through the DADA2 paired-end pipeline
+and its outputs will be compared to that of mothur and QIIME.
+
+Thursday 6th-Classes from 10:00 to 18:00
+
+Session 7:  Using statistical tools provided in mothur and QIIME
+
+In this session the importance, relevance and drawbacks of data
+normalisation, subsampling and rarefaction prior to statistical
+analyses will be considered. Subsequently this session will involve
+using statistical tools available in mothur and QIIME that allow
+the determination of diversity coverage, alpha and beta diversity
+estimations and community similarity estimation across samples. Amova,
+homova and metastats will be demonstrated in mothur and in QIIME the
+UniFrac measure of dissimilarity will be used to analyse patterns of
+community data across treatments.
+
+Session 8: using DADA2-Phyloseq Bioconductor microbiome workflow
+
+Phyloseq is an R package to import, store and analyse microbiome data.
+Phyloseq allows the integration of OTU/RSV tables, taxonomy tables,
+phylogenetic trees and sample metadata into a single experiment level
+object.  Phyloseq is well integrated with a variety of ecological
+statistical tools available in R, such as vegan, ape and ggplott2 for
+the analysis and visualisation of data. In this session we will start
+exploring a Bioconductor workflow using Phyloseq data object which
+allows the generation of publication-ready plots. We will learn how to
+import and store data in Phyloseq, how to subset data to study specific
+taxonomic groups or treatments. We will also explore how to filter low
+abundance taxa, how to agglomerate OTUs/RSVs abundance by taxonomic
+rank or by phylogenetic distance, and how to transform data and work
+with rank-transformed sequence abundance data.
+
+Friday 7th-Classes from 10:00 to 18:00
+
+Session 9: multivariate statistics and correlation network analysis in
+R and Linux
+
+In this session we will learn multivariate statistical tools available
+from Phyloseq/Bioconductor to analyse the OTU/RSV tables generated earlier
+in the workshop. We will learn how to conduct analysis of differential
+abundance across treatments using Deseq2, and Phyloseq and ggplot2
+will be used to generate MDS, PCoA and other ordination plots. The
+choice of different distance and similarity indices (bray-curtis,
+unifrac, jaccard, gower) will be discussed. Subsequently PICRUST will
+be used to predict possible functional roles (such as pathogenicity,
+environmental nutrient cycling, decomposition etc) of the sequenced
+microbial community, and the drawbacks of predicting function from
+taxonomy will also be discussed. Lastly, SCINC and MIC will be used
+to perform OTU correlation network analysis, allowing inference of
+interactions between microbial groups present in the dataset. Correlation
+network plots will be visualised in Cytoscape.
+
+Optional session 10: wrap up and questions
+
+In this session, the students will be able to continue further statistical
+analyses started in session 9, and any questions from previous sessions
+will be addressed. Students may also start analysing their own data
+using the tools taught in the workshop with advice from the instructor.
+
+Further information:
+
+There two packages available:
+
+1) "only-course", which costs 430 euros (VAT included) and includes
+refreshments and course material;
+
+2) "all-inclusive" which costs 695 euros (VAT included) and includes
+refreshments, course material, accommodation and meals (breakfast,
+lunch, dinner).
+
+--
+
+Carlo Pecoraro, Ph.D
+
+Physalia-courses Coordinator
+
+info@physalia-courses.org
+
+http://www.physalia-courses.org/
+
+Twitter: @physacourses
+
+info@physalia-courses.org
+

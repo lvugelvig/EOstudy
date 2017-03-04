@@ -1,0 +1,60 @@
+* Venue: Fort Lauderdale REC, Davie, Florida
+
+* Contact: Mathieu Basille (basille@ufl.edu)
+
+* Instructors: Simona Picardi, David Bucklin & Mathieu Basille (UF WEC)
+
+* Guest lecturers: Anne Berger (Leibniz Institute for Zoo and Wildlife
+Research, Germany), Hamish Campbell (Charles Darwin University, Australia),
+Francesca Cagnacci (Fondazione Edmund Mach, Italy) & Ferdinando Urbano
+(Independent researcher, Italy)
+
+* Attendance: Reserved for Natural Resource managers (for a fee) and UF
+students (with tuition waiver). Limited seats are available on a first come
+- first served basis. Natural Resource managers, please register on
+Eventbrite.com [1].
+
+* More info on: http://ase-research.org/training/PostGIS_2017/
+
+Recent technological progress has allowed ecologists to obtain a huge
+amount and diversity of animal movement data sets of increasing spatial and
+temporal resolution and size, together with complex associated information
+related to the environmental context, such as habitat types based on remote
+sensing, population density, and weather. Based on several years of
+experience on multiple species, this intensive five-day workshop is
+designed to teach participants how to handle, manage, store and retrieve
+movement data in a spatial database, and how to eventually feed them to
+analysis tools. In the first part of the course, participants will be
+exposed to basics of spatial databases for wildlife tracking data, using
+PostgreSQL/PostGIS, the reference free and open-source database system. The
+second part will focus on the integration of environmental data in the
+process. The third part will tackle the specifics of movement data, and how
+to connect the database to the R statistical environment for analysis. Step
+by step, using reproducible, hands-on exercises that will be released
+on-line, we will provide a complete and seamless procedure from raw data to
+final analysis that will enable participants to fully manage and integrate
+complex animal movement data sets. Although the workshop is intended for a
+wide audience, basic knowledge of SQL, spatial databases and R are highly
+recommended to get the best experience.
+
+Participants will have to bring their own laptop computers, with necessary
+software installed (instructions for open-source software will be provided).
+
+Reference: Urbano, F. & Cagnacci, F. (ed.) (2014) Spatial Database for GPS
+Wildlife Tracking Data: A Practical Guide to Creating a Data Management
+System with PostgreSQL/PostGIS and R. Springer, 257 pp. DOI:
+10.1007/978-3-319-03743-1
+
+-- 
+
+Mathieu Basille
+
+basille@ufl.edu | http://ase-research.org/basille
++1 954-577-6314 | University of Florida FLREC
+
+  « Le tout est de tout dire, et je manque de mots
+  Et je manque de temps, et je manque d'audace. »
+    Paul Éluard
+
+"basille@ufl.edu" <basille@ufl.edu>
+

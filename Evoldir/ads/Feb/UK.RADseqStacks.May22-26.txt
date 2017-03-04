@@ -1,0 +1,20 @@
+Hi evoldir,
+
+We will be holding our annual RADseq/Stacks workshop at the Earlham
+Institute (formerly TGAC) in Norwich, United Kingdom in May.
+
+The course will be one week long, May 22-26, and will include a thorough
+introduction to UNIX and subsequently Stacks, including sessions on the
+RAD protocol as well as sessions analyzing several sets of RAD data
+(with/without a reference genome, including population genetics and
+phylogenetics subjects).
+
+Instructors: Julian Catchen, Josie Paris and Konrad Paszkiewicz
+
+The course is open to everyone with no prerequisites required. More
+details can be found here:
+
+http://www.earlham.ac.uk/population-variation-genetics
+
+"J.R.Paris@exeter.ac.uk" <J.R.Paris@exeter.ac.uk>
+
