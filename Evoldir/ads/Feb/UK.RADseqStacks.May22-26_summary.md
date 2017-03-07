@@ -7,7 +7,7 @@
 
 
 ## Instructors
-
+Julian Catchen, Josie Paris, Konrad Paszkiewicz, Emily Angiolini, Daniel Swan
 
 # Organisers
 
