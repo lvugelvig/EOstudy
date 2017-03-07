@@ -15,6 +15,7 @@ Prof. Claus Wedekind, University of Lausanne (CH)
 INVITED SPEAKERS
 Prof. David Berger, University of Uppsala (SE)
 Prof. Andrew P. Hendry, McGill University (CA)
+Prof. Michael Jennions, The Australian National University (AU)
 Prof. Hanna Kokko, University of Zürich (CH)
 Prof. John Pannell, University of Lausanne (CH)
 Prof. Jacek Radwan, University of Poznan (PL)
@@ -35,4 +36,3 @@ QUERIES
 caroline.betto-colliard@unil.ch
 
 Caroline Betto-Colliard <Caroline.Betto-Colliard@unil.ch>
-

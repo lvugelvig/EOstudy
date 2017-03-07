@@ -4,7 +4,7 @@
 
 
 ## Invited speakers
-
+Prof. Eörs Szathmáry
 
 ## Instructors
 
@@ -13,6 +13,9 @@
 
 
 ## Organizing committee
-
+Stéphane Doncieux
+Joshua Auerbach
+Richard Duro
+Harold P. de Vladar
 
 ## Scientific committee
