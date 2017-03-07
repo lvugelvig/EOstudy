@@ -10,7 +10,7 @@
 
 
 # Organisers
-
+Prof. Owen Petchey and Susanne Schulmeister
 
 ## Organizing committee
 
