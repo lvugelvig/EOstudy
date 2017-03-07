@@ -10,6 +10,8 @@
 
 
 # Organisers
+Helmut Lichtenberg 
+Eildert Groeneveld
 
 
 ## Organizing committee

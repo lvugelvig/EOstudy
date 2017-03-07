@@ -8,6 +8,8 @@
 
 ## Instructors
 
+Les Goertzen, Scott Santos, Ken Halanych, Laurie
+Stevison, Rita Graze, & Jamie Oaks
 
 # Organisers
 
