@@ -1,0 +1,191 @@
+Introduction to Python for biologists
+
+2-6 October 2017 in Berlin, Germany
+(https://www.physalia-courses.org/courses/course2/)
+Instructor: Dr Martin Jones (founder, Python for biologists:
+https://www.physalia-courses.org/instructors/t1/)
+
+Application deadline is: September 2nd, 2017
+
+Overview:
+
+Python is a dynamic, readable language that is a popular platform for
+all types of bioinformatics work, from simple one-off scripts to large,
+complex software projects. This workshop is aimed at complete beginners
+and assumes no prior programming experience. It gives an overview of the
+language with an emphasis on practical problem-solving, using examples
+and exercises drawn from various aspects of bioinformatics work. After
+completing the workshop, students should be in a position to (1) apply the
+skills they have learned to tackling problems in their own research and
+(2) continue their Python education in a self-directed way. All course
+materials (including copies of presentations, practical exercises,
+data files, and example scripts prepared by the instructing team) will
+be provided electronically to participants.
+
+Intended audience:
+
+This workshop is aimed at all researchers and technical workers with a
+background in biology who want to learn programming. The syllabus has been
+planned with complete beginners in mind; people with previous programming
+experience are welcome to attend as a refresher but may find the pace
+a bit slow. If in doubt, take a look at the detailed session content
+below or drop Martin Jones (martin@pythonforbiologists.com) an email.
+
+Teaching format:
+
+The workshop is delivered over ten half-day sessions (see the detailed
+curriculum below). Each session consists of roughly a one hour lecture
+followed by two hours of practical exercises, with breaks at the
+organizer's discretion. There will also be plenty of time for students
+to discuss their own problems and data.
+
+Assumed background:
+
+Students should have enough biological background to appreciate the
+examples and exercise problems (i.e. they should know about DNA and
+protein sequences, what translation is, and what introns and exons
+are). No previous programming experience or computer skills (beyond the
+ability to use a text editor) are necessary, but you'll need to have a
+laptop with Python installed.
+
+Curriculum:
+
+Monday 2nd - From 09:30 to 17:30
+
+Session 1-. Introduction
+
+In this session I introduce the students to Python and explain what we
+expect them to get out of it and how learning to program can benefit
+their research. I explain the format of the course and take care of any
+housekeeping details (like coffee breaks and catering arrangements). I
+outline the edit-run-fix cycle of software development and talk about
+how to avoid common text editing errors. In this session, we also
+check that the computing infrastructure for the rest of the course is
+in place (e.g. making sure that everybody has an appropriate version of
+Python installed). Core concepts introduced: source code, text editors,
+whitespace, syntax and syntax errors, Python versions.
+
+Session 2-Output and text manipulation
+
+In this session students learn to write very simple programs that
+produce output to the terminal, and in doing so become comfortable
+with editing and running Python code. This session also introduces many
+of the technical terms that we'll rely on in future sessions. I run
+through some examples of tools for working with text and show how they
+work in the context of biological sequence manipulation. We also cover
+different types of errors and error messages, and learn how to go about
+fixing them methodically. Core concepts introduced: terminals, standard
+output, variables and naming, strings and characters, special characters,
+output formatting, statements, functions, methods, arguments, comments.
+
+Tuesday 3rd - From 09:30 to 17:30
+
+Session 3-File IO and user interfaces
+
+I introduce this session by talking about the importance of files
+in bioinformatics pipelines and workflows, and we then explore the
+Python interfaces for reading from and writing to files. This involves
+introducing the idea of types and objects, and a bit of discussion about
+how Python interacts with the operating system. The practical session
+is spent combining the techniques from session 2 with the file IO tools
+to create basic file- processing scripts. Core concepts introduced:
+objects and classes, paths and folders, relationships between variables
+and values, text and binary files, newlines.
+
+Session 4. Flow control 1 : loops
+
+A discussion of the limitations of the techniques learned in session 3
+quickly reveals that flow control is required to write more sophisticated
+file-processing programs, and I introduce the concept of loops. We look
+at the way in which Python loops work, and how they can be used in a
+variety of contexts. We explore the use of loops and lists together to
+tackle some more difficult problems. Core concepts introduced: lists
+and arrays, blocks and indentation, variable scoping, iteration and the
+iteration interface, ranges.
+
+Wednesday 4th - From 09:30 to 17:30
+
+Session 5-Flow control 2 : conditionals
+
+I use the idea of decision-making as a way to introduce conditional tests,
+and outline the
+
+different building-blocks of conditions before showing how conditions
+can be combined in an expressive way. We look at the different ways that
+we can use conditions to control program flow, and how we can structure
+conditions to keep programs readable. Core concepts introduced: Truth
+and falsehood, Boolean logic, identity and equality, evaluation of
+statements, branching.
+
+Session6- Organizing and structuring code
+
+We discuss functions that we'd like to see in Python before considering
+how we can add to our computational toolbox by creating our own. We
+examine the nuts and bolts of writing functions before looking at
+best-practice ways of making them usable. We also look at a couple of
+advanced features of Python - named arguments and defaults. Core concepts
+introduced: argument passing, encapsulation, data flow through a program.
+
+Thursday 5th - From 09:30 to 17:30
+
+Session-7. Regular expressions
+
+I show how a range of common problems in bioinformatics can be described
+in terms of pattern matching, and give an overview of Python's regex
+tools. We look at the building blocks of regular expressions themselves,
+and learn how they are a general solution to the problem of describing
+patterns in strings, before practising writing some specific examples of
+regular expressions. Core concepts introduced: domain-specific languages,
+modules and namespaces.
+
+Session 8-Dictionaries
+
+We discuss a few examples of key-value data and see how the problem
+of storing them is a common one across bioinformatics and programming
+in general. We learn about the syntax for dictionary creation and
+manipulation before talking about the situations in which dictionaries
+are a better fit that the data structures we have learned about thus
+far. Core concepts introduced: paired data types, hashing, key uniqueness,
+argument unpacking and tuples.
+
+Friday 6th - From 09:30 to 17:30
+
+Session 9-Interaction with the filesystem
+
+We discuss the role of Python in the context of a bioinformatics workflow,
+and how it is often used as a language to "glue" various other
+components together. We then look at the Python tools for carrying out
+file and directory manipulation, and for running external programs -
+two tasks that are often necessary in order to integrate our own programs
+with existing ones. Core concepts introduced: processes and sub-processes,
+the shell and shell utilities, program return values.
+
+Session-10
+
+Optional free afternoon to cover previous modules and discuss data
+
+Further information:
+
+ The cost is 580 euros (VAT included) including course material,
+ refreshments and lunch. We also offer an all-inclusive package at 795
+ euros (VAT included), which includes course material, refreshments,
+ 3 meals (breakfast, lunch and dinner) and accommodation in shared rooms.
+
+--
+
+Carlo Pecoraro, Ph.D
+
+Physalia-courses Coordinator
+
+info@physalia-courses.org
+
+http://www.physalia-courses.org/
+
+Twitter: @physacourses
+
+mobile: +49 15771084054
+
+https://groups.google.com/forum/#!forum/physalia-courses
+
+Carlo Pecoraro <info@physalia-courses.org>
+

@@ -1,0 +1,67 @@
+ELIXIR-IIB, in collaboration with the University of Padova and RGS-Italy,
+is pleased to inform you that the applications for the upcoming training
+course on "Computational approaches to the study of protein interactions
+and rational drug design" are now open.
+
+*IMPORTANT DATES for this Course:*
+
+*- Deadline for applications: 31st March 2017 *
+*- Course date: 10-13 April 2017*
+
+*Venue:* Campus di Biologia e Biomedicina "Fiore di Botta", University of
+Padova, Via del Pescarotto, 8, Padova, IT
+
+*Speakers*:
+Prof. Alexandre Bonvin - Faculty of Science, Utrecht University, the
+Netherlands
+Dr. Norman Davey - University College Dublin, Dublin, Ireland)
+Dr. Stefano Forli - Dept. Molecular Biology, The Scripps Research
+Institute, La Jolla, USA
+Prof. Stefano Moro - Dept. of Pharmaceutical and Pharmacological Sciences,
+University of Padova, Padova, Italy
+
+A maximum of 30 candidates will be accepted in the course. Selection will
+start on March 10th, 2017 and those with an adequate profile will be
+accepted immediately, especially if they come from other cities and/or
+countries (to allow them to find reasonably cheap flight tickets).
+
+*Course description:*
+This workshop is aimed at students in master degree courses, PhD students
+and post-doctoral researchers who are working or planning to work in the
+field of protein interactions from a molecular and structural point of
+view. In this workshop, participants will familiarize with docking
+approaches to the study of protein-protein interactions (PPIs) and
+protein-small molecule interactions. Irreversible binders design using
+molecular docking and computational methods to rational drug design will be
+also described, as well as the functional role of the intrinsically
+disordered proteins.
+
+Should you have any question, do not hesitate to contact the ELIXIR-IIB
+training coordinator, Dr Allegra Via, at allegra.via@cnr.it or elixi
+r.ita.training@gmail.com.
+
+Full details at can be found here
+<https://elixir-iib-training.github.io/website/2017/04/10/protein-interactions-padova.html>.
+
+Best regards,
+
+The ELIXIR-IIB Training Team
+
+Vincenza Colonna, PhD
+http://www.igb.cnr.it/popgenlab
+
+Consiglio Nazionale delle Ricerche
+Istituto di Genetica e Biofisica "Adriano Buzzati-Traverso"
+piano 1, stanza 20 -via Pietro Castellino 111 - 80131 Napoli - IT
+
+tel +39 081 6132 254 - fax +39 081 6132 706 - skype enza.colonna
+email vincenza.colonna@igb.cnr.it
+google scholar <http://goo.gl/SzimG0>
+
+would you like to know about the most amazing project ever?
+http://www.igb.cnr.it/obilab
+
+interested in Life Science and/or Mathematics? visit http://www.bmtl.it/
+
+vincenza colonna <vincenza.colonna@igb.cnr.it>
+

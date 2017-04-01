@@ -1,0 +1,38 @@
+GeneticAnalysis of Mendelian and Complex Disorders 19-25 July 2017
+
+Finalapplications and bursary requests are now invited for this popular
+Wellcome Trust Advanced Course held on the Wellcome Genome Campus,
+in Hinxton near Cambridge UK. Deadline for applications: 24 March 2017.
+
+Formerlyknown as Human Genome Analysis: Genetic Analysis of Multifactorial
+Diseases, the 2017 Genetic Analysis of Mendelian and Complex Disorders
+course is aimed at scientists actively involved in genetic analysis of
+both rare (Mendelian) and complex human traits. The course provides a
+broad and comprehensive overview of the statistical methods currently used
+to map disease susceptibility genes in human populations. The programme
+includes lecture and practical computer-based sessions and will discuss
+fundamental issues needed to increase success in gene mapping studies,
+including: Optimal study design, Power to detect linkage and association,
+Determining the most appropriate statistical methods and software,
+Quality control strategies, Interpretation of statistical results and
+trouble shooting, Basic principles of statistical inference, Hypothesis
+testing, and Population and quantitative genetics
+
+COURSEINSTRUCTORS: Daniel E. Weeks, University of Pittsburgh, USA. Heather
+Cordell, Newcastle University, UK, Janet Sinsheimer, University of
+California, LA, USA. Eric Sobel, University of California, LA, USA,
+Joe Terwilliger, Columbia University, USA, Simon Heath, Centre Nacional
+d'Anàlisi Genòmica (CNAG), Barcelona, Spain
+
+2017KEYNOTE SPEAKERS
+
+StephenBurgess, University of Cambridge, UK
+
+NancyCox, Vanderbilt University, USA
+
+DaniellePosthuma, VU University and VU Medical Centre, The Netherlands
+
+ShamilSunyaev, Harvard University, USA
+
+JanetS@mednet.ucla.edu
+

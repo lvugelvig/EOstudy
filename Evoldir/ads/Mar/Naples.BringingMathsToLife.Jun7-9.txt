@@ -1,0 +1,98 @@
+       3rd Bringing Maths to Life
+     7-9 June 2017, Naples, Italy
+
+                Deadline Extension: BMTL2017 Workshop
+
+Dear Colleague,
+
+We would like to invite you to the 3rd edition of the Bringing Maths to
+Life Workshop, that will be held in Naples on 7-9 June
+2017 (http://www.bmtl.it).
+NEW: ABSTRACTS SUBMISSION DEADLINE EXTENSION 15th APRIL 2017
+
+The workshop provides an occasion for biologists and mathematicians to
+join forces in addressing key areas in biology that face demanding
+mathematical challenges.Discussing existing cases to identify gaps or
+to share existing solutions should help these disciplines in
+successfully linking up.
+
+BMTL 2017 workshop, as a melange of different fields, will consist of
+selected contributions for open discussion to present and confront the
+most updated results at the interface of mathematics and biology in
+three main sessions:
+
+1) Data: acquisition, pre-processing and storage of different -omics
+datasets. The goal of this session is to discuss effective ways of
+acquiring, processing, and storing data as a starting point for any
+kind of analysis. Two large-scale projects will be presented within
+this session. The first project, SardiNIA, recruited over 1.5 million
+Sardinians across the island to gather enough cases and controls to
+investigate genetic factors for a wide range of conditions and diseases
+(see: https://sardinia.nia.nih.gov/). The second, MetaSUB (Metagenomics
+& Metadesign of Subways & Urban Biomes), includes scientists tracking
+the microbes in city subways and describe their diffusion on an
+interactive map (see: http://metasub.org/).
+
+2) Information: data analysis, novel -omics technologies, the
+application of deep learning to different -omics datasets. The
+integration of experimental data prior to their analysis requires full
+understanding of the algorithms that need to be used in order to ensure
+a correct application in answering biological questions. Case studies
+of this session are two examples of metagenomics analyses. The first is
+the analysis of data collected during the Tara Oceans expedition
+including samples from 210 stations across the world oceans (see:
+http://taraexpeditions-it.blogspot.it/)). The project is deciphering
+how the most complex organisms evolved from primordial bacteria and in
+future it will tell us about the fate of the myriad organisms present
+today. The second concern the analysis of human gut microbiome.
+
+3) Knowledge: integration of different -omics data, system biology of
+-omics data. Methods for the integrative analysis of multi-omics data
+are required to draw a more complete and accurate picture of the
+dynamics of molecular systems. Unveiling the interactions between
+diverse types of data allows to fully exploit their information. The
+keynote lectures of this session will show the integration of genomic,
+biochemical, and metabolic data under comprehensive mathematical
+models.
+This year the workshop will be held in the magnificent Capitolo Hall of
+St. Domenico Maggiore Convent, one of the most important spaces created
+during the renovation started by the prior Ruffo (XVII century).
+
+Confirmed speakers include:
+
+Dr. Valeria D'Argenio, University of Naples Federico II, Italy
+Prof. Antti Honkela, University of Helsinki, Finland
+Dr. Daniele Iudicone, Zoological Station of Naples A. Dohrn, Italy
+Dr. Carlo Sidore, Institute of Genetic and Biomedical Research ?C CNR,
+Italy
+Prof. Klas I. Udekwu, The Wenner-Gren Institute Stockholm University,
+Sweden
+Prof. Hans Westerhoff, University of Amsterdam, Netherlands
+For more information visit the website http://www.bmtl.it
+Important dates:
+Abstract submission & early registration: April 15th, 2017
+
+Scientists are invited to send their contributions. Abstracts should be
+in English and contain original research results. All abstracts will be
+peer reviewed by the international scientific board that will decide
+whether presenting them as a poster or an oral contribution.
+
+Selected papers will be considered for peer-reviewing and publication
+on a special issue of BMC Bioinformatics.
+
+We hope to meeting you in Naples!
+Kind regards,
+The BMTL Organizing Committee
+Vincenza Colonna, IGB - CNR
+Mario Guarracino, ICAR - CNR
+Alessandra Rogato, IBBR - CNR
+Valeria Zazzu, formerly IGB - CNR
+
+Learn More 
+
+ www.bmtl.it
+ info@bmtl.it
++39 0815515192
+
+Bringing Maths To Life <newsletter@bmtl.it>
+

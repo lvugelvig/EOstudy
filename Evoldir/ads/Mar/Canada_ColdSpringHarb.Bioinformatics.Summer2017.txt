@@ -1,0 +1,60 @@
+Canadian Bioinformatics Workshops 2017 Series
+
+New for 2017:
+
+  *   Workshops will be held in Vancouver, Montreal, Quebec City, Cold Spring Harbor, and Toronto
+  *   Travel and registration awards to eligible trainees
+  *   New workshops in epidemiology, genomic medicine, and the microbiome
+
+The CBW is pleased to be offering the following advanced training opportunities in 2017:
+
+  *   High-Throughput Biology - From Sequence to Networks: Cold Spring Harbor, NY, March 20 - 26, 2017
+  *   Infectious Disease Genomic Epidemiolgy: Vancouver, May 1 - 3, 2017 (NEW)
+  *   Bioinformatics of Genomic Medicine: Toronto, May 10 - 11, 2017 (NEW)
+  *   Informatics on High-throughpuut Sequencing Data: Toronto, May 25 - 26, 2017
+  *   Bioinformatics for Cancer Genomics: Toronto, May 29 - June 2, 2017
+  *   Informatics and Statistics for Metabolomics: Toronto, June 6 - 7, 2017
+  *   Introduction to R: Toronto, June 12, 2017
+  *   Exploratory Analysis of Biological Data using R: Toronto, June 13 - 14, 2017
+  *   Epigenomic Data Analysis: Montreal, June 15 - 16, 2017
+  *   Microbiome Summer School: Quebec City, June 19 - 22, 2017 (NEW)
+  *   Pathway and Network Analysis of -omics Data: Toronto, June 26 - 28, 2017
+  *   Cloud Computing in Bioinformatics with Big Data: Toronto, July 5 - 6, 2017
+  *   Informatics for RNA-seq Analysis:  Toronto, July 10 - 12, 2017 (1 day longer)
+
+For more information on our 2017 workshop series, visit
+https://bioinformatics.ca/workshops-2017.  A link to our new full program
+poster can be found here: https://goo.gl/a3zi4d
+
+Early registration closes April 3, 2017.  All award applications are due April 3, 2017.
+--
+
+Ann Meyer, PhD
+Manager, Knowledge and Research Exchange
+
+Ontario Institute for Cancer Research
+
+MaRS Centre
+
+661 University Avenue
+
+Suite 510
+
+Toronto, Ontario
+
+Canada M5G 0A3
+
+Email: Ann.Meyer@oicr.on.ca
+
+Phone: 647-260-7925
+
+Cell: 647-295-2612
+
+Toll-free: 1-866-678-6427
+
+Twitter: @OICR_news
+
+www.oicr.on.ca
+
+Ann.Meyer@oicr.on.ca
+

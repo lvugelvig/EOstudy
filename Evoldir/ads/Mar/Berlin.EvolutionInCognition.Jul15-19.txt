@@ -1,0 +1,87 @@
+Second call for contribution for the Evolution in Cognition Workshop,
+deadline in one week.
+
+2nd Evolution in Cognition Workshop
+to be held as part of the
+
+2017 Genetic and Evolutionary Computation Conference (GECCO-2017)
+ July 15-19, Berlin, Germany
+
+Organized by ACM SIGEVO
+  http://gecco-2017.sigevo.org
+Webpage: https://sites.google.com/champlain.edu/eic2017/
+ Submission Deadline: March 31st, 2017
+
+=== Topic =Evolution by natural selection has shaped life over billions
+of years leading to the emergence of complex organism capable of
+exceptional cognitive abilities. These natural evolutionary processes
+have inspired the development of Evolutionary Algorithms (EAs), which
+are optimization algorithms widely popular due to their efficiency and
+robustness. Beyond their ability to optimize, EAs have also proven to
+be creative and efficient at generating innovative solutions to novel
+problems. The combination of these two abilities makes them a tool of
+choice for the resolution of complex problems.
+
+There is evidence that the principle of selection on variation is at play
+in the human brain, as proposed in Changeux's and Edelman's models of
+Neuronal Darwinism, and more recently properly reformulated in the theory
+of the Neuronal Replicators. Consequently, the idea of an interaction
+between evolutionary processes and cognition over physiological time
+scales has been gaining some traction. Since the development of human
+cognition requires years of maturation, it can be expected that artificial
+cognitive agents will also require months if not years of learning and
+adaptation. It is in this context that the optimizing and creative
+abilities of EAs could become an ideal framework that complement,
+aid in understanding, and facilitate the implementation of cognitive
+processes. Additionally, a better understanding of how evolution can be
+implemented as part of an artificial cognitive architecture can lead to
+new insights into cognition in humans and other animals.
+
+The goals of the workshop are to depict the current state of the art
+of evolution in cognition and to sketch the main challenges and future
+directions. In particular, we aim at bringing together the different
+theoretical and empirical approaches that can potentially contribute to
+the understanding of how evolution and cognition can act together in an
+algorithmic way in order to solve complex problems. In this workshop
+we welcome approaches that contribute to an improved understanding of
+evolution in cognition using robotic agents, in silico computation as
+well as mathematical models.
+
+Keywords: Evolutionary Computation, Evolution, Cognition, Darwinian
+Neurodynamics, Neuronal Darwisnism, robotics.
+
+=== Invited speakers =Prof. Eors Szathmary
+Additional invited speakers will be announced in the near future.
+
+=== Organizers =Prof. Stephane Doncieux, University Pierre and Marie Curie, France
+Dr. Joshua Auerbach, Champlain College
+Prof. Richard Duro, Universidade da Coruna, Spain
+Dr. Harold P. de Vladar, iASK - Institute of Advanced Studies KÅ'szeg, Hungary
+
+=== Submissions and deadlines ¬cepted submissions:
+Original: experimental work, position papers as well as overviews of
+author's recent work are all welcome. These submissions will be included
+in the proceedings and be presented during the workshop Abstracts
+submitted as poster to GECCO 2017: the authors of selected abstracts
+will be given a talk. The abstract won't be included in the proceedings.
+Hot-of-the-press: authors can submit a recently published work. Selected
+articles will be given a talk.
+
+Submission: extended abstracts (2-4 pages) and long papers (8 pages)
+are accepted. They should follow ACM template and should be sent in
+electronic form (pdf) to eic_ws@isir.upmc.fr:
+
+March, 31st, 2017: Papers Submission Deadline
+April, 14th, 2017: Notification of Acceptance
+April, 21th, 2016: Camera-Ready Paper Submission
+July 15 or 16th, 2017: Workshop
+
+GECCO is sponsored by the Association for Computing Machinery Special
+Interest Group on Genetic and Evolutionary Computation (SIGEVO). SIG
+Services: 2 Penn Plaza, Suite 701, New York, NY, 10121, USA,
+1-800-342-6626 (USA and Canada) or +212-626-0500 (Global).
+
+Stephane Doncieux, Josh Auerbach, Richard Duro and Harold P. de Vladar 
+
+harold.vladar@parmenides-foundation.org
+

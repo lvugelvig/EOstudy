@@ -1,0 +1,57 @@
+Dear Colleagues,
+
+We are pleased to announce the 3rd Probabilistic Modeling in Genomics
+Conference (ProbGen17), that will be held at Aarhus University, Denmark,
+from 18-20 Sept 2017.
+
+The conference will cover probabilistic models, algorithms, and
+statistical methods across a broad range of applications in genetics and
+genomics. We invite abstract submissions on a range of topics including
+Population Genetics, Functional Genomics, Systems and Structural Biology,
+Methods for Genome-wide Association Studies, Causal inference in genetic
+studies, Assembly and Variant Identification, Phylogenetics, Natural
+Selection and Quantitative Genetics.
+
+Alongside invited speakers, oral presentations will be selected from
+submitted abstracts. We particularly encourage abstract submissions
+from junior investigators, including postdoctoral fellows and graduate
+students.
+
+Probgen was held previously in Cold Spring Harbor (2015), and Oxford
+(2016). It evolved from the success of previous similarly-themed workshops
+held at the HHMI Janelia Farm Research Campus (2013) and Merton College,
+Oxford (2014).
+
+The conference talks and poster sessions will be held at the new Moesgaard
+Museum for archaeology and ethnography (MOMU) situated just 5 km out
+of Aarhus. Aarhus is most easily accessible from either Aarhus (AAR)
+or Billund (BLL) Airport that serves most major European cities.
+
+The meeting will begin with an informal mixer on the evening of Sunday
+17 September 2017 at Hotel Comwell [http://www.comwellaarhus.dk/] in
+central Aarhus. Talks will take place from Monday 18 September until
+lunchtime on Wednesday 20 September.
+
+Registration will open soon. We have provisional capacity for ~200
+participants; due to space limitations, registration will proceed on a
+first-come-first-served basis.
+
+Important deadline: The early bird registration and abstract submission
+deadline is June 10th, 2017.
+
+The conference venue webpage: www.moesgaardmuseum.dk/en/ The conference
+webpage can be found at http://conferences.au.dk/probgen17/
+
+Please send enquiries to probgen17@birc.au.dk
+
+We would appreciate if you could circulate this announcement to your
+local colleagues and collaborators.
+
+The organizers:
+Ida Moltke, University of Copenhagen
+Thomas Mailund, Aarhus University
+Thomas Bataillon, Aarhus University
+Mikkel H. Schierup, Aarhus University
+
+Thomas Bataillon <tbata@birc.au.dk>
+
