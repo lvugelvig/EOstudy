@@ -1,7 +1,7 @@
 # Featured speakers
 
 ## Keynote speakers
-
+ Dr. Corrie Moreau
 
 ## Invited speakers
 
@@ -10,7 +10,8 @@
 
 
 # Organisers
-
+Joel Sachs joels@ucr.edu
+A. Carolin Frank cfrank3@ucmerced.edu
 
 ## Organizing committee
 
