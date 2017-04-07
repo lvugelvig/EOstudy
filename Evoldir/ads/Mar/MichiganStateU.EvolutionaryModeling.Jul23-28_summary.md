@@ -2,8 +2,13 @@
 
 ## Keynote speakers
 
+Lou Gross
 
 ## Invited speakers
+
+Julia Gouvea
+Ahna Skop
+Carl Bergstrom
 
 
 ## Instructors
@@ -13,6 +18,6 @@
 
 
 ## Organizing committee
-
+Kristin Jenkins
 
 ## Scientific committee
