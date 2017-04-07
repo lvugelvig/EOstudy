@@ -14,5 +14,7 @@
 
 ## Organizing committee
 
+Kathy Hanley  
+Paul Turner
 
 ## Scientific committee
