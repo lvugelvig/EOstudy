@@ -1,16 +1,25 @@
 # Clean the memory
 rm(list=ls())
+par(mfrow=c(1,1))
 
 ## NOTE: THIS IS EXTREMELY COARSE, NEED TO DISTINGUISH BETWEEN TYPES OF EVENTS
 ## AND I AM JUST PLAYING WITH THE DATA.
 
-## Load the data
-odata <- read.csv("AllData_20161206.csv", stringsAsFactors = FALSE)
+## Download the data
+# install.packages("RCurl")
+library(RCurl)
+URL <- "https://docs.google.com/spreadsheets/d/1i67UACuGm4gKLlunEzIHdxCBSZJP2bhZWB3lSPkEocg/export?gid=0&format=csv"
+tmp <- getURL(URL)
+odata <- read.csv(textConnection(tmp), stringsAsFactors = FALSE)
+
+#odata <- read.csv("AllData_20161206.csv", stringsAsFactors = FALSE)
 dim(odata)
+cat("We screened ", nrow(odata), " evoldir ads, ")
 
 # Select only the ones that we include in the study (removing duplicates etc.)
 adata <- odata[odata$Include == TRUE,]
 dim(adata)
+cat("and kept ", nrow(adata), "of them. \n")
 
 # Adding columns corresponding to ratios
 #!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
@@ -38,6 +47,9 @@ cat("========================================================================\n 
 
 # Those who replied
 aa <- adata[!(adata$Timestamp=="" | is.na(adata$Timestamp)), ]
+dim(aa)
+cat("We received ", nrow(aa), " responses, ", sum(aa[,"Question.5"]=="Yes"), "of which we can use (respondent ticked Yes for data sharing).")
+
 # Check consistency when merging data
 all(aa$Ad_ID == aa$Event.name)
 
@@ -130,3 +142,4 @@ boxplot(rInv ~ Question.3, data = tbl, main="Q3: Prescriptions?", ylab="Proporti
 text(1:3, rep(0.9, 3), paste("n=", tapply(tbl$Question.3, tbl$Question.3, length), sep="") )
 summary(aov(rInv ~ Question.3, data = tbl))
 
+summary(aov(rInv ~ Question.3=="Suggested", data = tbl))

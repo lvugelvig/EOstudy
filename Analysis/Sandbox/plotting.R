@@ -19,3 +19,4 @@ histSMD.TF <- function(X, Y, ylm=c(0,1)){
   points(xxT, Y.T, bg=color, pch=thepch, col=periph)
   
 }
+
