@@ -15,8 +15,7 @@ Prof Joachim Hermisson (University of Vienna, Austria)
 Prof Sergey Kryazhimskiy (University of California San Diego, USA)
 Prof. John Mckay (Colorado State University, USA)
 Dr. Josh Payne (University of Zurich, Switzerland)
-Prof. Peter Visscher (Institute for Molecular Bioscience, Queensland,
-Australia)
+Prof. Peter Visscher (Institute for Molecular Bioscience, Queensland, Australia)
 Prof. Sam Yeaman (University of Calgary, Canada)
 
 For more information visit the event websites:
@@ -47,4 +46,3 @@ Prof Dr Alex Widmer (ETH Zurich)
 Dr. Debra Zuppinger-Dingley (University of Zurich)
 
 Katalin Csillery <katalin.csillery@env.ethz.ch>
-

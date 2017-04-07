@@ -5,6 +5,10 @@
 
 ## Invited speakers
 
+Samantha Price
+Andy Purvis
+Jens-Christian Svenning
+
 
 ## Instructors
 
@@ -14,5 +18,8 @@
 
 ## Organizing committee
 
+Shan Huang  
+Paul G. Harnik  
+Lee Hsiang Liow
 
 ## Scientific committee
