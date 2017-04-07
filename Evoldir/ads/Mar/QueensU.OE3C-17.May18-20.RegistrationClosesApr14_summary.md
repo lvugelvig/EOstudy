@@ -4,7 +4,10 @@
 
 
 ## Invited speakers
-
+Rowan Barrett (M)
+Anne Bell (F)
+Francis Bonier (F)
+Ben Evans (M)
 
 ## Instructors
 
@@ -13,6 +16,7 @@
 
 
 ## Organizing committee
-
+Anastasia Savrova (F)
+Dylan Sora (M)
 
 ## Scientific committee
