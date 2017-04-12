@@ -49,11 +49,12 @@ to download the changes in `_summary.md` files done by coworkers.
 ## Tasks
 
  1) Add the ads in the AllData file on Google Drive (Flo)
-   Copy-paste the list generated with the above-mentionned script ad the end of the table.
+  - Copy-paste the list generated with the above-mentionned script ad the end of the table.
+  - Extend the very last columns to add year and precise ad date.
 
  2) Fill in the summary file
 
-  In the `_summary.md` file for each ad (in `Evoldir/ads/MON`, where MON is 3-letter month), compile all the names of speakers and organisers that you can find in the evoldir ad and on the ad website (remove *, - and superfluous things to end up with clean lists with one name per line)
+  In the `_summary.md` file for each ad (in `Evoldir/ads/YEAR/MON`, where MON is 3-letter month), compile all the names of speakers and organisers that you can find in the evoldir ad and on the ad website (remove *, - and superfluous things to end up with clean lists with one name per line)
 
  3) Fill in the Data set
 
