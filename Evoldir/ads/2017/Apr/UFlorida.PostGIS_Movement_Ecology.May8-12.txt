@@ -1,0 +1,25 @@
+Dear colleagues,
+
+This is a reminder for our PostGIS/movement ecology workshop held on May
+8-12 in Fort Lauderdale. There are still several seats available, so please
+join us for the event!
+
+https://ase-research.org/training/PostGIS_2017/
+
+We have a deadline set to April 15, but please let me know if you are
+interested, but can't commit to it right now.
+
+Best,
+Mathieu Basille.
+
+-- 
+
+Mathieu Basille
+
+basille@ufl.edu | http://ase-research.org/basille
++1 954-577-6314 | University of Florida FLREC
+
+   « Le tout est de tout dire, et je manque de mots
+  Et je manque de temps, et je manque d'audace.  »
+    Paul Ãluard
+

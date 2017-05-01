@@ -1,0 +1,233 @@
+PR STATISTICS ARE PLEASED TO ANNOUNCE THAT THROUGH THEIR FUNDING SCHEME 
+THEY CAN OFFER 5 PART-FUNDED SCHOLARSHIPS FOR OUR UP-COMING COURSE
+
+"Coding, data management, and Shiny applications using RStudio for 
+evolutionary biologists and ecologists (CDSR01)"
+
+SCHOLARSHIPS CONTRIBUTE TOWARDS TUITION FEES AND ACCOMMODATION WITH 5 
+'ALL INCLUSIVE PLACES' AVAILABLE AT 490.00 (Fees have been 
+subsidised by 35% from 755.00).
+
+Applications should be sent to oliverhooker@prstatistics.com and contain
+the following.
+1.	Full name
+2.	Institute name
+3.	PhD subject title or Post doc research questions
+4.	Do you hold a funded position
+5.	150 words why this course would be relevant to your research or how 
+it would help.
+
+Application deadline is Tuesday 17th April 2017
+
+We still have 'normal' places available for anyone else interested.
+
+Full course details are given below
+
+http://www.prstatistics.com/course/coding-data-management-and-shiny-applications-using-rstudio-for-evolutionary-biologists-and-ecologists-cdsr01/
+
+This course will run from 15th - 19th May at SCENE field station, 
+Scotland.
+
+The course will introduce programming logic using the R syntax. The 
+participants will be able to solve problems involving heterogeneous 
+biological datasets and the combined use of different statistical 
+packages, so the advantages of learning programming skills can be 
+demonstrated. The RMarkdown syntax will be used to illustrate the 
+advantages of literate programming and the possibilities of code sharing 
+and archiving. In the sequence, participants will learn how to design 
+relational databases (RDB) which can be used to manage and analyse large 
+biological datasets. They will learn the basics of the SQL language and 
+how to use it with R with the package {RMySQL}.
+
+To finalise, they will use the Shiny tool (R Studio) to build 
+interactive applications to analyse and display data depending on user 
+inputs. Throughout the course we will emphasise data, code and analyses 
+best practices that could foster reproducibility and transparency in 
+science, and the long-term availability of scientific data. At the end 
+of the course the participants are expected to be able to develop small, 
+tailored applications, to read and analyse datasets using a variety of 
+statistics tools.
+
+Monday 15th
+Module 1: Programming Logic
+R syntax (Variable types - operators - conditionals - loops - 
+writing functions)
+Programming and commenting code with RMarkdown
+
+Tuesday 16th
+Module 2: Data structures
+R syntax (arrays, lists, data frames, matrices)
+Data wrangling with {dplyr} and {tidyr}; the {ff} package and data 
+tables for large datasets (e.g. transcriptomics; whole-genome data)
+Best practices of data acquisition, organization and storage
+
+Wednesday 17th
+Module 3: Relational databases
+Introduction to the SQL language and MySQL (open-source RDB freeware)
+Accessing and analysing large datasets using the package {RMySQL}
+As an example, we will combine DNA sequence datasets with IUCN Red List 
+data illustrate the use of RDB to biological datasets.
+
+Thursday 18th
+Module 4: Introduction to Shiny (R Studio)
+Shiny - Server and user interface commands
+As an example we will use Shiny to develop a small application where 
+users can select different species and genes and run/visualize 
+phylogenetic trees using {ape} running in the background.
+
+Friday 19th
+Module 5: Wrapping-up
+Development and presentation of individual projects combining data 
+wrangling skills and user inputs using Shiny (R Studio)
+
+Please feel free to distribute this material anywhere you feel is 
+suitable.
+
+Upcoming courses - email for details oliverhooker@prstatistics.com
+
+1.	ADVANCING IN STATISTICAL MODELLING FOR EVOLUTIONARY BIOLOGISTS AND 
+ECOLOGISTS USING R #ADVR
+17th - 21st April 2017, Scotland, Dr. Luc Bussiere, Dr. Ane Timenes 
+Laugen
+http://www.prstatistics.com/course/advancing-statistical-modelling-using-r-advr06/
+
+2.	CODING, DATA MANAGEMENT AND SHINY APPLICATIONS USING RSTUDIO FOR 
+EVOLUTIONARY BIOLOGISTS AND ECOLOGISTS #CDSR
+15th - 19th May, Scotland Dr. Aline Quadros
+http://www.prstatistics.com/course/coding-data-management-and-shiny-applications-using-rstudio-for-evolutionary-biologists-and-ecologists-cdsr01/
+
+3.	GEOMETRIC MORPHOMETRICS USING R #GMMR
+5th - 9th June 2017, Scotland, Prof. Dean Adams, Prof. Michael 
+Collyer, Dr. Antigoni Kaliontzopoulou
+http://www.prstatistics.com/course/geometric-morphometrics-using-r-gmmr01/
+
+4.	MULTIVARIATE ANALYSIS OF SPATIAL ECOLOGICAL DATA #MASE
+19th - 23rd June, Canada, Prof. Subhash Lele, Dr. Peter Solymos
+http://www.prstatistics.com/course/multivariate-analysis-of-spatial-ecological-data-using-r-mase01/
+
+5.	TIME SERIES MODELS FOR ECOLOGISTS USING R (JUNE 2017 #TSME
+26th - 30th June, Canada, Dr. Andrew Parnell
+http://www.prstatistics.com/course/time-series-models-foe-ecologists-tsme01/
+
+6.	BIOINFORMATICS FOR GENETICISTS AND BIOLOGISTS #BIGB
+3rd - 7th July 2017, Scotland, Dr. Nic Blouin, Dr. Ian Misner
+http://www.prstatistics.com/course/bioinformatics-for-geneticists-and-biologists-bigb02/
+
+7.	META-ANALYSIS IN ECOLOGY, EVOLUTION AND ENVIRONMENTAL SCIENCES 
+#METR01
+24th - 28th July, Scotland, Prof. Julia Koricheva, Prof. Elena 
+Kulinskaya
+http://www.prstatistics.com/course/meta-analysis-in-ecology-evolution-and-environmental-sciences-metr01/
+
+8.	SPATIAL ANALYSIS OF ECOLOGICAL DATA USING R #SPAE
+7th - 12th August 2017, Scotland, Prof. Jason Matthiopoulos, Dr. James 
+Grecian
+http://www.prstatistics.com/course/spatial-analysis-ecological-data-using-r-spae05/
+
+9.	ECOLOGICAL NICHE MODELLING USING R #ENMR
+16th - 20th October 2017, Scotland, Dr. Neftali Sillero
+http://www.prstatistics.com/course/ecological-niche-modelling-using-r-enmr01/
+
+10.	INTRODUCTION TO BIOINFORMATICS USING LINUX #IBUL
+16th - 20th October, Scotland, Dr. Martin Jones
+http://www.prstatistics.com/course/introduction-to-bioinformatics-using-linux-ibul02/
+
+11.	GENETIC DATA ANALYSIS AND EXPLORATION USING R #GDAR
+23rd - 27th October, Wales, Dr. Thibaut Jombart, Zhian Kavar
+http://www.prstatistics.com/course/genetic-data-analysis-exploration-using-r-gdar03/
+
+12.	STRUCTURAL EQUATION MODELLING FOR ECOLOGISTS AND EVOLUTIONARY 
+BIOLOGISTS USING R #SEMR
+23rd - 27th October, Wales, Prof Jarrett Byrnes, Dr. Jon Lefcheck
+http://www.prstatistics.com/course/structural-equation-modelling-for-ecologists-and-evolutionary-biologists-semr01/
+
+13.	LANDSCAPE (POPULATION) GENETIC DATA ANALYSIS USING R #LNDG
+6th - 10th November, Wales, Prof. Rodney Dyer
+http://www.prstatistics.com/course/landscape-genetic-data-analysis-using-r-lndg02/
+
+14.	APPLIED BAYESIAN MODELLING FOR ECOLOGISTS AND EPIDEMIOLOGISTS #ABME
+20th - 25th November 2017, Scotland, Prof. Jason Matthiopoulos, Dr. Matt 
+Denwood
+http://www.prstatistics.com/course/applied-bayesian-modelling-ecologists-epidemiologists-abme03/
+
+15.	INTRODUCTION REMOTE SENSING AND GIS APPLICATIONS FOR ECOLOGISTS 
+#IRMS
+27th Nov - 1st Dec, Wales, Dr Duccio Rocchini, Dr. Luca Delucchi
+http://www.prstatistics.com/course/introduction-to-remote-sensing-and-gis-for-ecological-applications-irms01/
+
+16.	INTRODUCTION TO PYTHON FOR BIOLOGISTS #IPYB
+27th Nov - 1st Dec, Wales, Dr. Martin Jones
+http://www.prstatistics.com/course/introduction-to-python-for-biologists-ipyb04/
+
+17.	DATA VISUALISATION AND MANIPULATION USING PYTHON #DVMP
+11th - 15th December 2017, Wales, Dr. Martin Jones
+http://www.prstatistics.com/course/data-visualisation-and-manipulation-using-python-dvmp01/
+
+18.	ADVANCING IN STATISTICAL MODELLING USING R #ADVR
+11th - 15th December 2017, Wales, Dr. Luc Bussiere, Dr. Tom Houslay, 
+Dr. Ane Timenes Laugen,
+http://www.prstatistics.com/course/advancing-statistical-modelling-using-r-advr07/
+
+19.	INTRODUCTION TO BAYESIAN HIERARCHICAL MODELLING #IBHM
+29th Jan - 2nd Feb 2018, Scotland, Dr. Andrew Parnell
+http://www.prstatistics.com/course/introduction-to-bayesian-hierarchical-modelling-using-r-ibhm02/
+
+20.	ANIMAL MOVEMENT ECOLOGY (February 2018) #ANME
+19th - 23rd February 2018, Wales, Dr Luca Borger, Dr. John Fieberg
+
+21.	AQUATIC TELEMENTRY DATA ANALYSIS USIR R (TBC) #ATDAR
+??th - ??th February 2018, Wales,
+
+22.	FUNCTIONAL ECOLOGY FROM ORGANISM TO ECOSYSTEM: THEORY AND 
+COMPUTATION #FEER
+5th - 9th March 2018, Scotland, Dr. Francesco de Bello, Dr. Lars 
+Götzenberger, Dr. Carlos Carmona
+http://www.prstatistics.com/course/functional-ecology-from-organism-to-ecosystem-theory-and-computation-feer01/
+
+23.	ADVANCES IN MULTIVARIATE ANALYSIS OF SPATIAL ECOLOGICAL DATA USING R 
+#MVSP
+Prof. Pierre Legendre, Dr. Olivier Gauthier - Date and location to be 
+confirmed
+
+24.	STABLE ISOTOPE MIXING MODELS USING SIAR, SIBER AND MIXSIAR #SIMM
+Dr. Andrew Parnell, Dr. Andrew Jackson - Date and location to be 
+confirmed
+
+25.	NETWORK ANAYLSIS FOR ECOLOGISTS USING R #NTWA
+Dr. Marco Scotti - Date and location to be confirmed
+
+26.	MODEL BASE MULTIVARIATE ANALYSIS OF ABUNDANCE DATA USING R #MBMV0
+Prof David Warton - Date and location to be confirmed
+
+27.	ADVANCED PYTHON FOR BIOLOGISTS #APYB
+Dr. Martin Jones - Date and location to be confirmed
+
+28.	PHYLOGENETIC DATA ANALYSIS USING R (TBC) #PHYL
+Dr. Emmanuel Paradis - Date and location to be confirmed
+
+-- 
+Oliver Hooker PhD.
+PR statistics
+
+2017 publications -
+
+Ecosystem size predicts eco-morphological variability in post-glacial 
+diversification. Ecology and Evolution. In press.
+
+The physiological costs of prey switching reinforce foraging 
+specialization. Journal of animal ecology.
+
+prstatistics.com
+facebook.com/prstatistics/
+twitter.com/PRstatistics
+groups.google.com/d/forum/pr-statistics-post-course-forum
+prstatistics.com/organiser/oliver-hooker/
+
+3/1, 128 Brunswick Street
+Glasgow
+G1 1TF
+
++44 (0) 7966500340
+
+Oliver Hooker <oliverhooker@prstatistics.com>
+

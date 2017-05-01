@@ -1,0 +1,50 @@
+Reminder - Application deadline is 30th April 2017
+
+Training course on Viral Bioinformatics and Genomics
+MRC - University of Glasgow Centre for Virus Research, United Kingdom
+
+Monday 7th - Friday 11th August 2017
+Cost pounds 500
+
+We will be running our Viral Bioinformatics and Genomics course again
+this year, from Monday 7th August to Friday 11th August. Applications
+for the course are now open, full details on the course and information
+on how to apply can be found at: www.bioinformatics.cvr.ac.uk
+
+The 5-day course consists of a series of lectures and practical exercises
+that directly address bioinformatics challenges posed by the current surge
+of sequence data, with a focus on viral data sets and analyses. We will
+enable participants to understand and deal with high-throughput sequence
+datasets and encourage the exchange of ideas among diagnosticians,
+virologists, bioinformaticians and evolutionary biologists.
+
+The 2017 course will introduce participants to the power of the UNIX
+command-line and bash scripts, as well as a suite of bioinformatics
+tools covering the following topics:
+
+- HTS sequencing technologies: overview of the different HTS platforms
+  and sample preparations.
+- The power of Unix: essential bash scripting.  - Reference assembly:
+aligning sequence reads to a known reference and
+  visualizing the alignment (e.g. bowtie2, BWA, Tanoti, Tablet, UGENE).
+- Variant calling: consensus sequence generation, low frequency variant
+  calling and error correction (e.g. samtools, LoFreq, DiversiTools).
+- De-novo assembly: overlap layout and de Bruijn graphs approaches for
+  sequence assembly, quality assessment and merging contigs (e.g. ABySS,
+  SPAdes, MIRA, IDBA-UD, QUAST, Mauve).
+- Metagenomic analyses: sanitizing sequence datasets, assembling,
+  annotating, visualizing (e.g. MetAMOS, Krona, DIAMOND, Kraken).
+- Genomics: scaffolding, improving and finishing the assembly, gene
+  annotation (e.g. ICORN, Artemis, RATT).
+- Phylogenetic analysis: introduction to multiple sequence alignment and
+  phylogenetic reconstruction (e.g. mafft, PhyML, FigTree).
+
+The course will be held at the Centre for Virus Research, Garscube
+Campus, University of Glasgow, UK. The CVR has been designated an World
+Organisation for Animal Health (OIE) Collaborating Centre for Viral
+Genomics and Bioinformatics at the 82nd OIE General Session.
+
+www.bioinformatics.cvr.ac.uk
+
+Richard Orton <Richard.Orton@glasgow.ac.uk>
+

@@ -1,0 +1,51 @@
+Hi Colleagues,
+
+We still have a few spots available in our summer workshops on the use of
+high-throughput sequencing to study population genetic variation and
+community diversity. For more details, see this link or the description
+that follows.
+http://people.oregonstate.edu/~meyere/workshops.html
+
+We aim to train biologists with little or no NGS experience to prepare
+sequencing libraries and analyze the millions of DNA sequences that result.
+Participants are expected to provide DNA samples from their own study
+systems, and we will prepare sequencing libraries together from those
+samples as well as a shared set of samples for a group project.
+
+Participants will learn to analyze these data using simple command line
+tools on a high-performance computing cluster. Altogether, we'll cover the
+process from raw genomic DNA in a tube, to millions of DNA sequences, to
+biological data on population and/or community diversity.
+
+Registration for these workshops covers room and board (three meals a day,
+with ample coffee and snacks) during the workshop, and reagents/sequencing
+such that each participant can sequence and analyze up to 10 of their own
+samples.
+
+For the 5-day amplicon sequencing workshop (Aug 11-15), registration costs
+$1,300. For the 9-day 2bRAD genotyping workshop (Aug 15-23), registration
+costs $1,900. Participants enrolling in both workshops will have the option
+of participating in a 'bonus' special topics in bioinformatics session and
+pay a discounted rate of $3,000 for both workshops.
+
+For more information, including information from previous years' workshops,
+please see the full posting at the following website:
+http://people.oregonstate.edu/~meyere/workshops.html
+
+To reserve your spot, please contact Demian Willette
+(demian.willette@lmu.edu), Eli Meyer (eli.meyer@oregonstate.edu), or Carly
+Kenkel (carly.kenkel@gmail.com) with "Workshops 2017" in the subject line.
+
+Space is limited! To reserve your spot, please confirm your participation
+no later than May 31st and pay registration fee no later than June 30th.
+
+Thanks, hope to see some of you on Catalina this August!
+
+Eli, Demian, and Carly
+
+Eli Meyer, Oregon State University. eli.meyer@oregonstate.edu
+Demian Willette, Loyola Marymount University. demian.willette@lmu.edu
+Carly Kenkel, University of Southern California. carly.kenkel@gmail.com
+
+Eli Meyer <meyere@oregonstate.edu>
+

@@ -1,0 +1,49 @@
+Dear colleagues,
+
+Registration is open for the course "THE USE OF PHYLOGENIES IN THE STUDY
+OF MACROEVOLUTION - 5th edition".
+
+Dates: October 16th-20th, 2017.
+
+Instructor: Dr. Juan López Cantalapiedra (Museum für Naturkunde,
+Germany).
+
+This course is aimed at postgraduate students, postdoctoral researchers
+and established academics.
+
+The course will introduce the use of phylogenetic information to
+reconstruct ancestral characters and biogeographic histories, using
+different phylogenetic comparative methods. It will also tackle trait
+evolution modeling and the assessment of phylogenetic signal. Finally,
+we will learn about the shape of phylogenetic trees and its evolutionary
+causes, and how to estimate the rates of diversification throughout the
+history of groups.
+
+The course includes an optional first introductory day to basic R.
+
+Important note: Please bear in mind that this course is not about
+reconstructing (building) phylogenetic trees.
+
+Software: Mesquite, FigTree, R (ape, TreeSim, TreePar, Geiger, OUwie,
+BioGeoBEARS).
+
+Participants are encouraged to bring their data sets to use in the
+practical class.
+
+Place: Facilities of the CRIP at Els Hostalets de Pierola, Barcelona
+(Spain).
+
+Organized by: Transmitting Science, the Centre de Restauració i
+Interpretació Paleontologica and the Institut Catalá de Paleontologia
+Miquel Crusafont.
+
+Please feel free to distribute this information between your colleagues
+if you consider it appropriate.
+
+Soledad De Esteban-Trivigno, PhD.
+Scientific Director
+Transmitting Science
+www.transmittingscience.org
+
+soledad.esteban@transmittingscience.org
+

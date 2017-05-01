@@ -1,0 +1,67 @@
+Subject:TheSummer Workshop on Population-Scale Genomic Studies of
+EnvironmentalStress (EnGen 2017),  July 8- July 15, with scholarships
+stillavailable
+
+Next-GenerationSummerCourse in Environmental Genomics at the Mount
+DesertIsland Biological Laboratory
+
+Atechnicalcourse that provides participants with the skills needed to
+generateand analyze modern sequence data (DNA, RNA) through a hands-on
+approachthat utilizes novel data to guide research into how environmental
+conditionsaffect gene responses and the fitness of organisms while
+accountingfor population structure.
+
+Date:July8- July 15, 2017.
+Numberofparticipants: Restricted to 25.
+Only$300registration fee!
+
+Wearepleased to announce that this course is now supported by the
+NationalInstitutes of Health through the Big Data To Knowledge (BD2K)
+Program.Therefore, scholarships are available for US citizens or
+permanentresidents, including room and board.
+
+https://mdibl.org/course/environmental-genomics/
+
+PleasecontactJohn Colbourne (J.K.Colbourne@bham.ac.uk) and Joe Shaw
+(joeshaw@indiana.edu)if you are a non-US citizenor permanent resident
+wantingto participate.
+
+Thefacultyat MDI Biological Lab is pleased to again offer a training
+coursein Environmental Genomics, aiming to better understand technologies
+andapproaches used to discover how gene function is influenced by
+environmentalconditions while accounting for variation that exists
+withinand among natural populations. This course is built on the
+paradigmthat the research field will most effectively grow by properly
+designinglarge-scale experiments enabled by drastically increased
+sample-throughputand lower sequencing costs. Most importantly, the
+bioinformaticschallenges of manipulating and analyzing population-level
+genomicsdata must be addressed.  
+
+Thiscourseis designed to train the next-generation of environmental
+scientists,which have included in past years: university professors,
+postdoctoralresearchers, doctoral students and government scientists,
+representinginstitutions from North America and Europe. Most responded in
+thedeparture survey that the course curriculum, choice of technologies,
+andeffectiveness provided sufficient training to either begin or enlarge
+anenvironmental genomics project in their own laboratories. All reported
+thatthey would recommend this course to a colleague.
+
+Thiscoursetrains researchers to design studies, and to collect and
+analyzeRNA-Seq gene expression data. Daphnia is used for training
+becauseof its growing use as a model system for environmental genomics
+andfor improving environmental health protection, yet the skills learned
+duringthe course will be applicable to all study systems with maturing
+genomicsresources, including humans. Much time is devoted to guiding
+thecurrent and future projects of attendees.
+
+Ultimately,participantswill be better positioned to incorporate
+thesetechnologies into their own research laboratories, while better
+understandinghow functional genomics and automation can be applied to
+ecology,evolution and environmental toxicology. 
+
+MountDesertIsland Biological Laboratory
+OldBarHarbor Rd., Salisbury Cove, ME 04672
+MDIBL-http://www.mdibl.org
+
+j.k.colbourne@bham.ac.uk
+

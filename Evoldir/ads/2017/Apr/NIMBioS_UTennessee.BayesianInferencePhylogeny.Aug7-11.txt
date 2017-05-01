@@ -1,0 +1,67 @@
+*Subject:* Call for Applications: RevBayes NIMBioS Tutorial: Bayesian
+Inference of Phylogeny
+The National Institute for Mathematical and Biological Synthesis (NIMBioS)
+is now accepting applications for its Tutorial, "RevBayes: Bayesian
+Inference of Phylogeny," to be held August 7-11, 2017, at NIMBioS.
+
+*Objectives:  *This course features RevBayes, an exciting new program for
+Bayesian inference of phylogeny. RevBayes is the successor to the popular
+program MrBayes, but represents both a complete rewrite of the computer
+code and a fundamental re-conception of phylogenetic models. Specifically,
+RevBayes adopts a 'graphical-model' framework that views all statistical
+models as comprised of components that can be assembled in myriad
+configurations to explore a corresponding array of questions. This
+graphical-model approach to phylogenetic inference provides effectively
+infinite flexibility. Moreover, the graphical models are specified using an
+R-like language, Rev, that empowers users to construct arbitrarily complex
+phylogenetic models from simple component parts (i.e. random variables,
+parameter transformations and constants of different sorts).
+
+This course is focused on phylogenetic trees and comparative-phylogenetic
+methods, including divergence-time estimation, morphological evolution,
+lineage diversification, and historical biogeography. Instruction is based
+on a combination of carefully tailored lectures introducing the theoretical
+and conceptual basis of each inference problem and hands-on computer
+tutorials demonstrating how to explore these questions using RevBayes (see
+http://revbayes.github.io/tutorials.html).
+
+Participants are not assumed to have expertise in phylogenetic theory;
+rather, we provide an accessible introduction to Bayesian statistical
+inference and stochastic models. We assume only that the students are
+familiar with phylogenetic trees and their applications to evolutionary
+biology. We therefore anticipate that this course will be most suitable for
+senior PhD students, postdoctoral researchers, and faculty who want to
+learn these techniques.
+
+*Location: *NIMBioS at the University of Tennessee, Knoxville
+
+*Instructors: *Bastien Boussau, CNRS Researcher, Univ. of Lyon; Emma
+Goldberg, Assistant Professor, Univ. of Minnesota; Tracy A. Heath,
+Assistant Professor, Iowa State Univ.; Sebastian Höhna, Postdoc, Univ. of
+California, Berkeley; John Huelsenbeck, Professor, Univ. of California,
+Berkeley; Brian Moore, Professor, Univ. of California, Davis; April M.
+Wright, Postdoc, Iowa State Univ.
+
+For more information about the tutorial and a link to the online
+application form, go to http://www.nimbios.org/tutorials/TT_revbayes
+
+*Registration Fee: *$500 for faculty and postdocs and $350 for students,
+payable upon acceptance of application.
+
+Participation in NIMBioS tutorials is by application only. Individuals with
+a strong interest in the topic are encouraged to apply, and successful
+applicants will be notified within three weeks after the application
+deadline.
+
+*Application deadline:* May 14, 2017 (applications received after the
+deadline will be considered if space is available)
+
+The National Institute for Mathematical and Biological Synthesis (NIMBioS) (
+http://www.nimbios.org) brings together researchers from around the world
+to collaborate across disciplinary boundaries to investigate solutions to
+basic and applied problems in the life sciences. NIMBioS is sponsored by
+the National Science Foundation, with additional support from The
+University of Tennessee, Knoxville.
+
+Sebastian Höhna <sebastian.hoehna@gmail.com>
+

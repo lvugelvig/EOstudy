@@ -1,0 +1,76 @@
+Molecular approaches, methods and techniques in animal ecology
+Donostia-San Sebastian, The Basque Country
+July 28-30
+More information and registration: http://www.ebrs2017.eus/molecularecologycourse
+
+This is a 3-day (24 hours) intensive cutting-edge introduction to
+molecular methods and techniques applied to animal ecology. The course
+aims to provide students with the necessary theoretical and technical
+ground to choose appropriate approaches and to develop correct
+experimental designs when conceiving molecular studies of wildlife
+ecology.
+
+MODULE 1 - INTRODUCTION TO MOLECULAR ECOLOGY AND EXPERIMENTAL DESIGN
+Introduction and overview of the course 
+Historical overview of molecular techniques applied to ecological research
+General concepts and techniques
+High-throughput sequencing/Next generation sequencing platforms
+Targeted sequencing, reduced representation genome sequencing and whole genome sequencing
+Key aspects for a good experimental design
+
+MODULE 2 - GENERAL TECHNIQUES IN MOLECULAR ECOLOGY 
+Sample collection and storage
+DNA extraction
+PCR amplification
+Library build
+Sequencing
+Bioinformatic pre-processing
+
+MODULE 3 - POPULATION GENOMICS
+Moving from population genetics to population genomics
+Data management and summary statistics (PLINK)
+Population structure and genetic differentiation
+Identifying loci under selection - Fst outlier tests (population genomics approaches)
+Identifying local adaptations - Gene-Environment Associations (landscape genomics approaches)
+Practical population and landscape genomics (R)
+
+MODULE 4 - DNA METABARCODING 
+Introduction to environmental DNA and metabarcoding
+Things to consider when planning a metabarcoding diet study - in the
+lab, in the analyses and in the interpretation of results In the lab:
+Quality check of DNA extracts and PCR reactions, tagging PCR products and
+preparing amplicon pools for sequencing In the analyses: How to balance
+error removal with detection of low abundance prey Interpretation of
+results in a metabarcoding diet study
+
+MODULE 5 - METAGENOMICS
+Introduction to shotgun metagenomics applied to gut microbiota
+In the lab: shotgun library build and sequencing
+In the screen: dataset cleaning (clonality, low-complexity reads...),
+read assembly and mapping strategies.  Taxonomic analyses: taxonomy
+assignment and taxonomy diversity statistics Functional approach: gene
+prediction, functional annotation and functional diversity statistics
+
+MODULE 6 - ONE-BY-ONE SESSIONS 
+15 minute sessions
+Experimental design of own projects
+Project specific technical questions
+
+TEACHERS
+
+Orly Razgour (University of Southampton)
+Antton Alberdi (University of Copenhagen)
+Kristine Bohmann (University of East Anglia)
+Aitor Arrizabalaga (University of the Basque Country)
+
+PRICES
+
+Regular fee: 250 euro 
+Exceptional fee: 200 euro 
+*the price includes lectures and practicals, one-by-one sessions and lunches
+
+ACCOMMODATION
+Affordable accommodation (ca 40 euro /day) will be offered.
+
+Antton Alberdi <anttonalberdi@gmail.com>
+

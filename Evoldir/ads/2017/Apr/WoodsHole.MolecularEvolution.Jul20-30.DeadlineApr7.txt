@@ -1,0 +1,28 @@
+APPLICATION WINDOW CLOSING SOON:  April 7, 2017
+
+The Workshop on Molecular Evolution will be held July 20-30, 2017.
+It is the premier program for integrating the methods, theory,
+and applications of molecular phylogenetics, statistical genetics,
+molecular evolution, and related disciplines.  
+
+As the course progresses, participants learn how to use the following
+software to address questions concerning the origins, maintenance,
+and function of molecular variation: ASTRAL, BEAST2, BEST, BPP, FASTA,
+FigTree, GARLI, MIGRATE, MAFFT, MP-EST, RaxML, RevBayes, PAML, PAUP*,
+Phybase, ipyrad and SVD Quartets. Students will have the opportunity to
+work with software on their own laptops as well as receive training on
+how to use the same programs on a high performance computer cluster.
+
+Course instructors include Peter Beerli, Joseph Bielawski, Belinda Chang,
+Mario dos Reis, Casey Dunn, Deren Eaton, Scott Edwards, Tracy Heath,
+David Hillis, Mark Holder, John Huelsenbeck, Lacey Knowles, Laura Kubatko,
+Peter Larsen, Paul Lewis, Emily Jane McTavish, Conor Meehan, Nicholas
+Meyerson, William Pearson, David Swofford, David Weisrock, April Wright,
+and Anne Yoder.
+
+information on the Workshop and a link to the application
+page are available on the dedicated course website:
+https://urldefense.proofpoint.com/v2/url?u=https-3A__molevol.mbl.edu_index.php_Main-5FPage&d=DwIBAg&c=imBPVzF25OnBgGmVOlcsiEgHoG1i6YHLR0Sj_gZ4adc&r=aUlrl-ZempeNaLRY0gsnZTpP6CecsU48drplVPr1dj0&m=e3dZATSpks5obk9WV_KwbfytIFddaFpDLUSYuGAfrX0&s=HlWyls6tFplb-DCiL4rByDycvIANYFYoV0vYoO8GjhE&e
+
+Anne Yoder <adyoder@duke.edu>
+

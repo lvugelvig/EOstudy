@@ -1,0 +1,55 @@
+2017 Galaxy Community Conference (GCC2017)
+26-30 June 2017
+Montpellier, France
+https://gcc2017.sciencesconf.org/
+--
+
+The oral presentation submission deadline for GCC2017 has been extended to
+29 April. If you work in or support data intensive life science research
+then GCC2017 is an ideal opportunity to present your work. Posters and
+computer demonstration submissions close 27 May and lightning talk
+submissions close 23 June.
+
+The 2017 Galaxy Community Conference will bring together several hundred
+researchers working in and supporting data intensive life science research.
+There is no better place to share your work and learn from others that are
+addressing diverse questions and facing common challenges in data intensive
+biology. GCC participants work across the tree of life, come from around
+the world, and represent universities, research organizations, industry,
+medical schools and research hospitals.
+
+GCC2017 will be in Montpellier, France, 26-30 June and will feature two
+days of presentations, discussions, poster sessions, lightning talks,
+computer demos, keynotes, and birds-of-a-feather meetups, all about
+data-intensive biology and the tools that support it. GCC2017 also includes
+data and coding hackathons, and two days of training covering 16 different
+topics.  GCC2017 will be held at Le Corum Conference Centre in the heart of
+Montpellier, just 10km from the Mediterranean.
+
+Early registration is also open and starts at less than 55€ / day for
+post-docs and students. You can also book low cost conference housing when
+you register. Travel fellowships are being offered by the Galaxy Community
+Fund for early career researchers that are travelling from afar.
+
+About Galaxy
+Galaxy (https://galaxyproject.org/) is an open, web-based platform for
+data-intensive biomedical analysis used by tens of thousands of researchers
+around the world.  It supports ad hoc exploration and analysis through
+scalable and repeatable data analysis pipelines for large research studies.
+Galaxy is available in over 90 free and publicly accessible web servers, on
+public and national cloud infrastructures, and is locally installed at
+hundreds, if not thousands, of research organisations around the world.
+
+We hope to see you this summer in Montpellier!
+
+Au revoir,
+
+The GCC2017 Organising Committee
+
+https://galaxyproject.org/
+https://getgalaxy.org/
+https://usegalaxy.org/
+https://gcc2017.sciencesconf.org/
+
+clementsgalaxy@gmail.com
+

@@ -1,0 +1,121 @@
+Bioinformatics for geneticists and biologists (BIGB02)
+Delivered by Dr Nic Blouin and Dr Ian Misner
+
+http://www.prinformatics.com/course/bioinformatics-for-geneticists-and-biologists-bigb02/
+
+This course will run from 3rd - 7th July 2017 at SCENE Field Station,
+Loch Lomond, Glasgow
+
+OVERVIEW
+The handling of large datasets has become intractable without some
+level of bioinformatic literacy. Many biologists find that there is a
+steep learning curve to develop the confidence required to explore
+their genomics datasets effectively. This bioinformatics short course
+includes a rich collection of hands-on instruction and lectures
+specifically intended to help novice users become comfortable with a
+range of tools currently used to analyse next-generation data.
+
+INTENDED AUDIENCE
+The course is aimed at anyone interested in learning bioinformatics
+tools needed for handling large genomic datasets.
+
+Course content is as follows
+
+Monday 3rd
+Module 1: Linux.
+Linux is taught on the first day, this takes the entire day. Once you
+get through this portion you will be on your way to completing your own
+NGS analysis. We have created a workbook for this portion of the
+course. This is a step-by-step, or in the case, command-by-command,
+Linux guide. We complete each command as a class and discuss and review
+issues along the way.
+
+Tuesday 4th
+Module 2: RNAseq.
+We will cover two of the more popular tools in this workshop, The
+Tuxedo package & Trinity. Outcomes; Confidence to design effective
+RNAseq experiments. Knowledge of NGS sequencing platforms and their
+differing applications, ability to analyze Illumina data for quality
+and contamination. Proficiency to implement the Tuxedo package to
+analyze an RNAseq dataset.Create publication ready graphics with
+cummeRbund and EdgeR.
+
+Wednesday 5th
+Module 3: Assembly.
+Whether you have a reference genome or are working with de novo samples
+there are some basic tools and practices that we cover to help assist
+you in your genome project. In this module we will cover the basic
+metrics you should review when doing assembly as well as best practices
+to consider in your own project. Outcomes; Take raw reads through a
+complete assembly process. Working knowledge of different assembly
+issues/challenges. The effect of assembly settings on assembly
+outcomes.
+
+Thursday 6th
+Module 4: Annotation.
+We will use MAKER and Blast2GO and annotate the genome we assembled in
+the assembly module. Outcomes; Understand the differences between
+functional and structural annotations. Train MAKER to improve
+structural annotations. Understand how MAKER improves with more
+evidence and training; visualize structural annotations. Apply
+functional annotations with Blast2GO.
+
+Friday 7th
+Module 5: Python.
+Why Python? In truth it doesn't matter what coding language you learn
+but you should learn one. Python has a very straightforward syntax that
+is easy to understand. In this module we will utilise the clearly
+explained training examples from Python for Biologists. Outcomes;
+Understand Python language syntax. Create scripts to answer biological
+problems & parse and analyse BLAST outputs using custom Python code.
+
+Please email any inquiries to oliverhooker@informatics.com or visit our
+website www.prinformatics.com
+Please feel free to distribute this material anywhere you feel is
+suitable.
+
+1.       CODING, DATA MANAGEMENT AND SHINY APPLICATIONS USING RSTUDIO
+FOR EVOLUTIONARY BIOLOGISTS AND ECOLOGISTS #CDSR
+
+15th - 19th May, Scotland Dr. Aline Quadros
+
+http://www.prinformatics.com/course/coding-data-management-and-shiny-ap
+plications-using-rstudio-for-evolutionary-biologists-and-ecologists-cds
+r01/
+
+2.       BIOINFORMATICS FOR GENETICISTS AND BIOLOGISTS #BIGB
+
+3rd - 7th July 2017, Scotland, Dr. Nic Blouin, Dr. Ian Misner
+
+http://www.prinformatics.com/course/bioinformatics-for-geneticists-and-
+biologists-bigb02/
+
+3.       INTRODUCTION TO BIOINFORMATICS USING LINUX #IBUL
+
+16th - 20th October, Scotland, Dr. Martin Jones
+
+http://www.prstatistics.com/course/introduction-to-bioinformatics-using
+-linux-ibul02/
+
+4.       INTRODUCTION TO PYTHON FOR BIOLOGISTS #IPYB
+
+27th Nov - 1st Dec, Wales, Dr. Martin Jones
+
+http://www.prinformatics.com/course/introduction-to-python-for-biologis
+ts-ipyb04/
+
+5.       DATA VISUALISATION AND MANIPULATION USING PYTHON #DVMP
+
+11th - 15th December 2017, Wales, Dr. Martin Jones
+
+http://www.prinformatics.com/course/data-visualisation-and-manipulation
+-using-python-dvmp01/
+
+6.       EUKARYOTIC METABARCODING
+
+20^th - 24^th January 2018, Scotland, Dr. Owen Wangensteen
+
+http://www.prinformatics.com/course/eukaryotic-metabarcoding-eukb01/
+
+Oliver Hooker <oliverhooker@prinformatics.com>
+

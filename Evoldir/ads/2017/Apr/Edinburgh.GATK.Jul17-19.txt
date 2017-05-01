@@ -1,0 +1,140 @@
+GATK BEST PRACTICES FOR VARIANT DISCOVERY
+
+DATE: Monday 17 - Wednesday 19 July 2017
+VENUE: The King's Buildings,The University of Edinburgh, Edinburgh,
+Scotland, UK
+REGISTRATION DEADLINE: Monday 3 July 2017
+CANCELLATION DEADLINE: Monday 10 July 2017
+PLACES: 85 (lectures), 30 (hands-on sessions) (first come, first served)
+REGISTRATION FEE: pounds 70 for the lectures, pounds 35 for each half-day hands-on
+session (includes coffee/tea, but no lunch)
+INFORMATION: Bert Overduin (bert.overduin@ed.ac.uk)
+
+TO REGISTER:
+
+This workshop will focus on the core steps involved in calling variants
+with the Broad's Genome Analysis Toolkit, using the "Best Practices"
+developed by the GATK team. You will learn why each step is essential to
+the variant discovery process, what are the operations performed on the
+data at each step, and how to use the GATK tools to get the most accurate
+and reliable results out of your dataset. In the course of this workshop,
+we highlight key functionalities such as the GVCF workflow for joint
+variant discovery in cohorts, RNAseq-specific processing, and somatic
+variant discovery using MuTect2. We also preview capabilities of the
+upcoming GATK version 4, including a new workflow for CNV discovery, and we
+demonstrate the use of pipelining tools to assemble and execute GATK
+workflows.
+
+"Excellent opportunity to learn from world-renowned experts!" (April 2016)
+
+INSTRUCTORS
+
+GATK staff (The Broad Institute, Cambridge, MA, United States)
+
+WORKSHOP FORMAT
+
+The workshop is composed of one day of lectures (including many
+opportunities for Q&A) and two optional days of hands-on training,
+structured as follows:
+
+Lectures (day 1): Rationale, theory and application of the GATK Best
+Practices for Variant Discovery in high-throughput sequencing data.
+
+Hands-on 1 (day 2 am): Germline variant discovery (SNPs + Indels)
+Hands-on 2 (day 2 pm): Germline variant filtering (SNPs + Indels)
+
+Hands-on 3 (day 3 am): Somatic variant discovery (SNPs + Indels + CNV)
+Hands-on 4 (day 3 pm): Pipelining on the cloud with WDL
+
+Please note that the lectures part is mandatory. It is not possible to
+attend any of the hands-on sessions without attending the lectures.
+
+In the three optional hands-on sessions focused on analysis, we walk
+attendees through exercises that teach them how to manipulate the standard
+data formats involved in variant discovery and how to apply GATK tools
+appropriately to common use cases and data types. In the course of these
+exercises, we demonstrate useful tips and tricks for interacting with GATK
+and Picard tools, dealing with problems, and using third-party tools such
+as Samtools, IGV, RStudio and RTG Tools.
+
+In the optional hands-on session on pipelining, we walk attendees through
+exercises that teach them to write workflow scripts using WDL, the Broad's
+new Workflow Description Language, and to execute these workflows locally
+as well as through publicly available cloud-based services.
+
+Please note that this workshop is focused on human data analysis. The
+majority of the materials presented applies equally to non-human data, and
+we will address some questions regarding adaptations that are needed for
+analysis of non-human data, but we will not go into much detail on those
+points.
+
+WHO SHOULD ATTEND
+
+The lecture-based component of the workshop is aimed at a mixed audience
+of people who are new to the topic of variant discovery or to GATK, seeking
+an introductory course into the tools, or who are already GATK users
+seeking to improve their understanding of and proficiency with the tools.
+Attendees should already be familiar with the basic terms and concepts of
+genetics and genomics.
+
+The hands-on component is aimed at novice to intermediate users who are
+seeking detailed guidance with GATK and related tools. Basic familiarity
+with the command line environment is required.
+
+Please note that for the hands-on sessions attendees will be expected to
+bring their own laptops with software preinstalled (detailed instructions
+will be posted two weeks before the workshop). Supported systems are Mac
+and Unix/Linux systems. MS Windows is not supported.
+
+COVERED TOPICS
+
+Lectures
+
+Introduction to variant discovery analysis and GATK Best Practices
+Marking Duplicates
+Indel Realignment
+Base Recalibration
+Variant Calling and Joint Genotyping
+Filtering variants with VQSR
+Genotype Refinement Workflow
+Callset Evaluation
+Somatic variant discovery with MuTect2
+Preview of  CNV discovery with GATK4
+
+Hands-on 1
+
+Germline variant discovery (SNPs + Indels)
+
+Hands-on 2
+
+Germline variant filtering (SNPs + Indels)
+
+Hands-on 3
+
+Somatic variant discovery (SNPs + Indels + CNV)
+
+Hands-on 4
+
+Pipelining on the cloud with WDL
+
+The link to the registration page:
+http://genomics.ed.ac.uk/services/gatk-best-practices-variant-discovery
+
+Bert Overduin, PhD
+TRAINING AND OUTREACH BIOINFORMATICIAN
+Bert.Overduin@ed.ac.uk
+orcid.org/0000-0002-5281-8838
+
+EDINBURGH GENOMICS
+The University of Edinburgh
+Ashworth Laboratories
+The King's Buildings
+Charlotte Auerbach Road
+Edinburgh EH9 3FL
+Scotland, United Kingdom
+
+tel. +44(0)1316507403 <+44%20131%20650%207403>
+http://genomics.ed.ac.uk
+
+Bert Overduin <Bert.Overduin@ed.ac.uk>
+
