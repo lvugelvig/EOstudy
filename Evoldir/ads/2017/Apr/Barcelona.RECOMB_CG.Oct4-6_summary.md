@@ -5,6 +5,10 @@
 
 ## Invited speakers
 
+Iria Fernández Silva
+Toni Gabaldón
+Iñaki Ruiz-Trillo
+Wes Warren
 
 ## Instructors
 
@@ -14,5 +18,7 @@
 
 ## Organizing committee
 
+Tomàs Marquès-Bonet
+Roderic Guigó Serra
 
 ## Scientific committee

@@ -2,6 +2,11 @@
 
 ## Keynote speakers
 
+Phil Byrne
+Karen Cheney
+Megan Head
+Amanda Ridley
+Robbie Wilson
 
 ## Invited speakers
 
@@ -14,5 +19,6 @@
 
 ## Organizing committee
 
+Michelle Louise Hall
 
 ## Scientific committee
