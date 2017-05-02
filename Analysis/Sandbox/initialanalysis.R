@@ -2,6 +2,9 @@
 rm(list=ls())
 par(mfrow=c(1,1))
 
+# Load lubridate to handle dates
+library(lubridate)
+
 ## NOTE: THIS IS EXTREMELY COARSE, NEED TO DISTINGUISH BETWEEN TYPES OF EVENTS
 ## AND I AM JUST PLAYING WITH THE DATA.
 
@@ -20,6 +23,12 @@ cat("We screened ", nrow(odata), " evoldir ads, ")
 adata <- odata[odata$Include == TRUE,]
 dim(adata)
 cat("and kept ", nrow(adata), "of them. \n")
+
+# Add year-month column
+adata <- cbind(adata, Ad_YM = paste0(adata$Ad_year, "-", formatC(month(adata$Ad_FullDate), width = 2, format = "d", flag = "0")))
+
+# Add column indicating whether a reply has been received
+adata <- cbind(adata, Org_reply = !(adata$Timestamp==""))
 
 # Adding columns corresponding to ratios
 #!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
@@ -143,3 +152,34 @@ text(1:3, rep(0.9, 3), paste("n=", tapply(tbl$Question.3, tbl$Question.3, length
 summary(aov(rInv ~ Question.3, data = tbl))
 
 summary(aov(rInv ~ Question.3=="Suggested", data = tbl))
+
+#---------------------------------------------------------------------------------------------------------
+# Check proportion of replies as function of time
+
+allreplies <- aggregate(cbind(adata$Ad_YM, 1*!is.na(adata$Ad_ID), adata$Org_reply==TRUE, (adata$Org_reply1==TRUE & !is.na(adata$Org_reply1)),  (adata$Org_reply2==TRUE & !is.na(adata$Org_reply2))), by=list(adata$Ad_YM), FUN=sum)
+names(allreplies) <- c("Date", "Ignore", "NbAds", "NbReplies", "NbR1", "NbR2")
+allreplies <- cbind(allreplies, PropR = allreplies$NbReplies/allreplies$NbAds, PropR1 = allreplies$NbR1/allreplies$NbAds, PropR2 = allreplies$NbR2/allreplies$NbAds)
+# Sanity check
+all(allreplies$NbAds == allreplies$R1 + allreplies$R2)
+
+# Plot
+yxmin <- 0.5
+plot(yxmin,0, type="n", ylim=c(0,1), xlim=c(yxmin,nrow(allreplies)), 
+     axes=FALSE, xlab = "Date", ylab = "Proportion of replies")
+par(las=1)
+axis(1, at=1:nrow(allreplies), labels = c("A", "M", "J", "J", "A", "S", "O", "N", "D", "J", "F", "M"))
+yline <- 2
+for(i in 1:9) mtext("2016", 1, at = i, line = yline)
+for(i in 10:12) mtext("2017", 1, at = i, line = yline)
+
+axis(2, at=seq(0,1,by=0.1), pos=yxmin)
+
+points(allreplies$PropR, pch=16)
+points(allreplies$PropR1, pch=1)
+plot(allreplies$Date, allreplies$PropR, type="p", pch=1)
+
+
+# Global proportion of replies
+sumreplies <- data.frame(matrix(colSums(cbind(adata$Ad_YM, 1*!is.na(adata$Ad_ID), adata$Org_reply==TRUE, (adata$Org_reply1==TRUE & !is.na(adata$Org_reply1)),  (adata$Org_reply2==TRUE & !is.na(adata$Org_reply2)))), nrow = 1))
+names(sumreplies) <- c("Ignore", "NbAds", "NbReplies", "NbR1", "NbR2")
+sumreplies$NbReplies/sumreplies$NbAds
