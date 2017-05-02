@@ -5,13 +5,14 @@
 
 ## Invited speakers
 
+Emma Teeling
+Gloriana Chaverri
+Kristine Bohmann
+Danilo Russo
 
 ## Instructors
 
-Orly Razgour
-Kristine Bohmann
-Antton Alberdi
-Aitor Arrizabalaga
+
 
 # Organisers
 
