@@ -1,0 +1,144 @@
+Subject: Portugal-cE3c-Course: three advanced courses with deadlines
+end May-June2017
+
+cE3c - Centre for Ecology, Evolution and Environmental Changes is
+organizing several Advanced Courses: see below the three with closer
+deadlines (last before summer holidays!).
+
+Additional informations at:
+http://ce3c.ciencias.ulisboa.pt/training/?cat=8
+
+-----
+
+Lichens as a tool for interpretation of environmental changes 
+
+taught by Pedro Pinho, Paula Matos, Silvana Munzi et al.| July 10-14
+2017 @ Lisbon, Portugal
+
+Objectives: With this course, we aim at providing the participants
+with the basics of lichen biology and ecology, biomonitoring and data
+analysis methods to allow the use of lichens for the interpretation
+of the environmental conditions and the development of a responsible
+scientific-based environmental management.
+
+Course coordinator
+Pedro Pinho (paplopes@fc.ul.pt) Post-Doc at the Centre
+for Ecology, Evolution and Environmental Changes (cE3c)
+(http://ce3c.ciencias.ulisboa.pt/member/pedro-pinho)
+
+Intended audience
+This course will be open to a maximum number of 18 participants, being
+directed to PhD or MSc students in Ecology, Environmental Studies,
+Geography or related areas, and postdocs and other professionals working
+in related topics.  Minimum formation: Bachelor in Biology, Natural
+Science or related areas.
+
+The course is free for 1st year PhD students in the Doctoral programme
+in Biology (FCUL), Biodiversity, Genetics and Evolution (UL; UP) and
+Biology and Ecology of Global Changes (UL, UA). For information of fees
+for other participants see the programme details (access link below)
+
+Deadline for applications: May 31, 2017
+
+Candidates should send a short CV and motivation letter to
+lichenscourse@fc.ul.pt
+
+For additional details about the course and to know how to
+register, go to http://ce3c.ciencias.ulisboa.pt/training/?cat=8 or
+http://lichens.fc.ul.pt/
+
+For more information about the course, please contact by email: Pedro
+Pinho (paplopes@fc.ul.pt)
+
+-----
+
+Practical Course on Phylogeography
+
+organized by Octavio Paulo| July 3-7 2017 @ Lisbon, Portugal
+
+Objectives: Phylogeography is one of the recent scientific areas
+emergent from the dissemination of highthrouput technologies of
+sequencing starting in the 90's of the XXth century, with the consequent
+development of intra-specific genetic variance analysis and its geographic
+distribution. The analysis of phylogeographic data allows to study the
+processes of population differentiation and the underlying evolutionary
+and demographic history. Applications of this body of knowledge go from
+conservation genetics to the study of the evolution of species and
+populations. This course is aimed at students and professionals that
+intend to get started on phylogeographic analysis as well as researchers
+already with some experience that want to deepen or update their knowledge
+in the field. The course involves theoretical classes as well as hands-on
+practical sessions using software. Participants are encouraged to bring
+their own sequence data for analysis.
+
+Course instructor
+Octavio Paulo (octavio.paulo@fc.ul.pt)
+Assistant Professor at the Faculty of Sciences of the University of
+Lisbon, researcher at the Centre for Ecology, Evolution and Environmental
+Changes (cE3c - http://ce3c.fc.ul.pt/), Coordinator of the Computational
+Biology & Population Genomics Group (http://cobig2.com)
+
+Intended audience
+This course will be open to a maximum number of 20 participants. 
+Minimum formation: Bachelor in Biology or related area. 
+
+The course is free for 1st year PhD students in the Doctoral programme
+in Biology (FCUL), Biodiversity, Genetics and Evolution (UL; UP) and
+Biology and Ecology of Global Changes (UL, UA). For information of fees
+for other participants see the programme details (access link below).
+
+Deadline for applications: June 9, 2017
+
+Candidates should send a short CV and motivation letter to Octavio Paulo
+(octavio.paulo@fc.ul.pt)
+
+For additional details about the programme of the course, fees and to
+know how to register, click here, and access the specific course
+
+http://ce3c.ciencias.ulisboa.pt/training/?cat=8
+
+For more information about the course, please contact:
+octavio.paulo@fc.ul.pt
+
+-----
+
+Big Data - knowledge extraction from biological databases
+
+Taught by Teresa Nogueira | July 10-14 2017
+
+Objectives: This five days intensive course aims at familiarizing the
+attendees with the unix environment and shell scripting. The participants
+will develop and implement querying algorithms in order to generate
+metadata for analysis.
+
+Course instructor
+Teresa Nogueira (teresainogueira@gmail.com) cE3c collaborator
+http://ce3c.ciencias.ulisboa.pt/member/teresa-nogueira)
+
+Intended audience
+This five days intensive course will be open to a maximum of 20
+participants, being directed to PhD or MSc students, postdocs, and
+professionals working in Molecular Biology, Biochemistry, Genetics
+and related topics.  Minimum formation: bachelor degree in Biology,
+Biochemistry or related areas.
+
+The course is free for 1st year PhD students in the Doctoral programme
+in Biology (FCUL), Biodiversity, Genetics and Evolution (UL; UP) and
+Biology and Ecology of Global Changes (UL, UA). For information of fees
+for other participants see the programme details (access link below).
+
+Candidates should send a short CV and motivation letter to Teresa Nogueira
+(teresainogueira@gmail.com)
+
+Deadline for applications: June 9, 2017
+
+For additional details about the programme of the course, fees and to
+know how to register, click here, and access the specific course
+
+http://ce3c.ciencias.ulisboa.pt/training/?cat=8
+
+For more information about the course, please contact:
+teresainogueira@gmail.com
+
+Margarida Matos <mmmatos@fc.ul.pt>
+

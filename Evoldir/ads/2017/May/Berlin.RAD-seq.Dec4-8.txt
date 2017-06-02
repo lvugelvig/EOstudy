@@ -1,0 +1,121 @@
+Reduced representation genome sequencing (RADseq) data analysis for
+population genetics, association studies and phylogenetics
+
+Dates
+
+4-8 December 2017
+
+https://www.physalia-courses.org/courses/course16/
+
+INSTRUCTORS
+
+Dr. Naiara Rodriguez-Ezpeleta
+https://www.physalia-courses.org/instructors/t19/ (Senior Researcher,
+Marine Research Division, AZTI, Spain)
+
+https://www.physalia-courses.org/instructors/t19/
+
+Dr. Josephine Paris https://www.physalia-courses.org/instructors/t21/
+(University of Exeter, UK)
+
+https://www.physalia-courses.org/instructors/t21/
+
+COURSE OVERVIEW
+
+Reduced representation genome sequencing methods are revolutionizing
+evolutionary analyses of non-model organisms. Several data generation
+and data analysis protocols have been developed to generate thousands
+of sequence variants in hundreds of individuals at relative low cost
+and speed. In this course, we will introduce the different approaches
+for obtaining reduced representation genome sequencing data and will
+specially focus on the data analysis. We will cover all necessary steps
+to obtain genome variants from short read data that are informative for
+population genetics, phylogenetic and association studies.
+
+WORKSHOP FORMAT
+
+The workshop will be delivered over the course of five days. Each day will
+include an introductory lecture with class discussion of key concepts. The
+remainder of each day will consist of practical hands-on sessions. These
+sessions will involve a combination of both mirroring exercises with the
+instructor to demonstrate a skill as well as applying these skills on
+your own to complete individual exercises. After and during each exercise,
+interpretation of results will be discussed as a group.
+
+WHO SHOULD ATTEND
+
+This workshop is aimed at researchers and technical workers who are
+generating and/or analyzing reduced representation genome sequencing data
+(RAD-seq, ddRAD, 2bRAD, GBS,). Examples demonstrated in this course
+will involve primarily non-model organisms and examples of applications
+of this data type for different purposes will be covered.
+
+REQUIREMENTS
+
+Attendees should have a background in biology. We will dedicate one
+session to some basic and advanced Linux concepts. Attendees should
+have also some familiarity with genomic data such as that arising from
+NGS sequencers.
+
+CURRICULUM
+
+Monday 4th- Classes from 09:30 to 17:30
+
+Lecture 1- Introduction to high-throughput reduced representation data
+
+Lab 1-Computer environment set up and introduction to UNIX
+
+Lab 2- High-throughput data quality assessment
+
+Tuesday 5th-Classes from 09:30 to 17:30
+
+Lecture 2- Overview of reduced representation library sequencing data
+analysis strategies: considerations depending of each case study
+
+Lab 3- Data preprocessing
+
+Wednesday 6th-Classes from 09:30 to 17:30
+
+Lecture 3- De novo and reference based loci assembly and informative
+marker selection
+
+Lab 4- De novo loci assembly
+
+Lab 5- Reference genome based loci assembly
+
+Thursday 7th-Classes from 09:30 to 17:30
+
+Lecture 4- Applications of reduced representation sequencing data to
+population genetics, genome wide association studies and phylogenetics
+
+Lab 6- From assembled loci to informative marker selection
+
+Friday 8th-Classes from 09:30 to 17:30
+
+Lecture 5-Review. Questions and Answers. Open discussion.
+
+Lab 7 -Continue previous unfinished exercises or work on your own data
+
+Further information:
+
+The cost is 480 euros (VAT included) including course material and
+refreshments. We also offer an all-inclusive package at 745 euros (VAT
+included), which includes course material, refreshments, accommodation
+and meals.
+
+--
+
+Carlo Pecoraro, Ph.D
+
+Physalia-courses Coordinator
+
+info@physalia-courses.org
+
+http://www.physalia-courses.org/
+
+Twitter: @physacourses
+
+mobile: +49 15771084054
+
+https://groups.google.com/forum/#!forum/physalia-courses
+

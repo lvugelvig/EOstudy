@@ -1,0 +1,96 @@
+*ELIXIR-IIB  Summer School in Advanced Computational Metagenomics
+<https://elixir-iib-training.github.io/website/miscellaneous/metagenomics-bari-2017-description.html>*
+
+*DEADLINES EXTENSION:*-    early registration: 19 May 2017
+-    late registration: 9 June 2017
+
+*** room availability at the UNA Hotel Regina is guaranteed only up to May
+5th. People who want to attend the school can book the room at the Hotel
+before the school registration deadline. For room reservation at the at the
+special rate for school attendants, please send an e-mail to Stella (
+stella@meeting-planner.it) within May 5th.
+
+The school will focus on the computational aspects of metagenomics analysis
+including reference databases, software and data retrieval and submission.
+The investigation of microbial communities will be discussed with an
+overview on real projects cases, both in ecological, clinical and nutrition
+fields. During the practical sessions students will learn how to analyse
+meta-barcoding and shotgun data from Next Generation Sequencing experiments
+and to perform statistical inference on them.
+
+*Target audience*
+
+This course is aimed at researchers involved or embarking upon
+bioinformatic analysis in metagenomic projects.
+
+*During the course, you will learn about:*
+
+Analysis of meta-barcoding sequence data;
+Analysis of shotgun Metagenomics sequence data;
+Functional annotation of metagenomic data;
+Methods for statistical comparisons of multiple metagenomic samples.
+Learning objectives
+
+*After this course you should be able to:*
+
+Choose and accomplish the most appropriate approach to analyse taxonomic
+composition and function of your metagenomics data;
+Perform metagenomic data submission and retrieval;
+Use statistical tools for comparative analysis of multiple samples;
+Use methods for pathway and network analysis in metagenomics projects.
+
+A two-day workshop will precede a three-day intense training school where
+experts in the field will be delivering interdisciplinary training in
+computational metagenomics.
+
+We offer three different registration options:
+
+1. Workshop only
+2. Three-day school only
+3. Both events
+
+You can find here
+<https://elixir-iib-training.github.io/website/2017/06/19/metagenomics-workshop-and-school-bari.html>
+full
+details - including fees and a registration form.
+
+*The workshop is open to all and will be able to host up to 100 people,
+whereas the intensive hands-on training course, for organisational and
+logistic reasons, is restricted to max 40 attendants.*
+
+*IMPORTANT DATES*:
+ - Workshop: 19-20 June, 2017
+ - School: 21-23 June, 2017
+
+*VENUE*: University of Bari, Italy
+
+*Speakers*:
+- Duccio Cavalieri (University of Florence, IT)
+- Guy Cochrane (EBI, UK)
+- Carlotta De Filippo (IBIMET-CNR, IT)
+- Graziano Pesole (IBBE-CNR and University of Bari, IT)
+- Maurizio Sanguinetti (Catholic University of Rome, IT)
+- Nicola Segata (University of Trento, IT)
+- Gabriel Valiente (Technical University of Catalonia, SP)
+- Nills Peder Willansen (The Arctic University of Norway, NO)
+- Rob Finn (EBI, UK)
+
+*Summer School's instructors*:
+- Marc Rosello & Guy Cochrane (EBI, UK);
+- Bruno Fosso & Monica Santamaria (IBBE-CNR, IT )
+- Gabriel Valiente (Technical University of Catalonia, SP)
+- Matteo Chiara (University of Milan, IT)
+- Rob Finn (EBI, UK)
+
+Should you have any questions, please, do not hesitate to contact us:
+domenica.delia@gmail.com <domenicadelia@gmail.com>
+allegra.via@gmail.com
+enza.colonna@gmail.com
+
+Best regards,
+
+Domenica
+on behalf of the ELIXIR-IIB Training Team
+
+vincenza.colonna@igb.cnr.it
+

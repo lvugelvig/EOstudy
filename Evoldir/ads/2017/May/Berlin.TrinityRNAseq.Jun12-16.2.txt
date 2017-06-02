@@ -1,0 +1,125 @@
+Dear all,
+
+we have the last 4 spots left for the course " Using the Trinity Framework
+for De novo Transcriptome Assembly, Annotation, and Downstream Expression
+Studies https://www.physalia-courses.org/courses/course11/ ", 12-16 June
+2017, Berlin (Germany).
+
+ https://www.physalia-courses.org/courses/course11/
+ https://www.physalia-courses.org/courses/course3/ .
+
+Registration deadline: May 12th, 2017
+
+Instructor: Brian Haas (Senior Computational
+Biologist at the Broad Institute of MIT & Harvard;
+https://www.physalia-courses.org/instructors/t12/
+https://www.physalia-courses.org/instructors/t14/ ).
+
+Course Overview:
+
+RNA-Seq technology has been transformative in our ability to explore
+gene content and gene expression in all realms of biology, and de novo
+transcriptome assembly has enabled opportunities to expand transcriptome
+analysis to non-model organisms. This workshop provides an overview
+of modern applications of transcriptome sequencing and popular tools
+and algorithms for exploring transcript reconstruction and expression
+analysis in a genome-free manner, leveraging the Trinity software
+and analysis framework. Attendees will perform quality assessment of
+Illumina RNA-Seq data, assemble a transcriptome using Trinity, quantify
+transcript expression, leverage Bioconductor tools for differential
+expression analysis, and apply Trinotate to functionally annotate
+transcripts. Additional methods will be explored for characterizing the
+assembled transcriptome and revealing biological findings.
+
+Intended Audience:
+
+This workshop is aimed primarily at biologist researchers that have basic
+bioinformatics skills and are pursuing RNA-Seq projects in non-model
+organisms.   Attendees will gain skills needed to successfully approach
+transcriptome sequencing, de novo transcriptome assembly, expression
+analysis, and functional annotation as applied to organisms lacking a
+high quality reference genome sequence.
+
+Teaching format:
+
+The workshop will be delivered over the course of four and a half days,
+with each session entailing lectures followed by practical hands-on
+sessions. Most all computing will be done on the cloud and attendees
+will use their own laptop computers with the Google Chrome web browser
+providing all the necessary interfaces to the cloud computing environment,
+including the linux command terminal.
+
+Assumed background for the participants:
+
+Basic experience with linux command-line execution and execution of
+bioinformatics tools would be helpful. We will begin the course with
+a review of basic linux commands and operations as a refresher. No
+programming or scripting knowledge is required.
+
+Curriculum:
+
+Day 1: Intro to the Trinity RNA-Seq workshop
+
+* Intro to RNA-Seq
+* Intro to next-gen sequence analysis
+* Overview of unix and workshop setup
+o Practical: exploring the computational infrastructure
+* Read quality assessment and trimming
+o Practical: using FASTQC and TRIMMOMATIC
+
+Day 2: Trinity de novo assembly, expression quantitation, and assembly QC
+
+* Overview of Trinity de novo transcriptome assembly
+o Practical: assemble rna-seq data using Trinity
+* Intro to expression quantification using RNA-Seq
+o Practical: quantify expression for Trinity assembly
+* Initial data exploration: assembly quality, and QC samples and
+replicates
+o Practical: using IGV
+o Practical: replicate correlation matrix and PCA
+
+Day 3: Differential expression analysis
+
+* Overview of statistical methods for differential expression (DE).
+o Practical: using Bioconductor tools for DE analysis.
+* Transcript clustering and expression profiling
+o Practical: generating heatmaps and extracting transcript clusters.
+
+Day 4: Functional annotation and Functional enrichment studies
+
+* Overview of methods for functional annotation
+o Practical: applying Trinotate to find coding regions in transcripts
+and predict biological function.
+* Overview of functional enrichment analysis
+o Practical: applying GOseq to identify significantly enriched Gene
+Ontology categories among transcript clusters.
+
+Day 5: Review and custom data analyses
+
+Further information:
+
+There are two packages available:
+
+* "only-course" at 530 euros (VAT included), including all course
+  materials and refreshments;
+* " all-inclusive" at 795 euros (VAT included), including all course
+  materials, refreshments, meals and accommodation.
+
+--
+
+Carlo Pecoraro, Ph.D
+
+Physalia-courses Coordinator
+
+info@physalia-courses.org
+
+http://www.physalia-courses.org/
+
+Twitter: @physacourses
+
+mobile: +49 15771084054
+
+https://groups.google.com/forum/#!forum/physalia-courses
+
+Carlo Pecoraro <info@physalia-courses.org>
+

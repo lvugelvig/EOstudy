@@ -1,0 +1,249 @@
+Ecological niche modelling using R (ENMR01)
+
+Delivered by Dr. Neftali Sillero
+
+http://www.prstatistics.com/course/ecological-niche-modelling-using-r-enmr01/
+
+This course will run from 16th - 20th October 2017 at SCENE field 
+station, Loch Lomond national park, Scotland
+
+Applying niche modelling to the field of evolutionary biology has 
+increased in recent years. It is especially important for field of 
+ecological speciation, sympatric speciation, resource specialisation and 
+studying how organisms and traits may evolve/cope with rapid changes to 
+the environment such as those caused by climate change.
+
+Ecological niche, species distribution, habitat distribution, or 
+climatic envelope models are different names for similar mechanistic or 
+correlative models, empirical or mathematical approaches to the 
+ecological niche of a species, where different types of ecogeographical 
+variables (environmental, topographical, human) are related with a 
+species physiological data or geographical locations, in order to 
+identify the factors limiting and defining the species' niche. ENMs have 
+become popular due to the need for efficiency in the design and 
+implementation of conservation management.
+
+The course will cover the base theory of ecological niche modelling and 
+its main methodologies. By the end of this 5-day practical course, 
+attendees will have the capacity to perform ecological niche models and 
+understand their results, as well as to choose and apply the correct 
+methodology depending on the aim of their type of study and data.
+
+The course will be mainly practical, with some theoretical lectures. All 
+modelling processes and calculations will be performed with R, the free 
+software environment for statistical computing and graphics 
+(http://www.r-project.org/). Attendees will learn to use modelling 
+algorithms like Maxent, Bioclim, Domain, and logistic regressions, and R 
+packages for computing ENMs like Dismo and Biomod2. Also, students will 
+learn to compare different ecological niche models using the Ecospat 
+package.
+
+Course content is as follows
+
+Monday 16th
+Elementary concepts on Ecological Niche Modelling
+Module 1: Introduction to ENM theory. Definition of ecological niche 
+model; introduction to species ecological niche theory, types of 
+ecological niches, types of ENM, diagram BAM, ENMs as approximations to 
+species' niches.
+Module 2: Problems and limitations on ENM. Assumptions and 
+uncertainties, equilibrium concept, niche conservatism, autocorrelation 
+and intensity, sample size, correlation of environmental variables, size 
+and form of study area, thresholds, model validation, model projections.
+Module 3: Methods on ENM. Mechanistic and correlative models. Overlap 
+Analysis, Biomod, Domain, Habitat, Distance of Mahalanobis, ENFA, GARP, 
+Maxent, Logistic regression, Generalised Linear Models, Generalised 
+Additive Models, Generalised Boosted Regression Models, Random Forest, 
+Support Vector Machines, Artificial Neural Network.
+Module 4: Conceptual and practice steps to calculate ENM. How to make an 
+ENM step-by-step.
+Module 5: Applications of ENM. Ecological niche identification, 
+Identification of contact zones, Integration with genetical data, 
+Species expansions, Species invasions, Dispersion hypotheses, Species 
+conservation status, Prediction of future conservation problems, 
+Projection to future and past climate change scenarios, Modelling past 
+species, Modelling species richness, Road-kills, Diseases, Windmills, 
+Location of protected areas.
+
+Tuesday 17th
+Prepare environmental variables and run ecological niche models with 
+dismo package.
+Module 6: Preparing variables. Choosing environmental data sources, 
+Downloading variables, Clipping variables, Aggregating variables, 
+Checking pixel size, Checking raster limits, Checking NoData, 
+Correlating variables.
+Module 7: Dismo practice. How to run an ENM using the R package dismo.
+
+Wednesday 18th
+Run ecological niche models with Biomod2 package and Maxent.
+Module 8: Biomod2 practice. How to run an ENM using the R package 
+Biomod2.
+Module 9: Maxent practice. How to run an ENM using the R packages dismo 
+and Biomod2 as well as Maxent software.
+
+Thursday 19th
+Compare ecological niche models with ecospat.
+Module 10: Ecospat practice. Compare statistically two different 
+ecological niche models using the R package Ecospat.
+Module 11: Students' talks. Attendees will have the opportunity to 
+present their own data and analyse which is the best way to successfully 
+obtain an ENM.
+
+Friday 20th
+Run ecological niche models with your own data.
+Module 12: Final practical. In this practical, the students will run ENM 
+with their own data or with a new dataset, applying all the methods 
+showed during the previous days.
+
+Please email any inquiries to oliverhooker@prstatistics.com or visit our 
+website www.prstatistics.com
+
+Please feel free to distribute this material anywhere you feel is 
+suitable
+
+PR statistics other courses
+
+1.	MULTIVARIATE ANALYSIS OF SPATIAL ECOLOGICAL DATA #MASE
+19th - 23rd June, Canada, Prof. Subhash Lele, Dr. Peter Solymos
+http://www.prstatistics.com/course/multivariate-analysis-of-spatial-ecological-data-using-r-mase01/
+
+2.	TIME SERIES MODELS FOR ECOLOGISTS USING R (JUNE 2017 #TSME
+26th - 30th June, Canada, Dr. Andrew Parnell
+http://www.prstatistics.com/course/time-series-models-foe-ecologists-tsme01/
+
+3.	META-ANALYSIS IN ECOLOGY, EVOLUTION AND ENVIRONMENTAL SCIENCES 
+#METR01
+24th - 28th July, Scotland, Prof. Julia Koricheva, Prof. Elena 
+Kulinskaya
+http://www.prstatistics.com/course/meta-analysis-in-ecology-evolution-and-environmental-sciences-metr01/
+
+4.	SPATIAL ANALYSIS OF ECOLOGICAL DATA USING R #SPAE
+7th - 12th August 2017, Scotland, Prof. Jason Matthiopoulos, Dr. James 
+Grecian
+http://www.prstatistics.com/course/spatial-analysis-ecological-data-using-r-spae05/
+
+5.	ECOLOGICAL NICHE MODELLING USING R #ENMR
+16th - 20th October 2017, Scotland, Dr. Neftali Sillero
+http://www.prstatistics.com/course/ecological-niche-modelling-using-r-enmr01/
+
+6.	GENETIC DATA ANALYSIS AND EXPLORATION USING R #GDAR
+23rd - 27th October, Wales, Dr. Thibaut Jombart, Zhian Kavar
+http://www.prstatistics.com/course/genetic-data-analysis-exploration-using-r-gdar03/
+
+7.	STRUCTURAL EQUATION MODELLING FOR ECOLOGISTS AND EVOLUTIONARY 
+BIOLOGISTS USING R #SEMR
+23rd - 27th October, Wales, Prof Jarrett Byrnes, Dr. Jon Lefcheck
+http://www.prstatistics.com/course/structural-equation-modelling-for-ecologists-and-evolutionary-biologists-semr01/
+
+8.	LANDSCAPE (POPULATION) GENETIC DATA ANALYSIS USING R #LNDG
+6th - 10th November, Wales, Prof. Rodney Dyer
+http://www.prstatistics.com/course/landscape-genetic-data-analysis-using-r-lndg02/
+
+9.	APPLIED BAYESIAN MODELLING FOR ECOLOGISTS AND EPIDEMIOLOGISTS #ABME
+20th - 25th November 2017, Scotland, Prof. Jason Matthiopoulos, Dr. Matt 
+Denwood
+http://www.prstatistics.com/course/applied-bayesian-modelling-ecologists-epidemiologists-abme03/
+
+10.	INTRODUCTION REMOTE SENSING AND GIS APPLICATIONS FOR ECOLOGISTS 
+#IRMS
+27th Nov - 1st Dec, Wales, Dr Duccio Rocchini, Dr. Luca Delucchi
+http://www.prstatistics.com/course/introduction-to-remote-sensing-and-gis-for-ecological-applications-irms01/
+
+11.	ADVANCING IN STATISTICAL MODELLING USING R #ADVR
+11th - 15th December 2017, Wales, Dr. Luc Bussiere, Dr. Tom Houslay, 
+Dr. Ane Timenes Laugen,
+http://www.prstatistics.com/course/advancing-statistical-modelling-using-r-advr07/
+
+12.	INTRODUCTION TO BAYESIAN HIERARCHICAL MODELLING #IBHM
+29th Jan - 2nd Feb 2018, Scotland, Dr. Andrew Parnell
+http://www.prstatistics.com/course/introduction-to-bayesian-hierarchical-modelling-using-r-ibhm02/
+
+13.	ANIMAL MOVEMENT ECOLOGY (February 2018) #ANME
+19th - 23rd February 2018, Wales, Dr Luca Borger, Dr. John Fieberg
+
+14.	GEOMETRIC MORPHOMETRICS USING R #GMMR
+5th - 9th June 2017, Scotland, Prof. Dean Adams, Prof. Michael 
+Collyer, Dr. Antigoni Kaliontzopoulou
+http://www.prstatistics.com/course/geometric-morphometrics-using-r-gmmr01/
+
+15.	FUNCTIONAL ECOLOGY FROM ORGANISM TO ECOSYSTEM: THEORY AND 
+COMPUTATION #FEER
+5th - 9th March 2018, Scotland, Dr. Francesco de Bello, Dr. Lars 
+Götzenberger, Dr. Carlos Carmona
+http://www.prstatistics.com/course/functional-ecology-from-organism-to-ecosystem-theory-and-computation-feer01/
+
+16.	ADVANCES IN MULTIVARIATE ANALYSIS OF SPATIAL ECOLOGICAL DATA USING R 
+#MVSP
+Prof. Pierre Legendre, Dr. Olivier Gauthier - Date and location to be 
+confirmed
+
+17.	STABLE ISOTOPE MIXING MODELS USING SIAR, SIBER AND MIXSIAR #SIMM
+Dr. Andrew Parnell, Dr. Andrew Jackson - Date and location to be 
+confirmed
+
+18.	NETWORK ANAYLSIS FOR ECOLOGISTS USING R #NTWA
+Dr. Marco Scotti - Date and location to be confirmed
+
+19.	MODEL BASE MULTIVARIATE ANALYSIS OF ABUNDANCE DATA USING R #MBMV0
+Prof David Warton - Date and location to be confirmed
+
+20.	PHYLOGENETIC DATA ANALYSIS USING R (TBC) #PHYL
+Dr. Emmanuel Paradis - Date and location to be confirmed
+
+-----
+
+PR informatics other courses
+
+1.	BIOINFORMATICS FOR GENETICISTS AND BIOLOGISTS #BIGB
+3rd - 7th July 2017, Scotland, Dr. Nic Blouin, Dr. Ian Misner
+http://www.prinformatics.com/course/bioinformatics-for-geneticists-and-biologists-bigb02/
+
+2.	INTRODUCTION TO BIOINFORMATICS USING LINUX #IBUL
+16th - 20th October, Scotland, Dr. Martin Jones
+http://www.prstatistics.com/course/introduction-to-bioinformatics-using-linux-ibul02/
+
+3.	INTRODUCTION TO PYTHON FOR BIOLOGISTS #IPYB
+27th Nov - 1st Dec, Wales, Dr. Martin Jones
+http://www.prinformatics.com/course/introduction-to-python-for-biologists-ipyb04/
+
+4.	INTRODUCTION REMOTE SENSING AND GIS APPLICATIONS FOR ECOLOGISTS #IRMS
+27th Nov - 1st Dec, Wales, Dr Duccio Rocchini, Dr. Luca Delucchi
+http://www.prstatistics.com/course/introduction-to-remote-sensing-and-gis-for-ecological-applications-irms01/
+
+5.	DATA VISUALISATION AND MANIPULATION USING PYTHON #DVMP
+11th - 15th December 2017, Wales, Dr. Martin Jones
+http://www.prinformatics.com/course/data-visualisation-and-manipulation-using-python-dvmp01/
+
+6.	EUKARYOTIC METABARCODING
+23rd - 27th July 2018, Scotland, Dr. Owen Wangensteen
+http://www.prinformatics.com/course/eukaryotic-metabarcoding-eukb01/
+
+7.	CODING, DATA MANAGEMENT AND SHINY APPLICATIONS USING RSTUDIO FOR 
+EVOLUTIONARY BIOLOGISTS AND ECOLOGISTS #CDSR
+Dr. Aline Quadros
+
+Oliver Hooker PhD.
+PR statistics
+
+2017 publications -
+
+Ecosystem size predicts eco-morphological variability in post-glacial 
+diversification. Ecology and Evolution. In press.
+
+The physiological costs of prey switching reinforce foraging 
+specialization. Journal of animal ecology.
+
+prstatistics.com
+facebook.com/prstatistics/
+twitter.com/PRstatistics
+groups.google.com/d/forum/pr-statistics-post-course-forum
+prstatistics.com/organiser/oliver-hooker/
+
+3/1, 128 Brunswick Street
+Glasgow
+G1 1TF
+
++44 (0) 7966500340
+
+Oliver Hooker <oliverhooker@prstatistics.com>
+

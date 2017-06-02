@@ -1,0 +1,25 @@
+Dear colleagues,
+
+It is our pleasure to announce that the third edition of the SSMPG 
+summer school (Software and Statistical Methods for Population Genetics) 
+will take place in Aussois (Savoie, France) from September 11 to 
+September 15, 2017.
+
+The aim of the summer school is to provide a comprehensive overview on 
+software and statistical methods for detecting genes involved in local 
+adaptation. Lecture notes and software demos will be given during the 
+summer school. In addition to software demos, a data challenge will be 
+organized to promote learning. By working in groups, participants will 
+be asked to analyse simulated and challenging datasets. The objective is 
+to find adaptive loci using the different software presented at the 
+summer school.
+
+More details about the summer school are available in the website of 
+Grenoble Alpes Data Institute: https://goo.gl/sc09pA
+
+The deadline for registration is July 28, 2017.
+
+Michael Blum (Univ Grenoble Alpes)
+
+Michael Blum <michael.blum@univ-grenoble-alpes.fr>
+

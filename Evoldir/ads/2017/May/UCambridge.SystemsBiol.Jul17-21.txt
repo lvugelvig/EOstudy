@@ -1,0 +1,129 @@
+Dear Colleagues,
+
+Apologies for multiple postings.  Please help forward it to other  
+potentially interested attendees. This is the final call for  
+participation for the 4th International Synthetic and Systems Biology  
+Summer School (SSBSS 2017) on July 17-21, 2017 at the University of  
+Cambridge, UK.
+
+Call for Participation
+
+Submission system is open, and can be found here:
+http://www.taosciences.it/ssbss/#application-form
+applicants will be notified of acceptance within a few days of  
+application submission.
+
+Call for Abstracts
+
+We are still accepting abstract submissions for posters and oral  
+presentations to be presented during the poster sessions and the talk  
+sessions.  Abstracts can be uploaded to EasyChair and authors will be  
+notified of acceptance within a few days of abstract submission:
+https://easychair.org/conferences/?conf=ssbss2017
+Please register and join us at the University of Cambridge for SSBSS 2017!
+More details about the conference can be found below and at the SSBSS  
+2017 web site:
+http://www.taosciences.it/ssbss/
+
+We hope to see you there!
+
+Thanks!
+    SSBSS 2017 Organizing Committee
+
+INVITED SPEAKERS
+
+Antonino Cattaneo, Scuola Normale Superiore Pisa, Italy
+Jasmin Fisher, Microsoft Research & Cambridge Systems Biology Centre, UK
+Carole Goble, University of Manchester, UK
+Jim Haseloff, University of Cambridge, UK
+Jay Keasling, University of California, Berkeley, USA
+Edda Klipp, Humboldt University, Germany
+Natalio Krasnogor, Newcastle University, UK
+Markus Ralser, University of Cambridge, UK & The Francis Crick Institute, UK
+Uwe Sauer, Institute of Molecular Systems Biology, ETH Zurich, Switzerland
+Gill Stephens, The University of Nottingham, UK
+Mike Stubbington, EMBL-EBI, Cambridge UK
+Eriko Takano, University of Manchester, UK
+Sarah Teichmann, Wellcome Trust Sanger Institute & EMBL, European  
+Bioinformatics Inst., UK
+
+Talks
+Talks Matteo Barberis, University of Amsterdam, The Netherlands
+Other speakers will be announced soon.
+
+Industrial Panel
+Jonathan Chesnut, Thermo Fisher Scientific Inc., USA
+Other speakers will be announced soon.
+
+TOPICS
+
+Applications of Synthetic & Systems Biology
+Biological Design Automation
+Computational/Mathematical Modelling and Design
+Computer Aided Design
+Directed Evolution
+Designing and Writing Genomes
+DNA Synthesis, Assembly, and Sequencing High Throughput
+Design Space Exploration
+Industrial Applications of Synthetic & Systems Biology
+Mammalian Synthetic Biology
+Metabolic Engineering
+Microbial Synthetic Biology / Microbiome Engineering
+Molecular Programming
+Omics Science and Synthetic & Systems Biology
+Pedagogical/Educational Tools
+Plant Synthetic Biology
+Protein Engineering
+Synthetic & Systems Biology for Cell Culture and Medical Applications
+Synthetic & Systems Biology of Industrial Microorganisms
+
+SCIENTIFIC COMMITTEE
+
+Giuseppe Nicosia, University of Catania, Italy
+Richard Allmendinger, The University of Manchester, UK
+Matteo Barberis, University of Amsterdam, The Netherlands
+Yaakov (Kobi) Benenson, Synthetic Biology Group@Department of  
+Biosystems Science and Engineering, ETH Zurich, Basel, Switzerland
+Leonidas Bleris, Bioengineering Department, The University of Texas at  
+Dallas, USA
+Paola Branduardi, University of Milano Bicocca, Italy
+Michele Ceccarelli, University of Sannio, Italy
+Jole Costanza, Italian Institute of Technology, Italy
+Domitilla Del Vecchio, Department of Mechanical Engineering, MIT, USA
+Diego Di Bernardo, Telethon Institute of Genetics & Medicine TIGEM &  
+U. of Napoli "Federico II", Italy
+Barbara Di Camillo, University of Padova, Italy
+Barbara Di Ventura, Synthetic Biology Group - BioQuant/DKFZ,  
+Heidelberg, Germany
+Simone Furini, University of Siena, Italy
+Emanuele Domenico Giordano, University of Bologna, Italy
+J. Gootenberg, Feng Zhang and Aviv Regev Groups, Department of Systems  
+Biology, Harvard Medical School, Harvard University, USA
+Guido Grandi, University Trento, Italy
+Mario Guarracino, ICAR-CNR, Italy
+Markus Herrgard, Novo Nordisk Foundation Center for Biosustainability,  
+Technical University of Denmark, Denmark
+Paolo Magni, University of Pavia, Italy
+Donato Malerba University of Bari, Italy
+Vincenzo Manca, University of Verona, Italy
+Nelson Marmiroli, University of Parma, Italy
+Giancarlo Mauri, University of Milano Bicocca and SYSBIO - Center of  
+Systems Biology, Italy Enzo Medico, IRCC - Candiolo and University of  
+Torino, Italy
+Giuseppe Narzisi, New York Genome Center, USA
+Wieslaw Nowak, Nicholas Copernicus University, Poland
+Gennaro Piccialli, University of Napoli Federico II, Italy
+Danilo Porro, University of Milano Bicocca, Italy
+Francesco Ricci, University of Rome "Tor Vergata", Italy
+Nicola Segata, University of Trento, Italy
+Gianna Maria Toffolo, University of Padova, Italy
+Renato Umeton, Dana-Farber Cancer Institute, USA
+Luca Zammataro, Yale University, USA
+
+FURTHER INFORMATION
+
+ssbss.school@gmail.com
+http://www.taosciences.it/ssbss/
+
+Francesco Verdi <cfp@dmi.unict.it>
+

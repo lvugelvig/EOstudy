@@ -1,0 +1,77 @@
+Hi,
+
+As part of the Third BioSyst.EU meeting in Gothenburg, Sweden
+(http://www.conferencemanager.se/BiosystEU2017/start.html)
+from August 15th to 18th 2017 we organise a symposium on the
+"Identification and avoidance of sources of error in phylogeny inference"
+(http://www.conferencemanager.se/BiosystEU2017/identification-and-avoidance-of-sources-of-error-in-phylogeny-inference-gfbs.html).
+The symposium is hosted by the German Society for Biological Systematics.
+
+DEADLINE FOR ABSTRACT SUBMISSION AND EARLY BIRD REGISTRATION: MAY 31, 2017
+
+Phylogenetic tree reconstruction is a central task of modern evolutionary
+biology, in which the assessment of phylogenetic relationships provides
+the foundation for the interpretation of comparative and evolutionary
+biological data. Molecular data for phylogenetic tree inference has
+increased from single gene analyses of few taxa to phylogenomic analyses
+comprising hundreds of genes and taxa. Due to the exponential growth
+of molecular data along with reduced stochastic sampling errors, the
+goal of approximating the "Tree of Life" seems to be more attainable
+today than ever. However, although substantial progress has already been
+achieved in respect of certain relationships within the "Tree of Life",
+several phylogenetic questions still remain unresolved. Therefore,
+the phylogenomic era appears also to be the beginning of an era of
+strong incongruence due to the further accumulation of data affected by
+systematic biases. These biases might arise from rate or compositional
+heterogeneity, missing data or model misspecifications. In such cases,
+phylogenetic methods may be inconsistent due to their inability
+to sufficiently account for the evolutionary complexity of genomic
+data. The consequence is strongly supported, but incorrectly resolved
+phylogenetic trees.
+
+In this symposium we want to discuss various reasons of systematic bias
+and introduce new algorithms, which enable more reliable reconstructions
+of large-scale phylogenetic trees or, equally important, will indicate
+when reliable inferences are not possible given the currently available
+data (e.g. the effect of incomplete lineage sorting and recombination
+to phylogenetic reconstruction). Topics are discussed. Thereby, we put
+a special emphasis on the potential and possible pitfalls of recent
+supertree, coalescence, and supermatrix approaches. The two invited
+and renowned keynote speakers, John Gatesy and Mark Wilkinson, address
+their points of view concerning these methodologies. The titles of their
+talks are:
+
+John Gatesy (Institute for Comparative Genomics & University of California
+Riverside): A single outlier gene tree can overturn hundreds of perfectly
+congruent gene trees in phylogenetic coalescence analyses Mark Wilkinson
+(Natural History Museum London): Supertrees, supermatrices and pluralism
+in phylogenenetics (Co-author will be Peter G. Foster)
+
+However, we are also very interested in contribution by others. Therefore,
+if you have a topic fitting this venue in a general sense and not
+only concerning supertree, coalescence, and supermatrix debate you are
+invited to come to the conference and present your work as a talk or
+a poster. We especially invite students at this conference is a good
+opportunity to get in contact with your fellows working on the same
+subject and show-cast your work to a diverse and interested international
+audience. Presentations from a purely theoretical perspective, which
+can initiate new research in known or yet unrecognized biases, are
+also welcome.
+
+The BioSyst website above has detailed information on registration,
+submission procedures, symposia and their speaker as well as travelling
+and accommodation.
+
+We hope to see you in Gothenburg,
+
+Patrick & Torsten.
+
+- NEW CONTACT INFORMATION -
+Torsten Hugo Struck
+Department of Research and Collections
+Natural History Museum
+phone: +47-228-51740
+e-mail: t.h.struck@nhm.uio.no
+
+Torsten Hugo Struck <t.h.struck@nhm.uio.no>
+

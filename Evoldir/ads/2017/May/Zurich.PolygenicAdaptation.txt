@@ -1,0 +1,83 @@
+SYMPOSIUM
+
+Aug 31 - Sept 1, 2017, Zurich, Switzerland
+
+POLYGENIC ADAPTATION
+Detecting Genomic Signals of Polygenic Adaptation
+and the Role of Epistasis in Evolution
+
+Registration fees: 80CHF + 70CHF for dinner on Aug 31 (100 persons max)
+
+Extended deadline for ABSTRACT SUBMISSION: June 1st
+
+registration and abstract submission:
+http://conf.wsl.ch/polygenic2017/
+
+more information here:
+http://www.evolution.uzh.ch/en/events/symposium.html
+
+INVITED SPEAKERS and tentative titles:
+
+Nick BARTON (Vienna, Austria)
+Epistasis and the limits to selection
+
+Jeremy BERG (Columbia, New York)
+The problem of population structure: dealing with structured GWAS panels
+in tests of polygenic adaptation
+
+Ã rjan CARLBORG (Uppsala, Sweden)
+Complex trait genetics beyond additivity
+
+Josephine DAUB (Barcelona, Spain)
+Detecting polygenic selection at different time scales in human
+evolution
+
+Thomas HANSEN (Oslo, Norway)
+Epistasis: The ugly duckling of evolutionary genetics
+
+Joachim HERMISSON (Vienna, Austria)
+>From soft sweeps to polygenic adaptation
+
+Sergey KRYAZHIMSKYI (San Diego, California)
+Epistasis and genetic variation in adaptability in yeast
+
+John McKAY (Fort Collins, Colorado)
+Are alleles underlying local adaptation rare and/or conditionally
+dependent?
+
+Josh PAYNE (Zurich, Switzerland)
+A thousand empirical adaptive landscape and their navigability
+
+Peter VISSHER (Brisbane, Australia)
+Evidence of polygenic selection and adaptation in human populations
+
+Sam YEAMAN (Calgary, Canada)
+Detecting and interpreting the genomic basis of convergent local
+adaptation
+
+--
+There are only about 10 slots for contributed talks, so register
+quickly!
+
+We are looking forward to seeing many of you in Zurich this summer!
+
+Greetings on behalf of the organizers,
+FrÃ©dÃ©ric Guillaume
+
+<frederic.guillaume@ieu.uzh.ch>
+
+Organizers:
+Dr Katalin CsillÃ©ry (ETH Zurich & WSL Birmensdorf)
+Prof Dr FrÃ©dÃ©ric Guillaume (University of Zurich - IEU)
+Dr Alejandra Rodriguez-Verdugo (ETH Zurich)
+Dr Felix Gugerli (WSL Birmensdorf)
+Dr Christian Rellstab (WSL Birmensdorf)
+Prof Dr Alex Widmer (ETH Zurich)
+
+Funding:
+Adaptation to a Changing Environment, ETH Zurich
+URPP "Evolution in action", University of Zurich
+Gentree EU
+
+"frederic.guillaume@ieu.uzh.ch" <frederic.guillaume@ieu.uzh.ch>
+

@@ -1,0 +1,43 @@
+Dear colleagues,
+
+We are pleased to announce the Taming the BEAST 2017 workshop on Bayesian
+phylogenetic and phylodynamics analyses
+
+Date: Monday 24 July - Friday 28 July 2017
+Venue: London School of Hygiene and Tropical Medicine, Keppel Street,
+London, WC1E 7HT, UK
+
+Taming the BEAST is a workshop focused on BEAST2, an open-source software
+package for Bayesian phylogenetic analyses of molecular sequences. The
+workshop consists of invited talks, lectures and hands-on tutorials
+by prominent experts in the field. This workshop aims at equipping
+participants with the skills and core knowledge necessary to confidently
+perform phylogenetic and phylodynamics analyses of their own. It is open
+to scientists of any level interested in the analysis of genomic data
+and molecular evolution.
+
+Invited speakers: Alexei Drummond, University of Auckland; Nuno Faria,
+University of Oxford; Oliver Pybus, University of Oxford; Tanja Stadler,
+ETH Zürich; Tim Vaughan, University of Auckland; Erik Volz, Imperial
+College London
+
+Program: The program can be seen at the following link:
+https://taming-the-beast.github.io/workshops/
+Registration fee: 245 + fees. Lunch and snacks will be provided.
+Registration deadline: Monday 12 June 2017
+Accommodation: Participants are asked to arrange their
+own accommodation. For a selection of recommended hotels
+and/or hostels nearby the School please view the hotels list
+<https://www.tripadvisor.co.uk/HotelsNear-g186338-d7888549-London_School_of_Hygiene_Tropical_Medicine-London_England.html>.
+
+Contact: Stephane Hue
+Email: Stephane.Hue@lshtm.ac.uk
+
+For more information and how to apply, please visit:
+http://www.lshtm.ac.uk/newsevents/events/2017/07/taming-the-beast-2017
+
+This workshop is organised in collaboration with ETH Zürich and the
+LSHTM Centre for Mathematical Modelling of Infectious Diseases
+
+Stephane.Hue@lshtm.ac.uk
+

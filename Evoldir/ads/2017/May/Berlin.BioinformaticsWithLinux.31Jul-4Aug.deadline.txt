@@ -1,0 +1,202 @@
+Dear all,
+
+we still have a few spots left for the course "Introduction to Linux
+and workflows for biologists".
+
+https://www.physalia-courses.org/courses/course1/
+
+Dates: 31 July-4 August 2017
+
+Application deadline is: June 30th, 2017 (first-come, first-served)
+
+Instructor: Dr. Martin Jones (founder, Python for Biologists).
+
+Martin started his programming career by learning Perl during the course
+of his PhD in evolutionary biology, and started teaching other people to
+program soon after. He is author of two text books, Python for Biologists
+[http://www.amazon.com/Python-Biologists-complete-programming-beginners/dp/1492346136/]
+and Advanced Python for Biologists
+[http://www.amazon.com/Advanced-Python-Biologists-Martin-Jones/dp/1495244377/].
+
+Overview
+
+Most high-throughput bioinformatics work these days takes place on
+the Linux command line. The programs which do the majority of the
+computational heavy lifting   genome assemblers, read mappers,
+and annotation tools   are designed to work best when used with a
+command-line interface. Because the command line can be an intimidating
+environment, many biologists learn the bare minimum needed to get their
+analysis tools working. This means that they miss out on the power of
+Linux to customize their environment and automate many parts of the
+bioinformatics workflow. This course will introduce the Linux command
+line environment from scratch and teach students how to make the most
+of its tools to achieve a high level of productivity when working with
+biological data.
+
+Intended audience
+
+This workshop is aimed at researchers and technical workers with a
+background in biology who want to learn to use the Linux operating
+system and the command line environment. No previous experience of Linux
+is required.
+
+Course Programme
+
+https://www.physalia-courses.org/courses/course1/curriculum/
+
+Monday 31th - Classes from 09:30 to 17:30
+
+Session 1 - The design of Linux
+
+In the first session we briefly cover the design of Linux: how is it
+different from Windows/OSX and how is it best used? We'll then jump
+straight onto the command line and learn about the layout of the Linux
+filesystem and how to navigate it. We'll describe Linux's file
+permission system (which often trips up beginners), how paths work, and
+how we actually run programs on the command line. We'll learn a few
+tricks for using the command line more efficiently, and how to deal with
+programs that are misbehaving. We'll finish this session by looking
+at the built in help system and how to read and interpret manual pages.
+
+Session 2 - System management
+
+We'll first look at a few command line tools for monitoring the status
+of the system and keeping track of what's happening to processor power,
+memory, and disk space. We'll go over the process of installing new
+software from the built in repositories (which is easy) and from source
+code downloads (which is trickier). We'll also introduce some tools
+for benchmarking software (measuring the time/memory requirements of
+processing large datasets).
+
+Tuesday 1sh - Classes from 09:30 to 17:30
+
+Session 3 - Manipulating tabular data
+
+Many data types we want to work with in bioinformatics are stored as
+tabular plain text files, and here we learn all about manipulating
+tabular data on the command line. We'll start with simple things like
+extracting columns, filtering and sorting, searching for text before
+moving on to more complex tasks like searching for duplicated values,
+summarizing large files, and combining simple tools into long commands.
+
+Session 4 - Constructing pipelines
+
+In this session we will look at the various tools Linux has for
+constructing pipelines out of individual commands. Aliases, shell
+redirection, pipes, and shell scripting will all be introduced
+here. We'll also look at a couple of specific tools to help with
+running tools on multiple processors, and for monitoring the progress
+of long running tasks.
+
+Wednesday 2nd - Classes from 09:30 to 17:30
+
+Session 5 - EMBOSS
+
+EMBOSS is a suite of bioinformatics command-line tools explicitly designed
+to work in the Linux paradigm. We'll get an overview of the different
+sequence data formats that we might expect to work with, and put what we
+learned about shell scripting to biological use by building a pipeline
+to compare codon usage across two collections of DNA sequences.
+
+Session 6 - Using a Linux server
+
+Often in bioinformatics we'll be working on a Linux server rather than
+our own computer typically because we need access to more computing
+power, or to specialized tools and datasets. In this session we'll
+learn how to connect to a Linux server and how to manage sessions. We'll
+also consider the various ways of moving data to and from a server from
+your own computer, and finish with a discussion of the considerations
+we have to make when working on a shared computer.
+
+Thursday 3rd - Classes from 09:30 to 17:30
+
+Session 7 - Combining methods
+
+In the next two sessions   i.e. one full day   we'll put everything
+we have learned together and implement a workflow for next-gen sequence
+analysis. In this first session we'll carry out quality control
+on some paired-end Illumina data and map these reads to a reference
+genome. We'll then look at various approaches to automating this
+pipeline, allowing us to quickly do the same for a second dataset.
+
+Session 8 - Combining methods
+
+The second part of the next-gen workflow is to call variants to identify
+SNPs between our two samples and the reference genome. We'll look at
+the VCF file format and figure out how to filter SNPs for read coverage
+and quality. By counting the number of SNPs between each sample and the
+reference we will try to figure out something about the biology of the
+two samples. We'll attempt to automate this analysis in various ways
+so that we could easily repeat the pipeline for additional samples.
+
+Friday 4th - Classes from 09:30 to 17:30
+
+Session 9 - Customization
+
+Part of the Linux design is that everything can be customized. This can
+be intimidating at first but, given that bioinformatics work is often
+fairly repetitive, can be used to good effect. Here we'll learn about
+environment variables, custom prompts, soft links, and ssh configuration
+  a collection of tools with modest capabilities, but which together
+can make life on the command line much more pleasant. In this last
+session there will also be time to continue working on the next-gen
+sequencing pipeline.
+
+Session 10
+
+The afternoon of Friday 18th is reserved for finishing off the next-gen
+workflow exercise, working on your own datasets, or leaving early
+for travel.
+
+Packages:
+
+1) "only-course"  (530 euros, VAT included), which includes coffee
+breaks and course material;
+
+2) "all-inclusive"  (795 euros VAT included), which includes coffee
+breaks, course material, accommodation and meals.
+
+We would greatly appreciate if you could share this information with
+all those people who may be interested in this course.
+
+Best regards,
+
+Carlo
+
+Upcoming courses:
+
+* Genomic Data Visualization and Interpretation (11-15 September 2017):
+https://www.physalia-courses.org/courses/course14/
+
+*  Statistics for biologists using R(18-23 September 2017):
+https://www.physalia-courses.org/courses/course13/
+
+* Introduction to Python for biologists (2-6 October 2017):
+https://www.physalia-courses.org/courses/course2/
+
+* Practical GWAS Using Linux and R (23-27 October 2017):
+https://www.physalia-courses.org/courses/course15/
+
+* Advanced Python for biologists (13-17 November 2017):
+https://www.physalia-courses.org/courses/course12/
+
+* RADseq data analysis for population genetics,
+association studies and phylogenetics (4-8 December 2017):
+https://www.physalia-courses.org/courses/course16/
+
+--
+
+Carlo Pecoraro, Ph.D
+
+Physalia-courses Coordinator
+
+info@physalia-courses.org
+
+http://www.physalia-courses.org/
+
+Twitter: @physacourses
+
+mobile: +49 15771084054
+
+https://groups.google.com/forum/#!forum/physalia-courses
+

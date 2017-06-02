@@ -1,0 +1,34 @@
+Advance Announcement:
+THE HELSINKI SUMMER SCHOOL ON MATHEMATICAL ECOLOGY AND EVOLUTION 2018
+
+Dear Colleagues,
+
+We are glad to announce the 2018 edition of The Helsinki Summer School
+on Mathematical Ecology and Evolution, an EMS-ESMTB School in Applied
+Mathematics. The school will be held next year, between 19 and 26 August
+2018 in Turku, Finland, and will be part of the EMS Year of Mathematical
+Biology <http://euro-math-soc.eu/year-mathematical-biology-2018>.
+
+The core program consists of five series of lectures:
+
+Karl Sigmund (University of Vienna): Evolutionary game theory
+Odo Diekmann (Utrecht University): Renewal equations in population biology
+Sebastian Schreiber (University of California, Davis): Coexistence in variable environments
+Ellen Baake (University of Bielefeld): Probabilistic models and ancestral processes in population genetics
+Hans Heesterbeek (Utrecht University): Ecology of infectious diseases
+
+All young researchers working in mathematical ecology can apply from all
+countries, especially from Europe and the Mediterranean. The school is
+aimed at graduate students of mathematics, but we also welcome students
+of biology with sufficient background in mathematics, as well as advanced
+undergraduates and postdocs.
+
+The application period will start in late 2017. For
+more information, see the school's webpage
+https://wiki.helsinki.fi/display/BioMath/The+Helsinki+Summer+School+on+Mathematical+Ecology+and+Evolution+2018
+
+With best regards,
+Eva Kisdi
+
+"eva.kisdi@helsinki.fi" <eva.kisdi@helsinki.fi>
+
