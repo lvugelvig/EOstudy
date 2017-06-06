@@ -2,6 +2,9 @@
 
 ## Keynote speakers
 
+Karen Carleton  
+Ole Seehausen  
+Maarten Vanhove  
 
 ## Invited speakers
 
@@ -11,6 +14,10 @@
 
 # Organisers
 
+Zuzana Musilová	  
+Gabriela Wofková  
+Lubomír Piálek  
+Milan Malinský  
 
 ## Organizing committee
 

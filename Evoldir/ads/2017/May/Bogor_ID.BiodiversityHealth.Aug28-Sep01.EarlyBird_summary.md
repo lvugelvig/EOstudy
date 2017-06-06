@@ -1,5 +1,7 @@
 # Featured speakers
 
+Nina Rønsted 
+
 ## Keynote speakers
 
 
@@ -10,6 +12,9 @@
 
 
 # Organisers
+Alexandra Muellner-Riehl  
+Jan Schnitzler  
+Ludger Wessjohann 
 
 
 ## Organizing committee
