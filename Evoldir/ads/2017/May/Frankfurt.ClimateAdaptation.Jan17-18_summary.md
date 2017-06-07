@@ -11,9 +11,7 @@ Christian Rellstab
 Thomas Bataillon   
 Karl Schmid  
 Victoria Sork  
-
-
-
+  
 
 ## Instructors
 

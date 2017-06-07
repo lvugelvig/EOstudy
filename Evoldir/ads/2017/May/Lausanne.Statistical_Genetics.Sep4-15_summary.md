@@ -8,9 +8,15 @@
 
 ## Instructors
 
+Jonathan Wakefield
+Ken Rice
+
+
 
 # Organisers
 
+Jérôme Goudet  
+Bruce Weir  
 
 ## Organizing committee
 

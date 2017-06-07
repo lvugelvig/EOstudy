@@ -1,5 +1,16 @@
 # Featured speakers
 
+Thomas Hansen  
+Nick Barton  
+Joachim Hermisson  
+Peter Visscher  
+John Mckay  
+Örjan Carlborg  
+Sergey Kryazhimskiy  
+Sam Yeaman  
+Josephine Daub  
+Jeremy Berg
+
 ## Keynote speakers
 
 
@@ -11,6 +22,12 @@
 
 # Organisers
 
+Katalin Csilléry  
+Frédéric Guillaume  
+Alejandra Rodriguez-Verdugo  
+Felix Gugerli  
+Christian Rellstab  
+Alex Widmer  
 
 ## Organizing committee
 
