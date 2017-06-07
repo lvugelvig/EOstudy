@@ -28,6 +28,7 @@ Andrew Whiteley
 
 # Organisers
 
+Gordon Luikart
 
 ## Organizing committee
 
