@@ -7,12 +7,15 @@
 
 
 ## Instructors
-
+Stefano Mariani
+Owen S. Wangensteen
+Judith Bakker
+Alexia Massa-Gallucci
 
 # Organisers
 
 
 ## Organizing committee
-
+Alexia Massa-Gallucci
 
 ## Scientific committee
