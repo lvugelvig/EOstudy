@@ -7,6 +7,11 @@
 
 
 ## Instructors
+Karl Sigmund   
+Odo Diekmann  
+Sebastian Schreiber  
+Ellen Baake  
+Hans Heesterbeek  
 
 
 # Organisers
