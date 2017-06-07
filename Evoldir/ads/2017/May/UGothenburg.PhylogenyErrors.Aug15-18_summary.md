@@ -5,12 +5,17 @@
 
 ## Invited speakers
 
+John Gatesy  
+Mark Wilkinson
+ 
 
 ## Instructors
 
 
 # Organisers
 
+Torsten Struck  
+Patrick Kück  
 
 ## Organizing committee
 

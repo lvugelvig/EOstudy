@@ -1,19 +1,23 @@
 # Featured speakers
 
 ## Keynote speakers
-
+Duccio Cavalieri
+Guy Cochrane
+Carlotta De Filippo
+Rob Finn
+Omry Koren
+Graziano Pesole
+Lorenza Putignani
+Maurizio Sanguinetti
+Nicola Segata
+Gabriel Valiente
+Nills Peder Willassen
 
 ## Invited speakers
 
 
 ## Instructors
-Marc Rosello
-Guy Cochrane
-Bruno Fosso
-Monica Santamaria
-Gabriel Valiente
-Matteo Chiara
-Rob Finn
+
 
 # Organisers
 
