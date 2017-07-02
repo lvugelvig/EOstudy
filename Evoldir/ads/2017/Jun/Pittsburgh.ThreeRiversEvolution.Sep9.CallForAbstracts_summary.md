@@ -2,6 +2,7 @@
 
 ## Keynote speakers
 
+Cynthia Beall
 
 ## Invited speakers
 
@@ -11,6 +12,11 @@
 
 # Organisers
 
+Wynn Meyer
+Caroline Turner
+Martin Turcotte
+Melissa Plakke
+Sebastian Echeverri
 
 ## Organizing committee
 

@@ -8,6 +8,13 @@
 
 ## Instructors
 
+Jeffrey E. Barrick  
+Anthony M. Dean  
+Tadeusz J. Kawecki  
+Christian Schlötterer  
+Marina Telonis-Scott  
+Olivier Tenaillon  
+Henrique Teotonio  
 
 # Organisers
 
