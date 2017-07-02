@@ -1,0 +1,67 @@
+Are you interested in using computer animated fish models in animal
+behavior research?  Then our software FishSim might be the key to expand
+your scientific tool-set for future research.  Join our workshop to get
+to know the software and to discuss your ideas and work using computer
+animation!
+
+Workshop: "Discovering FishSim in 3 days - new software for
+computer-animated 3D fish stimuli for innovative research in animal
+behavior"
+
+When?		October, 20th - 22nd 2017
+Where?	University of Siegen, Hölderlinstr. 3, 57076 Siegen, Germany
+Participants:	10
+Language:	English
+Costs:		50  euro  (Students), 70  euro  (Postdocs and senior researchers)
+
+Contact:	virtual.fish.project@gmail.com
+Website: 	https://virtualfishproject.wixsite.com/fishsim
+
+Application deadline: Friday, 30th June 2017
+
+BACKGROUND
+Within the scope of the DFG funded Virtual Fish Project at University
+of Siegen (Germany), we developed the free and open-source "FishSim
+Animation Toolchain" (FishSim) which combines easy creation,
+animation and presentation of realistic 3D computer-animated fish
+stimuli for the use in experiments with live test fish (Müller
+et al. 2016, doi: 10.1093/cz/zow106; Gierszewski et al. 2016, doi:
+10.1093/cz/zow108). FishSim was specifically designed for behavioral
+experiments using common one-choice and two-choice set-ups, as in
+studies on visual signaling and mate choice. FishSim provides various
+possibilities to experimentally manipulate morphology and behavior of any
+number of virtual 3D fish with presentation via monitors. Since FishSim
+is based on a computer game engine, it offers a unique way for animating
+3D fish via real-time input from an external video-game controller.
+
+To introduce FishSim and to assist in the implementation of our
+toolchain, we would like to welcome you to join a 3-day international
+workshop for behavioral biologists on "Discovering FishSim in 3 days
+- new software for computer-animated 3D fish stimuli for innovative
+research in animal behavior". The workshop will be held at University
+of Siegen in Siegen, Germany, from October 20-22, 2017, and is organized
+by Dipl.-Biol. Stefanie Gierszewski (Institute of Biology, University of
+Siegen), Prof. Dr. Klaudia Witte (Institute of Biology, University of
+Siegen), Dipl.-Inform. Klaus Müller (Institute of Real-Time Learning
+Systems, University of Siegen) and BSc. Jan-Marco Hütwohl (Institute
+of Real-Time Learning Systems, University of Siegen).
+
+The goal of this 3-day workshop is to provide detailed information
+on the free and open-source FishSim Basic and its integrated tools
+FishCreator, FishSteering and FishPlayer in both theory and practice. DOs
+and DON'Ts for implementation of FishSim Basic in future research are
+discussed. Working computers with all software installed will be provided
+but it is also possible to use personal laptops. Assistance and advice
+for working with own data will be given.
+
+Please visit our website https://virtualfishproject.wixsite.com/fishsim
+for more information about the software, the preliminary program and
+the application procedure.
+
+We hope to welcome you in Siegen! 
+
+Cheers,
+The Organizing Team
+
+"Gierszewski, Stefanie" <gierszewski@chemie-bio.uni-siegen.de>
+

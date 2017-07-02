@@ -1,0 +1,200 @@
+"Intro to Eukaryotic Metabarcoding"
+Delivered by Dr. Owen Wangensteen an expert in eukaryotic
+metabarcoding.
+
+https://www.prinformatics.com/course/eukaryotic-metabarcoding-eukb01/
+This course will run from 23rd - 28th July 2018 at Margam Discovery
+Centre, Wales.
+
+Prices start at £400 (approx. 450 euros), accommodation packages
+available for £260 (approx. 295 euros)
+Metabarcoding techniques are a set of novel genetic tools for assessing
+biodiversity of natural communities. Their potential applications
+include (but are not limited to) accurate water quality, soil diversity
+assessment, trophic analyses of digestive contents, early detection of
+non-indigenous species, studies of global ecological patterns and
+biomonitoring of anthropogenic impacts. This course will give an
+overview of metabarcoding procedures with an emphasis on practical
+problem-solving and hands-on work using analysis pipelines on real
+datasets. After completing the course, students should be in a position
+to (1) understand the potential and capabilities of metabarcoding, (2)
+run complete analyses of metabarcoding pipelines and obtain diversity
+inventories and ecologically interpretable data from raw
+next-generation sequence data and (3) design their own metabarcoding
+projects, using bespoke primer sets and custom reference databases. All
+course materials (including copies of presentations, practical
+exercises, data files, and example scripts prepared by the instructing
+team) will be provided electronically to participants.
+
+Course content is as follows full syllabus available on the course
+page;
+https://www.prinformatics.com/course/eukaryotic-metabarcoding-eukb01/
+Monday 20th
+Session 1. Introduction to metabarcoding procedures. The metabarcoding
+pipeline.
+
+Session 2. Metabarcoding markers. Primer design. PCR and library
+preparation protocols.
+
+Tuesday 21st
+Session 3. The OBITools pipeline. First steps and quality control.
+
+Session 4. Clustering algorithms. Constant and variable identity
+thresholds.
+
+Wednesday 22nd
+Session 5. Taxonomic assignment. The ecotag algorithm. Reference
+databases.
+
+Session 6. Generating, improving and curating reference databases.
+
+Thursday 23rd
+Session 7. Refining and analysing the final dataset. Collapsing,
+renormalising and blank correction. α- and ß- diversity patterns.
+
+Session 8. Presenting the final results. Online resources and future
+developments.
+
+Friday 24th
+Session 9. Customization.
+
+Session 10 Optional free afternoon to cover previous modules, discuss
+data or continue with the customization session.
+
+Please email oliverhooker@prinformatics.com with any question or visit
+our website www.prinformatics.com
+Please feel free to distribute this material anywhere you feel is
+suitable
+
+Upcoming PR informatics courses
+1. BIOINFORMATICS FOR GENETICISTS AND BIOLOGISTS #BIGB
+3rd - 7th July 2017, Scotland, Dr. Nic Blouin, Dr. Ian Misner
+http://www.prinformatics.com/course/bioinformatics-for-geneticists-and-
+biologists-bigb02/
+2. INTRODUCTION TO BIOINFORMATICS USING LINUX #IBUL
+16th - 20th October, Scotland, Dr. Martin Jones
+http://www.prstatistics.com/course/introduction-to-bioinformatics-using
+-linux-ibul02/
+3. INTRODUCTION TO PYTHON FOR BIOLOGISTS #IPYB
+27th Nov - 1st Dec, Wales, Dr. Martin Jones
+http://www.prinformatics.com/course/introduction-to-python-for-biologis
+ts-ipyb04/
+4. INTRODUCTION REMOTE SENSING AND GIS APPLICATIONS FOR ECOLOGISTS
+#IRMS
+27th Nov - 1st Dec, Wales, Dr Duccio Rocchini, Dr. Luca Delucchi
+http://www.prstatistics.com/course/introduction-to-remote-sensing-and-g
+is-for-
+ecological-applications-irms01/
+5. DATA VISUALISATION AND MANIPULATION USING PYTHON #DVMP
+11th - 15th December 2017, Wales, Dr. Martin Jones
+http://www.prinformatics.com/course/data-visualisation-and-manipulation
+-using-python-dvmp01/
+6. EUKARYOTIC METABARCODING
+23rd - 27th July 2018, Scotland, Dr. Owen Wangensteen
+http://www.prinformatics.com/course/eukaryotic-metabarcoding-eukb01/
+7. CODING, DATA MANAGEMENT AND SHINY APPLICATIONS USING RSTUDIO FOR
+EVOLUTIONARY BIOLOGISTS AND ECOLOGISTS #CDSR
+Dr. Aline Quadros
+-----
+Upcoming PR statistics courses
+1. MULTIVARIATE ANALYSIS OF SPATIAL ECOLOGICAL DATA #MASE
+19th - 23rd June, Canada, Prof. Subhash Lele, Dr. Peter Solymos
+http://www.prstatistics.com/course/multivariate-analysis-of-spatial-eco
+logical-data-using-r-mase01/
+2. TIME SERIES MODELS FOR ECOLOGISTS USING R (JUNE 2017 #TSME
+26th - 30th June, Canada, Dr. Andrew Parnell
+http://www.prstatistics.com/course/time-series-models-foe-ecologists-ts
+me01/
+3. META-ANALYSIS IN ECOLOGY, EVOLUTION AND ENVIRONMENTAL SCIENCES
+#METR01
+24th - 28th July, Scotland, Prof. Julia Koricheva, Prof. Elena
+Kulinskaya
+http://www.prstatistics.com/course/meta-analysis-in-ecology-evolution-a
+nd-environmental-sciences-metr01/
+4. SPATIAL ANALYSIS OF ECOLOGICAL DATA USING R #SPAE
+7th - 12th August 2017, Scotland, Prof. Jason Matthiopoulos, Dr. James
+Grecian
+http://www.prstatistics.com/course/spatial-analysis-ecological-data-usi
+ng-r-spae05/
+5. ECOLOGICAL NICHE MODELLING USING R #ENMR
+16th - 20th October 2017, Scotland, Dr. Neftali Sillero
+http://www.prstatistics.com/course/ecological-niche-modelling-using-r-e
+nmr01/
+6. GENETIC DATA ANALYSIS AND EXPLORATION USING R #GDAR
+23rd - 27th October, Wales, Dr. Thibaut Jombart, Zhian Kavar
+http://www.prstatistics.com/course/genetic-data-analysis-exploration-us
+ing-r-gdar03/
+7. STRUCTURAL EQUATION MODELLING FOR ECOLOGISTS AND EVOLUTIONARY
+BIOLOGISTS USING R #SEMR
+23rd - 27th October, Wales, Prof Jarrett Byrnes, Dr. Jon Lefcheck
+http://www.prstatistics.com/course/structural-equation-modelling-for-ec
+ologists-and-evolutionary-biologists-semr01/
+8. LANDSCAPE (POPULATION) GENETIC DATA ANALYSIS USING R #LNDG
+6th - 10th November, Wales, Prof. Rodney Dyer
+http://www.prstatistics.com/course/landscape-genetic-data-analysis-usin
+g-r-lndg02/
+9. APPLIED BAYESIAN MODELLING FOR ECOLOGISTS AND EPIDEMIOLOGISTS #ABME
+20th - 25th November 2017, Scotland, Prof. Jason Matthiopoulos, Dr.
+Matt
+Denwood
+http://www.prstatistics.com/course/applied-bayesian-modelling-ecologist
+s-epidemiologists-abme03/
+10. ADVANCING IN STATISTICAL MODELLING USING R #ADVR
+11th - 15th December 2017, Wales, Dr. Luc Bussiere, Dr. Tom Houslay,
+Dr. Ane Timenes Laugen,
+http://www.prstatistics.com/course/advancing-statistical-modelling-usin
+g-r-advr07/
+11. INTRODUCTION TO BAYESIAN HIERARCHICAL MODELLING #IBHM
+29th Jan - 2nd Feb 2018, Scotland, Dr. Andrew Parnell
+http://www.prstatistics.com/course/introduction-to-bayesian-hierarchica
+l-modelling-using-r-ibhm02/
+12. ANIMAL MOVEMENT ECOLOGY (February 2018) #ANME
+19th - 23rd February 2018, Wales, Dr Luca Borger, Dr. John Fieberg
+13. GEOMETRIC MORPHOMETRICS USING R #GMMR
+19th - 23rd February 2018, Scotland, Prof. Dean Adams, Prof. Michael
+Collyer, Dr. Antigoni Kaliontzopoulou
+http://www.prstatistics.com/course/geometric-morphometrics-using-r-gmmr
+01/
+14. FUNCTIONAL ECOLOGY FROM ORGANISM TO ECOSYSTEM: THEORY AND
+COMPUTATION #FEER
+5th - 9th March 2018, Scotland, Dr. Francesco de Bello, Dr. Lars
+Götzenberger, Dr. Carlos Carmona
+http://www.prstatistics.com/course/functional-ecology-from-organism-to-
+ecosystem-theory-and-computation-feer01/
+15. ADVANCES IN MULTIVARIATE ANALYSIS OF SPATIAL ECOLOGICAL DATA USING
+R
+#MVSP
+Prof. Pierre Legendre, Dr. Olivier Gauthier - Date and location to be
+confirmed
+16. STABLE ISOTOPE MIXING MODELS USING SIAR, SIBER AND MIXSIAR #SIMM
+Dr. Andrew Parnell, Dr. Andrew Jackson - Date and location to be
+confirmed
+17. NETWORK ANAYLSIS FOR ECOLOGISTS USING R #NTWA
+Dr. Marco Scotti - Date and location to be confirmed
+18. MODEL BASE MULTIVARIATE ANALYSIS OF ABUNDANCE DATA USING R #MBMV0
+Prof David Warton - Date and location to be confirmed
+19. PHYLOGENETIC DATA ANALYSIS USING R (TBC) #PHYL
+Dr. Emmanuel Paradis - Date and location to be confirmed
+
+Oliver Hooker PhD.
+
+PR statistics
+2017 publications -
+Ecosystem size predicts eco-morphological variability in post-glacial
+diversification. Ecology and Evolution.
+
+The physiological costs of prey switching reinforce foraging
+specialization. Journal of animal ecology.
+
+prstatistics.com
+facebook.com/prstatistics/
+twitter.com/PRstatistics
+groups.google.com/d/forum/pr-statistics-post-course-forum
+prstatistics.com/organiser/oliver-hooker/
+3/1, 128 Brunswick Street
+Glasgow
+G1 1TF
++44 (0) 7966500340
+Oliver Hooker <oliverhooker@prstatistics.com>
+
+Oliver Hooker <oliverhooker@prinformatics.com>

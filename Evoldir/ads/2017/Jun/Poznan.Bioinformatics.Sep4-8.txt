@@ -1,0 +1,40 @@
+Dear colleagues,
+
+We are extremely happy to announce 12th edition of Poznan Summer School of
+Bioinformatics (PSSB 2017). This meeting takes place at Adam Mickiewicz
+University in
+Poznan (Poland) from 4th to 8th September 2017.
+
+This year's topic is NGS in medical research, including subjects like:
+
+1. Introduction to Linux
+2. Introduction to next-generation sequencing
+3. RNA-Seq: gene expression estimation, differential expression
+4. microRNA studies
+5. ChIP-Seq data analysis
+6. CLIP-Seq in medical studies
+7. Genome variant calling
+8. Roche sequencing
+9. Bioinformatics of rare mendelian disorders
+10.Medical applications of Nanopore sequencer
+
+ The workshop is suitable both for beginners and for those who already have
+ some basic knowledge in computational biology and find it necessary and
+ interesting to learn more about bioinformatic applications related to Next
+Generation Sequencing in medical research.
+ Our school consists of lectures and hands-on - this combination should fit
+ best your needs as you have a chance to try out the discussed methods
+ yourself.
+
+The deadline for REGISTRATION is August 25th.
+
+For further information, please visit our website:
+ http://bioinformatics-school.pl
+
+Please forward this announcement to anyone who might be interested.
+Best regards,
+PSSB Organizing Committe
+Contact: genomics@amu.edu.pl
+
+Bioinfo School <genomics@amu.edu.pl>
+

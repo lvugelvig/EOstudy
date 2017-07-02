@@ -1,0 +1,251 @@
+Dear all,
+
+We are pleased to announce that the 2nd edition of
+Eukaryotic Metabarcoding Workshop will take place from
+February 26th to March 2nd, 2018 in Berlin (Germany):
+https://www.physalia-courses.org/courses-workshops/course4/
+
+Instructors
+
+Dr Owen S. Wangensteen (University of Salford, UK)/ MSc Vasco Elbrecht
+(University of Duisburg-Essen, Germany)
+
+Overview:
+
+Metabarcoding techniques are a set of novel genetic tools for
+qualitatively and quantitatively assessing biodiversity of natural
+communities. Their potential applications include (but are not limited
+to) accurate water quality, soil diversity assessment, trophic analyses
+of digestive contents, diagnosis of health status of fisheries, early
+detection of non-indigenous species, studies of global ecological
+patterns and biomonitoring of anthropogenic impacts. This workshop gives
+an overview of metabarcoding procedures with an emphasis on practical
+problem-solving and hands-on work using analysis pipelines on real
+datasets. After completing the workshop, students should be in a position
+to (1) understand the potential and capabilities of metabarcoding, (2)
+run complete analyses of metabarcoding pipelines and obtain diversity
+inventories and ecologically interpretable data from raw next-generation
+sequence data and (3) design their own metabarcoding projects, including
+bioinformatic data analysis and planning of laboratory work. All course
+materials (including copies of presentations, practical exercises,
+data files, and example scripts prepared by the instructing team) will
+be provided electronically to participants.
+
+Intended audience:
+
+This workshop is mainly aimed at researchers and technical workers with a
+background in ecology, biodiversity or community biology who want to use
+molecular tools for biodiversity research and at researchers in other
+areas of bioinformatics who want to learn ecological applications for
+biodiversity-assessment. In general, it is suitable for every researcher
+who wants to join the growing community of metabarcoders worldwide. This
+workshop will review mostly techniques and software useful for eukaryotic
+metabarcoding. Other workshops focused on procedures currently used in
+microbial metabarcoding will be available from Physalia-courses.
+
+Teaching format:
+
+The workshop is delivered over ten half-day sessions (see the detailed
+curriculum below). Each session consists of roughly a one hour lecture
+followed by two hours of practical exercises, with breaks at the
+organizer’s discretion.
+
+Assumed background:
+
+No programming or scripting experience is necessary, but some previous
+expertise using the Linux console and/or R will be most welcome. All
+examples will be run either in Linux or Mac environments, with some
+ssh connections to remote servers. For Windows users, a virtual box
+running Linux under Windows and/or the installation of an ssh client
+(e.g. PuTTY) will be needed. For MacOSX systems, installation of some
+additional Python packages might be needed for running the OBITools
+software suite. The syllabus has been planned for people which have some
+previous experience running simple commands from a terminal in Linux
+or Mac and using the R environment (preferently RStudio) for performing
+basic plots and statistical procedures. You will need to have a laptop
+with Python 2.7 installed for running OBITools, but no experience with
+Python is necessary. If in doubt, take a look at the detailed session
+content below or send an email to us.
+
+Course programme:
+
+Monday 26th – Classes from 09:30 to 17:30
+
+Session 1. Introduction to metabarcoding procedures. The metabarcoding
+pipeline.
+
+In this session students will be introduced to the key concepts of
+metabarcoding and the different next-generation sequencing platforms
+currently available for implementing this technology. Some examples of
+results that can be obtained from metabarcoding projects are explained. We
+will outline the different steps of a typical metabarcoding pipeline
+and introduce some key concepts. We will also explain the format of the
+course. In this session, we will check that the computing infrastructure
+for the rest of the course is in place and all the needed software
+is installed. Core concepts introduced: high-throughput sequencing,
+multiplexing, NGS library, metabarcoding pipeline, metabarcoding marker,
+clustering algorithms, molecular operational taxonomic unit (MOTU),
+taxonomic assignment.
+
+Session 2. Molecular laboratory protocols. DNA extraction. Metabarcoding
+markers. Primer design. PCR and library preparation. Good laboratory
+practice.
+
+In this session we will learn the basics about molecular laboratory
+procedures needed for metabarcoding. While there will be no hands-on
+laboratory practices, guidelines and best practices for all key laboratory
+steps will be discussed. We will explain sample collection techniques,
+including eDNA and bulk community samples, pretreatment and DNA extraction
+protocols. The diverse molecular markers available for different kinds of
+samples and target taxonomic groups will be discussed. The students will
+learn to design and test custom metabarcoding primers. They will know
+about sample tags, library tags, adapter sequences, PCR protocols and
+library preparation procedures. Core concepts introduced: good laboratory
+practice, proper sample collection, bulk (community DNA) and eDNA samples,
+DNA preservation, DNA extraction, PCR, clean up, metabarcoding marker,
+universality, specificity, taxonomic range, taxonomic resolution, primer
+bias, amplification errors, sequencing errors, DNA contaminations, in
+silico PCR, library generation, sequencing platforms, sample indexing,
+adapter sequences.
+
+-----
+
+Tuesday 27th – Classes from 09:30 to 17:30
+
+Session 3&4. The USEARCH pipeline.
+
+In this session, we will work with the USEARCH and VSEARCH software
+suites, using a real sequence dataset as example for testing our
+metabarcoding pipeline. We will outline the steps needed to start
+analysing raw data from high-throughput sequencers. The students will
+learn about key bioinformatics workflows and they will perform quality
+control, sample demultiplexing, paired-end merging, sequence filtering,
+removal of chimeric sequences, format conversion, dereplication of unique
+sequences, sequence clustering as well as taxonomy assignment using
+reference databases. We will run most commands in an R environment using
+a user friendly modular wrapper script, with specific focus on when and
+why each module is necessary. Core concepts introduced: fastq and fasta
+formats, Phred quality score, paired-end alignment, demultiplexing,
+sequence filtering, chimeras, dereplication, unique sequences, reads,
+singleton sequences, abundance recalculation, OTU clustering, sequence
+repositories, identity assignment, BLAST, GenBank, Barcode Of Life
+Datasystems (BOLD).
+
+-----
+
+Wednesday 28th – Classes from 09:30 to 17:30
+
+Session 5. The OBITools pipeline I. Workflow, first steps and quality
+control. Clustering algorithms with variable thresholds.
+
+In this session, we will work with the OBITools software suite, using the
+same dataset we used in USEARCH for testing some alternative metabarcoding
+pipelines from a Linux terminal environment. We will also introduce
+different algorithms for clustering sequences into MOTUs, such as CROP
+and SWARM. We will learn the differences between constant and variable
+identity threshold for delineating the MOTUS. Core concepts introduced:
+reference clustering, de novo clustering, unsupervised-learning
+clustering, Bayesian clustering, step aggregation methods, hard identity
+threshold, flexible identity threshold.
+
+Session 6. The OBITools pipeline II. Taxonomic assignment using ecotag.
+
+In this session we will continue with the OBITools pipeline. We will
+learn about phylogenetic algorithms for taxonomic assigment. The ecotag
+algorithm will be used for adding taxonomic information to the MOTUs
+in our example dataset and the results will be compared to those from
+other assignment software. The students will learn how to build local
+reference databases from the information available in public sequence
+repositories and how to add new custom sequences to these local reference
+databases. They will also learn how sequence databases interact with
+taxonomy databases for retrieving the phylogenetic information for the
+assignment algorithms. Core concepts introduced: local reference database,
+phylogenetic assignment, best match, assignment of higher taxa, ecoPCR
+and ecoPCR format, taxonomic database, taxonomic identifier (taxid).
+
+-----
+
+Thursday 1st – Classes from 09:30 to 17:30
+
+Session 7. Comparing the results from different pipelines. Refining
+the final datasets. Collapsing, renormalising and blank
+correction. Visualization of results.
+
+In this session, students will learn about procedures for refining and
+curating the final datasets obtained from the previous pipelines. They
+will learn about blank correction, renormalization procedures for
+deleting false positive results, and taxonomy collapsing of related
+MOTUs for obtaining enhanced final datasets. We will compare the results
+from the different pipelines tested and we will discuss how to interpret
+them in order to obtain ecologically relevant information. Core concepts
+introduced: renormalization, taxonomy collapsing, blank correction.
+
+Session 8. Presenting the final results. α- and ß- diversity patterns.
+
+In this session we will continue with the presentation of final
+results. Students will learn how to plot taxonomic summaries from
+their datasets, including krona plots, a graphic representation showing
+relative abundances of reads at different taxonomic levels. Resampling
+and rarefaction procedures for assessing biodiversity patterns will
+be introduced. Qualitative and quantitative indices for assessing
+dissimilarity between samples will be explained. We will introduce
+the UniFrac dissimilarity distance between samples, an index taking
+in account not only abundances of the different MOTUs but also their
+taxonomic affinities. Core concepts introduced: taxonomic summary,
+krona plots, α-diversity, ß-diversity, rarefaction, MOTU richness,
+UniFrac distances, ordination techniques, multidimensional scaling (MDS).
+
+-----
+
+Friday 2nd – Classes from 09:30 to 17:30
+
+Session 9. Experimental design. Customization.
+
+In this session we will learn how to design a successful metabarcoding
+project and how to customize it in function of the specific needs. We
+will discuss the best strategies for obtaining good results by optimizing
+time, money and computing resources. The idea is to make this session
+as interactive and useful as possible. We will present some current and
+future projects in the format of an open discussion and we will try to
+propose the best solutions for every potential problem in a collaborative
+way. The rest of the session will be dedicated to introduce current
+research and possible future developments of metabarcoding / metagenomics
+techniques and to provide a list of useful resources for further learning,
+continuous training and future research opportunities. Core concepts
+discussed: optimal multiplexing, ecological replication, technical
+replication, sequencing depth, price per sample.
+
+Session 10. Hands-on project brainstorming
+
+In small groups the participants will have the opportunity to plan
+and develop metabarcoding projects based on their research questions
+and taxonomic groups of interest. Project proposals will be presented
+and discussed in the form of 5-minute presentations, and they will be
+evaluated and improved by interacting with workshop participants. We
+will finish the workshop with an interactive open questions session. Core
+Concepts: Experimental planning, developing successful research projects
+and proposals, concept evaluation and improvement by peer review, using
+metabarcoding as a tool to answer exciting research questions.
+
+-----
+
+For more information please visit our website:
+https://www.physalia-courses.org/courses-workshops/course4/
+
+--
+
+Carlo Pecoraro, Ph.D
+
+Physalia-courses Coordinator
+
+info@physalia-courses.org
+
+http://www.physalia-courses.org/
+
+Twitter: @physacourses
+
+mobile: +49 15771084054
+
+https://groups.google.com/forum/#!forum/physalia-courses
+
+Carlo Pecoraro <info@physalia-courses.org>

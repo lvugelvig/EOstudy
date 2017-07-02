@@ -1,0 +1,49 @@
+2017 Galaxy Community Conference (GCC2017)
+26-30 June 2017
+Montpellier, France
+https://gcc2017.sciencesconf.org/
+https://gcc2017.sched.com/
+https://galaxyproject.org/
+--
+
+The Galaxy Community Conference (GCC) brings together researchers working
+in and supporting data intensive life science research. There is no better
+place to share your work and learn from others that are addressing diverse
+questions and facing common challenges in data intensive biology. GCC
+participants work across the tree of life, around the world, and represent
+universities, research organizations, industry, medical schools and
+research hospitals.
+
+GCC2017 will be in Montpellier, France, 26-30 June and features two days of
+presentations, discussions, poster sessions, lightning talks, computer
+demos, keynotes, and birds-of-a-feather meetups, all about data-intensive
+biology and the tools that support it. GCC2017 also features data and
+coding hackathons, and two days of training covering 16 different topics.
+GCC2017 will be held at Le Corum Conference Centre in the heart of
+Montpellier, just 10km from the Mediterranean.
+
+** Registration closes 16 June.  Costs start at 75€ per day for postdocs
+and students. **
+
+If you work in data intensive life science research then GCC2017 is an
+ideal opportunity to present your work. Lightning talk and
+birds-of-a-feather submission are still open, and there is limited space
+available for late poster and computer demo submissions.
+
+About Galaxy:
+Galaxy is an open, web-based platform for data-intensive biomedical
+analysis used by tens of thousands of researchers around the world.  It
+supports ad hoc exploration and analysis through scalable and repeatable
+data analysis pipelines for large research studies. Galaxy is available in
+over 90 free and publicly accessible web servers, on public and national
+cloud infrastructures, and is locally installed at hundreds, if not
+thousands, of research organisations around the world.
+
+We hope to see you in Montpellier!
+
+Au revoir,
+
+The GCC2017 Organising Committee
+
+Dave Clements <clements@galaxyproject.org>
+

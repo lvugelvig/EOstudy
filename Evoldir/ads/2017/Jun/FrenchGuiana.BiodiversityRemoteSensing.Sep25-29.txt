@@ -1,0 +1,72 @@
+Thematic school
+
+Remote sensing for tropical biodiversity mapping and management across
+scales
+Faculty:
+David Coomes, University of Cambridge, UK
+Mathias Disney, University College London, UK
+Maria Joao Ferreira dos Santos, Universiteit Utrecht, Netherlands
+Jean-Baptiste Feret, IRSTEA, Montpellier, France
+Sassan Saatchi, NASA JPL Pasadena, USA
+Convenors: Jer0me Chave (CNRS, Toulouse, France)
+and Gregoire Vincent (IRD, Montpellier, France)
+Dates: 25-29 September 2017
+Venue: Hotel des Roches, Kourou, French Guiana
+Context: Earth surface is now being sensed continuously at high
+temporal and spatial resolution by multiple space-borne instruments.
+
+When combined with appropriate methodologies, these sources of
+information will allow monitoring biodiversity at the global scale. In
+addition, technologically advanced sensors such as Lidar and imaging
+spectrometers are becoming increasingly available on airborne
+platforms. They are part of the equipment dedicated to ground
+observation, and allow an exploration of the structural heterogeneity
+of the vegetation, spanning orders of spatial scale. Such technologies
+already proved their potential and allow multiple applications for the
+monitoring of complex ecosystems.
+
+Objectives: The Thematic School is open in priority, but not
+exclusively, to early-career scientists (PhD students, post-doctoral
+associates) interested in exploring the potential of remote sensing in
+tropical biodiversity mapping and management. For instance, canopy
+heterogeneity is correlated with insect diversity in tropical forests,
+and canopy moisture is a proxy for amphibian diversity. Environmental
+variables can also be coupled with biodiversity occurrence data using
+species distribution modelling. Mapping of species richness derived
+from imaging spectroscopy is another attractive opportunity. These
+techniques have a direct implication for the management of tropical
+ecosystems, as they help prioritize areas for conservation. The week
+will be organized around working sessions, evening lectures and will
+include a visit to a field station (Paracou). The participants are
+expected to apply with a clearly stated research problem including
+already acquired datasets. During the meeting sessions, they will
+collaborate with other members of the group. Teachers will give evening
+lectures and provide guidance. Individual projects should result in
+publishable papers.
+
+How to apply: Applicants should submit their application preferably
+before July 12th, 2017 to Jessica Delhaye
+(jessica.delhaye@univ-tlse3.fr). The application package should include
+two pdf files: (1) a curriculum vitae, (2) a motivation letter
+detailing your proposed research project and the nature of available
+datasets. This could include remote sensing data analysis, biodiversity
+modelling or other questions relevant to tropical forest biodiversity.
+
+Costs: The program will cover accommodation, meals, and transport
+within French Guiana, but not travel costs to French Guiana.
+
+Jessica Delhaye
+IR - Chargee de projet LabEx CEBA
+Evolution et Diversite Biologique - UMR 5174 - Universite Toulouse 3
+Paul Sabatier
+Batiment 4R1 - Bureau 122
+118 Route de Narbonne - 31062
+Toulouse Cedex 9 - France
+jessica.delhaye@univ-tlse3.fr
+0033 (0)5 61 55 74 86
+Laboratoire d'Excellence - Centre d'Etude de la Biodiversite
+Amazonienne
+www.labex-ceba.fr
+
+jessica delhaye <jessica.delhaye@live.fr>
+

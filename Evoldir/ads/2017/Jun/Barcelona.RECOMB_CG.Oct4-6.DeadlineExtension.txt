@@ -1,0 +1,110 @@
+RECOMB Comparative Genomics 2017
+
+SCOPE
+The annual RECOMB Comparative Genomics Satellite Conference (RECOMB-CG)
+brings together leading researchers in the mathematical, computational and
+life sciences to discuss cutting edge research in comparative genomics,
+with an emphasis on computational approaches and the analysis of novel
+experimental results. The program will include keynote talks, contributed
+talks, and a poster session.
+
+The 15th RECOMB-CG conference will be held in the Centre for Genomic
+Regulation (CRG), Barcelona, Spain, on October 04-06 2017. With this
+Call for Papers we invite high-quality original full papers on topics
+related to the conference theme. The conference will also have a poster
+session. A detailed call for posters will be published later on the
+conference web page:
+
+http://www.crg.eu/en/event/15th-recomb-comparative-genomics-satellite-workshop
+
+ TOPICS
+Papers are solicited on, but not limited to, the following topics:
+·      genome evolution
+·      genome rearrangements
+·      genome variation, diversity and dynamics
+·      phylogenomics
+·      comparative tools for genome assembly
+·      population genomics
+·      comparison of functional networks
+·      comparative epigenomics
+·      paleogenomics
+·      cancer evolution genomics
+·      epidemiology
+·      gene identification and/or annotation
+
+IMPORTANT DATES
+·      Paper Submission Deadline: June 18, 2017
+·      Author Notification: July 14, 2017
+·      Final Version Due: July 28, 2017
+·      Conference: October 04-06, 2017
+
+DETAILS ON SUBMITTING MANUSCRIPTS
+Submitted papers must have not been published or be currently under
+consideration for publication in any other journal or conference with
+formal proceedings. Each accepted paper has to be presented by one of
+the authors at the conference.
+
+Accepted papers will be published in the conference proceedings, a volume
+in the Lecture Notes in Bioinformatics (LNBI) series.  In addition,
+authors of selected papers will be invited, but not required, to
+submit a significantly extended version of their papers to PeerJ,
+BMC Bioinformatics, or BMC Genomics. Papers submitted to PeerJ will
+be assigned to an Academic Editor of the journal and will be reviewed
+according to the normal PeerJ standards. Papers submitted to BMC
+Bioinformatics or BMC Genomics will be handled by the Program Committee
+co-chairs. Authors who choose to publish their extended manuscripts
+in one of these journals will have to pay the journal’s publication
+fees. Authors are encouraged to submit their manuscripts in PDF format
+according to the LNBI series guidelines:
+
+http://www.springer.com/us/computer-science/lncs/conference-proceedings-guidelines
+
+Submitted papers must be within 15 pages (in the LNBI format), with
+optionally a clearly marked appendix containing supplementary material
+made available to the reviewers.  All submissions must be made online,
+through the EasyChair submission system, at the following address:
+
+ https://easychair.org/conferences/?conf=recombcg17
+ 
+Authors need to register on that web site before submitting. A standard
+PDF file must be received by midnight on June 18, 2017 (any time zone)
+in order for a submission to be considered. Re-submission of already
+submitted papers will be possible until midnight June 18, 2017 (any
+time zone).
+
+CONFIRMED KEYNOTE SPEAKERS
+-      Iria Fernández Silva (Department of Biochemistry, Genetics and
+       Immunology, School of Biology, University of Vigo ES)
+-      Toni Gabaldón (Centre for Genomic Regulation, Barcelona ES)
+-      Iñaki Ruiz-Trillo (ICREA Research Professor at Institut de
+       Biologia Evolutiva [CSIC-IBE], Barcelona ES)
+-      Wes Warren (McDonnell Genomics Institute, Washington University
+       School of Medicine USA)
+
+ORGANIZING COMMITTEE
+Tomàs Marquès-Bonet (UPF) tomas.marques@upf.edu
+Roderic Guigó Serra (CRG) roderic.guigo@crg.eu
+Laura Prat Busquets (CRG Conference Officer) laura.prat@crg.eu
+
+PROGRAM COMMITTEE (PARTIAL) Max Alekseyev (George Washington University)
+Lars Arvestad (Stockholm University) Anne Bergeron (UQAM) Marilia Braga
+(Bielefeld University) Cedric Chauve (Simon Fraser University) Leonid
+Chindelevitch (Simon Fraser University) Miklós Csűrös (University of
+Montréal) Ingo Ebersberger (Goethe University Frankfurt) Nadia El-Mabrouk
+(University of Montréal) Guillaume Fertin (University of Nantes)
+Katharina Jahn (ETH Zurich) Asif Javed (Genome Institute of Singapore)
+Kevin Liu (Michigan State University) Ketil Malde (Institute of Marine
+Research, Norway) Joao Meidanis (UNICAMP, co-chair) István Miklós
+(Rényi Institute, Hungarian Academy of Sciences) Siavash Mirarab (UCSD)
+Luay Nakhleh (Rice University, co-chair) Aïda Ouangraoua (University of
+Sherbrooke) Marie-France Sagot (INRIA, LBBE, Lyon) Jens Stoye (Bielefeld
+University) Krister Swenson (CNRS, University of Montpellier) Eric
+Tannier (INRIA, LBBE, Lyon) Glenn Tesler (UCSD) Tamir Tuller (Tel Aviv
+University) Lusheng Wang (City University of Hong Kong) Tandy Warnow
+(University of Illinois at Urbana-Champaign) Louxin Zhang (National
+University of Singapore) Jie Zheng (Nanyang Technological University)
+
+CONTACT
+meidanis@ic.unicamp.br nakhleh@rice.edu
+
+David Sankoff <sankoff2@gmail.com>

@@ -1,0 +1,105 @@
+Dear colleagues,
+
+This course might be of interest to the people in this list: MODEL-BASED
+STATISTICAL INFERENCE IN ECOLOGICAL AND EVOLUTIONARY BIOGEOGRAPHY -
+2nd Ed.
+
+Instructors: Dr. Dan Warren (Macquarie University, Australia) and
+Dr. Matthew Van Dam (California Academy of Sciences, USA).
+
+Place: Els Hostalets de Pierola, Barcelona (Spain).
+
+Dates: December 11th-15th, 2017.
+
+PROGRAM
+
+- Monday;
+
+Organization and introductions.
+
+Spatial data in R.
+
+Point data, vector data, and raster data.
+
+GBIF, the Global Biodiversity Information Facility.
+
+Interacting with Google Maps.
+
+Working with raster and vector data.
+
+- Tuesday;
+
+Ecological biogeography.
+
+ENM / SDM concepts and assumptions.
+
+Dismo.
+
+Conceptual issues with ecological inferences from distribution data.
+
+Simulating species occurrence data.
+
+- Wednesday;
+
+Testing ecological hypotheses via Monte Carlo methods.
+
+ENMTools R package.
+
+Ecospat.
+
+Questions of taxonomic scale.
+
+Incorporating niche conservatism into the modelling process.
+
+- Thursday;
+
+Phylogenetic biogeography.
+
+How to read and use phylogenies.
+
+Short history of historical biogeography methods and assumptions.
+
+Likelihood-based statistical model choice.
+
+New probabilistic models for historical biogeography in BioGeoBEARS.
+
+Biogeographical stochastic mapping.
+
+Using BioGeoBEARS and interpreting results.
+
+Including geographical and environmental distance in models.
+
+Using QGIS basics and creating paleo areas.
+
+- Friday;
+
+Integrating in phenology (NCDF & other data sources) in SDM and trait
+evolution.
+
+Integrating biogeography with biotic interactions (e.g. insect host
+plant interactions).
+
+Running analyses over multiPhylo objects (posterior distribution) and
+interpreting results.
+
+Help session for student projects.
+
+Wrap-up.
+
+Organized by: Transmitting Science and the Institut Català de
+Paleontologia M. C.
+
+More information:
+http://www.transmittingscience.org/courses/biogeography/model-based-statistical-inference-ecological-evolutionary-biogeography/
+
+With best regards
+
+Sole
+
+Soledad De Esteban-Trivigno, PhD.
+Scientific Director
+Transmitting Science
+http://www.transmittingscience.org
+
+Soledad De Esteban-Trivigno <soledad.esteban@transmittingscience.org>
+

@@ -1,0 +1,104 @@
+Dear all,
+
+Physalia-courses provides 3 training courses in biological data analysis,
+interpretation and visualization using R.
+
+1) Genomic Data Visualization and Interpretation. 11-15 September 2017,
+Berlin (Germany).
+
+Instructors: Drs Obi and Malachi Griffith (Washington University School
+of Medicine, US)
+
+Course overview
+
+The advent of rapid and relatively cheap massively parallel sequencing
+has dramatically increased the availability of genome, transcriptome,
+and epigenome profiling. Analysis workflows and published best practices
+are also now available to process raw sequence data into alignments,
+variant calls, expression estimates, etc., in relatively standardized file
+formats. Interpretation and visualization of these data, often consisting
+of thousands to billions of data points, and extracting biological meaning
+remains a serious challenge. In this workshop we will explore a number
+of best-in-class visualization tools, and provide working examples that
+demonstrate important principles of 'omic interpretation strategies.
+
+For more info:
+https://www.physalia-courses.org/courses-workshops/course14/
+
+--
+
+2) Statistics for biologists using R. 18-23 September 2017, Berlin
+(Germany).
+
+Instructor: Dr Ken Aho (Idaho State University, US)
+
+Course overview
+
+This course will demonstrate the extensive capabilities of the R
+environment, and seek to develop/broaden the competency of participants in
+the use of R statistical applications. The course will have two components
+presented in morning and afternoon sessions over five days. Component
+one (Monday Sept. 18, Tuesday Sept. 19) will emphasize R programming
+characteristics including data management, use of existing package
+functions, graphics, customized function writing, calling routines from
+compiled languages, and documentation. The second component (Wednesday
+Sept. 20 - Friday Sept. 22) will address implementation of statistical
+analyses with R, particularly linear models. The materials will be
+presented using biological examples, making frequent use of the library
+asbio (Applied Statistics and Statistical Pedagogy for Biologists).
+
+For more info:
+https://www.physalia-courses.org/courses-workshops/course13/
+
+--
+
+3) Practical GWAS using Linux and R. 23-27 October 2017, Berlin (Germany).
+
+Instructor: Dr. Jing Hua Zhao (University of Cambridge School of Clinical
+Medicine, UK)
+
+Course overview
+
+The past decade has witnessed an astonishing development and the universal
+use of genome wide association studies (GWAS) in identification and
+characterisation of genetic variants underlying disorders and other
+variations in human and other species, which has an immense impact
+in biomedical research. This is owing to the ability to efficiently
+generate and process large quantity of genetic polymorphisms as well as to
+integrate with other sources such as gene expression and methylation. To
+tackle challenges in GWAS, a lot of methods and techniques have been
+established but many others are still evolving. The workshop therefore
+intends to give a grand picture as well as practical aspects of GWAS.
+
+For more info:
+https://www.physalia-courses.org/courses-workshops/course15/
+
+--
+
+For a full list of our training course please visit our website:
+https://www.physalia-courses.org/courses-workshops/
+
+In the meantime, thank you so much for your attention and participation.
+
+Best regards,
+
+Carlo Pecoraro
+
+--
+
+Carlo Pecoraro, Ph.D
+
+Physalia-courses Coordinator
+
+info@physalia-courses.org
+
+http://www.physalia-courses.org/
+
+Twitter: @physacourses
+
+mobile: +49 15771084054
+
+https://groups.google.com/forum/#!forum/physalia-courses
+
+Carlo Pecoraro <info@physalia-courses.org>
+
