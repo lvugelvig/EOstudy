@@ -1,0 +1,139 @@
+SWISS INSTITUTE IN STATISTICAL GENETICS
+
+                                       
+
+MODULE 1 - BAYESIAN STATISTICS FOR GENETICS
+
+WHERE? University of Lausanne
+WHEN? 4-6 September 2017
+
+ORGANIZERS: Prof. Jérôme Goudet (University of Lausanne - CH) &
+Prof. Bruce Weir (University of Washington - US)
+
+INSTRUCTORS: Prof. Jonathan Wakefield (University of Washington - US)
+& Prof. Ken Rice (University of Washington - US)
+
+INFO & REGISTRATION: https://www.cuso.ch/activity/?p=1128&uid=3350
+
+DESCRIPTION: The use of Bayesian methods in genetics has a long
+history. In this introductory module we will begin by discussing
+introductory probability. We will then describe Bayesian approaches to
+binomial proportions, multinomial proportions, two-sample comparisons
+(binomial, Poisson, normal), the linear model, and Monte Carlo methods of
+summarization. Advanced topics will be touched on, including hierarchical
+models, generalized linear models, and missing data. Illustrative
+applications will include: Hardy-Weinberg testing and estimation,
+detection of allele-specific expression, QTL mapping, testing in
+genome-wide association studies, mixture models, multiple testing in
+high throughput genomics.
+
+                                       
+
+MODULE 2 - POPULATION GENETIC DATA ANALYSIS
+
+WHERE? University of Lausanne
+WHEN? 6-8 September 2017
+
+ORGANIZERS: Prof. Jérôme Goudet (University of Lausanne - CH) &
+Prof. Bruce Weir (University of Washington - US)
+
+INSTRUCTORS: Prof. Jérôme Goudet (University of Lausanne - CH) &
+Prof. Bruce Weir (University of Washington - US)
+
+INFO & REGISTRATION: https://www.cuso.ch/activity/?p=1128&uid=3351
+
+DESCRIPTION: A unified treatment for the analysis of discrete genetic
+data, starting with estimates and sample variances of allele frequencies
+to illustrate genetic vs statistical sampling and Bayesian approaches. A
+detailed look at Hardy-Weinberg and linkage disequilibrium, including the
+use of exact tests with mid-p-values and a new look at X-chromosome Hardy-
+Weinberg testing. A new characterization of population structure with
+F-statistics, based on allelic matching within and between populations
+with individual relationship estimation as a special case. Analyses
+illustrated with applications to forensic science and association mapping,
+with particular reference to rare variants.
+
+                                       
+
+MODULE 3 - QUANTITATIVE GENETICS
+
+WHERE? University of Lausanne
+WHEN? 11-13 September 2017
+
+ORGANIZERS: Prof. Jérôme Goudet (University of Lausanne - CH) &
+Prof. Bruce Weir (University of Washington - US)
+
+INSTRUCTORS: Prof. Bruce Walsh (University of Arizona - US) &
+Prof. Guilherme J. M. Rosa (University of Wisconsin - US)
+
+INFO & REGISTRATION: https://www.cuso.ch/activity/?p=1128&uid=3744
+
+DESCRIPTION: Quantitative Genetics is the analysis of complex
+characters where both genetic and environment factors contribute to
+trait variation. Since this includes most traits of interest, such as
+disease susceptibility, crop yield, growth and reproduction in animals,
+human and animal behavior, and all gene expression data (transcriptome
+and proteome), a working knowledge of quantitative genetics is critical
+in diverse fields from plant and animal breeding, human genetics,
+genomics, behavior, to ecology and evolutionary biology. The course will
+cover the basics of quantitative genetics including: genetic basis for
+complex traits, population genetic assumptions including detection of
+admixture, Fisher's variance decomposition, covariance between relatives,
+calculation of the numerator relationship matrix based on IBD alleles
+and an arbitrary pedigree, the genomic relationship matrix based on
+AIS alleles, heritability in the broad and narrow sense, inbreeding and
+crossbreeding, and response to selection. Also an introduction to advanced
+topics such as: Mixed Models, Best Linear Unbiased Prediction (BLUP),
+Genomic selection (GBLUP), Genome Wide Association Analysis (GWAS), QTL
+mapping, detection of selection from genomic data, correlated characters;
+and the multivariate response to selection.
+
+                                       
+
+MODULE 4 - MIXED MODELS IN QUANTITATIVE GENETICS
+
+WHERE? University of Lausanne
+WHEN? 13-15 September 2017
+
+ORGANIZERS: Prof. Jérôme Goudet (University of Lausanne - CH) &
+Prof. Bruce Weir (University of Washington - US)
+
+INSTRUCTORS: Prof. Bruce Walsh (University of Arizona - US) &
+Prof. Guilherme J. M. Rosa (University of Wisconsin - US)
+
+INFO & REGISTRATION: https://www.cuso.ch/activity/?p=1128&uid=3745
+
+DESCRIPTION: "Mixed models" refers to the analysis of linear models
+with arbitrary (co)variance structures among and within random effects
+and may be due to such factors as relationships or shared environments,
+cytoplasm, maternal effects and history. Mixed models are utilized in
+complex data analysis where the usual assumption(s) of independence
+and/or homogenous variances fail. Mixed models allow effects of nature
+to be separated from those of nurture and are emerging as the default
+method of analysis for human data. These issues are pervasive in human
+studies due to the lack of ability to randomize subjects to households,
+choice, and prior history. In plant breeding, growth and yield data are
+correlated due to shared locations, but diminish by distance resulting in
+spatial correlations. In animal breeding, performance data is correlated
+because individuals maybe related and may share common material
+environment as well as common pens or cages. Further, when individuals
+share a common space, they may experience indirect genetics effects
+(IGEs), which is an inherited effect in one individual experienced as
+an environmental effect in an associated individual. The evolution of
+cooperation and competition is based on IGEs, the estimation of which
+require mixed model analysis. Detection of cytoplasmic and epigenetic
+effects rely heavily on mixed model methods because of shared material
+or parental histories. Topics to be discussed include a basic matrix
+algebra review, the general linear model, derivation of the mixed
+model, BLUP and REML estimation, estimation and design issues, Bayesian
+formulations. Applications to be discussed include estimation of breeding
+values and genetic variances in general pedigrees, association mapping,
+genomic selection, spatial correlations and corrections, maternal genetic
+effects, detecting selection from genomic data, admixture detection and
+correction, direct and indirect genetic effects, models of general group
+and kin selection, genotype by environment interaction models
+
+                                       
+
+QUERIES: caroline.betto-colliard@unil.ch
+

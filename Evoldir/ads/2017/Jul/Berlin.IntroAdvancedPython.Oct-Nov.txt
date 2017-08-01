@@ -1,0 +1,82 @@
+Dear all,
+
+We are pleased to inform you that we will run two Python courses this
+year in Berlin:
+
+1. Introduction to Python for biologists. 2-6 October 2017
+
+Instructor: Dr. Martin Jones (founder, Python for biologists:
+https://www.physalia-courses.org/instructors/t1/)
+
+This course is aimed at all researchers and technical workers with a
+background in biology who want to learn programming. Students should have
+enough biological background to appreciate the examples and exercise
+problems (i.e. they should know about DNA and protein sequences, what
+translation is, and what introns and exons are). No previous programming
+experience or computer skills (beyond the ability to use a text editor)
+are necessary, but you'll need to have a laptop with Python installed.
+
+Syllabus:
+https://www.physalia-courses.org/courses-workshops/course11/curriculum-11/
+
+For more information:
+https://www.physalia-courses.org/courses-workshops/course2/
+
+1. Advanced Python for biologists. 13-17 November 2017
+
+Instructor: Dr. Martin Jones (founder, Python for biologists:
+https://www.physalia-courses.org/instructors/t1/)
+
+The advanced course is aimed at people who want to develop bigger or more
+complicated programs in Python, or to learn more about the language,
+or to explore different approaches (object-oriented, functional)
+to programming. The material covered is very general purpose and
+can be applied to any kind of problem. Students should have enough
+biological/bioinformatics background to appreciate the examples and
+exercise problems (i.e. they should know what a protein accession number,
+BLAST report, and FASTA sequence is). They should also have basic Python
+experience (the Introduction to Python for Biologists course will fulfil
+these requirements). Students should be familiar with the use of lists,
+loops, functions and conditions in Python and have written at least a
+few small programs from scratch.
+
+Syllabus:
+https://www.physalia-courses.org/courses-workshops/course12/curriculum-12/
+
+For more information:
+https://www.physalia-courses.org/courses-workshops/course12/
+
+Upcoming courses and workshops:
+
+* Genomic Data Visualization and Interpretation (11-15 September
+2017). Instructors: Dr. Malachi Griffith, Dr. Obi Griffith, Mr. Zachary
+Skidmore (Washington University School of Medicine. USA).
+
+https://www.physalia-courses.org/courses-workshops/course14/
+
+* Statistics for biologists using R (18-23 September 2017). Instructor:
+Dr. Ken Aho (Idaho State University, USA).
+
+https://www.physalia-courses.org/courses-workshops/course13/
+
+Full list of courses and Workshops:
+https://www.physalia-courses.org/courses-workshops/
+
+--
+
+Carlo Pecoraro, Ph.D
+
+Physalia-courses Coordinator
+
+info@physalia-courses.org
+
+http://www.physalia-courses.org/
+
+Twitter: @physacourses
+
+mobile: +49 15771084054
+
+https://groups.google.com/forum/#!forum/physalia-courses
+
+Carlo Pecoraro <info@physalia-courses.org>
+

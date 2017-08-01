@@ -1,0 +1,70 @@
+*Understanding the genetic architecture of complex traits through 
+SNP-based heritability analysis*
+
+Date: Tuesday 5th September, University College London, 10-4pm
+
+Tutors: Prof David Balding (Melbourne and UGI) and Dr Doug Speed (UGI)
+
+Cost: 40 (or 30 for UCL Members)
+
+Advance Registration is REQUIRED
+
+https://www.eventbrite.com/e/ucl-genetics-short-course-methods-for-analysing-complex-trait-gwas-data-tickets-36314483598
+
+*----
+*
+
+*Background: *In recent years there has been great progress in 
+developing genome-wide statistical analyses for detecting causal 
+variants, constructing prediction models and better understanding the 
+genetic architecture of complex traits. However the underlying 
+regression model involves very large numbers of predictors, and strong 
+modelling assumptions are required to tackle the consequent problem of 
+over-fitting. The results can be sensitive to these assumptions, and 
+also to the effects of population structure, genotyping errors and the 
+extent to which rare SNPs are included.
+
+*Course outline: *We will cover mixed-model association analysis (e.g., 
+Fast-LMM, GEMMA), risk prediction (e.g., polygenic risk scores, BLUP and 
+MultiBLUP) and heritability analyses (GCTA, LDAK, LDSC), both using 
+individual-level genetic data and summary statistics. We will emphasise 
+the common elements of these methods, highlighting a standard framework 
+that has emerged for genome-wide SNP analysis, while also contrasting 
+the differences in underlying modelling assumptions.
+
+The practicals will provide step-by-step details for analysing genetic 
+data, starting either with indvidual-level data (e.g., PLINK files or 
+the output from IMPUTE2) or summary statistics (p-values from a GWAS). 
+There will be a selection of worked examples; to take part in the 
+practicals, participants should bring a laptop with either MAC or LINUX OS
+
+*Prerequisites:* Participants should be proficient in statistics 
+including some familiarity with random-effects regression models. In 
+genetics, knowledge of SNP genotypes and Hardy-Weinberg and linkage 
+equilibrium will be assumed. Computer scripts and output will be 
+discussed that assume some familiarity with scientific computing using 
+linux. Some familiarity with PLINK would be helpful but is not essential.
+
+**
+
+*----
+
+*Provisional Timetable*
+
+*10:00 - 12:40: Lecture 1 followed by Practical 1*
+
+Introduction to analysing GWAS data, including QC, single-SNP 
+analysis,polygenic risk scores, mixed-model analysis and gene-based analysis
+
+*12:40 - 13:20: Lunch*
+
+*13.20-16:00: Lecture 2 followed by Practical 2*
+
+Estimating heritability, bivariate correlations and enrichment of 
+functional categories
+
+Room details will be provided closer to the time; any questions, email 
+doug.speed@ucl.ac.uk
+
+Doug Speed <doug.speed@ucl.ac.uk>
+

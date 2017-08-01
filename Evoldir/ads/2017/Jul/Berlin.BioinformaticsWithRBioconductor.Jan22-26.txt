@@ -1,0 +1,78 @@
+Applied Statistics and Bioinformatics with R and Bioconductor
+
+https://www.physalia-courses.org/courses-workshops/course19/
+
+22-26 January 2018, Berlin (Germany)
+
+Overview
+
+This course will provide biologists and bioinformaticians with practical
+statistical and data analysis skills to perform rigorous analysis of
+high-throughput biological data. The course assumes some familiarity
+with genomics and with R programming, but does not assume prior
+statistical training. It covers the statistical concepts necessary
+to design experiments and analyze high-dimensional data generated
+by high-throughput sequencing, including: exploratory data analysis,
+principal components analysis, unsupervised clustering, batch effects,
+linear modeling for differential expression, gene set analysis.
+
+Preparation
+
+Come to the first class with the following installed:
+
+* R and Bioconductor:http://www.bioconductor.org/install
+* R Studio: https://www.rstudio.com/products/rstudio/download3/
+* Github desktop client (or any other Github client):
+  https://desktop.github.com/
+
+Additionally, please create an account
+athttp://www.github.com/ , and use it to introduce yourself at
+https://github.com/waldronlab/AppStatTrento/issues.
+
+Instructors
+
+Dr. Levi Waldron and Dr. Ludwig Geistlinger from the Waldron lab for
+computational biostatistics CUNY School of Public Health in New York City
+(http://waldronlab.org/)
+
+Labs
+
+Each day will include a hands-on lab session, that students should attempt
+and hand in before the following day by committing to the course Github
+repository. A selection of labs will be reviewed the following day.
+
+Course programme
+
+https://www.physalia-courses.org/courses-workshops/course19/curriculum-19/
+
+Registration deadline
+
+December 20th , 2017. Attendees are seated on a first-come, first-served
+basis.
+
+Full list of our courses and Workshops
+
+https://www.physalia-courses.org/courses-workshops/
+
+Best regards, 
+
+Carlo
+
+--
+
+Carlo Pecoraro, Ph.D
+
+Physalia-courses Coordinator
+
+info@physalia-courses.org
+
+http://www.physalia-courses.org/
+
+Twitter: @physacourses
+
+mobile: +49 15771084054
+
+https://groups.google.com/forum/#!forum/physalia-courses
+
+Carlo Pecoraro <info@physalia-courses.org>
+

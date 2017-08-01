@@ -1,0 +1,87 @@
+Dear colleagues,
+
+a reminder about the upcoming Experimental Evolution course in Vienna,
+Austria:
+
+The Vienna Graduate School of Population Genetics is now accepting
+applications for the course "Experimental evolution: From theory to
+practice" at the University of Veterinary Medicine in Vienna, November
+6-10, 2017.
+
+Experimental evolution is extensively used to address questions of
+evolutionary biology by exposing evolving populations to different
+environmental conditions. It offers the opportunity to replicate
+experiments and test for convergent outcomes. With the recent drop in
+DNA sequencing cost and the advance of sequencing technologies, the
+combination of experimental evolution with next generation sequencing
+of pools of individuals (Evolve & Resequence) has become a
+state-of-the-art method to link phenotypic responses to genetic
+changes. Although the availability of replicated time series data is
+one key advantage of E&R, the analysis of such data sets is still in
+its infancy. This course will introduce the participants to several
+new approaches for the analysis of genomic time series data covering
+the latest software tools as well as required statistical and
+computational skills.
+
+The course is targeted towards researchers interested in experimental
+evolution combined with NGS and will cover the design of experimental
+evolution studies as well as the analysis of Pool-Seq time series
+data.
+
+The course aims to introduce participants to:
+
+State-of-the-art software packages
+Modeling of neutral data
+Identifying selected regions
+Comparison of n-point analysis with time series data
+Inferring linkage structure of Pool-Seq data
+Estimating selection coefficients
+Calling transposable elements in time series data
+Inferring selection in transcriptomics data
+
+Morning lectures by internationally renowned faculty will be followed
+by computer practicals on the analysis of experimental evolution data
+in the afternoon.
+
+Faculty:
+
+Jeffrey E. Barrick (The University of Texas at Austin, US)
+Anthony M. Dean (University of Minnesota, US)
+Tadeusz J. Kawecki (University of Lausanne, CH)
+Christian Schlötterer (Vetmeduni Vienna, A)
+Marina Telonis-Scott (Monash University, AUS)
+Olivier Tenaillon (French Institute for Medical Research, FR)
+Henrique Teotonio (IBENS, FR)
+
+The course is free but will be restricted to a maximum of 15
+participants for the practical sessions (hands on computer lab).
+Additional seats will be available for attending the lectures, only.
+Students and researchers are invited to apply by submitting a single
+.pdf file containing 1) a short CV, 2) a motivation letter and a
+statement of computer skills to popgen.vienna@gmail.com by August 15,
+2017. Confidence in working with Unix command line as well as in R, is
+strongly recommended for the practicals. Participants are expected to
+arrange their own accommodation.
+
+Further information and updates available at
+http://www.popgen-vienna.at/training/experimental-evolution-2017.html
+
+-- 
+Dr. Julia Hosp
+Vienna Graduate School of Population Genetics
+Coordinator
+www.popgen-vienna.at
+https://twitter.com/PopGenViennaPhD
+
+c/o Institut für Populationsgenetik
+Veterinärmedizinische Universität Wien (Vetmeduni Vienna)
+Veterinärplatz 1, 1210 Wien
+
+T  +43 1 25077 4338
+F +43 1 25077 4390
+
+http://www.vetmeduni.ac.at/en/population-genetics/
+https://twitter.com/PopGenVienna
+
+Julia.Hosp@vetmeduni.ac.at
+

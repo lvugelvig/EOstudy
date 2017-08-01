@@ -1,0 +1,187 @@
+Course: Assembly and Annotation of genomes
+
+https://www.physalia-courses.org/courses-workshops/course20/
+
+12-16 February 2018, Berlin (Germany)
+
+Instructor: Dr. Thomas D. Otto (University of Glasgow,
+UK; https://www.physalia-courses.org/instructors/t28/)
+https://www.physalia-courses.org/instructors/t28/
+
+Overview
+
+This course will introduce biologists and bioinformaticians to the
+concepts of de novo assembly and annotation. Different technologies,
+from Illumina, PacBio, Oxford Nanopoor and maybe 10X will be used
+mixed with different approaches like correction, HiC scaffolding to
+generate good draft assemblies. Particular attention will be given to
+the quality control of the assemblies and to the understanding how
+errors occur. Further, annotation tools using RNA-Seq data will be
+introduced. An outlook of potential analysis is given. In the end of
+the course the students should be able to understand what is needed to
+generate a good annotated genome.
+
+Targeted Audience & Assumed Background
+
+The course is aimed at researchers interested in learning more about
+genome assembly and annotation. It will include information useful for
+both the beginner and the more advanced user. We will start by introducing
+general concepts and then continue to step-by-step describe all major
+components of a genome assembly and annotation workflow, from raw data
+all the way to a final assembled and annotated genome. There will be a
+mix of lectures and hands-on practical exercises using command line Linux.
+
+Attendees should have a background in biology. We will dedicate one
+session to some basic and advanced Linux concepts. Attendees should
+have also some familiarity with genomic data such as that arising from
+NGS sequencers.
+
+Session content
+
+Monday 12th - Classes from 09:30 to 17:30 - "get it starting"
+
+Session 1: Introduction (morning)
+
+In this session I will kick off with an introduction lecture about genome
+assembly and annotation - the past, the present and the future. I will use
+this introduction to motivate the five-day course. Next, I will explain
+the use of the virtual machine (VM), and the use of cloud computing. This
+is followed by short introduction to Linux (although I would prefer if
+student know a bit of Linux). Through the morning we will kick off our
+first assembly and put it through an annotation tool (Companion).
+
+Session 2: Visualization (half afternoon)
+
+During this afternoon, we are going to visualize the assembled and
+annotation genome from this morning in Artemis. The aim is to use the
+viewer to inspect the annotation, correct annotation and write out
+files. Next, we are going to perform a comparative exercise, (comparing
+the genome from the morning with a close reference) to understand the
+concept of syntheny, breakpoint or errors.
+
+Session 3: Mapping
+
+ In this module, I will teach the basics of read mapping. We will map
+ reads with bwa mem onto a reference and will examine duplications
+ and errors through not proper mapped read pairs. This is important to
+ exanimate the correctness of assemblies and will be used later the week.
+
+Tuesday 13th - Classes from 09:30 to 17:30 -  "learn it the old way"
+
+Session 4: De Brujin graph and PAGIT
+
+This module is dedicated to short read assembly. Although it might be
+superseded due to long reads, understanding the concept of short reads
+and De Brujin graph is crucial. After a seminar about this subject, we
+will assemble the same genome as before, but this time with Illumina:
+de novo assembly with velvet, contig ordering, error correction. Through
+comparative genomics we are going to look at errors in the assembly,
+and how they could be found with remapping short reads, and also split
+long reads. Last, we are going to compare the assembly to the assembly
+from Monday. This session will go into the afternoon of Tuesday.
+
+Session 5: RNA-Seq
+
+In this session, we will analysis the transcriptome of the sample we
+assembled so far, motivated through a little talk. In the exercise, we
+will map RNA-Seq reads, (short and long reads) understanding first the
+basics of RNA-Seq, but then will use the reads to correct gene models. We
+will discuss the concept of alternative splicing.
+
+ Finally, we will annotate our assembly with Augustus, using the mapped
+ RNA-Seq data and some manually corrected genes.
+
+Wednesday 14th - Classes from 09:30 to 17:30 - "do it yourself"
+
+Session 6: Large genome assembly
+
+First we are going to kick off an assembly of a larger genome, and let
+it run in the cloud over the day and the night. It will be important
+during the day to check if the assembly is still running.
+
+Session 7: Group Taks I
+
+Group task I: You will get a set of reads (from a random technology)
+and need to generate a draft genome assembly. Due to time restriction,
+the reads will be from a bacterial genome and you need to
+
+*         Assemble the genome
+*         Check the assembly
+*        Annotate the genome
+
+This task will be done in groups of 2-3 students. During the day,
+I will motivate some of the new tools, like bacterial annotation,
+circularization etc. through little talks.
+
+Thursday 15 th - Classes from 09:30 to 17:30 - "apply your knowledge
+to real world example"
+
+Session 8: Group Taks I continued
+
+First each group will present the results of the group task, quality
+of the assembly, amount of annotated genes, and give an outlook what
+analysis they would do next and why.
+
+Session 9: Large genome assembly continued
+
+For the rest of the morning, we are going to analyse the larger genome
+assembly started Wednesday morning. How did it come along? How big is
+it? What is it? How much compute did it take?
+
+Session 10: Group Task II
+
+Group task 2, pick 2 projects: During the next 24h, each group will work
+on two different projects. Those range from: Assembly of genomes, size
+from 1-40MB, virus assembly, using HiC data for the assembly, comparing
+different sequencing technologies, comparing different assembly tools,
+evaluate the quality of assemblies, annotate a large genome etc. Each
+group will pick 2 projects and needs to manage the amount of time (what
+and when to set off running, what will you run over night?). Important,
+students could also analyse their own data as a project, if they can
+convince the other group members that their project is interesting.
+
+ These project simulates more "real life" examples as compared to
+ the data from the exercises the rather raw reads are in the short read
+ archives, some might be of bad quality, other are contaminated, etc.
+
+Friday 16 th - Classes from 09:30 to 17:30
+
+Session 11: Group Task II continued
+
+We are continuing with the group task.
+
+Session 12: Group Task II presentation
+
+In this session, each group will present the results of their work. Each
+member of the groups will have to present parts of the projects. This
+is followed by a general discussion about the group tasks, and the course.
+
+Available packages :
+
+1) Course-only: includes course material and refreshments (480 euros;
+   VAT incl.)
+
+2) All-inclusive: includes course material, refreshments, meals
+   (breakfast, lunch and dinner), accommodation (795 euros; VAT incl.)
+
+Registration deadline: 12th January, 2018.
+
+The full list of our courses and Workshops:
+https://www.physalia-courses.org/courses-workshops/
+
+--
+
+Carlo Pecoraro, Ph.D
+
+Physalia-courses Coordinator
+
+info@physalia-courses.org
+
+http://www.physalia-courses.org/
+
+Twitter: @physacourses
+
+mobile: +49 15771084054
+
+https://groups.google.com/forum/#!forum/physalia-courses
+

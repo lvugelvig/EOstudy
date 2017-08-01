@@ -1,0 +1,48 @@
+*Workshop FUNCTIONAL PLANT BIOINFORMATICS*
+Organised by ELIXIR Belgium and the VIB Bioinformatics Core
+
+Date: 14-15 September 2017
+Location: Ghent, Belgium
+
+*Goals*
+This workshop will introduce the basic concepts of comparative and 
+functional -omics data analysis in plants through lectures and practical 
+hands-on sessions. Both plant biologists and geneticists with an 
+interest in bioinformatics, data analysis, and comparative & regulatory 
+genomics should attend this training.  After this workshop, you will 
+have a good understanding of the organization and evolution of plant 
+gene families and know how to extract relevant biological information 
+from -omics gene sets.
+
+*Summary*
+DAY 1
+Introduction plant comparative genomics (genes, gene families, synteny 
+analysis) + introduction PLAZA platform
+Functional characterization of plant genes (Families, GO, InterPro)
+
+DAY 2
+Gene set analysis for different plant -omics data sets:
+- functional interpretation of RNA-Seq and ChIP-Seq genes using the 
+PLAZA Workbench
+- co-expression and Transcription Factor analysis
+
+*Prerequisites*
+basic knowledge of genes, genomes, transcript profiling, BLAST, 
+homology, Gene Ontology (no programming skills are required).
+
+More info and registration: click here 
+(http://www.vib.be/en/training/research-training/courses/Pages/Functional-Plant-Bioinformatics---PLAZA.aspx)
+
+-- 
+
+Prof. Dr. Klaas Vandepoele
+Tel. 32 (0)9 33 13822
+VIB Department of Plant Systems Biology, Ghent University
+Technologiepark 927, 9052 Gent, Belgium
+
+Lab website:http://bioinformatics.psb.ugent.be/cig/
+BIG N2N:http://www.bign2n.ugent.be/
+Twitter:http://twitter.com/plaza_genomics
+
+Klaas Vandepoele <klaas.vandepoele@psb.vib-ugent.be>
+

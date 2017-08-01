@@ -1,0 +1,204 @@
+Workshop title: Genomic Data Visualization and Interpretation
+
+11th-15th September, Berlin (Germany)
+
+https://www.physalia-courses.org/courses-workshops/course14/
+
+Application deadline is the 10th of August 2017.
+
+Topic: Advanced R and bioinformatics applications for visualization and
+interpretation of genomic data.
+
+Instructors:
+
+Dr. Obi Griffith (http://obigriffith.github.io/; Washington University
+School of Medicine, USA),
+
+Dr. Malachi Griffith (http://malachig.github.io/; Washington University
+School of Medicine, USA)
+
+Mr. Zachary Skidmore (Washington University School of Medicine, USA)
+
+Course overview
+
+The advent of rapid and relatively cheap massively parallel sequencing
+has dramatically increased the availability of genome, transcriptome,
+and epigenome profiling. Analysis workflows and published best practices
+are also now available to process raw sequence data into alignments,
+variant calls, expression estimates, etc., in relatively standardized file
+formats. Interpretation and visualization of these data, often consisting
+of thousands to billions of data points, and extracting biological meaning
+remains a serious challenge. In this workshop we will explore a number
+of best-in-class visualization tools, and provide working examples that
+demonstrate important principles of 'omic interpretation strategies.
+
+Workshop format
+
+The workshop will be delivered over the course of five days. Each
+day will include an introductory lecture with class discussion of key
+concepts. The remainder of each day will consist of practical hands-on
+sessions. These sessions will involve a combination of both mirroring
+exercises with the instructor to demonstrate a skill as well as applying
+these skills on your own to complete complete individual exercises. After
+and during each exercise, interpretation of results will be discussed as
+a group. Computing will be done using a combination of tools installed on
+the attendees laptop computer and web resources accessed via web browser.
+
+Who should attend
+
+This workshop is aimed at researchers and technical workers who are
+analyzing some kind of omic data (e.g. WGS, exome, RNA-seq, variant
+files, etc.). Examples demonstrated in this course will involve primarily
+human genome/transcriptome data but many of the concepts learned will
+be applicable to model organisms, metagenomics, simulated data, etc.
+
+Requirements
+
+Attendees should have a background in biology and a basic knowledge of
+R. We will dedicate one session to a brief R/linux primer. Attendees
+should have also some familiarity with genomic data. The course will
+teach relatively advanced usage of R (especially ggplot2 and Bioconductor
+packages). Attendees should have a working installation of R and RStudio
+on their laptop.
+
+Example data
+
+Attendees will learn to visualize and interpret results from real human
+genome data sets generated at the McDonnell Genome Institute at Washington
+University School of Medicine. These data will be analyzed to determine
+previously known as well as potentially novel interpretations. Since the
+example data are not simulated or arbitrarily filtered, interpretation and
+visualization will be performed in the context of representative levels
+of sequence error, and other sources of technical and biological noise.
+
+Session content
+
+Monday 11th - Classes from 09:30 to 17:30
+Lecture 1: Introduction to Genomic Data Visualization and Interpretation
+
+* Central dogma
+* Omic technologies and data
+* Reference files: GTF, BAM, VCF, MAF, BED, etc
+* Genome annotation resources, browsers, etc.
+* Introduction to demonstration data sets
+
+Lab 1: Genome Browsing and Visualization exercises
+
+* IGV
+o Basics
+o Creating custom genomes
+o Sashimi plots
+* UCSC
+* Ensembl
+
+Lab 2: Web resources for variant annotation and visualization
+
+* VEP/SnpEff
+* ProteinPaint
+* CBioportal
+* Ensembl BioMart
+
+Tuesday 12th - Classes from 09:30 to 17:30
+
+Lecture 2. Introduction to R for Genomic Data Visualization and
+Interpretation
+
+Lab 3: Intro to R
+
+* Installation
+* CRAN and Bioconductor
+* Data types
+* Reading and writing Data
+* Data Frames, slicing, and manipulation
+* Basic control structures
+* apply() family of functions
+* Additional resources
+
+Lab 4: Intro to ggplot
+
+* wide vs long format
+* geom and aes
+* axis scaling and manipulation
+* faceting
+* themes and colours
+* ggvis
+* Additional resources
+
+Lab 5: Real world examples using ggplot
+
+* Heatmaps
+* Regression lines
+* Survival analysis
+* circos
+
+Wednesday 13th - Classes from 09:30 to 17:30
+
+Lab 6. Popular genomic visualizations with GenVisR
+
+* Waterfall plots
+* TvTi plots
+* cnSpec plots
+* cnView plots
+* lohSpec plots
+* genCov plots
+
+Lecture 3: Differential gene expression and pathway analysis
+
+Lab 7: Differential expression analysis
+
+* DEseq2
+
+Thursday 14th - Classes from 09:30 to 17:30
+
+Lab 8: Tools and datasets for pathway analysis
+
+* KEGG
+* GO
+* GAGE (R package)
+
+Lab 9: Pathway visualization
+
+* Pathview (R package)
+* Cytoscape
+
+Lecture 4: Clinical interpretation of variants
+
+Lab 10: Clinical variant interpretations
+
+* Variant identity
+o HGVS
+o TransVar
+o Mutalyzer
+* ClinVar
+* CIViC
+
+Friday 15th - Classes from 09:30 to 17:30
+
+Lecture 5: Review. Question and Answer. Open discussion.
+
+Lab 11a: Optional integrated exercises
+
+Lab 11b: Customized visualization and interpretation of your own data
+
+Packages available:
+
+* Course-only: refreshments and course material (530  euro ; VAT included)
+* All-inclusive: refreshments, course material, 3 meals and
+  accommodation in a *** hotel (795  euro ; VAT included)
+
+--
+
+Carlo Pecoraro, Ph.D
+
+Physalia-courses Coordinator
+
+info@physalia-courses.org
+
+http://www.physalia-courses.org/
+
+Twitter: @physacourses
+
+mobile: +49 15771084054
+
+https://groups.google.com/forum/#!forum/physalia-courses
+

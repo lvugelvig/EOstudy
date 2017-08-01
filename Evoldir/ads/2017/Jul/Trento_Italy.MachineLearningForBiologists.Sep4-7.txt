@@ -1,0 +1,75 @@
+Please circulate this email to those who might be interested.
+
+ELIXIR-IIB, in collaboration with Fondazione Bruno Kessler and Fondazione
+E. Mach, Trento, Italy, is pleased to announce the upcoming training course
+on "Machine Learning for Biologists".
+
+IMPORTANT DATES:
+*Deadline for applications*: 21 July 2017
+*Course date*: 4-7 September 2017
+
+Selected participants will be notified by 25 July 2017.
+A maximum of 24 candidates will be accepted in the course. Priority will be
+given to candidates from ELIXIR-IIB member institutions and ELIXIR nodes.
+
+VENUE: Fondazione Edmund Mach, Palazzo della Ricerca e della Conoscenza,
+Via E. Mach 1, San Michele all'Adige (TN), Italy, (zip code 38010).
+
+Full details at: https://elixir-iib-training.github.io/website/2017/09/04/
+MachineLearning-Trento.html
+
+COURSE DESCRIPTION:
+The aim of the course is to provide a practical introduction to the
+analysis of "omics" data. Topics will range from data
+visualization/exploration to univariate/multivariate analysis and machine
+learning. Practical exemples and applications will be illustrated by using
+R and Python.
+
+COURSE MILESTONES:
+- Data exploration and visualization
+- Univariate/Multivariate analysis
+- Introduction to machine learning: classifiers, performance measures,
+  diagnostics
+- Machine learning tools for the analysis of Gene Expression data
+- The Data Analysis Plan (DAP) - intro to unbiased pipelines for
+  (binary) classification
+- Performance measures and diagnostic plots - Accuracy, MCC, Stability:
+  theory and graphics
+- Differential network analysis - co-expression networks, graph
+  comparison, community detection: theory and examples in
+  R/Python, visualization by the igraph library and use of the
+  ReNette web interface
+- Basic application of ML to gene prediction
+
+Should you have any question, do not hesitate to contact the ELIXIR-IIB
+Training Team (elixir.ita.training@gmail.com) and/or the local organiser
+Dr. Alessandro Cestaro (alessandro.cestaro@fmach.it).
+
+Thank you for your interest,
+
+The Organisers and the ELIXIR-IIB Training Team
+Alessandro Cestaro (Fondazione E. Mach, Trento, Italy)
+Vincenza Colonna (ELIXIR-IIB Training Team)
+
+* * *
+Vincenza Colonna, PhD
+http://www.igb.cnr.it/popgenlab
+
+Consiglio Nazionale delle Ricerche
+Istituto di Genetica e Biofisica "Adriano Buzzati-Traverso"
+piano 1, stanza 20 -via Pietro Castellino 111 - 80131 Napoli - IT
+
+tel +39 081 6132 254 - fax +39 081 6132 706 - skype enza.colonna
+email vincenza.colonna@igb.cnr.it
+google scholar <http://goo.gl/SzimG0>
+
+----
+
+would you like to know about the most amazing project ever?
+http://www.igb.cnr.it/obilab
+
+----------
+interested in Life Science and/or Mathematics? visit http://www.bmtl.it/
+
+vincenza colonna <vincenza.colonna@igb.cnr.it>
+

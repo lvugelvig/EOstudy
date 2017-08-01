@@ -1,0 +1,174 @@
+Workshop: Analysis of single cell RNA-seq data
+
+https://www.physalia-courses.org/courses-workshops/course18/
+
+Dates: 5th-9th February 2018
+
+Instructors:
+
+Dr. Vladimir Kiselev (Wellcome Trust Sanger Institute, UK)
+
+Dr. Tallulah Andrews (Wellcome Trust Sanger Institute, UK)
+
+COURSE OVERVIEW
+
+In recent years single cell RNA-seq (scRNA-seq) has become widely used
+for transcriptome analysis in many areas of biology. In contrast to bulk
+RNA-seq, scRNA-seq provides quantitative measurements of the expression
+of every gene in a single cell. However, to analyze scRNA-seq data,
+novel methods are required and some of the underlying assumptions for the
+methods developed for bulk RNA-seq experiments are no longer valid. In
+this course we will cover all steps of the scRNA-seq processing, starting
+from the raw reads coming off the sequencer. The course includes common
+analysis strategies, using state-of-the-art methods and we also discuss
+the central biological questions that can be addressed using scRNA-seq.
+
+WORKSHOP FORMAT
+
+The workshop will be delivered over the course of five days. Each day will
+include an introductory lecture with class discussion of key concepts. The
+remainder of each day will consist of practical hands-on sessions. These
+sessions will involve a combination of both mirroring exercises with the
+instructor to demonstrate a skill as well as applying these skills on your
+own to complete individual exercises. After and during each exercise,
+interpretation of results will be discussed as a group. Computing will
+be done using a combination of tools installed on the attendees laptop
+computer and web resources accessed via web browser.
+
+WHO SHOULD ATTEND
+
+This workshop is aimed at researchers and technical workers who
+are analyzing scRNA-seq data. The material is suitable both for
+experimentalists who want to learn more about data-analysis as
+well as computational biologists who want to learn about scRNASeq
+methods. Examples demonstrated in this course can be applied to any
+experimental protocol or biological system.
+
+REQUIREMENTS
+
+The course is intended for those who have basic familiarity with Unix
+and bash and R scripting languages.  We will also assume that you are
+familiar with mapping and analysing bulk RNA-seq data as well as with
+the commonly available computational tools.
+
+EXAMPLE DATA
+
+Attendees will learn to process, analyze, visualize and interpret results
+from one of the Gene Expression Omnibus (GEO) publicly available single
+cell datasets. These datasets were generated from different organisms and
+tissues. These data are representative of multiple scRNASeq protocols
+and various experimental designs. They will be analyzed to determine
+previously known as well as potentially novel interpretations.
+
+CURRICULUM
+
+Monday 5th - Classes from 09:30 to 17:30
+
+Lecture 1 - scRNA-Seq experimental design and raw data processing
+
+* General introduction Comparison of Bulk and single cell RNA-Seq
+* Overview of available technologies and experimental protocols  
+* scRNA-Seq experimental design scRNA-Seq general computational workflow
+* Common single-cell analyses and interpretation
+
+Lab 1 - Processing raw scRNA-Seq data
+
+* File formats: FastQ, BAM, CRAM
+* Demultiplexing
+* Reads QC
+* Read Trimming
+
+Lab 2 - Read alignment
+
+* Alignment using STAR
+* Alignment using Kallisto
+
+Tuesday 6th - Classes from 09:30 to 17:30
+
+Lecture 2 - Read quantification
+
+* Read & UMI counting
+* Gene length & coverage
+* Gene expression units
+
+Lab 3 - Introduction to R/Bioconductor
+
+* Installing packages: CRAN, Bioconductor, github
+* Data-types
+* Matrices, Data.frames, Bioconductor classes
+
+Lab 4 - Introduction to scater, ggplot2 and pheatmap
+
+* scater object
+* Intro to ggplot2 and pheatmap
+* Visualisation of scRNA-Seq
+
+Wednesday 7th - Classes from 09:30 to 17:30
+
+Interactive Lecture 3 - Expression QC, normalisation and batch correction
+
+* Different normalisation methods
+* Batch correction methods
+* Evaluation methods for batch correction
+
+Lab 5 - Analysis of GEO data
+
+* Download data from GEO, create a scater object and perform the
+analysis above
+
+Thursday 8th - Classes from 09:30 to 17:30
+
+Lecture 4 - Identifying cell populations and Feature selection
+
+* Dimensionality reduction
+* Clustering
+* Identifying marker genes
+* Differential expression
+* Validation/follow-up
+
+Lab 6 - Feature selection & Clustering analysis
+
+* Comparison of clustering methods
+* Comparison of feature selection methods
+
+Lecture 5 - Pseudotime cell trajectories
+
+* Waddington Landscape
+* Pseudotime inference
+* Differential expression through pseudotime
+
+Lab 7 - Pseudotime analysis
+
+* Comparison of pseudotime methods
+
+Friday 9th - Classes from 09:30 to 17:30
+
+Lecture 6 - Combining scRNASeq datasets
+
+* Projecting cells to existing reference
+
+Lecture 7 - Review, Questions and Answers. Open discussion
+
+Lab 8 - Analysis of GEO datasets
+
+Lecture 8 - Presentation of results from GEO datasets
+
+For more information, please visit our website:
+https://www.physalia-courses.org/courses-workshops/course18/
+
+--
+
+Carlo Pecoraro, Ph.D
+
+Physalia-courses Coordinator
+
+info@physalia-courses.org
+
+http://www.physalia-courses.org/
+
+Twitter: @physacourses
+
+mobile: +49 15771084054
+
+https://groups.google.com/forum/#!forum/physalia-courses
+

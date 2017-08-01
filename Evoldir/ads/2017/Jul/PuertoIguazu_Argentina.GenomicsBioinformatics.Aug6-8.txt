@@ -1,0 +1,64 @@
+GENOMICS AND BIOINFORMATICS WORKSHOP
+ORNITHOLOGICAL CONGRESS OF THE AMERICAS - PUERTO IGUAZU, ARGENTINA,
+AUGUST 6-8 2017
+http://www.afonet.org/2017iguazu/site/scientific-program/
+
+Organizers: Scott V. Edwards, Timothy Sackton, Allison Shultz and
+Gustavo Bravo, (Museum of Comparative Zoology, Harvard University, US),
+Cecilia Kopuchian, (CECOAL-CONICET, Argentina)
+
+Dates: 6-8 August (3 days)
+
+Registration fee: Free. This workshop is supported by the "Sistema
+Nacional de Datos Genomicos" from Argentina (MINCYT). There are some
+travel grants (for flights within Argentina) for attendees of this
+workshop. To register, send an email before 12 of July to
+ckopuchian@gmail.com with your name, DNI/Passport number and your
+position. Travel grant applicants should also send a reduced CV and a
+short letter of interest in this workshop and why is important for your
+research or work.
+
+Summary of objectives: Each student should bring his own laptop for
+practical classes. The objective of this workshop is for students to
+learn about the different genomic tools available to apply to their own
+research projects. The course will be taught in English and Spanish.
+
+Requirements: Participants are strongly recommended to bring a laptop,
+as large sections of the workshop will be hands on. Linux and macs
+strongly preferred. Some previous experience with R or the linux
+command line would be helpful, but not required. We will provide
+software and example datasets; participants should download and install
+everything prior to the workshop. Links will be provided two weeks
+prior to the workshop.
+
+Syllabus of topics to be covered: Introduction to genomic methods and
+marker types. Marker types and what can be done with them: RAD-seq,
+ultraconserved elements (UCEs), and whole-genome methods. Overview of
+tools for genomic analysis. Introduction to the UNIX command line.
+RAD-seq. Overview of RAD techniques. Analysis approaches: Reference
+genome based, Non-reference based, Quality checks on SNP data. Using
+command line tools to understand variant call files:Quality checks,
+Filtering. Population genetics in R. Introduction to R. Tools for
+analysis of SNP data (adagenet). Principal component analysis and
+related methods in R. Sequence-capture. Introduction to sequence
+capture methods and marker types. Using the PHYLUCE pipeline for UCE
+data. Preprocessing and quality checks. Building alignments. Building
+phylogenies with species tree methods. Whole-genome approaches.
+Introduction to whole genome methods: Genome assembly, Transcriptome
+assembly. Population resequencing: Mapping, filtering and SNP calling.
+Using genomic data. Population genomics with ANGSD and NGSTools.
+Argentinean genomic research and resources
+
+Valentina Ferretti, PhD
+IEGEBA-CONICET
+Departamento de EcologÃa, Genetica y Evolucion
+Facultad de Ciencias Exactas y Naturales
+Universidad de Buenos Aires
+Pabellon 2 - Ciudad Universitaria
+Av. Int. Guiraldes 2160, C1428EGA CABA
+"Ever tried. Ever failed. No matter. Try again. Fail again. Fail
+better."
+~Samuel Beckett
+
+Valentina Ferretti <ferrettivale@gmail.com>
+

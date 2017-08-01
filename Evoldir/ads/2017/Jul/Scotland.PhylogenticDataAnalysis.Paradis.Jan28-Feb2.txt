@@ -1,0 +1,209 @@
+"Phylogenetic data analysis using R"
+
+Delivered by Dr. Emmanuel Paradis
+
+www.prstatistics.com/course/introduction-to-phylogenetic-analysis-with-r-phyg-phyl02/
+
+This course will run from 28th January - 2nd February 2018 at SCENE 
+field station, Loch Lomond, Glasgow.
+
+The main objectives of the course are to teach the theoretical bases of 
+phylogenetic analysis, and to give the ability to initiate a 
+phylogenetic analysis starting from the files of molecular sequences 
+until the interpretation of the results and the graphics. The 
+introduction will cover a brief historical background and an overview of 
+the different methods of phylogenetic inference. Different kinds of data 
+will be considered, but with a special emphasis on DNA sequences. The 
+software used will be based on R and several specialized packages 
+(particularly ape and phangorn). Other software will be used (e.g., 
+MUSCLE or Clustal) called from R. Overall, the course will cover almost 
+all aspects of phylogenetic inference from reading/downloading the data 
+to plotting the results. This course is intended for PhD and 
+postgraduate students, researchers and engineers in evolutionary 
+biology, systematics, population genetics, ecology, conservation.
+
+Course content is as follows
+Day 1
+-	Refresher on R: data structures, data manipulation with the indexing 
+system, scripts, using the help system.
+-	Introduction to phylogenetic inference.
+-	Basics on phylogenetic data (sequences, alignments, trees, networks, 
+"splits") and other data in R.
+-	Reading / writing data from files or from internet.
+-	Matching data. Manipulating labels. Subsetting data.
+-	Main package: ape.
+Day 2
+-	Plotting and annotating trees.
+-	Theory of sequence alignment. Comparing alignments. Graphical 
+analyses of alignments.
+-	Main packages: ape (with MUSCLE and Clustal).
+Day 3
+-	Theory and methods of phylogeny reconstruction.
+-	Parsimony methods.
+-	Evolutionary distances.
+-	Distance-based methods: General principles and the main methods (NJ, 
+BIONJ, FastME, MVR).
+-	Methods for incomplete distances matrices (NJ*, BIONJ*, MVR*). 
+Methods for combining several matrices (SDM).
+-	Main packages: ape, phangorn.
+Day 4
+-	Theory of maximum likelihood estimation.
+-	Application to phylogeny reconstruction.
+-	Substitution models.
+-	Tree space and topology estimation.
+-	Main packages: ape, phangorn.
+Day 5
+-	Tree comparison, consensus methods.
+-	Topological space and distances.
+-	Bootstrap.
+-	Bayesian methods.
+
+Please email any inquiries to oliverhooker@prstatistics.com or visit our 
+website www.prstatistics.com
+
+Please feel free to distribute this material anywhere you feel is 
+suitable
+
+PRstatistics upcoming courses - email for details 
+oliverhooker@prstatistics.com for details
+
+1.	META-ANALYSIS IN ECOLOGY, EVOLUTION AND ENVIRONMENTAL SCIENCES 
+#METR01
+24th - 28th July, Scotland, Prof. Julia Koricheva, Prof. Elena 
+Kulinskaya
+http://www.prstatistics.com/course/meta-analysis-in-ecology-evolution-and-environmental-sciences-metr01/
+
+2.	SPATIAL ANALYSIS OF ECOLOGICAL DATA USING R #SPAE
+7th - 12th August 2017, Scotland, Prof. Jason Matthiopoulos, Dr. James 
+Grecian
+http://www.prstatistics.com/course/spatial-analysis-ecological-data-using-r-spae05/
+
+3.	ECOLOGICAL NICHE MODELLING USING R #ENMR
+16th - 20th October 2017, Scotland, Dr. Neftali Sillero
+http://www.prstatistics.com/course/ecological-niche-modelling-using-r-enmr01/
+
+4.	GENETIC DATA ANALYSIS AND EXPLORATION USING R #GDAR
+23rd - 27th October, Wales, Dr. Thibaut Jombart, Zhian Kavar
+http://www.prstatistics.com/course/genetic-data-analysis-exploration-using-r-gdar03/
+
+5.	STRUCTURAL EQUATION MODELLING FOR ECOLOGISTS AND EVOLUTIONARY 
+BIOLOGISTS USING R #SEMR
+23rd - 27th October, Wales, Prof Jarrett Byrnes, Dr. Jon Lefcheck
+http://www.prstatistics.com/course/structural-equation-modelling-for-ecologists-and-evolutionary-biologists-semr01/
+
+6.	LANDSCAPE (POPULATION) GENETIC DATA ANALYSIS USING R #LNDG
+6th - 10th November, Wales, Prof. Rodney Dyer
+http://www.prstatistics.com/course/landscape-genetic-data-analysis-using-r-lndg02/
+
+7.	APPLIED BAYESIAN MODELLING FOR ECOLOGISTS AND EPIDEMIOLOGISTS #ABME
+20th - 25th November 2017, Scotland, Prof. Jason Matthiopoulos, Dr. Matt 
+Denwood
+http://www.prstatistics.com/course/applied-bayesian-modelling-ecologists-epidemiologists-abme03/
+
+8.	ADVANCING IN STATISTICAL MODELLING USING R #ADVR
+11th - 15th December 2017, Wales, Dr. Luc Bussiere, Dr. Tom Houslay, 
+Dr. Ane Timenes Laugen,
+http://www.prstatistics.com/course/advancing-statistical-modelling-using-r-advr07/
+
+9.	INTRODUCTION TO BAYESIAN HIERARCHICAL MODELLING #IBHM
+29th Jan - 2nd Feb 2018, Scotland, Dr. Andrew Parnell
+http://www.prstatistics.com/course/introduction-to-bayesian-hierarchical-modelling-using-r-ibhm02/
+
+10.	PHYLOGENETIC DATA ANALYSIS USING R #PHYL
+28th Jan - Feb 2nd, Scotland,  Dr. Emmanuel Paradis
+https://www.prstatistics.com/course/introduction-to-phylogenetic-analysis-with-r-phyg-phyl02/
+
+11.	ANIMAL MOVEMENT ECOLOGY (February 2018) #ANME
+19th - 23rd February 2018, Wales, Dr Luca Borger, Dr. John Fieberg
+
+12.	GEOMETRIC MORPHOMETRICS USING R #GMMR
+5th - 9th June 2017, Scotland, Prof. Dean Adams, Prof. Michael 
+Collyer, Dr. Antigoni Kaliontzopoulou
+http://www.prstatistics.com/course/geometric-morphometrics-using-r-gmmr01/
+
+13.	FUNCTIONAL ECOLOGY FROM ORGANISM TO ECOSYSTEM: THEORY AND 
+COMPUTATION #FEER
+5th - 9th March 2018, Scotland, Dr. Francesco de Bello, Dr. Lars 
+Götzenberger, Dr. Carlos Carmona
+http://www.prstatistics.com/course/functional-ecology-from-organism-to-ecosystem-theory-and-computation-feer01/
+
+14.	MODEL BASE MULTIVARIATE ANALYSIS OF ABUNDANCE DATA USING R #MBMV0
+8th - 12th July 2018,  Scotland, Prof David Warton
+
+15.	ADVANCES IN MULTIVARIATE ANALYSIS OF SPATIAL ECOLOGICAL DATA USING R 
+#MVSP
+Prof. Pierre Legendre, Dr. Olivier Gauthier - Date and location to be 
+confirmed
+
+16.	STABLE ISOTOPE MIXING MODELS USING SIAR, SIBER AND MIXSIAR #SIMM
+Dr. Andrew Parnell, Dr. Andrew Jackson - Date and location to be 
+confirmed
+
+17.	NETWORK ANAYLSIS FOR ECOLOGISTS USING R #NTWA
+Dr. Marco Scotti - Date and location to be confirmed
+
+18.	MULTIVARIATE ANALYSIS OF SPATIAL ECOLOGICAL DATA #MASE
+Prof. Subhash Lele, Dr. Peter Solymos - Date and location to be 
+confirmed
+
+19.	TIME SERIES MODELS FOR ECOLOGISTS USING R (JUNE 2017 #TSME
+Dr. Andrew Parnell - Date and location to be confirmed
+
+-----
+
+PRinformatics upcoming courses - email for details 
+oliverhooker@prinformaticss.com for details
+
+1.	INTRODUCTION TO BIOINFORMATICS USING LINUX #IBUL
+16th - 20th October, Scotland, Dr. Martin Jones
+http://www.prstatistics.com/course/introduction-to-bioinformatics-using-linux-ibul02/
+
+2.	INTRODUCTION TO PYTHON FOR BIOLOGISTS #IPYB
+27th Nov - 1st Dec, Wales, Dr. Martin Jones
+http://www.prinformatics.com/course/introduction-to-python-for-biologists-ipyb04/
+
+3.	INTRODUCTION REMOTE SENSING AND GIS APPLICATIONS FOR ECOLOGISTS #IRMS
+27th Nov - 1st Dec, Wales, Dr Duccio Rocchini, Dr. Luca Delucchi
+http://www.prstatistics.com/course/introduction-to-remote-sensing-and-gis-for-ecological-applications-irms01/
+
+4.	DATA VISUALISATION AND MANIPULATION USING PYTHON #DVMP
+11th - 15th December 2017, Wales, Dr. Martin Jones
+http://www.prinformatics.com/course/data-visualisation-and-manipulation-using-python-dvmp01/
+
+5.	EUKARYOTIC METABARCODING
+23rd - 27th July 2018, Scotland, Dr. Owen Wangensteen
+http://www.prinformatics.com/course/eukaryotic-metabarcoding-eukb01/
+
+6.	CODING, DATA MANAGEMENT AND SHINY APPLICATIONS USING RSTUDIO FOR 
+EVOLUTIONARY BIOLOGISTS AND ECOLOGISTS #CDSR
+Dr. Aline Quadros Date and location to be confirmed
+
+7.	BIOINFORMATICS FOR GENETICISTS AND BIOLOGISTS #BIGB
+Dr. Nic Blouin, Dr. Ian Misner Date and location to be confirmed
+
+-- 
+Oliver Hooker PhD.
+PR statistics
+
+2017 publications -
+
+Ecosystem size predicts eco-morphological variability in post-glacial 
+diversification. Ecology and Evolution. In press.
+
+The physiological costs of prey switching reinforce foraging 
+specialization. Journal of animal ecology.
+
+prstatistics.com
+facebook.com/prstatistics/
+twitter.com/PRstatistics
+groups.google.com/d/forum/pr-statistics-post-course-forum
+prstatistics.com/organiser/oliver-hooker/
+
+3/1, 128 Brunswick Street
+Glasgow
+G1 1TF
+
++44 (0) 7966500340
+
+Oliver Hooker <oliverhooker@prstatistics.com>
+
