@@ -2,7 +2,6 @@
 
 ## Keynote speakers
 
-
 ## Invited speakers
 
 
@@ -13,6 +12,5 @@
 
 
 ## Organizing committee
-
 
 ## Scientific committee

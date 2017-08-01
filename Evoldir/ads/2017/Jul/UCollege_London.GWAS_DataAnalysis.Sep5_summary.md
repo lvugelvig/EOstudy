@@ -8,9 +8,12 @@
 
 ## Instructors
 
+David Balding   
+Doug Speed
 
 # Organisers
 
+Doug Speed
 
 ## Organizing committee
 
