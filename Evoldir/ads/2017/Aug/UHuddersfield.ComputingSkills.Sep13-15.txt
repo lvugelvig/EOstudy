@@ -1,0 +1,80 @@
+Next Generation Biologists: Essential Computing Skills for Molecular
+Biology is a BBSRC-STARs programme-funded project to introduce and train
+researchers in the essential skills and best practices in scientific
+computing and bioinformatics. The format of the materials and the
+nature of the delivery is based on the successful "Software Carpentry"
+(http://software-carpentry.org/) blended-learning model where students
+learn by developing skills through hands-on live coding and peer
+programming sessions led by experienced Software Carpentry instructors
+and supported by a small team of helpers. This is the second workshop
+in the series.
+
+AUDIENCE
+The workshop is aimed at researchers with little or no experience in
+programming and data analysis who nevertheless need these approaches in
+their research in the life sciences.
+
+ORGANISERS AND INSTRUCTORS
+The main organisers of the workshops are Dr Mary J. O'Connell
+(@Evol_Molly), Dr Martin Callaghan (both at the University of Leeds)
+and Dr Jarek Bryk (@jarekbryk at the University of Huddersfield). Drs
+Callaghan and Bryk are Software Carpentry Instructors. The project
+is a joint initiative of the University of Leeds and the University
+of Huddersfield.
+
+PRELIMINARY PROGRAMME
+Monday
+Introduction to the fundamentals of UNIX, command-line interface and shell.
+
+Tuesday
+Introduction to fundamentals of R with R Studio, including data
+and analysis reproducibility, concluded with example analysis of
+high-throughput data.
+
+Wednesday
+A "hackathon" day, during which participants will use skills learned
+in earlier days to solve a real-life data analysis problem of their
+choosing or a walk-through of an analysis of a real-life dataset using
+learned skills in shell and R.
+
+DATE
+The workshop will be run on the 13-15th September 2017 (Wednesday to
+Friday inclusive).
+
+VENUE
+The workshop will take place at the University of Huddersfield, UK.
+
+COSTS
+The workshop is free of charge for all BBSRC-funded researchers, as well
+as staff and students from the Universities of Leeds and Huddersfield. For
+all other participants a course fee of 170 will apply that will need
+to be paid before the workshop begins. Travel and accommodation costs
+are *not* covered by the organisers.
+
+HOW TO APPLY
+To apply for a place on the workshop, prepare a maximum one-page long
+curriculum vitae and a 200 word statement detailing why this course if
+of particular importance to your current research. Please combine the
+two *into a single pdf file* and send it to Dr Mary J. O'Connell
+at m.oconnell[at]leeds.ac.uk *by midnight 31st August 2017*.  The
+selection committee will notify successful applicants by the end of
+1st September. The workshop will be limited to 25 participants, who are
+expected to bring their own computers on the workshop.
+
+More details about the project and the workshop are available on our
+website at http://nextgenbiologists.org. We are also on Twitter at
+@nextgenbiol (the "l" is important :-).
+
+--
+  Jarek Bryk
+  School of Applied Sciences
+  University of Huddersfield
+  Queensgate, Huddersfield HD1 3DH
+  Office JP3/17 | Tel. +44 (0) 1484 47 2708
+  j.bryk@hud.ac.uk | @jarekbryk | bryklab.net | nextgenbiologists.org
+  orcid.org/0000-0002-2791-9709
+
+University of Huddersfield inspiring tomorrow's professionals.
+
+Jarek Bryk <J.Bryk@hud.ac.uk>
+

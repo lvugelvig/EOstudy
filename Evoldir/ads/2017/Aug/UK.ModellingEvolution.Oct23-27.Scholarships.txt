@@ -1,0 +1,276 @@
+PARTFUNDED SCHOLARHPS for the course "Structural Equation Modelling for 
+Ecologists and Evolutionary Biologists”
+
+PR STATISTICS ARE PLEASED TO ANNOUNCE THAT THROUGH THEIR FUNDING SCHEME 
+THEY CAN OFFER 5 PART-FUNDED SCHOLARSHIPS FOR OUR UP-COMING COURSE 
+"Structural Equation Modelling for Ecologists and Evolutionary 
+Biologists (SEMR01)”
+
+SCHOLARSHIPS CONTRIBUTE TOWARDS COURSE FEES WITH 5 PLACES AVAILABLE AT 
+£405.00 (Fees have been subsidised by 40% from £670.00).
+
+Applications should be sent to oliverhooker@prstatistics.com and contain
+the following.
+1.	Full name
+2.	Institute name
+3.	PhD subject title or Post doc research questions
+4.	Do you hold a funded position
+5.	150 words why this course would be relevant to your research or how 
+it would help.
+
+Application deadline is Tuesday 12th September 2017 and decisions will 
+be made by Thursday 14th September 2017
+
+We still have ‘normal’ places available for anyone else interested.
+
+Full course details are given below
+
+"Structural Equation Modelling for Ecologists and Evolutionary 
+Biologists”
+
+Delivered by Dr. Jarret Byrnes and Dr. Jon Lefcheck
+
+www.prstatistics.com/course/structural-equation-modelling-for-ecologists-and-evolutionary-biologists-semr01/
+
+This course will run from 23rd - 27th October 2017 at Margam Park 
+Discovery Centre, Wales, UK
+
+Course only and all inclusive packages are available.
+
+The course is a primer on structural equation modelling (SEM) and
+confirmatory path analysis, with an emphasis on practical skills and
+applications to real-world data.
+
+Structural Equation Modelling (SEM) is a rapidly growing technique in
+ecology and evolution that unites multiple hypotheses in a single causal
+network. It provides an intuitive graphical representation of 
+relationships
+among variables, underpinned by well-described mathematical estimation
+procedures. Several advances in SEM over the past few years have 
+expanded
+its utility for typical ecological datasets, which include count data,
+missing observations, and nested or hierarchical designs.
+We will cover the basic philosophy behind SEM, provide approachable
+mathematical explanations of the techniques, and cover recent extensions 
+to
+mixed effects models and non-normal distributions. Along the way, we 
+will
+work through many examples from the primary literature using the open-
+source statistical software R (www.r-project.org). We will draw on two
+popular R packages for conducting SEM, including lavaan and 
+piecewiseSEM.
+Participants are encouraged to bring their own data, as there will be
+opportunities throughout the course to plan, analyse, and receive 
+feedback
+on structural equation models.
+
+Course content is as follows
+
+Day 1
+Introduction to SEM
+Module 1: What is Structural Equation Modeling? Why would I use it?
+Module 2: Creating multivariate causal models
+Module 3: Fitting piecewise models
+Readings: Grace 2010 (overview), Whalen et al. 2013 (example)
+
+Day 2
+SEM Using Likelihood
+Module 4: Fitting Observed Variable models with covariance structures
+Module 5: What does it mean to evaluate a multivariate hypothesis?
+Module 6: Latent Variable models
+Module 7: ANCOVA revisited & Nonlinearities
+Readings: Grace & Bollen 2005, Shipley 2004
+Optional Reading: Pearl 2012, Pearl 2009 (causality)
+
+Day 3
+Piecewise SEM
+Module 8: Introduction to piecewise approach
+Module 9: Incorporation of random effects models
+Model 10: Autocorrelation
+Reading: Shipley 2009; Lefcheck 2016
+
+Day 4
+Advanced Topics with Likelihood and Piecewise SEM
+Module 11: Multigroup models and non-linearities
+Module 12: Composite Variables
+Module 13: Phylogenetically-correlated data
+Module 14: Prediction using SEM
+Module 15: How To Reject A Paper That Uses SEM
+Readings: Grace & Julia 1999, von Hardenberg & Gonzalez‐Voyer 2013
+
+Day 5
+Open Lab and Final Presentations
+
+Please email any inquiries to oliverhooker@prstatistics.com or visit our
+website www.prstatistics.com
+
+Please feel free to distribute this material anywhere you feel is 
+suitable
+
+Other up-coming courses are as follows
+
+1.	ECOLOGICAL NICHE MODELLING USING R #ENMR
+16th – 20th October 2017, Scotland, Dr. Neftali Sillero
+http://www.prstatistics.com/course/ecological-niche-modelling-using-r-enmr01/
+
+2.	REPRODUCIBLE DATA SCIENCE FOR POPULATION GENETICS
+23rd – 27th October, Wales, Dr. Thibaut Jombart, Zhian Kavar
+http://www.prstatistics.com/course/genetic-data-analysis-exploration-using-r-gdar03/
+
+3.	STRUCTURAL EQUATION MODELLING FOR ECOLOGISTS AND EVOLUTIONARY 
+BIOLOGISTS USING R #SEMR
+23rd – 27th October, Wales, Prof Jarrett Byrnes, Dr. Jon Lefcheck
+http://www.prstatistics.com/course/structural-equation-modelling-for-ecologists-and-evolutionary-biologists-semr01/
+
+4.	LANDSCAPE (POPULATION) GENETIC DATA ANALYSIS USING R #LNDG
+6th – 10th November, Wales, Prof. Rodney Dyer
+http://www.prstatistics.com/course/landscape-genetic-data-analysis-using-r-lndg02/
+
+5.	APPLIED BAYESIAN MODELLING FOR ECOLOGISTS AND EPIDEMIOLOGISTS #ABME
+20th - 25th November 2017, Scotland, Prof. Jason Matthiopoulos, Dr. Matt 
+Denwood
+http://www.prstatistics.com/course/applied-bayesian-modelling-ecologists-epidemiologists-abme03/
+
+6.	ADVANCING IN STATISTICAL MODELLING USING R #ADVR
+11th – 15th December 2017, Wales, Dr. Luc Bussiere, Dr. Tom Houslay, 
+Dr. Ane Timenes Laugen,
+http://www.prstatistics.com/course/advancing-statistical-modelling-using-r-advr07/
+
+7.	INTRODUCTION TO BAYESIAN HIERARCHICAL MODELLING #IBHM
+29th Jan – 2nd Feb 2018, Scotland, Dr. Andrew Parnell
+http://www.prstatistics.com/course/introduction-to-bayesian-hierarchical-modelling-using-r-ibhm02/
+
+8.	PHYLOGENETIC DATA ANALYSIS USING R (TBC) #PHYL
+28th Jan – Feb 2nd Dr. Emmanuel Paradis – Date and location to be 
+confirmed
+https://www.prstatistics.com/course/introduction-to-phylogenetic-analysis-with-r-phyg-phyl02/
+
+9.	ANIMAL MOVEMENT ECOLOGY (ACOUSTIC TELELEMTRY DATA ANALYSIS  (February 
+2018) #ANME
+19th – 23rd February 2018, Wales, Dr Luca Borger, Dr. John Fieberg
+
+01.	GEOMETRIC MORPHOMETRICS USING R #GMMR
+5th – 9th June 2017, Scotland, Prof. Dean Adams, Prof. Michael 
+Collyer, Dr. Antigoni Kaliontzopoulou
+http://www.prstatistics.com/course/geometric-morphometrics-using-r-gmmr01/
+
+11.	FUNCTIONAL ECOLOGY FROM ORGANISM TO ECOSYSTEM: THEORY AND 
+COMPUTATION #FEER
+5th – 9th March 2018, Scotland, Dr. Francesco de Bello, Dr. Lars 
+Götzenberger, Dr. Carlos Carmona
+http://www.prstatistics.com/course/functional-ecology-from-organism-to-ecosystem-theory-and-computation-feer01/
+
+12.	INTRODUCTION TO MARXAN FOR PLANNING MPA’S #MRXN
+12TH – 16TH March 2018, Wales, Jennifer McGowan
+https://www.prstatistics.com/course/introduction-to-marxan-mrxn01/
+
+13.	ECOLOGICAL NICHE MODELLING USING R #ENMR
+26th – 30th March 2018, Wales, Dr. Neftali Sillero
+http://www.prstatistics.com/course/ecological-niche-modelling-using-r-enmr02/
+
+14.	NETWORK ANAYLSIS FOR ECOLOGISTS USING R #NTWA
+9th – 13th April 2018, Scotland, Dr. Marco Scotti
+
+15.	MULTIVARIATE ANALYSIS OF ECOLOGICAL COMMUNITIES IN R WITH THE VEGAN 
+PACKAGE #VGNR
+23rd – 27th April 2018, Scotland, Prof. Peter Solymos, Dr Guillaume 
+Blnachet
+
+16.	ECOLOGICAL AND EVOLUTIONARY BIOGEOGRAPHY #EEBR
+30TH April – 4th May 2018, Scotland, Dan Warren, Matt Fitzpatrick
+
+17.	ADVANCES IN MULTIVARIATE ANALYSIS OF SPATIAL ECOLOGICAL DATA USING R 
+#MVSP
+14th – 18th May 20128, Canada, Prof. Pierre Legendre, Dr. Guillaume 
+Blanchet (TBC)
+
+18.	INTRODUCTIO9N TO MIXED MODELS FOR ECOLOGISTS USING R #IMMR
+28TH May – 1st June 2018, Canada, Subhash Lele
+
+19.	MODEL BASE MULTIVARIATE ANALYSIS OF ABUNDANCE DATA USING R #MBMV0
+8th – 12th July 2018, Scotland, Prof David Warton
+https://www.prstatistics.com/course/model-base-multivariate-analysis-of-abundance-data-using-r-mbmv02/
+
+20.	SPATIAL ANALYSIS OF ECOLOGICAL DATA USING R #SPAE
+Prof. Jason Matthiopoulos, Dr. James Grecian - Date and location to be 
+confirmed
+http://www.prstatistics.com/course/spatial-analysis-ecological-data-using-r-spae05/
+
+21.	STABLE ISOTOPE MIXING MODELS USING SIAR, SIBER AND MIXSIAR #SIMM
+Dr. Andrew Parnell, Dr. Andrew Jackson – Date and location to be 
+confirmed
+https://www.prstatistics.com/course/stable-isotope-mixing-models-using-r-simm03/#
+
+22.	MULTIVARIATE ANALYSIS OF SPATIAL ECOLOGICAL DATA #MASE
+Prof. Subhash Lele, Dr. Peter Solymos - Date and location to be 
+confirmed
+https://www.prstatistics.com/course/multivariate-analysis-of-spatial-ecological-data-using-r-mase01/
+
+23.	INTRODUCTION TO R AND STATISTICS FOR BIOLOGISTS #IRFB
+Dr. Luc Bussiere, Dr Ane Laugen - Date and location to be confirmed
+https://www.prstatistics.com/course/introduction-to-statistics-and-r-for-biologists-irfb/
+
+24.	TIME SERIES MODELS FOR ECOLOGISTS USING R #TSME
+Dr. Andrew Parnell – Date and location to be confirmed
+https://www.prstatistics.com/course/time-series-models-foe-ecologists-tsme01/
+
+25.	META-ANALYSIS IN ECOLOGY, EVOLUTION AND ENVIRONMENTAL SCIENCES 
+#METR01
+Prof. Julia Koricheva, Prof. Elena Kulinskaya - Date and location to be 
+confirmed
+https://www.prstatistics.com/course/meta-analysis-in-ecology-evolution-and-environmental-sciences-metr01/
+
+-----
+
+1.	INTRODUCTION TO BIOINFORMATICS USING LINUX #IBUL
+16th – 20th October, Scotland, Dr. Martin Jones
+http://www.prstatistics.com/course/introduction-to-bioinformatics-using-linux-ibul02/
+
+2.	INTRODUCTION TO PYTHON FOR BIOLOGISTS #IPYB
+27th Nov – 1st Dec, Wales, Dr. Martin Jones
+http://www.prinformatics.com/course/introduction-to-python-for-biologists-ipyb04/
+
+3.	INTRODUCTION REMOTE SENSING AND GIS APPLICATIONS FOR ECOLOGISTS #IRMS
+27th Nov – 1st Dec, Wales, Dr Duccio Rocchini, Dr. Luca Delucchi
+http://www.prstatistics.com/course/introduction-to-remote-sensing-and-gis-for-ecological-applications-irms01/
+
+4.	DATA VISUALISATION AND MANIPULATION USING PYTHON #DVMP
+11th – 15th December 2017, Wales, Dr. Martin Jones
+http://www.prinformatics.com/course/data-visualisation-and-manipulation-using-python-dvmp01/
+
+5.	EUKARYOTIC METABARCODING
+23rd – 27th July 2018, Scotland, Dr. Owen Wangensteen
+http://www.prinformatics.com/course/eukaryotic-metabarcoding-eukb01/
+
+6.	CODING, DATA MANAGEMENT AND SHINY APPLICATIONS USING RSTUDIO FOR 
+EVOLUTIONARY BIOLOGISTS AND ECOLOGISTS #CDSR
+Dr. Aline Quadros
+
+7.	BIOINFORMATICS FOR GENETICISTS AND BIOLOGISTS #BIGB
+Scotland, Dr. Nic Blouin, Dr. Ian Misner
+
+-- 
+Oliver Hooker PhD.
+PR statistics
+
+2017 publications -
+
+Ecosystem size predicts eco-morphological variability in post-glacial 
+diversification. Ecology and Evolution. In press.
+
+The physiological costs of prey switching reinforce foraging 
+specialization. Journal of animal ecology.
+
+prstatistics.com
+facebook.com/prstatistics/
+twitter.com/PRstatistics
+groups.google.com/d/forum/pr-statistics-post-course-forum
+prstatistics.com/organiser/oliver-hooker/
+
+3/1, 128 Brunswick Street
+Glasgow
+G1 1TF
+
++44 (0) 7966500340
+
+Oliver Hooker <oliverhooker@prstatistics.com>

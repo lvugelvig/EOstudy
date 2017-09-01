@@ -1,0 +1,52 @@
+Dear colleagues,
+
+Registration is open for the course AN INTRODUCTION TO METAGENOMICS AND
+METABARCODING.
+
+Dates: March 19-23, 2018.
+
+Place: Heraklion (Crete, Greece).
+
+Instructor: Dr. M. Lisandra Zepeda-Mendoza (Chr. Hansen - Bacterial
+Physiology & Improvement, Denmark).
+
+Metagenomics is the study of the collection of genomes in an
+environment. Environments as diverse as Antarctic lakes, hot springs,
+or the human gut can be biologically characterized by extracting and
+sequencing DNA from samples taken from them. A characteristic of many
+of these samples is their complexity, posing difficulties to their
+analysis and characterization. However, metagenomics allows the
+taxonomic and functional characterization of samples. These two kinds
+of characterizations also enable the comparison of different habitats
+for biodiversity assessment.
+
+In this course students will be introduced to the command line
+environment used to analyze high-throughput sequencing data (HTS). The
+initial cleaning steps that must be performed on every HTS dataset will
+be described and we will use the processed data for proper functional
+and taxonomical characterization of a metagenomic dataset. We will use
+methods such as mapping to whole genome databases, de novo assembly,
+gene annotation, building of non-redundant gene catalogue, and
+metagenomic species concept identification. Due to the wide usage
+of metabarcoding for the taxonomic characterization of an environment,
+we will also discuss amplicon sequencing strategies and data analysis.
+The course will be based on both theory and hands-on exercises.
+
+More information:
+http://www.transmittingscience.org/courses/genetics-and-genomics/introd
+uction-metagenomics-metabarcoding/ or writing to
+courses.crete@transmittingscience.org
+
+This course is organized by Transmitting Science.
+
+Best regards
+
+Sole
+
+Soledad De Esteban-Trivigno, PhD.
+Scientific Director
+Transmitting Science
+www.transmittingscience.org
+
+Soledad De Esteban-Trivigno <soledad.esteban@transmittingscience.org>
+

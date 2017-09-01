@@ -1,0 +1,70 @@
+We are pleased to announce that we are accepting applications
+for the 8th Annual Workshop on Genomics which is being
+held once again in beautiful Èeský Krumlov, Czech
+Republic (https://en.wikipedia.org/wiki/Èeský_Krumlov
+<https://en.wikipedia.org/wiki/%C4%8Cesk%C3%BD_Krumlov>) from 7-20
+January, 2018. More information is below and can be found on our website
+at http://evomics.org.
+
+An on-line application form can be found at:
+http://evomics.org/registration-form/apply-2018-workshop-on-genomics-cesky-krumlov/
+
+2018 Workshop on Genomics, Èeský Krumlov, Czech Republic
+
+Dates: 7-20 January, 2018
+
+Application Deadline: 15 September, 2017 is the preferred application
+deadline, after which time people will be admitted to the course
+following application review by the admissions committee. However,
+later applications will certainly be considered for admittance or for
+placement on a waiting list.
+
+Registration Fee: $1800 USD. Fee includes opening reception and
+access to all course material, but does not include other meals or
+housing. Special discounted pricing has been arranged for hotels,
+pensions and hostels. Information regarding housing and travel will be
+made to applicants following acceptance.
+
+APPLY HERE:
+http://evomics.org/registration-form/apply-2018-workshop-on-genomics-cesky-krumlov/
+
+Useful Links:
+Direct Link to the Full Workshop Schedule:
+http://evomics.org/workshops/workshop-on-genomics/2018-workshop-on-genomics-cesky-krumlov/
+General Workshop information: http://evomics.org Frequently Asked
+Questions (FAQ) about the Workshop and Èeský Krumlov can be found here:
+http://evomics.org/workshops/faq/
+
+Workshop Overview:
+The Workshop on Genomics consists of a series of lectures, demonstrations
+and computer laboratories that cover various aspects of genomics focusing
+primarily on the analysis of modern sequencing data. Faculty are chosen
+exclusively for their effectiveness in teaching theory and practice. The
+course is designed for established investigators, postdoctoral scholars,
+and advanced graduate students. Scientists with strong interests in
+the uses of modern sequence data, analytical methods, and the use of
+modern sequence data to study non-model organisms, variant detection and
+analysis, genome visualization tools and related areas are encouraged
+to apply for admission. Lectures and computer laboratories total ~90
+hours of scheduled instruction. No programming experience is required.
+
+Topics to be covered include:
+- Sequencing technologies
+- Genomics study design
+- Manipulation of sequence data using the command-line
+- Sequence data quality assessment and control
+- Analyzing genomic data in the "cloud"
+- Assembly and alignment: basic analyses used for de novo and re-
+  sequencing studies
+- The use of modern sequence data to study non-model organisms
+- RNA-seq (using model and non-model organisms)
+- RAD (Restriction site Associated DNA) sequence analysis
+- Microbiome sequencing analysis
+- Evolutionary genomics
+- More!
+
+For more information and online application see the Workshop web site -
+http://evomics.org
+
+Scott Handley <handley.scott@gmail.com>
+

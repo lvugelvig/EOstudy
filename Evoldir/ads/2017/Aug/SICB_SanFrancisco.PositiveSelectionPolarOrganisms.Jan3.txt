@@ -1,0 +1,79 @@
+SICB_SanFrancisco Workshop PositiveSelectionPolarOrganisms Jan3rd
+
+Workshop Announcement: Best practices for using NGS-based datasets to
+determine statistically robust evidence of positive selection and
+convergent evolution of polar organisms.
+
+ We will conduct a NSF-funded workshop using cross-disciplinary
+approaches for determining genetic adaptations in polar organisms using
+Next Generation Sequencing-based datasets. In particular, this workshop
+will focus on the following:
+
+ 1) Establish collaborative research groups to test for genes under
+positive selection from diverse polar organisms using genomic and
+transcriptomic datasets.
+
+ 2) Evaluate current analytical methods for determining positively
+selected genes and their statistical significance.
+
+ 3) Explore current and novel methodologies for detecting genetic
+modifications acquired through convergent evolution in response to
+similar environmental conditions.
+
+ 4) Review lab-based protocols for demonstrating the potential
+functions of candidate genes. Specifically, we will focus on techniques
+amenable to frozen or otherwise preserved samples that can be
+accomplished at the home institutional laboratory.
+
+ We will conduct a full-day meeting (9am-5pm) before the start of the
+next two conference meetings of the Society for Integrative and
+Comparative Biology (San Francisco, CA and Tampa, FL, January 3rd, 2018
+and 2019, respectively) with collaborative work among the research
+groups during the interim period. The requested funds will be used to
+reimburse the costs of travel to each meeting (up to $300/meeting),
+SICB meeting registration, and one night of lodging (up to
+$200/meeting), for all workshop participants per meeting. Workshop
+participants will contribute to a final report summarizing our findings
+that will be available through the iDigBio website. We will also
+publish a multi-authored paper based on the relative contributions of
+participants towards data acquisition, NGS-based analyses, and the
+review of lab-based protocols.
+
+ Prospective participants should have documented research backgrounds
+in ONE or more of the following categories: 1) NGS-based studies of
+polar organisms, 2) Methodologies for determining genes under positive
+selection or showing evidence of convergent evolution (PAML, HyPHy,
+Phytools, etc.), 3) Phylogenomics of polar organisms, and 4)
+Physiological adaptations of polar organisms.
+
+ To apply please email scott.santagata@liu.edu (due date:09/06/17) with
+one attached PDF document containing: A) Current CV and B) One-page
+description detailing your experience in the research backgrounds
+listed above, and how this workshop fits into your overall career
+goals. Graduate students, post-doctoral researchers, and early career
+investigators from underrepresented groups are encouraged to apply.
+Applications may be accepted after the due date depending on the number
+of applicants and amount of available funds. The preliminary list of
+agreed participants currently includes investigators, post-doctoral
+researchers, and graduate students from Auburn University, California
+State University-Long Beach, Central Michigan University, Long Island
+University-Post, University of Alabama-Tuscaloosa, University of
+California-Santa Barbara, University of Florida, and the University of
+Hawaii.
+
+Scott Santagata, Associate Professor
+Department of Biology
+Life Sciences Building, Room 261
+Long Island University-Post Campus
+720 Northern Blvd.
+Greenvale, NY 11548-1300
+Phone:516-299-3029
+Email:scott.santagata@liu.edu
+LIU
+Website: http://www.liu.edu/CWPost/Academics/Faculty/Faculty/S/Scott-Sa
+ntagata
+Labpage: http://sites.google.com/site/scottsantagata/
+Researchgate: https://www.researchgate.net/profile/Scott_Santagata
+
+Scott Santagata <scott.santagata@liu.edu>
+

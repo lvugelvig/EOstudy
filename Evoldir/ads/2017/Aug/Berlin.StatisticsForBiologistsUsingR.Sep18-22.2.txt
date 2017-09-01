@@ -1,0 +1,60 @@
+Dear all,
+
+we have the last few spots available for the course
+"STATISTICS FOR BIOLOGISTS USING R" in Berlin (Germany):
+https://www.physalia-courses.org/courses-workshops/course13/
+
+Dates: 18-22 September 2017
+
+Instructor: Dr. Ken Aho. Dr. Aho is an associate professor at Idaho
+State University (USA) and author of the book "Foundational and Applied
+Statistics for Biologists Using R."
+
+Registration deadline: August 18th , 2017. Attendees are seated on a
+first-come, first-served basis.
+
+Course overview: This course will demonstrate the extensive capabilities
+of the R environment, and seek to develop/broaden the competency of
+participants in the use of R statistical applications.  The course will
+have two components presented in morning and afternoon sessions over
+five days.  Component one (Monday Sept. 18, Tuesday Sept. 19)  will
+emphasize R programming characteristics including data management,
+use of existing package functions, graphics, customized function
+writing, calling routines from compiled languages, and documentation.
+The second component (Wednesday Sept. 20 - Friday Sept. 22) will address
+implementation of statistical analyses with R, particularly linear models.
+The materials will be presented using biological examples, making frequent
+use of the library asbio (Applied Statistics and Statistical Pedagogy
+for Biologists).
+
+Intended audience: This course is aimed at scientists, particularly
+biologists.  While no previous experience with R is required, participants
+should have at least a basic familiarity with statistical terms and
+concepts.
+
+Course programme:
+https://www.physalia-courses.org/courses-workshops/course13/curriculum-13/
+
+Registration:
+https://www.physalia-courses.org/courses-workshops/course13/curriculum-13/
+
+Full list of our courses and Workshops:
+https://www.physalia-courses.org/courses-workshops/
+
+Best regards,
+
+Carlo
+
+--
+
+Carlo Pecoraro, Ph.D
+
+Physalia-courses Coordinator
+info@physalia-courses.org
+http://www.physalia-courses.org/
+Twitter: @physacourses
+mobile: +49 15771084054
+https://groups.google.com/forum/#!forum/physalia-courses
+
+Carlo Pecoraro <info@physalia-courses.org>
+
