@@ -5,7 +5,15 @@
 
 ## Invited speakers
 
+Gayle Burgess
+Shannon Randolph
+Hollie Booth
+Penthai Siriwat
+Anastasiya (Nastya) Timoshyna
+Lixin Huang
 
+Joss Wright
+Michael ‘t Sas-Rolfes
 ## Instructors
 
 

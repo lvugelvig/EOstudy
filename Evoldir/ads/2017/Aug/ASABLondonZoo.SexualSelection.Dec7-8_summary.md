@@ -5,6 +5,10 @@
 
 ## Invited speakers
 
+Suzanne Alonzo
+David Hosken
+Hope Klug
+Christine Nicol
 
 ## Instructors
 
@@ -14,5 +18,7 @@
 
 ## Organizing committee
 
+Nina Wedell
+David Shuker
 
 ## Scientific committee
