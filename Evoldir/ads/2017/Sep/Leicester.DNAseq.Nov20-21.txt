@@ -1,0 +1,50 @@
+BBASH at University of Leicester is pleased to announce that applications
+for the upcoming training Next Generation Sequencing Introduction to
+DNA-seq workshop are now open.
+
+Deadline for applications: 3rd November 2017
+
+Notification of acceptance: 6th November 2017
+
+Course dates: 20th-21st November 2017
+
+Venue: University of Leicester - College Court Conference Centre,
+Leicester, UK (http://collegecourt.co.uk/)
+
+Instructors:
+
+Chiara Batini (University of Leicester, UK)
+
+Matthew Blades (BBASH, University of Leicester, UK)
+
+Benjamin Hunt (University of Leicester, UK)
+
+Course description
+
+This workshop serves as a standalone introduction to DNA-seq as well as
+the first of a two-part course in conjunction with our Exome Variants,
+Copy Number Calling, Variant Annotation and Reporting Workshop in
+December. The course will be delivered using a mixture of lectures and
+computer based hands on practical sessions using real data.
+
+This course is aimed at clinicians and wet-lab biologists who are
+involved in research projects that will require the handling and
+analysis of DNA-seq data. A significant proportion of the course will
+be computer-based using command line tools in the Unix environment and
+applicants will find it useful to have a grasp of basic skills such as
+file navigation and management, though an introduction to the command
+line interface will be provided.
+
+For additional information:
+https://www2.le.ac.uk/colleges/medbiopsych/facilities-and-services/cbs/bbash/training/workshop-webpages/dna-seq-ngs-nov2017
+
+The Organisers
+
+Chiara Batini (University of Leicester, UK)
+
+Matthew Blades (BBASH, University of Leicester, UK)
+
+Benjamin Hunt (University of Leicester, UK)
+
+"bh177@leicester.ac.uk" <bh177@leicester.ac.uk>
+

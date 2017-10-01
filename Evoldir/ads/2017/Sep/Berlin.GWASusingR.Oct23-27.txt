@@ -1,0 +1,155 @@
+Practical GWAS Using Linux and R
+
+23-27 October 2017, Berlin (Germany)
+
+https://www.physalia-courses.org/courses/course15/
+
+   Registration deadline: September 22nd , 2017.
+
+
+INSTRUCTOR
+
+Dr Jing Hua Zhao (https://www.physalia-courses.org/instructors/t20/)
+
+Trained in medicine, medical statistics and statistical genetics, he
+had worked on statistical and computational methods for epidemiological
+and public health studies at several institutions until 2005, when he
+joined the MRC Epidemiology Unit, University of Cambridge, to work on
+design and analysis of GWAS such as the EPIC-Norfolk, the Fenland and
+the InterAct. He has also participated in numerous genetic analysis
+workshops which involve both simulated and real data such as those from
+the Framingham heart study. Besides methodological development, data
+analysis, and other academic activities, he has also had tutorials on
+genetic dissection of complex traits with focus on GWAS at UseR! 2008,
+2009, and 2010 Conferences and contributed a Henry-Stewart talk on
+genetic association with R.
+
+ Overview
+
+The past decade has witnessed an astonishing development and the universal
+use of genome wide association studies (GWAS) in identification and
+characterisation of genetic variants underlying disorders and other
+variations in human and other species, which has an immense impact
+in biomedical research. This is owing to the ability to efficiently
+generate and process large quantity of genetic polymorphisms as well as to
+integrate with other sources such as gene expression and methylation. To
+tackle challenges in GWAS, a lot of methods and techniques have been
+established but many others are still evolving. The workshop therefore
+intends to give a grand picture as well as practical aspects of GWAS.
+
+Targeted audience and assumed background
+
+The purpose of this workshop is to render both a broad picture and
+computational details of GWAS to biomedical researchers and related
+fields. It sets to explore the biological, statistical, and computational
+concepts, methodologies and practices involving a variety of software
+based on Linux and R. Examples of consortium contributions will also
+be given. These will be particularly beneficial to those who come with
+their own problems and wish to implement the analysis.
+
+Structure
+
+The workshop contains both lecture and computer sessions, designed
+to help participants to understand the background, methodology and
+implementation. The computer session is designed to facilitate data
+analysis and interpretation.
+
+Session content
+
+ Monday 23rd - Classes from 09:30 to 17:30
+
+ Module 1 -Overview
+
+The purpose of this module is provide a grand view of genetic dissection
+of complex traits as well as the technological development which lead
+to GWAS. It will also set stage for later parts of the workshop.
+
+* Introduction - background, purpose
+* The roadmap to GWAS
+* Background, study designs, implementations
+* GWAS catalog http://www.ebi.ac.uk/gwas/
+* Workshop outlines
+
+Tuesday 24th - Classes from 09:30 to 17:30
+
+Module 2 -  Elements of genetic association
+
+The purpose of this module is to get into the basic considerations of
+the genetic association studies. At end of the module, you will be able
+to conduct the relevant analyses.
+
+* Chromosomes, DNA, QC, alleles, genotypes, HWE, mode of inheritance,
+  haplotypes and linkage disequilibrium, GxG and GxE interactions
+* Phenotype: QC, transformation
+* Study designs: case-control, case-cohort, family
+* Association models: linear, logistic, Cox regression models; R^2,
+  AUC, Cstat
+* Meta-analysis: fixed and random effects models
+* Missing data models
+* Population stratification and genomic controls
+
+Wednesday 25th - Classes from 09:30 to 17:30
+
+ Module 3  -GWAS
+
+This module focuses on main analyses for GWAS.
+
+* gene chips, HapMap, 1000 genomes project
+* QC-HWE, call rates, MAF
+* Genotype imputation, imputation quality
+* Multiple testing, FDR, q-value
+* Discovery, replication studies
+* Report of results and GSEA
+* Prediction
+
+Thursday 26th - Classes from 09:30 to 17:30
+
+ Module 4-Advanced topics
+
+This module covers several areas of GWAS in more details.
+
+* Rare variants
+* Longitudinal data
+* Polygenic modelling
+* Bayesian methods
+* Marchine learning
+
+ Friday 27th - Classes from 09:30 to 17:30
+
+Module 5 - Additional topics
+
+The module will look further into several other areas of research in GWAS.
+
+* Conditional/joint analysis
+* Mendelian randomization
+* Microarray, methylation, TWAS
+
+Available packages:
+
+1) Course-only: includes course material and refreshments (430 euros;
+   VAT incl.)
+
+2) All-inclusive: includes course material, refreshments, meals
+   (breakfast, lunch and dinner), accommodation (695 euros; VAT incl.)
+
+The full list of our courses and Workshops:
+https://www.physalia-courses.org/courses-workshops/
+
+--
+
+Carlo Pecoraro, Ph.D
+
+Physalia-courses Coordinator
+
+info@physalia-courses.org
+
+http://www.physalia-courses.org/
+
+Twitter: @physacourses
+
+mobile: +49 15771084054
+
+https://groups.google.com/forum/#!forum/physalia-courses
+
+Carlo Pecoraro <info@physalia-courses.org>
+

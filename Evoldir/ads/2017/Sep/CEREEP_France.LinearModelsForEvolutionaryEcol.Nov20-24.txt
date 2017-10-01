@@ -1,0 +1,23 @@
+Announcement course "Generalized Linear Models for Evolutionary 
+Ecologists" 20-24/11/2017, CEREEP Ecotron IledeFrance.
+
+The staple of data in evolutionary ecology consist of counts, 
+proportions and durations. This course will enable participants to 
+represent and analyse their own data using GLM and mixed models (GLMM) 
+developed for the analysis of such data.
+
+The course is organized by team VPA (Phenotypic Variability and 
+Adaptation) from iEES Paris, the Institute of Ecology and Environmental 
+Sciences and hosted by CEREEP in Nemours. Instructors will be Tom Van 
+Dooren, Thomas Tully, Andrés López-Sepulcre, David Rozen-Rechels and 
+Mathieu Bruneaux (JyU Finland).
+
+Registration: Via https://glm2017vpa.sciencesconf.org/, before November, 
+1, 2017. The cost of the course will be around 400 euro, with the exact 
+amount depending on the total number of participants. It includes 
+on-site lodging, meals and lecture material. Please consult the website 
+or contact tvdooren@gmail.com for further 
+information.
+
+tvdooren@gmail.com
+

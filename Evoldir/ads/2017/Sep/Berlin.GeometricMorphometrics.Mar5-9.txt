@@ -1,0 +1,144 @@
+Course: Geometric Morphometrics
+
+5-9 March 2018, Berlin
+(Germany):https://www.physalia-courses.org/courses-workshops/course22/
+
+Instructor:
+
+Dr. Carmelo Fruciano (Queensland University of Technology (Brisbane,
+Australia))
+
+https://www.physalia-courses.org/instructors/t11/
+
+Topic
+
+Introductory and intermediate Geometric Morphometrics.
+
+Overview
+
+Geometric Morphometrics has become a standard in biological research
+because it combines statistical rigour and ease of interpretation. Through
+geometric morphometrics, biological form is quantified, analysed and the
+results are expressed as easily interpretable and visually impactful
+shape changes. This course covers the main common practices of modern
+geometric morphometrics, including: acquiring data, analysing it,
+visualizing and interpreting the results.
+
+Course Format
+
+The course will be delivered over five days and will comprise both
+lectures and hands-on sessions. The lectures will cover both basic
+theoretical aspects and their practical implementation in research
+practice and software. During the hands-on sessions, the attendees will
+have the chance of both using example datasets and applying the knowledge
+acquired to their own data. The course will be focused mainly on 2D data
+and on easy-to-use software with graphical user interface to maximize the
+ability to understand concepts and apply them. However, some information
+on 3D data and on R implementations will be provided, as appropriate.
+
+Who Should Attend
+
+This course is aimed at beginners and intermediate users. In other words,
+it is aimed at researchers who intend to use geometric morphometrics
+or who have started performing geometric morphometric analyses but feel
+they need a more structured background.
+
+Requirements
+
+Attendees should have a background in biology and a basic understanding
+of statistical concepts.
+
+Session content
+
+Monday 5th - Classes from 09:30 to 17:30 
+
+Geometric morphometrics: overview and potential applications:
+
+*  Traditional and geometric morphometrics
+* An overview of common analyses
+* Examples of geometric morphometrics applied to biological problems
+
+>From biological objects to numerical representation:
+
+*  Overview of typical devices used to digitalise biological objects
+* Landmarks, semilandmarks, outlines and surfaces - different types of
+  geometric morphometric data
+* Most commonly used geometric morphometric software
+* Data quality, most common pitfalls in study design and data
+  acquisition
+
+Tuesday 6th - Classes from 09:30 to 17:30
+
+Generalized Procrustes analysis (GPA) - the core of most geometric
+morphometrics:
+
+  Principal component analysis (PCA)
+
+Comparing groups:
+
+* Between-group PCA
+* Canonical variate analysis (CVA)
+* Tests of difference in means
+
+Wednesday 7th - Classes from 09:30 to 17:30
+
+ Co-variation between size and shape:
+
+* Allometry, regression and general linear models
+
+Co-variation between shapes:
+
+* Partial least squares analysis (PLS)
+* Modularity and integration
+
+Thursday 8th - Classes from 09:30 to 17:30 
+
+Combining analyses in a basic workflow:
+
+* Preliminary assessment of data quality
+* Typical basic workflow
+
+Expanding the basic workflow: variation in geographic space
+
+Expanding the basic workflow: association between shape and environmental
+variables
+
+ Friday 9th - Classes from 09:30 to 17:30
+
+Expanding the basic workflow: elements of phylogenetic comparative
+analyses
+
+Review and open discussion
+
+Presentation of attendees' analyses on their own data
+
+Packages available:
+
+ 1)    Course-only (430 euros VAT incl.) includes all course materials
+       and coffee breaks;
+
+2)      All-inclusive (695 euros VAT incl.) includes all course
+        materials, coffee breaks, accommodation and meals (breakfast,
+        lunch and dinner).
+
+The full list of our courses and Workshops:
+https://www.physalia-courses.org/courses-workshops/
+
+--
+
+Carlo Pecoraro, Ph.D
+
+Physalia-courses DIRECTOR
+
+info@physalia-courses.org
+
+http://www.physalia-courses.org/
+
+Twitter: @physacourses
+
+mobile: +49 15771084054
+
+https://groups.google.com/forum/#!forum/physalia-courses
+
+Carlo Pecoraro <info@physalia-courses.org>
+

@@ -1,0 +1,171 @@
+Course: "Landscape Genomics"
+https://www.physalia-courses.org/courses-workshops/course17/
+
+6-10 November, Berlin (Germany)
+
+Application deadline is: October 6th, 2017.
+
+https://www.physalia-courses.org/courses-workshops/course17/
+
+Instructors:
+
+1) Dr. St¨¦phane Joost ( Laboratory of Geographic Information System
+   (LASIG), Swiss Federal Institute of Technology of Lausanne (EPFL)).
+   Dr. Joost is specialized in the contribution of Geographic
+   Information Science for the conservation of plant and animal genetic
+   resources. He applies spatial statistics and geocomputation methods
+   to conservation genetics and landscape genomics (https://www.physalia-
+   courses.org/instructors/t13/) 
+
+2) Oliver Salmoni, MSc (Laboratory of Geographic Information System
+   (LASIG), Swiss Federal Institute of Technology of Lausanne (EPFL)).
+   https://www.physalia-courses.org/instructors/t24/
+
+Course Overview:
+
+Landscape genomics is an emerging research field that studies how genetic
+diversity distributes across space and how environmental features can
+modify this structure through local adaptation. In this workshop, students
+will learn the basics of this approach and train using state of the art
+methods. The course will provide an overview of the type of dataset that
+can be used for a landscape genomics analysis. Firstly, students will
+learn how to obtain environmental data from publicly available databases,
+how to process it with Geographic Information Systems (GIS) and how to use
+the latter to produce indicators able to describe the characteristics of
+the landscape. Next, the course will discuss the different approaches to
+obtain genetic data and subsequently show how to study genetic variation
+and population structure across space in the R environment. Students will
+be given an overview of the different statistical approaches to study
+local adaptation, and will be trained in using two of them, Sambada and
+LFMM. The course will also cover the critical task of the interpretation
+and validation of the results. Finally, the workshop will consider the
+crucial aspects and good habits to account for when planning a landscape
+genomics experiment (e.g. sampling design).
+
+Targeted Audience & Assumed Background:
+
+This workshop is aimed at all biologists, ecologists, geneticists,
+veterinarians that want to implement the landscape genomics approach in
+their own studies of evolutionary biology and conservation. Even though
+the course is not intended for a specialized audience, basic knowledge in
+evolutionary biology and population genetics would help. Students will
+learn how to use GIS, but basic computer skills are desirable (e.g. in
+the R environment). A basic understanding of statistics is also necessary.
+
+Teaching Format:
+
+The course is organized in ten learning sessions. During the first two
+sessions, the course will provide a contextualization of the research
+field. Then, students will be guided through a landscape genomics
+experiment with sessions that couple brief theoretical introductions
+with practical work.
+
+Session content:
+
+Monday 6th ¨C Classes from 09:30 to 17:30
+
+Session 1-Introduction
+
+-          Overview of the course program
+
+-          Introduction on Landscape Genomics
+
+-          Examples
+
+Session 2 - Dataset
+
+-          The environmental data
+
+-          The genetic data
+
+Tuesday 7th ¨C Classes from 09:30 to 17:30
+
+Session 3-Environmental Data 1
+
+-          GIS basics
+
+-          Main environmental databases
+
+-          Derived environmental variables
+
+Session 4- Environmental Data 2
+
+-          Environmental characterization of the samples
+
+-          Point versus surface
+
+-          Analysis of environmental diversity of samples
+
+Wednesday 8th ¨C Classes from 09:30 to 17:30
+
+Session 5- Genetic Data 1
+
+-          Sequencing strategies
+
+-          Data filtering
+
+Session 6- Genetic Data 2
+
+-          Spatial genetic variation
+
+-          Population structure
+
+Thursday 9th ¨C Classes from 09:30 to 17:30
+
+Session 7-Statistical Analysis
+
+-          Overview of statistical methods (univariate, multivariate,
+      w/wo population structure)
+
+-          sam¦Âada: logistic regression
+
+Session 8-Interpreting Results
+
+-          Spatial autocorrleation
+
+-          Process sam¦Âada output in R
+
+-          Validation of results
+
+Friday 10th ¨C Classes from 09:30 to 17:30
+
+Session 9- Planning a Landscape Genomics Experiment
+
+-          Scale and Resolution
+
+-          Sampling Design
+
+Session 10-Conclusion
+
+-          Take home messages
+
+-          Question time
+
+Available packages:
+
+1) Course-only: includes course materials and refreshments (480 euros;
+   VAT incl.)
+
+2) All-inclusive: includes course materials, refreshments, meals
+   (breakfast, lunch and dinner), accommodation (745 euros; VAT incl.)
+
+The full list of our courses and Workshops:
+https://www.physalia-courses.org/courses-workshops/
+
+--
+
+Carlo Pecoraro, Ph.D
+
+Physalia-courses Coordinator
+
+info@physalia-courses.org
+
+http://www.physalia-courses.org/
+
+Twitter: @physacourses
+
+mobile: +49 15771084054
+
+https://groups.google.com/forum/#!forum/physalia-courses
+
+Carlo Pecoraro <info@physalia-courses.org>

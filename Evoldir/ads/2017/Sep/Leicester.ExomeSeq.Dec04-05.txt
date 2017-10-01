@@ -1,0 +1,61 @@
+BBASH at University of Leicester is pleased to announce that applications
+for the upcoming training Exome Variants, Copy Number Calling, Variant
+Annotation and Reporting Workshop are now open.
+
+Deadline for applications: 3rd November 2017
+
+Notification of acceptance: 6th November 2017
+
+Course dates: 4th-5th December 2017
+
+Venue: University of Leicester - College Court Conference Centre,
+Leicester, UK (http://collegecourt.co.uk/)
+
+Instructors:
+
+Matthew Blades (BBASH, University of Leicester, UK)
+
+Rob Hastings (University of Leicester, UK)
+
+Peter Causey-Freeman (University of Leicester, UK)
+
+Course description
+
+This workshop is the second in a two-part course in conjunction with our
+Introduction to DNA-seq workshop in November. While attendance at the
+November workshop is not a pre-requisite, this workshop will requires
+experience with the topics covered therein (see link below). The course
+provides an introduction to calling variants and copy number alterations
+from exome sequencing data alignments, variant annotation, variant effect
+prediction and reporting recommendations. The course will be delivered
+using a mixture of lectures and computer based hands on practical sessions
+using real data.
+
+This course is aimed at clinicians and wet-lab biologists who are involved
+in research projects that will require the handling and analysis of
+DNA-seq, exome data and sequence variation. A significant proportion of
+the course will be computer-based using command line tools in the Unix
+environment and applicants will require a grasp of basic skills such as
+file navigation and management.
+
+For additional information: <https://www2.le.ac.uk/colleges/medbiopsych/facilities-and-
+services/cbs/bbash/training/workshop-webpages/dna-seq-ngs-nov2017>
+
+For information on our Introduction to DNA-Seq November workshop see:
+https://www2.le.ac.uk/colleges/medbiopsych/facilities-and-
+services/cbs/bbash/training/workshop-webpages/dna-seq-ngs-nov2017
+
+The Organisers
+
+Chiara Batini (University of Leicester, UK)
+
+Matthew Blades (BBASH, University of Leicester, UK)
+
+Benjamin Hunt (University of Leicester, UK)
+
+Rob Hastings (University of Leicester, UK)
+
+Peter Causey-Freeman (University of Leicester, UK)
+
+"Hunt, Benjamin" <bh177@leicester.ac.uk>
+
