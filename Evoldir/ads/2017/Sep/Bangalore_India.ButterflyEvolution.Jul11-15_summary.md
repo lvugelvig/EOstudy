@@ -13,6 +13,7 @@
 
 
 ## Organizing committee
-
+Krushnamegh Kunte (M)
+Ullasa Kodandaramaiah (M)
 
 ## Scientific committee
